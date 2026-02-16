@@ -4,6 +4,7 @@ import hashlib
 import json
 from datetime import datetime
 import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # تلگرام
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
@@ -14,7 +15,7 @@ HEADERS = {
     "Accept": "*/*"
 }
 
-# منابع اصلی و اضافی برای جمع‌آوری کانال
+# منابع M3U
 SOURCES = [
     "https://iptv-org.github.io/iptv/languages/fas.m3u",
     "https://iptv-org.github.io/iptv/languages/kur.m3u",
@@ -29,7 +30,7 @@ SOURCES = [
 OUTPUT_FILE = "premium_list.m3u"
 OUTPUT_JSON = "channels.json"
 
-# دسته‌بندی و فیلتر کلیدواژه
+# دسته‌بندی کانال‌ها
 def categorize(extinf):
     name = extinf.lower()
     if "radio" in name:
@@ -48,10 +49,10 @@ def categorize(extinf):
         return "Movies"
     return "General"
 
-# بررسی لینک فعال
-def is_working(url):
+# بررسی لینک فعال (موازی و سریع)
+def is_working_parallel(url):
     try:
-        r = requests.head(url, timeout=5, allow_redirects=True)
+        r = requests.head(url, timeout=2, allow_redirects=True)
         return r.status_code == 200
     except:
         return False
@@ -85,23 +86,36 @@ def build_playlist():
             content = download(source)
             channels = parse_m3u(content)
 
-            for extinf, link in channels:
-                if link in unique_links or not is_working(link):
-                    continue
+            # آماده کردن لینک‌ها برای بررسی موازی
+            link_map = {link: extinf for extinf, link in channels}
 
-                group = categorize(extinf)
-                if group is None:
-                    continue
+            with ThreadPoolExecutor(max_workers=20) as executor:
+                futures = {executor.submit(is_working_parallel, link): link for link in link_map}
 
-                # دسته‌بندی در extinf
-                if 'group-title="' in extinf:
-                    parts = extinf.split('group-title=')
-                    extinf = parts[0] + f'group-title="{group}",' + parts[1].split(",",1)[1]
-                else:
-                    extinf = extinf.replace("#EXTINF:-1", f'#EXTINF:-1 group-title="{group}"')
+                for future in as_completed(futures):
+                    link = futures[future]
+                    try:
+                        working = future.result()
+                    except:
+                        working = False
 
-                unique_links.add(link)
-                final_channels.append((extinf, link))
+                    if not working or link in unique_links:
+                        continue
+
+                    extinf = link_map[link]
+                    group = categorize(extinf)
+                    if group is None:
+                        continue
+
+                    # اضافه کردن group-title
+                    if 'group-title="' in extinf:
+                        parts = extinf.split('group-title=')
+                        extinf = parts[0] + f'group-title="{group}",' + parts[1].split(",",1)[1]
+                    else:
+                        extinf = extinf.replace("#EXTINF:-1", f'#EXTINF:-1 group-title="{group}"')
+
+                    unique_links.add(link)
+                    final_channels.append((extinf, link))
 
         except Exception as e:
             print(f"Source error: {source} → {e}")
