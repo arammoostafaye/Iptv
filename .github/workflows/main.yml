@@ -1,8 +1,9 @@
 name: IPTV Auto Update
+
 on:
   schedule:
-    - cron: '0 */6 * * *' # اجرای خودکار هر ۶ ساعت
-  workflow_dispatch:      # دکمه اجرای دستی
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -10,28 +11,26 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      - name: Install Libraries
-        run: pip install requests
+      - run: pip install requests
 
-      - name: Run Script
+      - name: Run IPTV Script
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python update_iptv.py
 
-      - name: Save & Push Changes
+      - name: Commit & Push
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
           git add premium_list.m3u
-          # اگر تغییری نبود، خطا نده و خارج شو
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Playlist" && git push)
+          git commit -m "Auto IPTV Update" || echo "No changes"
+          git push
