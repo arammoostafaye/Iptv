@@ -23,33 +23,47 @@ SOURCES = [
     "https://iptv-org.github.io/iptv/countries/iq.m3u",
     "https://iptv-org.github.io/iptv/categories/news.m3u",
     "https://iptv-org.github.io/iptv/categories/music.m3u",
-    "https://iptv-org.github.io/iptv/categories/movies.m3u",
-    "https://iptv-org.github.io/iptv/categories/general.m3u"
+    "https://iptv-org.github.io/iptv/categories/movies.m3u"
 ]
 
 OUTPUT_FILE = "premium_list.m3u"
 OUTPUT_JSON = "channels.json"
 
-# دسته‌بندی کانال‌ها
-def categorize(extinf):
-    name = extinf.lower()
-    if "radio" in name:
-        return None
-    if any(k in name for k in ["kurd", "rudaw", "k24", "waartv", "ava"]):
-        return "Kurdish"
-    if any(k in name for k in ["iran", "tehran", "fars", "shiraz", "mashhad"]):
-        return "Iran"
-    if any(k in name for k in ["iraq", "baghdad"]):
-        return "Iraq"
-    if any(k in name for k in ["news"]):
-        return "News"
-    if any(k in name for k in ["music"]):
-        return "Music"
-    if any(k in name for k in ["movie", "film", "cinema"]):
-        return "Movies"
-    return "General"
+# لیست هدف: فارسی و کوردی
+TARGET_CHANNELS = [
+    # کوردی
+    "Arian TV", "NRT", "Parto", "Roj TV", "TRT Kurdî", "Tishk TV", "Rudaw", "Ronahi TV",
+    "Zaro", "Zarok TV", "Jin TV", "Atrak", "Ilam TV", "Zagros TV", "Sahar Kurdish",
+    "Kordestan TV", "Mahabad TV", "Kurdistan TV", "Kurdistan 24", "Kurd Channel", "Komala",
+    "Med TV", "Newroz TV", "Kurdsat", "Gali Kurdistan", "Kirkuk TV", "Badinansat",
+    "Kurdmax", "Cira TV", "Freedom TV", "Med Muzik", "Sterk TV", "KNN", "Waar", "Payam TV",
+    "Speda TV", "Ava TV", "Bangawaz", "Helhelok TV", "VIN TV", "Xendan", "Rojava TV",
+    "NET TV", "Korek TV", "Kanal 4", "Duhok TV", "Qellat", "GEM KURD", "Salahaddin TV",
+    "Babylon",
+    # فارسی
+    "BBC Persian", "Iran International", "VOA Persian", "Manoto", "GEM TV", "GEM Series",
+    "GEM Classic", "GEM Junior", "Persiana", "Persiana Sports", "MBC Persia", "AVA Family",
+    "AVA Series", "AVA Music", "Show TV", "Cheshmandaz", "Taposh", "Radio Farda",
+    "Afghanistan International", "TOLO TV", "Lemar TV", "Nour", "Kurdistan 24", "Rudaw",
+    "NRT", "TRT Kurdî",
+    # شبکه‌های داخلی ایران
+    "شبکه یک", "شبکه دو", "شبکه سه", "شبکه چهار", "شبکه پنج", "شبکه خبر", "شبکه خبر ۲",
+    "شبکه آموزش", "شبکه قرآن", "شبکه مستند", "شبکه نسیم", "شبکه نمایش", "شبکه کودک",
+    "شبکه امید", "شبکه افق", "شبکه سلامت", "شبکه ورزش", "شبکه تماشا", "شبکه آی‌فیلم",
+    "شبکه سپهر", "شبکه فراتر", "Press TV", "شبکه العالم", "شبکه سحر", "شبکه الکوثر",
+    "Hispan TV",
+    # کانال‌های آنلاین فارسی
+    "National Geographic", "Bplus", "Videogard", "Zoom P", "Shad TV"
+]
 
-# بررسی لینک فعال (موازی و سریع)
+# دسته‌بندی گروه
+def categorize(channel_name):
+    name = channel_name.lower()
+    if any(k.lower() in name for k in ["kurd", "rudaw", "nrt", "trt", "avan", "tishk", "rozh"]):
+        return "Kurdish"
+    return "Persian"
+
+# بررسی لینک فعال سریع
 def is_working_parallel(url):
     try:
         r = requests.head(url, timeout=2, allow_redirects=True)
@@ -57,7 +71,7 @@ def is_working_parallel(url):
     except:
         return False
 
-# دانلود فایل M3U
+# دانلود M3U
 def download(url):
     r = requests.get(url, headers=HEADERS, timeout=20)
     r.raise_for_status()
@@ -75,7 +89,7 @@ def parse_m3u(content):
                     channels.append((lines[i], link))
     return channels
 
-# ساخت لیست نهایی
+# ساخت لیست نهایی با فیلتر هدفمند و پوشه‌بندی
 def build_playlist():
     unique_links = set()
     final_channels = []
@@ -86,7 +100,6 @@ def build_playlist():
             content = download(source)
             channels = parse_m3u(content)
 
-            # آماده کردن لینک‌ها برای بررسی موازی
             link_map = {link: extinf for extinf, link in channels}
 
             with ThreadPoolExecutor(max_workers=20) as executor:
@@ -103,11 +116,11 @@ def build_playlist():
                         continue
 
                     extinf = link_map[link]
-                    group = categorize(extinf)
-                    if group is None:
+                    channel_name = re.sub(r'#EXTINF:-1.*?,', '', extinf).strip()
+                    if not any(tc.lower() in channel_name.lower() for tc in TARGET_CHANNELS):
                         continue
 
-                    # اضافه کردن group-title
+                    group = categorize(channel_name)
                     if 'group-title="' in extinf:
                         parts = extinf.split('group-title=')
                         extinf = parts[0] + f'group-title="{group}",' + parts[1].split(",",1)[1]
@@ -120,7 +133,7 @@ def build_playlist():
         except Exception as e:
             print(f"Source error: {source} → {e}")
 
-    # مرتب‌سازی الفبایی بر اساس نام کانال
+    # مرتب‌سازی الفبایی
     final_channels.sort(key=lambda x: re.sub(r'#EXTINF:-1.*?,', '', x[0]).lower())
     return final_channels
 
@@ -131,7 +144,6 @@ def write_playlist(channels):
     for extinf, link in channels:
         content += f"{extinf}\n{link}\n"
 
-    # Hash check برای تغییر
     new_hash = hashlib.md5(content.encode("utf-8")).hexdigest()
     old_hash = None
     if os.path.exists(OUTPUT_FILE):
@@ -155,7 +167,7 @@ def write_playlist(channels):
 
     return updated
 
-# ارسال تلگرام
+# تلگرام
 def send_telegram(total, updated):
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
         print("Telegram credentials missing.")
