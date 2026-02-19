@@ -26,7 +26,7 @@ SOURCES = [
     "https://iptv-org.github.io/iptv/categories/movies.m3u"
 ]
 
-OUTPUT_FILE = "premium_list.m3u"
+OUTPUT_FILE = "list.m3u"
 OUTPUT_JSON = "channels.json"
 
 # لیست هدف: فارسی و کوردی
