@@ -34,6 +34,5 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add premium_list.m3u
-          git commit -m "Auto IPTV Update" || echo "No changes"
-          git push
+          git add list.m3u channels.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto IPTV Update" && git push)
