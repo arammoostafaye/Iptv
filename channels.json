@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-01T18:16:29.529512",
-  "total": 76,
+  "updated": "2026-03-02T00:59:32.907904",
+  "total": 77,
   "channels": [
     {
       "name": "4 Kurd",
@@ -39,16 +39,16 @@
       "stream": "https://hls.avang.live/hls/stream.m3u8"
     },
     {
-      "name": "Avar TV (1080p)",
-      "stream": "https://avr.host247.net/live/AvarTv/playlist.m3u8"
-    },
-    {
       "name": "BBC Arabic (720p)",
       "stream": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd"
     },
     {
-      "name": "BBC News Europe [Geo-Blocked]",
-      "stream": "https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8"
+      "name": "BBC News (1080p)",
+      "stream": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd"
+    },
+    {
+      "name": "BBC News Europe",
+      "stream": "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
     },
     {
       "name": "BBC Persian (720p)",
@@ -141,6 +141,10 @@
     {
       "name": "MBC+ Drama (1080p)",
       "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8"
+    },
+    {
+      "name": "Mixkurdy (1080p)",
+      "stream": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8"
     },
     {
       "name": "Navahang TV (720p)",
@@ -283,8 +287,8 @@
       "stream": "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8"
     },
     {
-      "name": "tv9 Telemaremma (576p)",
-      "stream": "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8"
+      "name": "TV ITN",
+      "stream": "https://itnhls.wns.live/hls/stream.m3u8"
     },
     {
       "name": "VOA Persian",
