@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-03T18:31:47.636031",
-  "total": 75,
+  "updated": "2026-03-04T00:57:55.091185",
+  "total": 79,
   "channels": [
     {
       "name": "4 Kurd",
@@ -39,10 +39,6 @@
       "stream": "https://hls.avang.live/hls/stream.m3u8"
     },
     {
-      "name": "Avar TV (1080p)",
-      "stream": "https://avr.host247.net/live/AvarTv/playlist.m3u8"
-    },
-    {
       "name": "BBC Arabic (720p)",
       "stream": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd"
     },
@@ -51,8 +47,8 @@
       "stream": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd"
     },
     {
-      "name": "BBC News Europe",
-      "stream": "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
+      "name": "BBC News (1080p) [Geo-blocked]",
+      "stream": "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
     },
     {
       "name": "BBC Persian (720p)",
@@ -69,6 +65,10 @@
     {
       "name": "GEM Pixel",
       "stream": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8"
+    },
+    {
+      "name": "Hallmark Movies & More (1080p) [Geo-blocked]",
+      "stream": "https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8"
     },
     {
       "name": "Hallmark Movies & Mysteries East (1080p) [Not 24/7]",
@@ -103,6 +103,18 @@
       "stream": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
     },
     {
+      "name": "KurdMax Music (720p)",
+      "stream": "https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8"
+    },
+    {
+      "name": "KurdMax Show (720p)",
+      "stream": "https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8"
+    },
+    {
+      "name": "KurdMax Sorani (1080p)",
+      "stream": "https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8"
+    },
+    {
       "name": "Kurdsat (1080p)",
       "stream": "https://iko-live.akamaized.net/KurdsatTV/master.m3u8"
     },
@@ -113,6 +125,10 @@
     {
       "name": "Living India News (1080p)",
       "stream": "https://stream.ottlive.co.in/livingindia/index.m3u8"
+    },
+    {
+      "name": "Marjaeyat TV Persian (240p) [Not 24/7]",
+      "stream": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8"
     },
     {
       "name": "MBC Bollywood (1080p) [Geo-blocked]",
