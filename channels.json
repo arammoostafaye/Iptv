@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T18:33:10.043515",
+  "updated": "2026-03-11T00:56:01.368201",
   "total": 79,
   "channels": [
     {
@@ -59,10 +59,6 @@
       "stream": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd"
     },
     {
-      "name": "Bravo Farsi TV (360p)",
-      "stream": "https://bravoohls.wns.live/hls/stream.m3u8"
-    },
-    {
       "name": "Channel 8 Kurdish (720p)",
       "stream": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8"
     },
@@ -73,6 +69,10 @@
     {
       "name": "Hallmark Movies & More (1080p) [Geo-blocked]",
       "stream": "https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8"
+    },
+    {
+      "name": "Hallmark Movies & Mysteries East (1080p) [Not 24/7]",
+      "stream": "https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd"
     },
     {
       "name": "iFilm Persian",
@@ -127,10 +127,6 @@
       "stream": "https://stream.ottlive.co.in/livingindia/index.m3u8"
     },
     {
-      "name": "Marjaeyat TV Persian (240p) [Not 24/7]",
-      "stream": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8"
-    },
-    {
       "name": "MBC Bollywood (1080p) [Geo-blocked]",
       "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8"
     },
@@ -173,6 +169,10 @@
     {
       "name": "Payame Aramesh TV (720p)",
       "stream": "https://hls.keshishhamid.live/hls/stream.m3u8"
+    },
+    {
+      "name": "PBC Tapesh TV (720p)",
+      "stream": "https://iptv.tapesh.tv/tapesh/playlist.m3u8"
     },
     {
       "name": "Persiana Cinema",
