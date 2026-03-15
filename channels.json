@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-15T01:07:53.165998",
-  "total": 73,
+  "updated": "2026-03-15T06:41:56.507064",
+  "total": 79,
   "channels": [
     {
       "name": "4 Kurd",
@@ -41,6 +41,14 @@
     {
       "name": "Avar TV (1080p)",
       "stream": "https://avr.host247.net/live/AvarTv/playlist.m3u8"
+    },
+    {
+      "name": "BBC Arabic (720p)",
+      "stream": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd"
+    },
+    {
+      "name": "BBC News (1080p)",
+      "stream": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd"
     },
     {
       "name": "BBC News (1080p) [Geo-blocked]",
@@ -113,6 +121,10 @@
     {
       "name": "Kurdsat News (1080p)",
       "stream": "https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8"
+    },
+    {
+      "name": "Living India News (1080p)",
+      "stream": "https://stream.ottlive.co.in/livingindia/index.m3u8"
     },
     {
       "name": "Marjaeyat TV Persian (240p) [Not 24/7]",
@@ -247,6 +259,10 @@
       "stream": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8"
     },
     {
+      "name": "Rudaw TV (1080p)",
+      "stream": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"
+    },
+    {
       "name": "Swaraj Express SMBC (720p) [Not 24/7]",
       "stream": "https://cdn-2.pishow.tv/live/477/master.m3u8"
     },
@@ -279,6 +295,10 @@
       "stream": "https://itnhls.wns.live/hls/stream.m3u8"
     },
     {
+      "name": "tv9 Telemaremma (576p)",
+      "stream": "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8"
+    },
+    {
       "name": "VOA Persian",
       "stream": "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8"
     },
@@ -293,6 +313,10 @@
     {
       "name": "Zarok TV (720p)",
       "stream": "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8"
+    },
+    {
+      "name": "Zee Bihar Jharkhand (720p)",
+      "stream": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8"
     }
   ]
 }
