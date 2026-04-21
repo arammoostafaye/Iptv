@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-21T01:19:32.321836",
-  "total": 103,
+  "updated": "2026-04-21T20:39:07.862944",
+  "total": 102,
   "channels": [
     {
       "name": "4 Kurd",
@@ -49,10 +49,6 @@
     {
       "name": "BBC News (1080p)",
       "stream": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd"
-    },
-    {
-      "name": "BBC News Europe (1080p)",
-      "stream": "http://103.213.31.109:90/BBCNewsHD/playlist.m3u8"
     },
     {
       "name": "BBC Persian (720p)",
@@ -211,10 +207,6 @@
       "stream": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
     },
     {
-      "name": "KurdMax Music (720p)",
-      "stream": "https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8"
-    },
-    {
       "name": "Kurdsat (1080p)",
       "stream": "https://iko-live.akamaized.net/KurdsatTV/master.m3u8"
     },
@@ -297,6 +289,10 @@
     {
       "name": "Persiana Docs",
       "stream": "https://scihls.persiana.live/hls/stream.m3u8"
+    },
+    {
+      "name": "Persiana Family",
+      "stream": "https://familyhls.persiana.live/hls/stream.m3u8"
     },
     {
       "name": "Persiana Fight",
