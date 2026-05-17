@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-16T20:36:48.806893",
-  "total": 104,
+  "updated": "2026-05-17T01:52:28.440408",
+  "total": 105,
   "channels": [
     {
       "name": "4 Kurd",
@@ -49,6 +49,10 @@
     {
       "name": "BBC News (1080p)",
       "stream": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd"
+    },
+    {
+      "name": "BBC News North America (1080p)",
+      "stream": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8"
     },
     {
       "name": "BBC Persian (720p)",
