@@ -2,7 +2,7 @@ name: IPTV Auto Update
 
 on:
   schedule:
-    - cron: '0 */23 10 * *'
+    - cron: '0 0 */3 * *'
   workflow_dispatch:
 
 permissions:
@@ -21,8 +21,10 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Install requests
-        run: pip install requests
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Run IPTV Script
         env:
