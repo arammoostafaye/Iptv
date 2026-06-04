@@ -1,7 +1,12 @@
 {
-  "updated": "2026-06-01T02:56:13.215628",
-  "total": 280,
+  "updated": "2026-06-04T02:57:33.202589",
+  "total": 593,
   "channels": [
+    {
+      "name": "#Riccanza – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626baa721c279b00072cbedd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
     {
       "name": "&TV International (1080p)",
       "group": "Other",
@@ -11,6 +16,11 @@
       "name": "13 Teleseries (720p)",
       "group": "Movies",
       "stream": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+    },
+    {
+      "name": "16 anni e incinta – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "30A TV Classic Movies (720p)",
@@ -38,9 +48,24 @@
       "stream": "https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8"
     },
     {
-      "name": "Abadan",
+      "name": "5 Kanal",
       "group": "Other",
-      "stream": "https://ncdn.telewebion.ir/abadan/live/playlist.m3u8"
+      "stream": "https://776067.live.tvstitch.com/stream.m3u8?m=aHR0cHM6Ly9jZG4uZHl2eWFwcC5jb20vNS1jaGFubmVsL3ZpZGVvLm0zdTg%2FdG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBjQ0k2SWpKaE1EWTZOVGt3TWpveE0yTXdPakE2WlRobFlqbzJNRGM0T2pSa01qcG1OV01pTENKMWMyVnlYMkZuWlc1MElqb2lUVzk2YVd4c1lWd3ZOUzR3SUNoWGFXNWtiM2R6SUU1VUlERXdMakE3SUZkcGJqWTBPeUI0TmpRN0lISjJPakV6Tmk0d0tTQkhaV05yYjF3dk1qQXhNREF4TURFZ1JtbHlaV1p2ZUZ3dk1UTTJMakFpTENKbGVIQWlPakUzTkRFNE1UUTVPVEI5Lkllb2JDR0NtVDVOd1pKSjdzNEhLaVIzb01IZVhpQ2dnZVp5WjZ6YWxodGM%3D&channel=1&u=b048004d-9363-4406-9b23-cb12b731d6e4&gdpr_consent=%7Bgdpr_consent%7D&givn=%7Bgivn%7D"
+    },
+    {
+      "name": "70s Cinema",
+      "group": "Movies",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
+      "name": "80s Rewind",
+      "group": "Other",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
+      "name": "90s Throwback",
+      "group": "Other",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
     },
     {
       "name": "ABN Bible Movies (720p)",
@@ -98,9 +123,19 @@
       "stream": "https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8"
     },
     {
+      "name": "Action24",
+      "group": "Movies",
+      "stream": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
+    },
+    {
       "name": "ACTV",
       "group": "Other",
       "stream": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8"
+    },
+    {
+      "name": "Affare Fatto – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ec5c6644fe100009d114ae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "Aflak",
@@ -146,6 +181,16 @@
       "name": "Akaku 55 (Hawaii) (1080p)",
       "group": "Other",
       "stream": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8"
+    },
+    {
+      "name": "Al Iraqia Kurdish (720p)",
+      "group": "Kurdish",
+      "stream": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8"
+    },
+    {
+      "name": "Al-Alam News Network Ⓢ",
+      "group": "Other",
+      "stream": "https://live2.alalam.ir/alalam.m3u8"
     },
     {
       "name": "Alankar TV (720p)",
@@ -218,14 +263,19 @@
       "stream": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8"
     },
     {
-      "name": "Amouzesh",
+      "name": "Andromeda – Pluto TV",
       "group": "Other",
-      "stream": "https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8"
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "Anger Management Channel (1080p)",
       "group": "Persian",
       "stream": "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8"
+    },
+    {
+      "name": "Anime – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65b90daed77d450008a43345/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "Antiques Roadshow PBS (1080p)",
@@ -248,6 +298,11 @@
       "stream": "https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8"
     },
     {
+      "name": "Arirang",
+      "group": "Persian",
+      "stream": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+    },
+    {
       "name": "Arirang Radio (720p)",
       "group": "Persian",
       "stream": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
@@ -266,6 +321,11 @@
       "name": "Arirang TV UN (1080p)",
       "group": "Persian",
       "stream": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8"
+    },
+    {
+      "name": "Arirang World",
+      "group": "Persian",
+      "stream": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8"
     },
     {
       "name": "Artflix Movie Classics (720p)",
@@ -288,14 +348,19 @@
       "stream": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
     },
     {
+      "name": "Autostop per il cielo – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638f286445264d00084ec6dc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
       "name": "AVA Series",
       "group": "Movies",
       "stream": "https://avaserieshls.wns.live/hls/stream.m3u8"
     },
     {
-      "name": "Azerbaijan Gharbi",
+      "name": "Avatar – Pluto TV",
       "group": "Other",
-      "stream": "https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8"
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624da1cd2af90c0007c13205/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "B4U Bhojpuri (1080p)",
@@ -348,6 +413,11 @@
       "stream": "https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8"
     },
     {
+      "name": "BBC Drama – Pluto TV",
+      "group": "Movies",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fa5ab5062e0007dcf97d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
       "name": "Best Action TV (1080p)",
       "group": "Movies",
       "stream": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8"
@@ -373,9 +443,9 @@
       "stream": "https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8"
     },
     {
-      "name": "BIZ Cinema (1080p)",
+      "name": "Black Cinema",
       "group": "Movies",
-      "stream": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8"
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
     },
     {
       "name": "Bollywood HD Russia (576p)",
@@ -398,6 +468,16 @@
       "stream": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch1/video.m3u8"
     },
     {
+      "name": "Boreal (720p) [Not 24/7]",
+      "group": "Other",
+      "stream": "https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "name": "Brividy Cinema (720p)",
+      "group": "Movies",
+      "stream": "https://ixmediasrl-serially-1-it.rakuten.wurl.tv/playlist.m3u8"
+    },
+    {
       "name": "Bushehr",
       "group": "Other",
       "stream": "https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8"
@@ -408,14 +488,44 @@
       "stream": "https://cafefhls.wns.live/hls/stream.m3u8"
     },
     {
+      "name": "Car Chase – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65a939fad77d450008863835/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Case Pazzesche – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626bb07a58b8dd0007e9f36e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Catfish – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
       "name": "CBC Drama (576p)",
       "group": "Movies",
       "stream": "https://flu.systemnet.tv/CBCDrama/index.m3u8"
     },
     {
+      "name": "CBS News – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
       "name": "CCTV-6 (1080p)",
       "group": "Other",
       "stream": "http://198.204.240.250:82/live/cctv6.m3u8"
+    },
+    {
+      "name": "CCTV-Storm Theater (1080p)",
+      "group": "Other",
+      "stream": "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub"
+    },
+    {
+      "name": "CCTV-The First Theater (1080p)",
+      "group": "Other",
+      "stream": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub"
     },
     {
       "name": "Celebrity Name Game (1080p) [Geo-blocked]",
@@ -438,6 +548,11 @@
       "stream": "https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8"
     },
     {
+      "name": "Channel 8 Kurdish (720p)",
+      "group": "Kurdish",
+      "stream": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8"
+    },
+    {
       "name": "Charge! (1080p)",
       "group": "Other",
       "stream": "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8"
@@ -446,6 +561,11 @@
       "name": "Choppertown (720p)",
       "group": "Other",
       "stream": "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8"
+    },
+    {
+      "name": "Christmas – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "CINDIE TV (1080p)",
@@ -463,6 +583,26 @@
       "stream": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
     },
     {
+      "name": "Cinema",
+      "group": "Movies",
+      "stream": "http://catchup.videoline.ru/cinema/playlist.m3u8"
+    },
+    {
+      "name": "Cinema Hausa (720p)",
+      "group": "Movies",
+      "stream": "https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8"
+    },
+    {
+      "name": "Cinema Italiano – Pluto TV",
+      "group": "Movies",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Cinema Yoruba (720p)",
+      "group": "Movies",
+      "stream": "https://streamdot.broadpeak.io/cff02a74da64d1457f33a61a45801a4f/afxpstr/CinemaYoruba/index.m3u8"
+    },
+    {
       "name": "CinemaWorld (720p)",
       "group": "Movies",
       "stream": "http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8"
@@ -473,9 +613,24 @@
       "stream": "https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8"
     },
     {
+      "name": "Classic Movies",
+      "group": "Movies",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
       "name": "CNBC-e",
       "group": "Other",
       "stream": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
+    },
+    {
+      "name": "Cold Case Files (1080p)",
+      "group": "Other",
+      "stream": "https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8"
+    },
+    {
+      "name": "Consulenze illegali – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "COPS",
@@ -488,9 +643,29 @@
       "stream": "https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8"
     },
     {
+      "name": "Cowboy Movie Channel (1080p)",
+      "group": "Movies",
+      "stream": "https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8"
+    },
+    {
+      "name": "Crime – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Cucina – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa718a8ec810007d87fee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
       "name": "Dark Matter TV (720p)",
       "group": "Other",
       "stream": "https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8"
+    },
+    {
+      "name": "De Pelicula Latin America",
+      "group": "Other",
+      "stream": "http://181.119.93.83:8000/play/a1jw/index.m3u8"
     },
     {
       "name": "Deal or No Deal (1080p)",
@@ -503,19 +678,79 @@
       "stream": "https://d3537vnymvfque.cloudfront.net/playlist.m3u8"
     },
     {
+      "name": "Deluxe Lounge HD – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6278ec6c33d85a00077ad814/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Demand Drama (1080p)",
+      "group": "Movies",
+      "stream": "https://amg01487-amg01487c3-amgplt0002.playout.now3.amagi.tv/playlist/amg01487-amg01487c3-amgplt0002/playlist.m3u8"
+    },
+    {
+      "name": "Designated Survivor (1080p) [Geo-blocked]",
+      "group": "Other",
+      "stream": "https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "DiscoverFilm (720p)",
+      "group": "Movies",
+      "stream": "https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+      "name": "Doctor Who – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7f8db27ce19000732d1aa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Documentari – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Dog the Bounty Hunter (1080p)",
+      "group": "Other",
+      "stream": "https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8"
+    },
+    {
+      "name": "Dog The Bounty Hunter [Geo-blocked] (1080p)",
+      "group": "Other",
+      "stream": "https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8"
+    },
+    {
       "name": "Dog Whisperer (1080p) [Geo-blocked]",
       "group": "Other",
       "stream": "https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8"
     },
     {
-      "name": "Donna TV (480p)",
+      "name": "Don't Tell The Bride (1080p)",
       "group": "Other",
-      "stream": "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
+      "stream": "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Drive In Movie Channel (1080p)",
+      "group": "Movies",
+      "stream": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8"
+    },
+    {
+      "name": "Due Fantagenitori – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "East is East – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/654c955683595c00081d9d87/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "EBS Cinema (720p)",
       "group": "Movies",
       "stream": "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8"
+    },
+    {
+      "name": "Eisei Gekijo (544p)",
+      "group": "Other",
+      "stream": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22"
     },
     {
       "name": "Ekran Movies",
@@ -528,6 +763,36 @@
       "stream": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8"
     },
     {
+      "name": "Euronews – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Europa Europa",
+      "group": "Other",
+      "stream": "http://181.119.93.83:8000/play/a1sr/index.m3u8"
+    },
+    {
+      "name": "Ex on the beach – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940ebad67fd900072382db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Fail army – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608014d19a26320007c92ab6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "FailArmy",
+      "group": "Other",
+      "stream": "https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+      "name": "FAN (1080p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Fan/index.m3u8"
+    },
+    {
       "name": "FashionTV Secrets (1080p)",
       "group": "Other",
       "stream": "https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1"
@@ -536,6 +801,46 @@
       "name": "Fear Factor (1080p)",
       "group": "Other",
       "stream": "https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8"
+    },
+    {
+      "name": "Film Azione – Pluto TV",
+      "group": "Movies",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Film Classici – Pluto TV",
+      "group": "Movies",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Film Commedia – Pluto TV",
+      "group": "Movies",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Film Drama – Pluto TV",
+      "group": "Movies",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Film Romantici – Pluto TV",
+      "group": "Movies",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Film Thriller – Pluto TV",
+      "group": "Movies",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Film – Pluto TV",
+      "group": "Movies",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Filmax (576p)",
+      "group": "Movies",
+      "stream": "https://s3.ideationtec.live/Filmax/Filmax.m3u8"
     },
     {
       "name": "Filmex (Xumo) (1080p) [Geo-blocked]",
@@ -558,6 +863,11 @@
       "stream": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8"
     },
     {
+      "name": "FilmRise Binge Watch France (720p)",
+      "group": "Movies",
+      "stream": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021"
+    },
+    {
       "name": "FilmRise Classic TV (720p)",
       "group": "Movies",
       "stream": "https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8"
@@ -573,6 +883,26 @@
       "stream": "https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8"
     },
     {
+      "name": "Fireplace – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612ce23f51cce000078eeed5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Flicks of Fury",
+      "group": "Other",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
+      "name": "Forensic Files (720p) [Geo-blocked]",
+      "group": "Other",
+      "stream": "https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8"
+    },
+    {
+      "name": "Forensic Files – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ec5cf50f73a800081310a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
       "name": "Fort Collins Cable TV (FCTV) (Fort Collins CO) (1080p)",
       "group": "Other",
       "stream": "https://reflect-vod-fcgov.cablecast.tv/live-9/live/stream-1/live.m3u8"
@@ -583,14 +913,49 @@
       "stream": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-1/live.m3u8"
     },
     {
-      "name": "FX Movie Channel (720p) [Not 24/7]",
-      "group": "Movies",
-      "stream": "https://tvpass.org/live/FXMovieChannel/hd"
+      "name": "Fresno CMAC 2 Education Channel (720p)",
+      "group": "Other",
+      "stream": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8"
     },
     {
-      "name": "GEM Pixel",
+      "name": "Fresno CMAC 3 Government Channel (720p)",
+      "group": "Other",
+      "stream": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8"
+    },
+    {
+      "name": "GEM 24B",
       "group": "Persian",
-      "stream": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8"
+      "stream": "https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202"
+    },
+    {
+      "name": "Gem Shopping Network (720p)",
+      "group": "Persian",
+      "stream": "https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Gems TV (720p)",
+      "group": "Persian",
+      "stream": "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8"
+    },
+    {
+      "name": "Genie K Drama (1080p)",
+      "group": "Movies",
+      "stream": "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US2000012KX&channel_id=newid_351&tp=samsung_tvplus"
+    },
+    {
+      "name": "Geordie Shore – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20d60/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Ghost Hunters (1080p)",
+      "group": "Other",
+      "stream": "https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Gold Star",
+      "group": "Other",
+      "stream": "https://moviethls.wns.live/hls/stream.m3u8"
     },
     {
       "name": "Goldmines (576p)",
@@ -598,9 +963,14 @@
       "stream": "https://cdn-2.pishow.tv/live/1459/master.m3u8"
     },
     {
-      "name": "Goldmines 2 (576p)",
-      "group": "Other",
-      "stream": "https://cdn-2.pishow.tv/live/1460/master.m3u8"
+      "name": "Grand Cinema",
+      "group": "Movies",
+      "stream": "https://gcinemahls.wns.live/hls/stream.m3u8"
+    },
+    {
+      "name": "Gravitas Movies (1080p)",
+      "group": "Movies",
+      "stream": "https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8"
     },
     {
       "name": "GREAT! movies (1080p)",
@@ -608,9 +978,19 @@
       "stream": "https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8"
     },
     {
+      "name": "GREAT! romance (1080p)",
+      "group": "Other",
+      "stream": "https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8"
+    },
+    {
       "name": "Grjngo Films de Western (1080p)",
       "group": "Movies",
       "stream": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a5fc1b02-5945-11ef-a2df-87241c204d22/0/master.m3u8?country=fr&vendor=rakuten"
+    },
+    {
+      "name": "Grjngo Western Movies (720p)",
+      "group": "Movies",
+      "stream": "https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8"
     },
     {
       "name": "Groovy TV (360p)",
@@ -618,9 +998,19 @@
       "stream": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8"
     },
     {
+      "name": "Hallmark Movies & More (1080p) [Geo-blocked]",
+      "group": "Movies",
+      "stream": "https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8"
+    },
+    {
       "name": "Harbin Movie Channel",
       "group": "Movies",
       "stream": "https://stream.hrbtv.net/yspd/playlist.m3u8"
+    },
+    {
+      "name": "Haunt TV (1080p)",
+      "group": "Other",
+      "stream": "https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8"
     },
     {
       "name": "Hell's Kitchen (1080p)",
@@ -628,9 +1018,54 @@
       "stream": "https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8"
     },
     {
+      "name": "Himlen TV7",
+      "group": "Other",
+      "stream": "https://vod.tv7.fi/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8"
+    },
+    {
+      "name": "Himlen TV7 (720p)",
+      "group": "Other",
+      "stream": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8"
+    },
+    {
+      "name": "Hobby Maker (720p)",
+      "group": "Other",
+      "stream": "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8"
+    },
+    {
+      "name": "HodHod Farsi TV (1080p)",
+      "group": "Persian",
+      "stream": "https://northtelecom.b-cdn.net/hodhodtv.m3u8"
+    },
+    {
+      "name": "Hollywood HD (1080p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/MGM_HD/index.m3u8"
+    },
+    {
+      "name": "Home Plus",
+      "group": "Other",
+      "stream": "https://homeplushls.wns.live/hls/stream.m3u8"
+    },
+    {
+      "name": "Horror – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61c09e3ac210ed0007606620/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
       "name": "Hot Wheels Action (1080p)",
       "group": "Movies",
       "stream": "https://dtz4aepbew7ez.cloudfront.net/hotwh.m3u8"
+    },
+    {
+      "name": "House of Docs – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6536608b4f123d000876b78b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "HTV3",
+      "group": "Other",
+      "stream": "https://liveh12byt.vtvprime.vn/hls/HTV3/03.m3u8"
     },
     {
       "name": "ICC Plus (1080p)",
@@ -646,6 +1081,26 @@
       "name": "iFilm Arabic",
       "group": "Movies",
       "stream": "https://live.presstv.ir/hls/ifilmar.m3u8"
+    },
+    {
+      "name": "iFilm English",
+      "group": "Movies",
+      "stream": "https://live.presstv.ir/hls/ifilmen.m3u8"
+    },
+    {
+      "name": "Il banco dei pugni – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Il Testimone – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61fbd3f0733df400076c9a2d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Inazuma Eleven – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "Indywood TV (720p)",
@@ -678,6 +1133,16 @@
       "stream": "https://hls.iranfarda.live/hls/stream.m3u8"
     },
     {
+      "name": "Itage TV (480p)",
+      "group": "Other",
+      "stream": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8"
+    },
+    {
+      "name": "Jersey Shore – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb5767da71180008ace8fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
       "name": "Jordan Drama (1080p)",
       "group": "Movies",
       "stream": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8"
@@ -688,14 +1153,19 @@
       "stream": "https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8"
     },
     {
+      "name": "Just for laughs – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
       "name": "K Drama by CJ ENM (1080p)",
       "group": "Movies",
       "stream": "https://d2fdocl6hmu0hh.cloudfront.net/dfa54c7d_1154_425d_a2b8_6ea994157976/hls/playlist.m3u8"
     },
     {
-      "name": "Kairali We (576p)",
+      "name": "K-Pop – Pluto TV",
       "group": "Other",
-      "stream": "https://cdn-3.pishow.tv/live/1530/master.m3u8"
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c8b75fb0a68400074b86fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "KCM (1080p) [Geo-blocked]",
@@ -703,14 +1173,29 @@
       "stream": "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8"
     },
     {
+      "name": "Ketchup TV (720p)",
+      "group": "Other",
+      "stream": "https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8"
+    },
+    {
+      "name": "Kids Ukraine – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/622a2d8da9d8210007d918c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
       "name": "KidsFlix (1080p) [Not 24/7]",
       "group": "Other",
       "stream": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50"
     },
     {
-      "name": "Komsan TV [Not 24/7]",
+      "name": "Kino 24 (720p)",
       "group": "Other",
-      "stream": "http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8"
+      "stream": "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
+    },
+    {
+      "name": "Kinoteatr (1080p)",
+      "group": "Other",
+      "stream": "https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8"
     },
     {
       "name": "KTN News (360p)",
@@ -718,9 +1203,19 @@
       "stream": "https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8"
     },
     {
+      "name": "Kurd Channel",
+      "group": "Kurdish",
+      "stream": "https://kurdchhls.wns.live/hls/stream.m3u8"
+    },
+    {
       "name": "Kurdistan 24 (720p)",
       "group": "Kurdish",
       "stream": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8"
+    },
+    {
+      "name": "Kurdistan TV (720p) [Not 24/7]",
+      "group": "Kurdish",
+      "stream": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
     },
     {
       "name": "Kurdsat (1080p)",
@@ -733,9 +1228,29 @@
       "stream": "https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8"
     },
     {
+      "name": "Kuriakos Cine (1080p)",
+      "group": "Other",
+      "stream": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8"
+    },
+    {
       "name": "Lakewood CityTV (720p)",
       "group": "Other",
       "stream": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8"
+    },
+    {
+      "name": "Latina Clasicos",
+      "group": "Other",
+      "stream": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8"
+    },
+    {
+      "name": "Le sorelle mcleod – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Le vite degli altri – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/653660b4295b840008a70ba3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "Lifetime Movie Favorites (720p) [Geo-blocked]",
@@ -743,9 +1258,34 @@
       "stream": "https://pb-137agpk5fqieb.akamaized.net/v1/aenetworks_holidaymoviefavorites_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
     },
     {
+      "name": "Lifetime Movies (1080p)",
+      "group": "Movies",
+      "stream": "https://amg00276-amg00276c21-samsung-gb-5270.playouts.now.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Lifetime Movies Love & Drama (1080p)",
+      "group": "Movies",
+      "stream": "https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8"
+    },
+    {
       "name": "Maah TV (720p)",
       "group": "Other",
       "stream": "https://hls.maahtv.live/hls/stream.m3u8"
+    },
+    {
+      "name": "MacGyver – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d4511358320007029cdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Made in Hollywood",
+      "group": "Other",
+      "stream": "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+      "name": "Made – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6304ee20112ca70007d8accc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "Maha Movie (576p)",
@@ -753,9 +1293,29 @@
       "stream": "https://cdn-6.pishow.tv/live/10007/master.m3u8"
     },
     {
+      "name": "Mai dire sì – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6349279ed5023700078f2bc2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Manatee Schools Television MSTV (Manatee County FL) (1080p)",
+      "group": "Other",
+      "stream": "https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8"
+    },
+    {
+      "name": "Manoranjan Grand (720p)",
+      "group": "Other",
+      "stream": "https://cdn-1.pishow.tv/live/1011/master.m3u8"
+    },
+    {
       "name": "Maraya (1080p)",
       "group": "Other",
       "stream": "https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8"
+    },
+    {
+      "name": "Marjaeyat TV Persian (240p) [Not 24/7]",
+      "group": "Persian",
+      "stream": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8"
     },
     {
       "name": "Maverick Black Cinema (1080p)",
@@ -773,6 +1333,11 @@
       "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8"
     },
     {
+      "name": "MBC Drama USA (1080p)",
+      "group": "Movies",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8"
+    },
+    {
       "name": "MBC Mokpo (목포 MBC) (720p) [Not 24/7]",
       "group": "Other",
       "stream": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8"
@@ -783,19 +1348,24 @@
       "stream": "https://video.ejeserver.com/live/mcitelevision.m3u8"
     },
     {
-      "name": "Mcleod's Daughters (1080p)",
-      "group": "Other",
-      "stream": "https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8"
-    },
-    {
       "name": "Mega Cine TV (1080p)",
       "group": "Other",
       "stream": "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8"
     },
     {
+      "name": "Memorias TV Film (720p) [Geo-blocked]",
+      "group": "Movies",
+      "stream": "https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8"
+    },
+    {
       "name": "Memorias TV Series (720p) [Geo-blocked]",
       "group": "Movies",
       "stream": "https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8"
+    },
+    {
+      "name": "Meta Film TV",
+      "group": "Movies",
+      "stream": "https://metafilmhls.wns.live/hls/stream.m3u8"
     },
     {
       "name": "Midsomer Murders (1080p)",
@@ -813,9 +1383,39 @@
       "stream": "https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8"
     },
     {
+      "name": "Mix Hollywood (1080p)",
+      "group": "Other",
+      "stream": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8"
+    },
+    {
+      "name": "Mixkurdy (1080p)",
+      "group": "Kurdish",
+      "stream": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8"
+    },
+    {
       "name": "Monroe County Television MCTV (Monroe County FL) (1080p)",
       "group": "Other",
       "stream": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8"
+    },
+    {
+      "name": "Monster Jam – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65bce7f1d77d450008b3a430/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Movie Bangla",
+      "group": "Movies",
+      "stream": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
+    },
+    {
+      "name": "Movies Action (1080p)",
+      "group": "Movies",
+      "stream": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8"
+    },
+    {
+      "name": "Movies Thriller (1080p)",
+      "group": "Movies",
+      "stream": "https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8"
     },
     {
       "name": "Movies! (480p)",
@@ -833,9 +1433,24 @@
       "stream": "https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8"
     },
     {
+      "name": "MovieSphere UK (1080p)",
+      "group": "Movies",
+      "stream": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Mr Bean Live Action (1080p)",
+      "group": "Movies",
+      "stream": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8"
+    },
+    {
       "name": "Mr Bean Live Action (1080p)",
       "group": "Movies",
       "stream": "https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Mr. Bean Animated (1080p)",
+      "group": "Other",
+      "stream": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
     },
     {
       "name": "Mr. Bean Anime Italy (1080p)",
@@ -848,9 +1463,34 @@
       "stream": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
     },
     {
+      "name": "MST3K (1080p)",
+      "group": "Other",
+      "stream": "https://mst3k-roku.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Mutant X – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "MyTime Movie Network (1080p)",
+      "group": "Movies",
+      "stream": "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "MyTime Movie Network (1080p)",
+      "group": "Movies",
+      "stream": "https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8"
+    },
+    {
       "name": "MyTime Movie Network Brazil (720p)",
       "group": "Movies",
       "stream": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "MyTime Movie Network France (1080p)",
+      "group": "Movies",
+      "stream": "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
     },
     {
       "name": "MyTime Movie Network Germany (1080p)",
@@ -883,6 +1523,26 @@
       "stream": "https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8"
     },
     {
+      "name": "National Iranian Congress TV",
+      "group": "Persian",
+      "stream": "https://tv.iraniancongress.com/stream/tv.m3u8"
+    },
+    {
+      "name": "Natura – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Naturescape – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "News One (720p)",
+      "group": "Other",
+      "stream": "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8"
+    },
+    {
       "name": "Next HD (480p)",
       "group": "Other",
       "stream": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
@@ -898,6 +1558,16 @@
       "stream": "https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8"
     },
     {
+      "name": "Nosey (1080p)",
+      "group": "Other",
+      "stream": "https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Omide Iran",
+      "group": "Persian",
+      "stream": "https://oitnhls.wns.live/hls/stream.m3u8"
+    },
+    {
       "name": "Oscar Movies Bhojpuri (720p)",
       "group": "Movies",
       "stream": "https://cdn-4.pishow.tv/live/233/master.m3u8"
@@ -908,6 +1578,16 @@
       "stream": "https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8"
     },
     {
+      "name": "OUTflix Movies (1080p)",
+      "group": "Movies",
+      "stream": "https://dg37ei3o66x3s.cloudfront.net/OutTV_US.m3u8"
+    },
+    {
+      "name": "Paramount Movie Channel",
+      "group": "Movies",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
       "name": "PBS Nature (1080p)",
       "group": "Other",
       "stream": "https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8"
@@ -916,6 +1596,11 @@
       "name": "People Are Awesome",
       "group": "Other",
       "stream": "https://jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+      "name": "People are awesome – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608017cbe375e400070cc981/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "Persiana Cinema",
@@ -933,6 +1618,31 @@
       "stream": "https://scihls.persiana.live/hls/stream.m3u8"
     },
     {
+      "name": "Persiana Family",
+      "group": "Persian",
+      "stream": "https://familyhls.persiana.live/hls/stream.m3u8"
+    },
+    {
+      "name": "Persiana Fight",
+      "group": "Persian",
+      "stream": "https://fighthls.persiana.live/hls/stream.m3u8"
+    },
+    {
+      "name": "Persiana Folk",
+      "group": "Persian",
+      "stream": "https://sonhls.persiana.live/hls/stream.m3u8"
+    },
+    {
+      "name": "Persiana Iranian",
+      "group": "Persian",
+      "stream": "https://irhls.persiana.live/hls/stream.m3u8"
+    },
+    {
+      "name": "Persiana Junior",
+      "group": "Persian",
+      "stream": "https://junhls.persiana.live/hls/stream.m3u8"
+    },
+    {
       "name": "Persiana Korea",
       "group": "Persian",
       "stream": "https://korhls.persiana.live/hls/stream.m3u8"
@@ -941,6 +1651,11 @@
       "name": "Persiana Medical",
       "group": "Persian",
       "stream": "https://phd2hls.persiana.live/hls/stream.m3u8"
+    },
+    {
+      "name": "Persiana Music",
+      "group": "Persian",
+      "stream": "https://musichls.persiana.live/hls/stream.m3u8"
     },
     {
       "name": "Persiana Nostalgia",
@@ -953,6 +1668,26 @@
       "stream": "https://euhls.persiana.live/hls/stream.m3u8"
     },
     {
+      "name": "Persiana Series",
+      "group": "Movies",
+      "stream": "https://onehls.persiana.live/hls/stream.m3u8"
+    },
+    {
+      "name": "Persiana Turkiye",
+      "group": "Persian",
+      "stream": "https://turkhls.persiana.live/hls/stream.m3u8"
+    },
+    {
+      "name": "PFL MMA – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/654a299cab05240008a12639/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Pimp My Ride – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4eaf77279a0007f14861/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
       "name": "Pitaara (720p)",
       "group": "Other",
       "stream": "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8"
@@ -963,14 +1698,79 @@
       "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
     },
     {
+      "name": "Pluto TV Comedy",
+      "group": "Other",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
+      "name": "Pluto TV Crime Movies",
+      "group": "Movies",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
+      "name": "Pluto TV Cult Films",
+      "group": "Movies",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=109&deviceId=5c665db3e6c01b72c4977bc2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
+      "name": "Pluto TV Documentaries",
+      "group": "Other",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
+      "name": "Pluto TV Drama",
+      "group": "Movies",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
+      "name": "Pluto TV Fantastic",
+      "group": "Other",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
+      "name": "Pluto TV Horror",
+      "group": "Other",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
+      "name": "Pluto TV Romance",
+      "group": "Other",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
       "name": "Pluto TV Spotlight",
       "group": "Other",
       "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
     },
     {
+      "name": "Pluto TV Staff Picks",
+      "group": "Other",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=90&deviceId=5f4d863b98b41000076cd061&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
+      "name": "Pluto TV Terror",
+      "group": "Other",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
+      "name": "Pluto TV Thrillers",
+      "group": "Other",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
+      "name": "Pluto TV Westerns",
+      "group": "Other",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
       "name": "Pro100TV (576p)",
       "group": "Other",
       "stream": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
+    },
+    {
+      "name": "Puls 2 (1080p) [Not 24/7]",
+      "group": "Other",
+      "stream": "https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8"
     },
     {
       "name": "QTV-3",
@@ -983,9 +1783,29 @@
       "stream": "https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8"
     },
     {
+      "name": "Rakuten Top Movies UK (1080p)",
+      "group": "Movies",
+      "stream": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Action Movies Finland (1080p)",
+      "group": "Movies",
+      "stream": "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8"
+    },
+    {
       "name": "Rakuten TV Action Movies Germany (1080p)",
       "group": "Movies",
       "stream": "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Action Movies Italy (1080p)",
+      "group": "Movies",
+      "stream": "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Action Movies Spain (1080p)",
+      "group": "Movies",
+      "stream": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
     },
     {
       "name": "Rakuten TV Action Movies UK (1080p)",
@@ -998,6 +1818,21 @@
       "stream": "https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8"
     },
     {
+      "name": "Rakuten TV Comedy Movies Finland (1080p)",
+      "group": "Movies",
+      "stream": "https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Comedy Movies Germany (1080p)",
+      "group": "Movies",
+      "stream": "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Comedy Movies Italy (1080p)",
+      "group": "Movies",
+      "stream": "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
+    },
+    {
       "name": "Rakuten TV Comedy Movies Spain (1080p)",
       "group": "Movies",
       "stream": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
@@ -1008,9 +1843,14 @@
       "stream": "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
     },
     {
-      "name": "Rakuten TV Crime Series Germany (1080p)",
+      "name": "Rakuten TV Crime Series Italy (1080p)",
       "group": "Movies",
-      "stream": "https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8"
+      "stream": "https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Crime Series Spain (1080p)",
+      "group": "Movies",
+      "stream": "https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8"
     },
     {
       "name": "Rakuten TV Drama Movies Finland (1080p)",
@@ -1038,6 +1878,16 @@
       "stream": "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
     },
     {
+      "name": "Rakuten TV Family Movies Finland (1080p)",
+      "group": "Movies",
+      "stream": "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Family Movies Germany (1080p)",
+      "group": "Movies",
+      "stream": "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
+    },
+    {
       "name": "Rakuten TV Family Movies Italy (1080p)",
       "group": "Movies",
       "stream": "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
@@ -1048,14 +1898,29 @@
       "stream": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
     },
     {
+      "name": "Rakuten TV Family Movies UK (1080p)",
+      "group": "Movies",
+      "stream": "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Films Action (720p)",
+      "group": "Movies",
+      "stream": "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Films Comédie (720p)",
+      "group": "Movies",
+      "stream": "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Films Drames (720p)",
+      "group": "Movies",
+      "stream": "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8"
+    },
+    {
       "name": "Rakuten TV Films Famille (1080p)",
       "group": "Movies",
       "stream": "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
-    },
-    {
-      "name": "Rakuten TV Films Romance (720p)",
-      "group": "Movies",
-      "stream": "https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8"
     },
     {
       "name": "Rakuten TV Films Thriller (720p)",
@@ -1063,14 +1928,49 @@
       "stream": "https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8"
     },
     {
+      "name": "Rakuten TV German Cinema (1080p)",
+      "group": "Movies",
+      "stream": "https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Nordic Films (1080p)",
+      "group": "Movies",
+      "stream": "https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Romance Movies Finland (1080p)",
+      "group": "Movies",
+      "stream": "https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Romance Movies Germany (1080p)",
+      "group": "Movies",
+      "stream": "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
+    },
+    {
       "name": "Rakuten TV Romance Movies Italy (1080p)",
       "group": "Movies",
       "stream": "https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
     },
     {
+      "name": "Rakuten TV Romance Movies Spain (1080p)",
+      "group": "Movies",
+      "stream": "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8"
+    },
+    {
       "name": "Rakuten TV Romance Movies UK (1080p)",
       "group": "Movies",
       "stream": "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Top Films France (720p)",
+      "group": "Movies",
+      "stream": "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Top Movies Finland (1080p)",
+      "group": "Movies",
+      "stream": "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8"
     },
     {
       "name": "Rakuten TV Top Movies Germany (1080p)",
@@ -1088,9 +1988,59 @@
       "stream": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
     },
     {
+      "name": "Rakuten VIKI",
+      "group": "Other",
+      "stream": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
+    },
+    {
+      "name": "Rakuten Viki (1080p)",
+      "group": "Other",
+      "stream": "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8"
+    },
+    {
       "name": "Rakuten Viki (1080p)",
       "group": "Other",
       "stream": "https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8"
+    },
+    {
+      "name": "Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)",
+      "group": "Other",
+      "stream": "https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8"
+    },
+    {
+      "name": "Real life – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Reality – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61925f874b1ec000075e700a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Remonty TV (1080p)",
+      "group": "Other",
+      "stream": "https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8"
+    },
+    {
+      "name": "Renegade – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/634926e4b51d2d00077819a2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Ridiculousness – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61fbd721e5b49e00079bfedc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Robot Wars by MECH+ – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/651581ba6a84140008593586/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Roja Movies (1080p)",
+      "group": "Movies",
+      "stream": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8"
     },
     {
       "name": "Romedy Now (576p)",
@@ -1118,9 +2068,29 @@
       "stream": "https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8"
     },
     {
-      "name": "Samuel Goldwyn Films (1080p)",
-      "group": "Movies",
-      "stream": "https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8"
+      "name": "Sanctuary – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb57d6c111bc0008fe2658/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "SBS KBC (1080p) [Not 24/7]",
+      "group": "Other",
+      "stream": "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8"
+    },
+    {
+      "name": "Scherzi e risate – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Sci-Fi – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Serie – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "Series K Edge (1080p)",
@@ -1136,6 +2106,11 @@
       "name": "Series K Legacy (1080p)",
       "group": "Movies",
       "stream": "https://d2uvezlpjwbhrx.cloudfront.net/playlist.m3u8"
+    },
+    {
+      "name": "Settimo Cielo – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d3792792150007e20634/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "Shams TV (1080p)",
@@ -1158,9 +2133,24 @@
       "stream": "https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8"
     },
     {
+      "name": "SL 1",
+      "group": "Other",
+      "stream": "https://slonehls.wns.live/hls/stream.m3u8"
+    },
+    {
+      "name": "SL 2",
+      "group": "Other",
+      "stream": "https://sltwohls.wns.live/hls/stream.m3u8"
+    },
+    {
       "name": "Sony One Blacklist (1080p)",
       "group": "Other",
       "stream": "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8"
+    },
+    {
+      "name": "Sony One Favoris (1080p)",
+      "group": "Other",
+      "stream": "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8"
     },
     {
       "name": "Sony One Hits Action (1080p)",
@@ -1183,9 +2173,44 @@
       "stream": "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8"
     },
     {
+      "name": "South Park – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62bc1f502b70e3000706298e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "South Station (1080p)",
+      "group": "Other",
+      "stream": "https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8"
+    },
+    {
+      "name": "Space Series (1080p)",
+      "group": "Movies",
+      "stream": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8"
+    },
+    {
       "name": "Sparkle Movies (720p)",
       "group": "Movies",
       "stream": "https://candlelightmedia-sparklemovies-1-gb.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+      "name": "Sport – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Sport2U",
+      "group": "Other",
+      "stream": "https://stream9.xdevel.com/video0s976916-1685/stream/playlist_dvr.m3u8"
+    },
+    {
+      "name": "SportOutdoor.tv",
+      "group": "Other",
+      "stream": "https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+      "name": "Squadra Speciale Cobra 11 – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625e6cc905e09f00073addee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "Star",
@@ -1193,9 +2218,19 @@
       "stream": "https://livestar.siliconweb.com/starvod/star4/star4.m3u8"
     },
     {
+      "name": "STAR HD (1080p) [Non geo blocked]",
+      "group": "Other",
+      "stream": "http://livestar.siliconweb.com/starvod/star4/star4.m3u8"
+    },
+    {
       "name": "STAR International (720p)",
       "group": "Other",
       "stream": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8"
+    },
+    {
+      "name": "Star Trek: The Original Series – Pluto TV",
+      "group": "Movies",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6581a09edfed030008e12b39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "StashTV Black Stories (720p) [Geo-blocked]",
@@ -1208,6 +2243,86 @@
       "stream": "https://amg01720-amg01720c2-klowdtv-us-4689.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvtheclassics-klowdtvus/playlist.m3u8"
     },
     {
+      "name": "Stingray Pop Adult (1080p)",
+      "group": "Adult",
+      "stream": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+      "name": "Storia – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Studio One + (720p)",
+      "group": "Other",
+      "stream": "https://cdn-1.pishow.tv/live/276/master.m3u8"
+    },
+    {
+      "name": "Super TV (720p)",
+      "group": "Other",
+      "stream": "http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8"
+    },
+    {
+      "name": "Super! Brothers and Sisters – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Super! Gaming – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626192c51c279b00072c4553/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Super! Girl Power – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4ce50728d200072eebe7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Super! Intervallo – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62619544b1bf740007b4154b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Super! POP – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Super! Risate – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb573ba99571000897135b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Super! Rugrats – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8ddbbaed0390007b258a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Super! Spongebob – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Super! Spyders – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655207f8b9c8a700082c7951/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Super! Star – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Super! Victorious – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63c012504faf1c0007abfa93/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Super! Zoey 101 – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6304ed62410a4c00083c0291/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
       "name": "Surf Cinema (1080p)",
       "group": "Movies",
       "stream": "https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8"
@@ -1218,14 +2333,59 @@
       "stream": "https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8"
     },
     {
+      "name": "Suriyan TV (576p)",
+      "group": "Other",
+      "stream": "https://stream.sscloud7.com/live/suriyantv/index.m3u8"
+    },
+    {
+      "name": "Survivor (1080p)",
+      "group": "Other",
+      "stream": "https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8"
+    },
+    {
+      "name": "T2 Movies",
+      "group": "Movies",
+      "stream": "https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202"
+    },
+    {
+      "name": "Taevas TV7",
+      "group": "Other",
+      "stream": "https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8"
+    },
+    {
+      "name": "Taevas TV7 (720p)",
+      "group": "Other",
+      "stream": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8"
+    },
+    {
+      "name": "Taivas TV7",
+      "group": "Other",
+      "stream": "https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8"
+    },
+    {
+      "name": "Taivas TV7 (720p)",
+      "group": "Other",
+      "stream": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8"
+    },
+    {
+      "name": "Teen Mom – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fc8c0d061100083946a9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62619405c733e8000732d1fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Tehran",
+      "group": "Other",
+      "stream": "https://ncdn.telewebion.ir/tehran/live/playlist.m3u8"
+    },
+    {
       "name": "Tehzeeb TV (720p)",
       "group": "Other",
       "stream": "https://cdn-4.pishow.tv/live/239/master.m3u8"
-    },
-    {
-      "name": "Tele Pavia",
-      "group": "Other",
-      "stream": "http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8"
     },
     {
       "name": "Televisa Telenovelas",
@@ -1233,9 +2393,29 @@
       "stream": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"
     },
     {
+      "name": "Thalaa TV (1080p)",
+      "group": "Other",
+      "stream": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8"
+    },
+    {
+      "name": "The Asylum",
+      "group": "Other",
+      "stream": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+    },
+    {
       "name": "The Asylum (1080p)",
       "group": "Other",
       "stream": "https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8"
+    },
+    {
+      "name": "The Asylum – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8d5369e48940007fc1dc1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "The Boat Show – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb58aa60bc8f0008caa8f8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "The Chat Show Channel (1080p)",
@@ -1253,9 +2433,34 @@
       "stream": "https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8"
     },
     {
+      "name": "The Hills – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6466007181844c000967f80a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "The Johnny Carson Show (720p)",
+      "group": "Other",
+      "stream": "https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8"
+    },
+    {
+      "name": "The Movie Club (1080p)",
+      "group": "Movies",
+      "stream": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8"
+    },
+    {
+      "name": "The Movie Club +2 (1080p)",
+      "group": "Movies",
+      "stream": "https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf"
+    },
+    {
       "name": "The Pet Collective",
       "group": "Other",
       "stream": "https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+      "name": "The pet collective – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "The Walking Dead Universe (720p) [Geo-blocked]",
@@ -1273,14 +2478,74 @@
       "stream": "http://api.toonamiaftermath.com:3000/movies/playlist.m3u8"
     },
     {
+      "name": "Top Gear – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c109a4798def0008a6e03e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
       "name": "Top Movies Polska (1080p)",
       "group": "Movies",
       "stream": "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8"
     },
     {
+      "name": "Top Serien (1080p)",
+      "group": "Other",
+      "stream": "https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8"
+    },
+    {
+      "name": "Totò – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65253f9881f942000833ccd5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Trace Latina Ⓖ",
+      "group": "Other",
+      "stream": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8"
+    },
+    {
+      "name": "Trace Urban Ⓖ",
+      "group": "Other",
+      "stream": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8"
+    },
+    {
+      "name": "Tretiy Cifrovoy (480p) [Not 24/7]",
+      "group": "Other",
+      "stream": "https://cdn15.live-tv.cloud/ua_infinitas_tv/3tvod-abr/playlist.m3u8"
+    },
+    {
+      "name": "TRT Kurdî (720p)",
+      "group": "Kurdish",
+      "stream": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8"
+    },
+    {
+      "name": "True Crime Network+ (1080p) [Geo-blocked]",
+      "group": "Other",
+      "stream": "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "True Crime UK (1080p)",
+      "group": "Other",
+      "stream": "https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8"
+    },
+    {
+      "name": "TV Hram (576p) [Not 24/7]",
+      "group": "Other",
+      "stream": "https://vod1.laki.eu/live/hram/index.m3u8"
+    },
+    {
+      "name": "TV Series 1 As Panteras (480p)",
+      "group": "Movies",
+      "stream": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
+    },
+    {
       "name": "TV Zimbo (1080p)",
       "group": "Other",
       "stream": "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8"
+    },
+    {
+      "name": "TVCARiB Cinema (720p) [Not 24/7]",
+      "group": "Movies",
+      "stream": "https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8"
     },
     {
       "name": "TVE Star (576p)",
@@ -1303,9 +2568,54 @@
       "stream": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8"
     },
     {
+      "name": "TVP Info (1080p)",
+      "group": "Other",
+      "stream": "https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8"
+    },
+    {
+      "name": "TVP Polonia (1080p)",
+      "group": "Other",
+      "stream": "https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8"
+    },
+    {
+      "name": "TVP World (1080p)",
+      "group": "Other",
+      "stream": "https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8"
+    },
+    {
+      "name": "TVS (576p) [Geo-blocked]",
+      "group": "Other",
+      "stream": "https://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/c6ef76cc-cde3-4b96-8684-3828e229c6d4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.147*asn/u_srvc/81255/u_did/web_13KAuOjcvMvSypM1dvXHzz0O9IIFWwyq/type.live/chunklist-sid2756675719062283008-b2490000.m3u8"
+    },
+    {
       "name": "TVS Classic Movies (288p)",
       "group": "Movies",
       "stream": "https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8"
+    },
+    {
+      "name": "TVS Drive In Movie (360p)",
+      "group": "Movies",
+      "stream": "https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8"
+    },
+    {
+      "name": "TVS Nostalgia Movies (480p)",
+      "group": "Movies",
+      "stream": "https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8"
+    },
+    {
+      "name": "TVS Western Movie (270p)",
+      "group": "Movies",
+      "stream": "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8"
+    },
+    {
+      "name": "Ultimate Classic Wrestling – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/652516fb7971630008a58e74/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Unbeaten Sports – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c3b106dac71b00080a26d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
       "name": "Universal Action (1080p)",
@@ -1318,14 +2628,64 @@
       "stream": "https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8"
     },
     {
+      "name": "Unsolved Mysteries (720p)",
+      "group": "Other",
+      "stream": "https://d31z96rdrmwfsp.cloudfront.net/master.m3u8"
+    },
+    {
+      "name": "Urban Action TV (1080p)",
+      "group": "Movies",
+      "stream": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8"
+    },
+    {
       "name": "Vantage Music UK (1080p) [Geo-blocked]",
       "group": "Other",
       "stream": "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8"
     },
     {
+      "name": "Venevisión Internacional (720p)",
+      "group": "Other",
+      "stream": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8"
+    },
+    {
+      "name": "VH1+ Back to 90's – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6552085aab05240008b05f6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "VH1+ Canzoni Italiane – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63724270c7c2360007b170e8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
       "name": "VH1+ Girl Power! – Pluto TV",
       "group": "Other",
       "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655208ff53fc9700084a834e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "VH1+ Music Legends – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "VH1+ Rock! – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Viaggi – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Vijay Super (576p)",
+      "group": "Other",
+      "stream": "http://202.70.146.135:8000/play/a008/index.m3u8"
+    },
+    {
+      "name": "viju TV1000 Русское",
+      "group": "Other",
+      "stream": "http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8"
     },
     {
       "name": "Vintage Music (720p)",
@@ -1338,6 +2698,31 @@
       "stream": "https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8"
     },
     {
+      "name": "VOA Persian (1080p)",
+      "group": "Persian",
+      "stream": "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8"
+    },
+    {
+      "name": "WBTV At the Movies (720p) [Geo-blocked]",
+      "group": "Movies",
+      "stream": "https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8"
+    },
+    {
+      "name": "WBTV Classic Cinema (720p) [Geo-blocked]",
+      "group": "Movies",
+      "stream": "https://live-manifest.production-public.tubi.io/live/c9a11be6-98bc-4a1b-a8f0-6236bffa7286/playlist.m3u8"
+    },
+    {
+      "name": "WBTV Generation Drama (720p) [Geo-blocked]",
+      "group": "Movies",
+      "stream": "https://live-manifest.production-public.tubi.io/live/a8250c51-f628-4936-97cb-67a931d2d7d8/playlist.m3u8"
+    },
+    {
+      "name": "WCCA 194 Worcester MA (WCCA-TV) (480p)",
+      "group": "Other",
+      "stream": "https://worcester.vod.castus.tv/live/ch1.m3u8"
+    },
+    {
       "name": "wedo movies (1080p) [Geo-blocked]",
       "group": "Movies",
       "stream": "https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/playlist/videosolu-w4freemovies-samsunguk/playlist.m3u8"
@@ -1348,9 +2733,29 @@
       "stream": "https://stream.badinan.xyz/welat/tv/playlist.m3u8"
     },
     {
+      "name": "Western – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fb67478a5b0007e6c50c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Whiplash Cinema (480p)",
+      "group": "Movies",
+      "stream": "https://cdn.whiplash.cc/whiplash-cinema/index.m3u8"
+    },
+    {
+      "name": "World poker tour – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
       "name": "Wu Tang Collection (720p)",
       "group": "Other",
       "stream": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745"
+    },
+    {
+      "name": "XITE Just Chill (1080p)",
+      "group": "Other",
+      "stream": "https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8"
     },
     {
       "name": "XITE Reggae Vibes (1080p)",
@@ -1363,9 +2768,49 @@
       "stream": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8"
     },
     {
+      "name": "Yu-Gi-Oh! – Pluto TV",
+      "group": "Other",
+      "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb82e24e83e70008ab735f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+    },
+    {
+      "name": "Zagros",
+      "group": "Kurdish",
+      "stream": "https://ncdn.telewebion.ir/zagros/live/playlist.m3u8"
+    },
+    {
+      "name": "Zagros (720p) [Not 24/7]",
+      "group": "Kurdish",
+      "stream": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
+    },
+    {
+      "name": "ZB Cinema (720p)",
+      "group": "Movies",
+      "stream": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
+    },
+    {
+      "name": "Zylo Cine Friki (1080p)",
+      "group": "Other",
+      "stream": "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
+    },
+    {
       "name": "Zylo Cine Western (1080p)",
       "group": "Other",
       "stream": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8"
+    },
+    {
+      "name": "Zylo Ciné Nanar (1080p)",
+      "group": "Other",
+      "stream": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Zylo Ciné Western (1080p)",
+      "group": "Other",
+      "stream": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8"
+    },
+    {
+      "name": "Zylo Emotion' L (1080p)",
+      "group": "Other",
+      "stream": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8"
     },
     {
       "name": "Zylo Fréquence Novelas (1080p)",
@@ -1373,9 +2818,69 @@
       "stream": "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
     },
     {
+      "name": "Zylo ScreamIN (1080p)",
+      "group": "Other",
+      "stream": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
+    },
+    {
+      "name": "Zylo Todo Novelas (1080p)",
+      "group": "Other",
+      "stream": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
+    },
+    {
+      "name": "Восток 24 (Владивосток) (1080p)",
+      "group": "Other",
+      "stream": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8"
+    },
+    {
       "name": "Детское кино International [Not 24/7]",
       "group": "Other",
       "stream": "https://autopilot.catcast.tv/content/38720/index.m3u8"
+    },
+    {
+      "name": "Дом Кино",
+      "group": "Other",
+      "stream": "https://streaming.thestream.cyou/live/44.m3u8"
+    },
+    {
+      "name": "Дом Кино Премиум HD (1080p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8"
+    },
+    {
+      "name": "Еврокино (576p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Evrokino/index.m3u8"
+    },
+    {
+      "name": "Иллюзион+ (576p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Illusion_plus/index.m3u8"
+    },
+    {
+      "name": "Кинеко (1080p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Kineko_HD/index.m3u8"
+    },
+    {
+      "name": "Кино 1 International [Not 24/7]",
+      "group": "Other",
+      "stream": "http://kino-1.catcast.tv/content/38617/index.m3u8"
+    },
+    {
+      "name": "КИНО ТВ (720p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Kino_TV_HD/index.m3u8"
+    },
+    {
+      "name": "Кинопоказ (576p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Kinopokaz/index.m3u8"
+    },
+    {
+      "name": "КИНОСАТ (576p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Kineko/index.m3u8"
     },
     {
       "name": "Луганск 24",
@@ -1383,9 +2888,29 @@
       "stream": "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
     },
     {
+      "name": "Мир Сериала (576p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Mir_Seriala/index.m3u8"
+    },
+    {
       "name": "Новый Русский (720p)",
       "group": "Other",
       "stream": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8"
+    },
+    {
+      "name": "НТВ Сериал (576p)",
+      "group": "Other",
+      "stream": "https://cdn.ntv.ru/th_serial/playlist.m3u8"
+    },
+    {
+      "name": "НТВ Хит (576p)",
+      "group": "Other",
+      "stream": "https://cdn.ntv.ru/th_hit/playlist.m3u8"
+    },
+    {
+      "name": "Патриот (576i)",
+      "group": "Other",
+      "stream": "http://catchup.videoline.ru/asvtv/index.m3u8"
     },
     {
       "name": "Пятница! (576p)",
@@ -1393,9 +2918,49 @@
       "stream": "https://vod.tuva.ru/friday/index.m3u8"
     },
     {
+      "name": "Родное Кино (576p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Rodnoe_kino/index.m3u8"
+    },
+    {
+      "name": "Русский Бестселлер (576p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Russkiy_Bestseller/index.m3u8"
+    },
+    {
+      "name": "Русский Детектив (576p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Russkiy_Detektiv/index.m3u8"
+    },
+    {
+      "name": "Русский Иллюзион (576p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Russkiy_illusion/index.m3u8"
+    },
+    {
+      "name": "Русский Роман (1080p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8"
+    },
+    {
+      "name": "Сапфир (720p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Sapfir_HD/index.m3u8"
+    },
+    {
       "name": "Смотрим Честный Детектив (1080p)",
       "group": "Other",
       "stream": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8"
+    },
+    {
+      "name": "Феникс плюс Кино (576p)",
+      "group": "Other",
+      "stream": "http://31.148.48.15/Feniks_plus_kino/index.m3u8"
+    },
+    {
+      "name": "Якутия 24",
+      "group": "Other",
+      "stream": "https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8"
     },
     {
       "name": "唯心電視 (480p)",
