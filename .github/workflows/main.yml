@@ -66,10 +66,26 @@ jobs:
             echo "✅ Loaded premium sources from secrets (${#PREMIUM_SOURCES} chars)"
             wc -l premium_sources.txt
           else
-            echo "ℹ️ No PREMIUM_SOURCES secret, using only free sources"
+            echo "ℹ️ No PREMIUM_SOURCES secret, using existing file"
+          fi
+          if [ -f premium_sources.txt ]; then
+            echo "Existing premium: $(wc -l < premium_sources.txt) accounts"
           fi
 
-      - name: Run IPTV V2 Builder
+      - name: Auto Premium Scraper (Scheduled - No API needed)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          echo "🔍 Running auto premium scraper (target 100 accounts)..."
+          # Try to collect more accounts automatically
+          python collect_premium.py || echo "⚠️ Premium collection failed, continuing with existing"
+          
+          if [ -f premium_sources.txt ]; then
+            echo "✅ Premium accounts after auto-scrape: $(grep -v '^#' premium_sources.txt | wc -l) valid"
+            head -10 premium_sources.txt
+          fi
+
+      - name: Run IPTV V2 Builder (ALL categories - Movies, Documentary, Wildlife, Kids...)
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

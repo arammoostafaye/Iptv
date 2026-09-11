@@ -243,19 +243,22 @@ class XtreamScraper:
                 if len(channels) > max_channels_per_account:
                     channels = channels[:max_channels_per_account]
                 
-                # فیلتر هوشمند: فقط کردی/فارسی/ورزشی مرتبط
+                # V2 UPGRADE: Keep ALL categories from premium (Movies, Documentary, Kids, Music, etc)
+                # قبلا فقط کردی/فارسی نگه میداشتیم، الان همه را نگه میداریم
                 kept = []
                 for ch in channels:
                     try:
                         group = classifier_fn(ch)
-                        # فقط گروه های مورد نظر ما
-                        if group in ("Kurdish", "Persian", "Sports", "Movies"):
-                            # برای پریمیوم، حتی Movies هم اگر اسم فارسی/کردی داشته باشد قبول کن
+                        # همه گروه ها به جز DROP را نگه دار
+                        if group != "DROP":
+                            ch["group"] = group
                             kept.append(ch)
                     except:
-                        pass
+                        # اگر classifier خطا داد، به عنوان Other نگه دار
+                        ch["group"] = "Other"
+                        kept.append(ch)
                 
-                print(f"  📦 PREMIUM {m3u_url[:50]}... -> {len(kept)}/{len(channels)} kept (Kurdish/Persian)")
+                print(f"  📦 PREMIUM {m3u_url[:50]}... -> {len(kept)}/{len(channels)} kept (ALL categories)")
                 return kept
 
         except Exception as e:

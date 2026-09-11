@@ -225,26 +225,32 @@ async def build_playlist():
             all_premium_links.update(gh_links)
             print(f"  🔍 GitHub scrape: {len(gh_links)} links")
 
-        # Validate premium accounts (limit to 30 for speed)
+        # Validate premium accounts - AUTO, up to 100 accounts as requested
         if all_premium_links:
-            print(f"\n💎 Premium: Found {len(all_premium_links)} total links, validating top 30...")
-            valid = await scraper.validate_batch(list(all_premium_links)[:30], concurrency=30)
-            print(f"  ✅ Valid premium accounts: {len(valid)}")
+            # اگر 100+ لینک داریم، همه را تست کن (تا 100)
+            to_validate = list(all_premium_links)[:100]
+            print(f"\n💎 Premium: Found {len(all_premium_links)} total links, validating top {len(to_validate)} (target 100)...")
+            valid = await scraper.validate_batch(to_validate, concurrency=40)
+            print(f"  ✅ Valid premium accounts: {len(valid)}/{len(to_validate)}")
 
-            # Fetch filtered channels from valid accounts
+            # Fetch ALL categories from valid accounts (Movies, Documentary, Kids, Wildlife, etc)
             if valid:
-                connector = aiohttp.TCPConnector(limit=50, ssl=False)
+                connector = aiohttp.TCPConnector(limit=60, ssl=False)
                 async with aiohttp.ClientSession(connector=connector) as session:
-                    for m3u_url in valid[:10]:  # top 10 only to avoid overload
-                        # classifier function wrapper
+                    # تا 20 اکانت برتر را برای گرفتن کانال بیشتر تست کن
+                    for m3u_url in valid[:20]:
                         def classifier_fn(ch):
                             from core.classifier import classify_channel
                             g, _ = classify_channel(ch, db)
                             return g
                         chans = await scraper.fetch_and_filter_premium(session, m3u_url, classifier_fn)
                         premium_channels.extend(chans)
+                        # اگر 5000 کانال پریمیوم گرفتیم کافی است (جلوگیری از overload)
+                        if len(premium_channels) > 8000:
+                            print(f"  ⚠️ Reached 8000 premium channels limit, stopping")
+                            break
 
-            print(f"  📦 Premium filtered channels: {len(premium_channels)}")
+            print(f"  📦 Premium channels (ALL categories - Movies, Documentary, Kids, Sports, Wildlife...): {len(premium_channels)}")
             raw.extend(premium_channels)
 
     except Exception as e:
