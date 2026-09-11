@@ -166,7 +166,8 @@ let currentChannel = null;
 
 async function loadChannels() {
   try {
-    const res = await fetch('../channels.json?t=' + Date.now());
+    // از main branch بخوان چون gh-pages فقط index.html دارد
+    const res = await fetch('https://raw.githubusercontent.com/arammoostafaye/Iptv/main/channels.json?t=' + Date.now());
     const data = await res.json();
     allChannels = data.channels || [];
     
