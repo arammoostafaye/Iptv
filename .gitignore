@@ -1,0 +1,37 @@
+# Premium - NEVER commit raw credentials
+premium_sources.txt
+telegram_premium.txt
+github_premium.txt
+anon_telegram_session.session
+anon_telegram_session.session-journal
+*.session
+
+# Cache
+check_cache.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Env
+.env
+.env.local
+
+# Output duplicates (keep main ones)
+output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

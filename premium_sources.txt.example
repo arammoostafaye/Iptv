@@ -1,0 +1,17 @@
+# Anon TV - Premium Sources Example
+# این فایل را کپی کن به premium_sources.txt و لینک های خودت را اضافه کن
+# هر خط یک اکانت Xtream
+# فرمت: http://host:port/get.php?username=USER&password=PASS&type=m3u_plus&output=ts
+# این فایل در .gitignore است و هرگز کامیت نمیشود
+
+# مثال (اینها فیک هستند):
+# http://example.com:8080/get.php?username=test123&password=pass123&type=m3u_plus&output=ts
+# http://line.example.net:8080/get.php?username=abc&password=xyz&type=m3u_plus
+
+# چطور پیدا کنیم؟
+# 1. کانال های تلگرام: @IPTV_M3U_WORLD, @xtream_iptv_free, @freeiptv2026
+# 2. سایت iptvcat.com
+# 3. GitHub search: get.php?username password type=m3u_plus
+# 4. Reddit r/IPTV
+
+# نکته: 80% اکانت ها بعد 24 ساعت میمیرند، هر روز آپدیت کن

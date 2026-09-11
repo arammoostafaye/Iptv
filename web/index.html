@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="ku" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Anon TV - Kurdish & Persian IPTV</title>
+<meta name="description" content="Best Kurdish and Persian IPTV playlist - Auto updated, 2000+ channels">
+<link rel="icon" href="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png">
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<style>
+:root {
+  --bg: #0a0e13;
+  --card: #151a23;
+  --card-hover: #1e2633;
+  --accent: #e63946;
+  --accent2: #00d4aa;
+  --text: #e8eef4;
+  --muted: #8a9bb0;
+  --border: #222d3d;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; background: var(--bg); color: var(--text); min-height:100vh; }
+.header { background: linear-gradient(135deg, #0f141e 0%, #1a2332 100%); border-bottom: 1px solid var(--border); padding: 20px; position: sticky; top:0; z-index:100; backdrop-filter: blur(12px); }
+.header-inner { max-width:1400px; margin:0 auto; display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:16px; }
+.logo-area { display:flex; align-items:center; gap:12px; }
+.logo-area img { width:44px; height:44px; border-radius:12px; }
+.logo-area h1 { font-size:22px; font-weight:800; }
+.logo-area h1 span { color: var(--accent); }
+.stats { display:flex; gap:12px; flex-wrap:wrap; }
+.stat { background: var(--card); border:1px solid var(--border); padding:8px 14px; border-radius:10px; font-size:13px; }
+.stat b { color: var(--accent2); }
+.controls { max-width:1400px; margin:20px auto; padding:0 20px; display:flex; gap:12px; flex-wrap:wrap; }
+.search-box { flex:1; min-width:260px; position:relative; }
+.search-box input { width:100%; background: var(--card); border:1px solid var(--border); color: var(--text); padding:14px 44px 14px 16px; border-radius:14px; font-size:15px; outline:none; transition:.2s; }
+.search-box input:focus { border-color: var(--accent); box-shadow:0 0 0 3px rgba(230,57,70,.15); }
+.search-box svg { position:absolute; right:14px; top:50%; transform:translateY(-50%); width:20px; height:20px; opacity:.5; }
+.filter-group { display:flex; gap:8px; flex-wrap:wrap; }
+.filter-btn { background: var(--card); border:1px solid var(--border); color: var(--muted); padding:10px 18px; border-radius:12px; cursor:pointer; font-size:14px; transition:.2s; }
+.filter-btn:hover { background: var(--card-hover); color: var(--text); }
+.filter-btn.active { background: var(--accent); border-color: var(--accent); color:white; font-weight:600; }
+.main { max-width:1400px; margin:0 auto; padding:0 20px 40px; display:grid; grid-template-columns: 340px 1fr; gap:20px; }
+@media(max-width:900px){ .main{grid-template-columns:1fr;} .player-wrap{position:relative !important; top:0 !important;} }
+.player-wrap { background: var(--card); border:1px solid var(--border); border-radius:18px; overflow:hidden; position:sticky; top:100px; height:fit-content; }
+.player-header { padding:14px 18px; border-bottom:1px solid var(--border); display:flex; align-items:center; justify-content:space-between; }
+.player-header h3 { font-size:14px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:200px; }
+.live-badge { background: var(--accent); color:white; font-size:11px; padding:3px 8px; border-radius:6px; animation: pulse 1.5s infinite; }
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.6}}
+#video { width:100%; aspect-ratio:16/9; background:#000; }
+.player-info { padding:12px 16px; }
+.player-info .meta { display:flex; gap:8px; margin-top:8px; flex-wrap:wrap; }
+.meta span { font-size:11px; background:#0f141e; border:1px solid var(--border); padding:4px 8px; border-radius:6px; color:var(--muted); }
+.player-actions { display:flex; gap:8px; margin-top:12px; }
+.btn { flex:1; padding:10px; border-radius:10px; border:none; cursor:pointer; font-size:13px; font-weight:600; transition:.2s; }
+.btn-primary { background: var(--accent2); color:#000; }
+.btn-secondary { background: var(--card-hover); color: var(--text); border:1px solid var(--border); }
+.btn:hover{transform:translateY(-1px); opacity:.9;}
+.channels-wrap { background: var(--card); border:1px solid var(--border); border-radius:18px; overflow:hidden; }
+.channels-header { padding:16px 20px; border-bottom:1px solid var(--border); display:flex; justify-content:space-between; align-items:center; }
+.channels-grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap:12px; padding:16px; max-height: calc(100vh - 180px); overflow-y:auto; }
+@media(max-width:600px){ .channels-grid{grid-template-columns:1fr;} }
+.channel-card { background: #0f141e; border:1px solid var(--border); border-radius:14px; padding:12px; display:flex; gap:12px; align-items:center; cursor:pointer; transition:.2s; }
+.channel-card:hover { background: var(--card-hover); border-color: var(--accent); transform:translateY(-2px); }
+.channel-card.active { border-color: var(--accent2); background: rgba(0,212,170,.08); }
+.channel-logo { width:48px; height:48px; border-radius:10px; background: #1a2332; object-fit:contain; flex-shrink:0; }
+.channel-info { flex:1; min-width:0; }
+.channel-info h4 { font-size:14px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.channel-info p { font-size:11px; color: var(--muted); margin-top:2px; }
+.group-badge { font-size:10px; padding:3px 7px; border-radius:6px; font-weight:700; }
+.group-Kurdish{ background: rgba(230,57,70,.15); color:#ff6b7a; border:1px solid rgba(230,57,70,.3); }
+.group-Persian{ background: rgba(0,212,170,.12); color:#00d4aa; border:1px solid rgba(0,212,170,.25); }
+.group-Sports{ background: rgba(255,193,7,.12); color:#ffc107; border:1px solid rgba(255,193,7,.25); }
+.group-Movies{ background: rgba(156,39,176,.12); color:#ce93d8; border:1px solid rgba(156,39,176,.25); }
+.group-Music{ background: rgba(33,150,243,.12); color:#64b5f6; border:1px solid rgba(33,150,243,.25); }
+.group-News{ background: rgba(244,67,54,.12); color:#ef9a9a; border:1px solid rgba(244,67,54,.25); }
+.footer { text-align:center; padding:30px 20px; color: var(--muted); font-size:13px; border-top:1px solid var(--border); margin-top:20px; }
+.footer a{color: var(--accent2); text-decoration:none;}
+.playlist-box { background:#0f141e; border:1px dashed var(--border); border-radius:12px; padding:14px; margin:16px; font-family:monospace; font-size:12px; word-break:break-all; }
+.playlist-box code{color: var(--accent2);}
+.copy-btn{float:left; background:var(--card-hover); border:1px solid var(--border); color:var(--text); padding:4px 10px; border-radius:6px; cursor:pointer; font-size:11px;}
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="header-inner">
+    <div class="logo-area">
+      <img src="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" alt="Anon TV">
+      <div>
+        <h1>Anon <span>TV</span></h1>
+        <div style="font-size:11px;color:var(--muted)">Kurdish & Persian IPTV • Auto Updated</div>
+      </div>
+    </div>
+    <div class="stats">
+      <div class="stat">Total: <b id="total-count">-</b></div>
+      <div class="stat">Kurdish: <b id="kurd-count">-</b></div>
+      <div class="stat">Persian: <b id="pers-count">-</b></div>
+      <div class="stat">Updated: <b id="updated">-</b></div>
+    </div>
+  </div>
+</div>
+
+<div class="controls">
+  <div class="search-box">
+    <input type="text" id="search" placeholder="جستجوی کانال... Rudaw, GEM, Manoto, Varzesh">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+  </div>
+  <div class="filter-group">
+    <button class="filter-btn active" data-group="all">همه</button>
+    <button class="filter-btn" data-group="Kurdish">🟥 Kurdish</button>
+    <button class="filter-btn" data-group="Persian">🟩 Persian</button>
+    <button class="filter-btn" data-group="Sports">⚽ Sports</button>
+    <button class="filter-btn" data-group="Movies">🎬 Movies</button>
+    <button class="filter-btn" data-group="News">📰 News</button>
+    <button class="filter-btn" data-group="Music">🎵 Music</button>
+  </div>
+</div>
+
+<div class="main">
+  <div class="player-wrap">
+    <div class="player-header">
+      <h3 id="now-playing">یک کانال انتخاب کنید</h3>
+      <span class="live-badge">LIVE</span>
+    </div>
+    <video id="video" controls autoplay muted playsinline></video>
+    <div class="player-info">
+      <div id="player-meta" class="meta"></div>
+      <div class="player-actions">
+        <button class="btn btn-primary" id="copy-link">📋 کپی لینک</button>
+        <button class="btn btn-secondary" id="open-vlc">▶️ VLC</button>
+      </div>
+      <div class="playlist-box">
+        <button class="copy-btn" onclick="copyPlaylist('full')">کپی</button>
+        <div>Full Playlist:</div>
+        <code id="pl-full">https://raw.githubusercontent.com/arammoostafaye/Iptv/main/list.m3u</code>
+        <div style="margin-top:10px"><button class="copy-btn" onclick="copyPlaylist('kurd')">کپی</button>Kurdish Only:</div>
+        <code id="pl-kurd">https://raw.githubusercontent.com/arammoostafaye/Iptv/main/kurdish.m3u</code>
+        <div style="margin-top:10px"><button class="copy-btn" onclick="copyPlaylist('pers')">کپی</button>Persian Only:</div>
+        <code id="pl-pers">https://raw.githubusercontent.com/arammoostafaye/Iptv/main/persian.m3u</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="channels-wrap">
+    <div class="channels-header">
+      <h3>📺 کانال‌ها <span id="filtered-count" style="color:var(--muted);font-weight:400;font-size:13px"></span></h3>
+      <span style="font-size:11px;color:var(--muted)">کلیک برای پخش</span>
+    </div>
+    <div class="channels-grid" id="channels-grid">
+      <div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--muted)">در حال بارگذاری...</div>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <p>Built with ❤️ by <a href="https://github.com/arammoostafaye" target="_blank">Aram Moostafaye</a> • Anon TV • Auto updated every 6 hours</p>
+  <p style="margin-top:8px">Use in VLC / TiviMate / Kodi / Any IPTV Player • <a href="https://github.com/arammoostafaye/Iptv" target="_blank">GitHub Repo</a></p>
+</div>
+
+<script>
+let allChannels = [];
+let currentGroup = 'all';
+let searchQuery = '';
+let hls = null;
+let currentChannel = null;
+
+async function loadChannels() {
+  try {
+    const res = await fetch('../channels.json?t=' + Date.now());
+    const data = await res.json();
+    allChannels = data.channels || [];
+    
+    document.getElementById('total-count').textContent = data.total || allChannels.length;
+    document.getElementById('updated').textContent = new Date(data.updated).toLocaleDateString('fa-IR');
+    
+    const groups = data.groups || {};
+    document.getElementById('kurd-count').textContent = groups.Kurdish || allChannels.filter(c=>c.group==='Kurdish').length;
+    document.getElementById('pers-count').textContent = groups.Persian || allChannels.filter(c=>c.group==='Persian').length;
+    
+    render();
+  } catch(e) {
+    // fallback to list.m3u parsing if json fails
+    console.error(e);
+    document.getElementById('channels-grid').innerHTML = '<div style="grid-column:1/-1;padding:20px;color:#ff6b7a">خطا در بارگذاری. لطفا بعدا تلاش کنید یا از لینک مستقیم M3U استفاده کنید.</div>';
+  }
+}
+
+function render() {
+  const grid = document.getElementById('channels-grid');
+  let filtered = allChannels;
+  
+  if (currentGroup !== 'all') {
+    filtered = filtered.filter(c => c.group === currentGroup);
+  }
+  if (searchQuery) {
+    const q = searchQuery.toLowerCase();
+    filtered = filtered.filter(c => c.name.toLowerCase().includes(q) || (c.group||'').toLowerCase().includes(q));
+  }
+  
+  document.getElementById('filtered-count').textContent = `(${filtered.length})`;
+  
+  if (filtered.length === 0) {
+    grid.innerHTML = '<div style="grid-column:1/-1;text-align:center;padding:30px;color:var(--muted)">کانالی یافت نشد</div>';
+    return;
+  }
+  
+  grid.innerHTML = filtered.slice(0, 500).map(ch => `
+    <div class="channel-card ${currentChannel && currentChannel.stream===ch.stream ? 'active':''}" onclick="playChannel('${encodeURIComponent(ch.stream)}','${encodeURIComponent(ch.name)}','${ch.group}','${encodeURIComponent(ch.logo||'')}')">
+      <img class="channel-logo" src="${ch.logo || 'https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png'}" onerror="this.src='https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png'" loading="lazy">
+      <div class="channel-info">
+        <h4>${escapeHtml(ch.name)}</h4>
+        <p>${ch.group}</p>
+      </div>
+      <span class="group-badge group-${ch.group}">${ch.group}</span>
+    </div>
+  `).join('');
+}
+
+function escapeHtml(s){ return s.replace(/[&<>"']/g, m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[m])); }
+
+function playChannel(encUrl, encName, group, encLogo) {
+  const url = decodeURIComponent(encUrl);
+  const name = decodeURIComponent(encName);
+  const logo = decodeURIComponent(encLogo);
+  currentChannel = { stream: url, name, group, logo };
+  
+  document.getElementById('now-playing').textContent = name;
+  document.getElementById('player-meta').innerHTML = `
+    <span>📂 ${group}</span>
+    <span>🔗 HLS</span>
+    <span>📺 ${name}</span>
+  `;
+  
+  const video = document.getElementById('video');
+  
+  if (hls) { hls.destroy(); hls = null; }
+  
+  if (Hls.isSupported()) {
+    hls = new Hls({ enableWorker:true, lowLatencyMode:true });
+    hls.loadSource(url);
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED, () => video.play().catch(()=>{}));
+    hls.on(Hls.Events.ERROR, (e, data) => {
+      if (data.fatal) {
+        console.error('HLS fatal', data);
+        // try native
+        video.src = url;
+      }
+    });
+  } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.src = url;
+    video.play().catch(()=>{});
+  } else {
+    video.src = url;
+  }
+  
+  render();
+  window.scrollTo({ top:0, behavior:'smooth' });
+}
+
+document.getElementById('search').addEventListener('input', e => {
+  searchQuery = e.target.value;
+  render();
+});
+
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+    btn.classList.add('active');
+    currentGroup = btn.dataset.group;
+    render();
+  });
+});
+
+document.getElementById('copy-link').addEventListener('click', () => {
+  if (!currentChannel) return alert('ابتدا یک کانال انتخاب کنید');
+  navigator.clipboard.writeText(currentChannel.stream);
+  const b = document.getElementById('copy-link');
+  const old = b.textContent;
+  b.textContent = '✅ کپی شد!';
+  setTimeout(()=>b.textContent=old, 1500);
+});
+
+document.getElementById('open-vlc').addEventListener('click', () => {
+  if (!currentChannel) return;
+  window.open(currentChannel.stream, '_blank');
+});
+
+function copyPlaylist(type) {
+  const map = {
+    full: 'pl-full',
+    kurd: 'pl-kurd',
+    pers: 'pl-pers'
+  };
+  const el = document.getElementById(map[type]);
+  if (el) {
+    navigator.clipboard.writeText(el.textContent);
+    alert('کپی شد: ' + el.textContent);
+  }
+}
+
+loadChannels();
+</script>
+</body>
+</html>

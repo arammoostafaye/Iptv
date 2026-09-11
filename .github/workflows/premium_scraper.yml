@@ -1,0 +1,92 @@
+name: Premium Scraper
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # هر روز ساعت 2 صبح
+  workflow_dispatch:
+    inputs:
+      enable_telegram:
+        description: 'Enable Telegram scraping'
+        type: boolean
+        default: false
+      enable_github:
+        description: 'Enable GitHub scraping'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-premium:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install deps
+        run: |
+          pip install -r requirements.txt
+
+      - name: Restore premium cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            premium_sources.txt
+            premium_all_found.txt
+          key: premium-${{ hashFiles('premium_sources.txt') }}
+          restore-keys: premium-
+
+      - name: Run Auto Premium Aggregator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          TG_API_ID: ${{ secrets.TG_API_ID }}
+          TG_API_HASH: ${{ secrets.TG_API_HASH }}
+          PREMIUM_SOURCES: ${{ secrets.PREMIUM_SOURCES }}
+        run: |
+          # اگر Secret وجود دارد، آن را به فایل تبدیل کن
+          if [ ! -z "$PREMIUM_SOURCES" ]; then
+            echo "$PREMIUM_SOURCES" > premium_sources.txt
+            echo "Loaded premium from secret"
+          fi
+
+          # اجرای اسکرپر
+          python -m sources.auto_premium \
+            ${{ inputs.enable_telegram && '--telegram' || '' }} \
+            ${{ inputs.enable_github && '--github' || '--github' }} \
+            --limit 200
+
+          echo "=== Results ==="
+          ls -lh premium*.txt 2>/dev/null || echo "No premium files"
+          if [ -f premium_sources.txt ]; then
+            echo "Valid accounts: $(wc -l < premium_sources.txt)"
+            head -5 premium_sources.txt
+          fi
+
+      - name: Save premium to secret file (for main workflow)
+        run: |
+          if [ -f premium_sources.txt ]; then
+            # این فایل برای workflow اصلی استفاده میشود
+            # فقط 10 تای اول را برای امنیت نگه دار
+            head -20 premium_sources.txt > premium_top.txt
+            echo "Top 20 saved"
+          fi
+
+      - name: Commit premium sources (private cache)
+        run: |
+          git config user.name "Premium Bot"
+          git config user.email "premium@anontv.github"
+          
+          # فقط فایل all_found را کامیت کن نه valid (برای جلوگیری از لو رفتن اکانت های سالم در تاریخچه عمومی)
+          # اگر میخوای پرایوت باشه، این step را حذف کن و فقط از Secrets استفاده کن
+          git add premium_all_found.txt 2>/dev/null || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "Premium scrape: $(date -u) - found $(wc -l < premium_all_found.txt 2>/dev/null || echo 0) links" || true
+          git push || echo "Push failed or no changes"
