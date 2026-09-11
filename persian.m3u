@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Persian - 114 channels
+#   Persian - 163 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-11 14:53 UTC
-#   Channels: 114
+#   Updated: 2026-09-11 20:33 UTC
+#   Channels: 163
 # +======================================+
 #EXTINF:-1 tvg-id="1TV.ge@SD" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="Persian",1TV (720p)
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
@@ -86,6 +86,8 @@ https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202
 https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HodHodFarsiTV.ir@SD" tvg-logo="https://i.imgur.com/l8XMKTT.png" group-title="Persian",HodHod Farsi TV (1080p)
 https://northtelecom.b-cdn.net/hodhodtv.m3u8
+#EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-name="iFilm" tvg-logo="https://i.imgur.com/4Z9L1AW.png" group-title="Persian",iFilm
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
 #EXTINF:-1 tvg-id="iFilm2.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png" group-title="Persian",iFilm 2
 https://live.presstv.ir/hls/ifilm2.m3u8
 #EXTINF:-1 tvg-id="iFilmArabic.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Persian",iFilm Arabic
@@ -94,6 +96,88 @@ https://live.presstv.ir/hls/ifilmar.m3u8
 https://live.presstv.ir/hls/ifilmen.m3u8
 #EXTINF:-1 tvg-id="iFilmPersian.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Persian",iFilm Persian
 https://live.presstv.ir/hls/ifilmfa.m3u8
+#EXTINF:-1 tvg-name="Ir: Alborz TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: Alborz TV HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223284
+#EXTINF:-1 tvg-name="Ir: BBC Persian HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: BBC Persian HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223277
+#EXTINF:-1 tvg-name="Ir: Ganje Hozour HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: Ganje Hozour HD
+http://look4k.com:80/821518196/276181918/223272
+#EXTINF:-1 tvg-name="Ir: GEM 24b HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: GEM 24b HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223271
+#EXTINF:-1 tvg-name="[ir] GEM AZ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",[ir] GEM AZ HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/2663
+#EXTINF:-1 tvg-name="Ir: GEM Bollywood HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: GEM Bollywood HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223268
+#EXTINF:-1 tvg-name="Ir: GEM Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: GEM Classic HD
+http://look4k.com:80/821518196/276181918/223267
+#EXTINF:-1 tvg-name="Ir: GEM Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: GEM Comedy HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223266
+#EXTINF:-1 tvg-name="[ir] GEM FILM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",[ir] GEM FILM HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/2658
+#EXTINF:-1 tvg-name="Ir: GEM FIT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: GEM FIT HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223263
+#EXTINF:-1 tvg-name="Ir: GEM FOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: GEM FOOD HD
+http://look4k.com:80/821518196/276181918/223262
+#EXTINF:-1 tvg-name="[ir] GEM KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",[ir] GEM KIDS HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/2655
+#EXTINF:-1 tvg-name="Ir: GEM Latino HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: GEM Latino HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223259
+#EXTINF:-1 tvg-name="Ir: GEM LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: GEM LIFE HD
+http://look4k.com:80/821518196/276181918/223258
+#EXTINF:-1 tvg-name="Ir: GEM MAXX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: GEM MAXX HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223257
+#EXTINF:-1 tvg-name="Ir: GEM River HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: GEM River HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223252
+#EXTINF:-1 tvg-name="[ir] GEM Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",[ir] GEM Series HD
+http://look4k.com:80/821518196/276181918/2645
+#EXTINF:-1 tvg-name="Ir: GEM Series PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: GEM Series PLUS HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223249
+#EXTINF:-1 tvg-name="Ir: Ifilm English HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: Ifilm English HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223244
+#EXTINF:-1 tvg-name="Ir: IRAN Beauty HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: IRAN Beauty HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223243
+#EXTINF:-1 tvg-name="Ir: IRAN International HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: IRAN International HD
+http://look4k.com:80/821518196/276181918/223242
+#EXTINF:-1 tvg-name="Ir: Irane Farda HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: Irane Farda HD
+http://look4k.com:80/821518196/276181918/223241
+#EXTINF:-1 tvg-name="Ir: IRIB 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: IRIB 2 HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223239
+#EXTINF:-1 tvg-name="Ir: IRIB 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: IRIB 5 HD
+http://look4k.com:80/821518196/276181918/223236
+#EXTINF:-1 tvg-name="Ir: IRIB Nasim HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: IRIB Nasim HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223234
+#EXTINF:-1 tvg-name="Ir: IRIB Pooya HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: IRIB Pooya HD
+http://look4k.com:80/821518196/276181918/223233
+#EXTINF:-1 tvg-name="Ir: Irinn HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: Irinn HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223229
+#EXTINF:-1 tvg-name="Ir: MBC Persia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: MBC Persia HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223224
+#EXTINF:-1 tvg-name="Ir: Ofogh TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: Ofogh TV HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223219
+#EXTINF:-1 tvg-name="Ir: OXIR TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: OXIR TV HD
+http://look4k.com:80/821518196/276181918/223215
+#EXTINF:-1 tvg-name="Ir: Parsiland TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: Parsiland TV HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223213
+#EXTINF:-1 tvg-name="Ir: Persiana Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: Persiana Cinema HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223209
+#EXTINF:-1 tvg-name="Ir: Persiana Iranian HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: Persiana Iranian HD
+http://look4k.com:80/821518196/276181918/223206
+#EXTINF:-1 tvg-name="Ir: Persiana Nostalgia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: Persiana Nostalgia HD
+http://look4k.com:80/821518196/276181918/223202
+#EXTINF:-1 tvg-name="Ir: PMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: PMC HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223197
+#EXTINF:-1 tvg-name="Ir: Radio Farda TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: Radio Farda TV HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223194
+#EXTINF:-1 tvg-name="Ir: Rangarang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: Rangarang HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223192
+#EXTINF:-1 tvg-name="Ir: Sabalan TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: Sabalan TV HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223191
+#EXTINF:-1 tvg-name="Ir: Simaye Azadi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: Simaye Azadi HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223187
+#EXTINF:-1 tvg-name="Ir: Tapesh TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: Tapesh TV HD
+http://look4k.com:80/821518196/276181918/223186
+#EXTINF:-1 tvg-name="Ir: VOA (voice OF America) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Persian",Ir: VOA (voice OF America) HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/223185
 #EXTINF:-1 tvg-id="IranInternational.uk@SD" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="Persian",Iran International (1080p)
 https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
 #EXTINF:-1 tvg-id="IranJewishTV.ir@SD" tvg-logo="https://i.ibb.co/JWXs7csN/en.png" group-title="Persian",Iran Jewish TV
@@ -106,6 +190,10 @@ https://hls.irannrtv.live/hls/stream.m3u8
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="IRIBUHD.ir@4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png" group-title="Persian",IRIB UHD (2160p)
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+#EXTINF:-1 tvg-name="IRIB Kermanshah HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",IRIB Kermanshah HD
+http://look4k.com:80/821518196/276181918/1007028
+#EXTINF:-1 tvg-name="IRIB Kordestan HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",IRIB Kordestan HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/1007098
 #EXTINF:-1 tvg-id="IRIB1.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png" group-title="Persian",IRIB1
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRIB2.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/960px-IRIB_TV2_logo.svg.png" group-title="Persian",IRIB2
@@ -118,6 +206,12 @@ https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
 http://185.9.2.18/chid_926/index.m3u8
 #EXTINF:-1 tvg-id="IRINN2.ir@SD" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="Persian",IRINN2 Live Farsi News
 https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Irq.imam Hussein Farsi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/1280px-Flag_of_Iraq.svg.png" group-title="Persian",Irq.imam Hussein Farsi HD
+http://look4k.com:80/821518196/276181918/736
+#EXTINF:-1 tvg-name="IS : Marjaeyat 2 HD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/flag/ISLAMIC.png" group-title="Persian",IS : Marjaeyat 2 HD
+http://look4k.com:80/821518196/276181918/145
+#EXTINF:-1 tvg-name="[krd] GEM KURD HD" tvg-logo="http://redmonkeytv.com:8080/images/8cGRMdqqgj4AnMhY1l2B1l3YgpjIm5MFPxd7LW7v_To4NSpNAm3y9Vca9BbvkXVTF8Y9movp2hBJoU_pP-vRNhSzPOAPPp31yeWW3gBxOTM.png" group-title="Persian",[krd] GEM KURD HD
+http://look4k.com:80/821518196/276181918/4563
 #EXTINF:-1 tvg-id="LemarTV.af@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png" group-title="Persian",Lemar TV (720p)
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
 #EXTINF:-1 tvg-id="Manoto.uk@SD" tvg-logo="https://i.imgur.com/8wE1Lbp.png" group-title="Persian",Manoto TV
@@ -210,6 +304,8 @@ https://sat7phls.wns.live/hls/stream.m3u8
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-id="Shabakeh7.us@SD" tvg-logo="https://i.imgur.com/oHmh5Jb.png" group-title="Persian",Shabakeh 7
 https://sh7hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="[shm*] Lebanon Ifilm Arabic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg" group-title="Persian",[shm*] Lebanon Ifilm Arabic HD
+http://look4k.com:80/Asws554765/Xdsewr0098767/18963
 #EXTINF:-1 tvg-id="SimayeAzadi.uk@SD" tvg-logo="https://i.imgur.com/yXcczMq.png" group-title="Persian",Simaye Azadi (1080p)
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 #EXTINF:-1 tvg-id="TamadonTV.af@SD" tvg-logo="https://i.imgur.com/edGyj5H.png" group-title="Persian",Tamadon TV (720p)
@@ -226,6 +322,8 @@ https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TOLOnews.af@SD" tvg-logo="https://i.imgur.com/oxaHaTq.png" group-title="Persian",TOLOnews (720p)
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
+#EXTINF:-1 tvg-name="Tr: Sat7 TURK HD" tvg-logo="http://landiptv.vip:2095/images/tAMEysP4gkZCw5tGuBhL3LLwAOCM7Oe6-TC3wmpAxi6moURKzq1n5_ByQ5pcU-TUyFuWoeIOfoTZu1wLvLbHY-reG10cV173aJu3HuL4RuG6QjsWNTBPmu7P3W-QZ_S-.png" group-title="Persian",Tr: Sat7 TURK HD
+http://look4k.com:80/821518196/276181918/228207
 #EXTINF:-1 tvg-id="TVITN.ir@SD" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Persian",TV ITN
 https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="VarzeshTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="Persian",Varzesh TV
