@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Documentary - 426 channels
+#   Documentary - 429 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-12 10:12 UTC
-#   Channels: 426
+#   Updated: 2026-09-12 15:07 UTC
+#   Channels: 429
 # +======================================+
 #EXTINF:-1 tvg-id="13C.cl@SD" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="Documentary",13C (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
@@ -82,6 +82,8 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 http://best4u.biz:8080/26842788/26842788/35528
 #EXTINF:-1 tvg-name="BEIN Discovery Family HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",BEIN Discovery Family HD
 http://best4u.biz:8080/26842788/26842788/35531
+#EXTINF:-1 tvg-id="Belarus3.by@HD" tvg-logo="https://i.imgur.com/JkcDycn.png" group-title="Documentary",Belarus-3 HD (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BetterLifeNatureChannel.us@SD" tvg-logo="https://i.imgur.com/D8Vuw6I.png" group-title="Documentary",Better Life Nature Channel (480p)
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 tvg-id="BHATV.bz@SD" tvg-logo="https://i.imgur.com/Nz5zM3H.png" group-title="Documentary",BHA TV (1080p)
@@ -130,6 +132,8 @@ https://ch14.tv/live/ch4teendoc/playlist.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ChileChannel.cl@SD" tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Documentary",Chile Channel (720p)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-id="ChiloeRed25.cl@SD" tvg-logo="https://i.imgur.com/3tqrImm.png" group-title="Documentary",Chiloe Red 25 (720p)
+https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn@SD" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="Documentary",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 tvg-id="CiracuTV.ec@SD" tvg-logo="https://i.imgur.com/mkf2TJ6.png" group-title="Documentary",Ciracu TV (720p)
@@ -260,8 +264,6 @@ https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
 #EXTINF:-1 tvg-id="GlazamiTurista.ru@SD" tvg-logo="https://i.imgur.com/GXJKWdy.png" group-title="Documentary",Glazami Turista (576i)
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GlobalTrekker.sg@SD" tvg-logo="https://i.imgur.com/5nlmJIw.png" group-title="Documentary",Global Trekker (720p)
-http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8
 #EXTINF:-1 tvg-id="GoTraveler.us@SD" tvg-logo="https://i.imgur.com/IaRcN1G.png" group-title="Documentary",GoTraveler (720p)
 https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
 #EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/gxzypd.jpg" group-title="Documentary",Guangxi Variety & Travel Channel
@@ -274,6 +276,8 @@ https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
 #EXTINF:-1 tvg-id="History.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History (720p)
 http://45.177.114.114/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 Latin America (1080p)
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 Latin America Brazil (720p)
 http://45.177.114.114/HISTORY_2/index.m3u8
 #EXTINF:-1 tvg-id="HistoryAsia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History Asia (720p)
@@ -610,6 +614,8 @@ http://best4u.biz:8080/26842788/26842788/50708
 https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RNE_Radio_3_2026.svg/500px-RNE_Radio_3_2026.svg.png" group-title="Documentary",Radio 3 (720p)
 https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
+#EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht@SD" tvg-logo="https://i.imgur.com/ddb4lsa.png" group-title="Documentary",Radio Tele Planet Compas (720p)
+https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo@SD" tvg-logo="https://tvu.umsa.bo/documents/780216/0/LogoRUSA+%283%29.jpg" group-title="Documentary",Radio Universitaria San Andres (720p)
 https://edge.enhdtv.com/8054/index.m3u8
 #EXTINF:-1 tvg-id="Reelz.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png" group-title="Documentary",Reelz (720p)
