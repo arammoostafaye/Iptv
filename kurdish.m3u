@@ -1,263 +1,89 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Kurdish - 251 channels
+#   Kurdish - 107 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-12 03:06 UTC
-#   Channels: 251
+#   Updated: 2026-09-12 10:12 UTC
+#   Channels: 107
 # +======================================+
-#EXTINF:-1 tvg-name="4 KURD HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",4 KURD HD
-http://look4k.com:80/666428858999/05525515482/1007140
+#EXTINF:-1 tvg-id="4Kurd.fr@SD" tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" group-title="Kurdish",4 Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="AF:AVA TV (SN)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",AF:AVA TV (SN)
+http://best4u.biz:8080/26842788/26842788/60818
+#EXTINF:-1 tvg-name="AF: SNRT TV (MA)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",AF: SNRT TV (MA)
+http://best4u.biz:8080/26842788/26842788/61161
 #EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title="Kurdish",Afarin Baxcha (1080p)
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Afarin Radio HD" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/a-kids.png" group-title="Kurdish",Afarin Radio HD
-http://look4k.com:80/666428858999/05525515482/1007083
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Afarin TV
 https://65f16f0fdfc51.streamlock.net:443/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AnadoluNetTV.tr@SD" tvg-logo="https://www.anadolunettv.com/d/r/logo.png" group-title="Kurdish",Anadolu Net TV (1080p)
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-#EXTINF:-1 tvg-name="Animal BOX HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Animal BOX HD
-http://look4k.com:80/666428858999/05525515482/1007184
-#EXTINF:-1 tvg-name="ARO Drama HD" tvg-logo="https://logo.0964750.xyz/logo/logos/PicsArt_02-02-01.00.45.png" group-title="Kurdish",ARO Drama HD
-http://look4k.com:80/821518196/276181918/1007003
-#EXTINF:-1 tvg-name="ARO Sport HD" tvg-logo="https://logo.0964750.xyz/logo/logos/arosport.png" group-title="Kurdish",ARO Sport HD
-http://look4k.com:80/821518196/276181918/1007123
-#EXTINF:-1 tvg-name="Astera Culture HD" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/astera-folklor.png" group-title="Kurdish",Astera Culture HD
-http://look4k.com:80/821518196/276181918/1006997
-#EXTINF:-1 tvg-name="Astera SHOW HD" tvg-logo="https://logo.0964750.xyz/logo/logos/PicsArt_02-02-12.59.44.png" group-title="Kurdish",Astera SHOW HD
-http://look4k.com:80/821518196/276181918/1006998
-#EXTINF:-1 tvg-name="Astera Sport HD" tvg-logo="http://logo.0964750.xyz/logo/asterasport.fw.png" group-title="Kurdish",Astera Sport HD
-http://look4k.com:80/666428858999/05525515482/1007110
-#EXTINF:-1 tvg-name="AVA Entertaiment HD" tvg-logo="https://imgur.com/NT697Us.png" group-title="Kurdish",AVA Entertaiment HD
-http://look4k.com:80/821518196/276181918/1006986
+#EXTINF:-1 tvg-name="AR-Rudaw-HD" tvg-logo="http://149.202.206.141:7070/logo/AR-Rudaw-HD.png" group-title="Kurdish",AR-Rudaw-HD
+http://best4u.biz:8080/26842788/26842788/1632
+#EXTINF:-1 tvg-name="Arjun Suravaram - 2019" tvg-logo="http://ultimeiptv.net:8000/images/08ee6b13e88653e72cf6bb78a55f22f1.jpg" group-title="Kurdish",Arjun Suravaram - 2019
+http://best4u.biz:8080/movie/26842788/26842788/36127.mkv
+#EXTINF:-1 tvg-name="Ava (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDnHgozW8vfOaLHzfpHluf1GZCW.jpg" group-title="Kurdish",Ava (2020)
+http://best4u.biz:8080/movie/26842788/26842788/17869.mp4
 #EXTINF:-1 tvg-id="AVAFamily.ir@SD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AVASeries.ir@SD" tvg-logo="https://i.imgur.com/8AfAfZE.png" group-title="Kurdish",AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="AVA Sport HD" tvg-logo="https://logo.0964750.xyz/logo/logos/PicsArt_02-02-01.14.03.png" group-title="Kurdish",AVA Sport HD
-http://look4k.com:80/666428858999/05525515482/1007109
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Ava TV
 https://ava2.store/upload/ava.m3u8
+#EXTINF:-1 tvg-name="Avane Srimannarayana - 2019" tvg-logo="http://ultimeiptv.net:8000/images/f200adef7147a4c080515ad1a3f96e2d.jpg" group-title="Kurdish",Avane Srimannarayana - 2019
+http://best4u.biz:8080/movie/26842788/26842788/36131.mkv
 #EXTINF:-1 tvg-id="AvangTV.us@SD" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Kurdish",Avang TV (1080p)
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="AVAR TV HD" tvg-logo="https://logo.0964750.xyz/logo/logos/PicsArt_02-02-01.10.32.png" group-title="Kurdish",AVAR TV HD
-http://look4k.com:80/666428858999/05525515482/1007078
+#EXTINF:-1 tvg-id="AvarTV.iq@HD" tvg-logo="https://i.imgur.com/JazFBkW.jpeg" group-title="Kurdish",Avar TV (1080p)
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+#EXTINF:-1 tvg-name="Avarice (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr8LM9WzOX9T08AnXmZ74R9BYZS.jpg" group-title="Kurdish",Avarice (2022)
+http://best4u.biz:8080/movie/26842788/26842788/50991.mkv
 #EXTINF:-1 tvg-id="Avatar.de@GB" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" group-title="Kurdish",Avatar
 https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
+#EXTINF:-1 tvg-name="Avatar (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg" group-title="Kurdish",Avatar (2009)
+http://best4u.biz:8080/movie/26842788/26842788/18174.mp4
 #EXTINF:-1 tvg-id="AvatarAlendadeAang.us@BR" tvg-logo="https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png" group-title="Kurdish",Avatar: A lenda de Aang
 https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
 #EXTINF:-1 tvg-id="AvatarLaLeyendadeAang.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" group-title="Kurdish",Avatar: La Leyenda de Aang
 https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 #EXTINF:-1 tvg-name="Avatar – Pluto TV" tvg-logo="https://i.imgur.com/KDSStnJ.png" group-title="Kurdish",Avatar – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624da1cd2af90c0007c13205/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="BAHA Entertaiment HD" tvg-logo="https://logo.0964750.xyz/logo/logos/PicsArt_02-02-01.23.24.png" group-title="Kurdish",BAHA Entertaiment HD
-http://look4k.com:80/Khaldoun/22122023/1007053
-#EXTINF:-1 tvg-name="Bangawaz TV HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Bangawaz TV HD
-http://look4k.com:80/821518196/276181918/1007152
-#EXTINF:-1 tvg-name="Barin HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Barin HD
-http://look4k.com:80/Khaldoun/22122023/1007059
-#EXTINF:-1 tvg-name="Barin Quran HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Barin Quran HD
-http://look4k.com:80/666428858999/05525515482/1007147
-#EXTINF:-1 tvg-name="Bg: Folklor HD" tvg-logo="https://asiagrandiptv.us/logo/folklortv.png" group-title="Kurdish",Bg: Folklor HD
-http://look4k.com:80/666428858999/05525515482/221086
-#EXTINF:-1 tvg-name="[bg:] Folklor TV HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",[bg:] Folklor TV HD
-http://look4k.com:80/666428858999/05525515482/890691
-#EXTINF:-1 tvg-name="Biner HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Biner HD
-http://look4k.com:80/Khaldoun/22122023/1007084
-#EXTINF:-1 tvg-name="BMC HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",BMC HD
-http://look4k.com:80/Khaldoun/22122023/1007057
-#EXTINF:-1 tvg-name="Caravan HD" tvg-logo="https://images2.imgbox.com/df/ef/XvzDMQ3t_o.png" group-title="Kurdish",Caravan HD
-http://look4k.com:80/666428858999/05525515482/208545
-#EXTINF:-1 tvg-name="Channel 8 HD" tvg-logo="https://logo.0964750.xyz/logo/logos/channel8.png" group-title="Kurdish",Channel 8 HD
-http://look4k.com:80/666428858999/05525515482/1006978
+#EXTINF:-1 tvg-name="Avatar: The Deep Dive - A Special Edition of 20/20 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtVeIsmeXnpjNbEKnm9Say58XjV.jpg" group-title="Kurdish",Avatar: The Deep Dive - A Special Edition of 20/20 (2022)
+http://best4u.biz:8080/movie/26842788/26842788/52068.mp4
+#EXTINF:-1 tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="Kurdish",Avatar: The Way of Water (2022)
+http://best4u.biz:8080/movie/26842788/26842788/51981.mp4
+#EXTINF:-1 tvg-name="Badnaam Gali - 2019" tvg-logo="http://ultimeiptv.net:8000/images/1ee6209c269ec2bf2d60e82a599e9e91.jpg" group-title="Kurdish",Badnaam Gali - 2019
+http://best4u.biz:8080/movie/26842788/26842788/36138.mkv
+#EXTINF:-1 tvg-id="Channel8.gr@HD" tvg-logo="https://www.channel8.gr/img/channel8.png" group-title="Kurdish",Channel 8 (1080p)
+https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8.iq@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png" group-title="Kurdish",Channel 8 Kurdish (720p)
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1 tvg-name="CIRA TV HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",CIRA TV HD
-http://look4k.com:80/666428858999/05525515482/1007074
-#EXTINF:-1 tvg-name="Dasinya HD" tvg-logo="https://2.bp.blogspot.com/-9Sqm7Qj_dtE/XM6Po1WT-ZI/AAAAAAAACyk/9k1JMtksdJUG6YOtmEgF_8KN1f69EAZJwCLcBGAs/w150-h150/DasinyaHD.png" group-title="Kurdish",Dasinya HD
-http://look4k.com:80/Khaldoun/22122023/1007013
-#EXTINF:-1 tvg-name="Dasinya Music HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Dasinya Music HD
-http://look4k.com:80/666428858999/05525515482/1007132
-#EXTINF:-1 tvg-name="Dasinya Sport HD" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Fkurdtvs.net%2Fdasinya-kurdish-kurdish&psig=AOvVaw3DYKnDVNXqzizdxzU6aKBi&ust=1602753834416000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCf0r_hs-wCFQAAAAAdAAAAABAD" group-title="Kurdish",Dasinya Sport HD
-http://look4k.com:80/666428858999/05525515482/1007111
-#EXTINF:-1 tvg-name="Delal HD" tvg-logo="https://logo.0964750.xyz/logo/logos/delaltv.png" group-title="Kurdish",Delal HD
-http://look4k.com:80/666428858999/05525515482/1007023
-#EXTINF:-1 tvg-name="Delal Sport HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Delal Sport HD
-http://look4k.com:80/666428858999/05525515482/1007128
-#EXTINF:-1 tvg-name="Denge Zelal HD" tvg-logo="http://logo.0964750.xyz/logo/garyan.fw.png" group-title="Kurdish",Denge Zelal HD
-http://look4k.com:80/666428858999/05525515482/1007082
-#EXTINF:-1 tvg-name="Derin TV HD" tvg-logo="https://logo.0964750.xyz/logo/logos/derin.png" group-title="Kurdish",Derin TV HD
-http://look4k.com:80/Khaldoun/22122023/1007034
-#EXTINF:-1 tvg-name="Derwaze Music HD" tvg-logo="http://logo.0964750.xyz/logo/derwaze.fw.png" group-title="Kurdish",Derwaze Music HD
-http://look4k.com:80/666428858999/05525515482/1007136
-#EXTINF:-1 tvg-name="Dever HD" tvg-logo="https://1.bp.blogspot.com/-YN2Hq8o3BlM/Xo-rpbZuHoI/AAAAAAAADOY/arrzMHXE7I802mzK48I32QhmfXEpkgloQCLcBGAsYHQ/w150-h151/Dever.Sheladz.png" group-title="Kurdish",Dever HD
-http://look4k.com:80/821518196/276181918/1007012
-#EXTINF:-1 tvg-name="Dimen HD" tvg-logo="https://logo.0964750.xyz/logo/logos/PicsArt_02-02-01.12.45.png" group-title="Kurdish",Dimen HD
-http://look4k.com:80/666428858999/05525515482/1007085
+#EXTINF:-1 tvg-id="CiraTV.de@SD" tvg-logo="https://i.imgur.com/YFnmSLW.png" group-title="Kurdish",Cira TV (1080p)
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
 #EXTINF:-1 tvg-id="DivyavaniTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="Kurdish",Divyavani TV (576p)
 https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
-#EXTINF:-1 tvg-name="Duhok HD" tvg-logo="https://logo.0964750.xyz/logo/logos/duhok.png" group-title="Kurdish",Duhok HD
-http://look4k.com:80/821518196/276181918/1006985
-#EXTINF:-1 tvg-name="Duhok Parwada HD" tvg-logo="https://logo.0964750.xyz/logo/logos/parwarda.png" group-title="Kurdish",Duhok Parwada HD
-http://look4k.com:80/666428858999/05525515482/1007079
-#EXTINF:-1 tvg-name="Duhok Sports HD" tvg-logo="https://logo.0964750.xyz/logo/logos/duhoksport.png" group-title="Kurdish",Duhok Sports HD
-http://look4k.com:80/666428858999/05525515482/1007108
-#EXTINF:-1 tvg-name="EMAN HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",EMAN HD
-http://look4k.com:80/666428858999/05525515482/1007167
-#EXTINF:-1 tvg-name="ESRA 1 HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",ESRA 1 HD
-http://look4k.com:80/666428858999/05525515482/1007105
-#EXTINF:-1 tvg-name="ESRA 2 HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",ESRA 2 HD
-http://look4k.com:80/666428858999/05525515482/1007106
-#EXTINF:-1 tvg-name="Ezdan HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ezdan HD
-http://look4k.com:80/Khaldoun/22122023/1007103
-#EXTINF:-1 tvg-name="Farmoda HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Farmoda HD
-http://look4k.com:80/Khaldoun/22122023/1007159
-#EXTINF:-1 tvg-name="FOX HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",FOX HD
-http://look4k.com:80/Khaldoun/22122023/1007065
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Gali Kurdistan
 https://live.host247.net/gk/gksat/playlist.m3u8
-#EXTINF:-1 tvg-name="GELI Kurdistan HD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkarwan.tv%2Fgeli-kurdistan-tv.html&psig=AOvVaw3umXYzD4Ou6nhZeKSMiUyO&ust=1602580468430000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCb7dHbruwCFQAAAAAdAAAAABAD" group-title="Kurdish",GELI Kurdistan HD
-http://look4k.com:80/Khaldoun/22122023/1006980
-#EXTINF:-1 tvg-name="Grayan HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Grayan HD
-http://look4k.com:80/821518196/276181918/1007102
-#EXTINF:-1 tvg-name="Halabja HD" tvg-logo="https://logo.0964750.xyz/logo/logos/PicsArt_02-02-12.57.58.png" group-title="Kurdish",Halabja HD
-http://look4k.com:80/Khaldoun/22122023/1007032
-#EXTINF:-1 tvg-name="[hr] Zdrava TV HD" tvg-logo="http://redmonkeytv.com:8080/images/be532e216cec76376e503e2c95ffa2ad.png" group-title="Kurdish",[hr] Zdrava TV HD
-http://look4k.com:80/821518196/276181918/3884
-#EXTINF:-1 tvg-name="IMK Quran HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",IMK Quran HD
-http://look4k.com:80/666428858999/05525515482/1007163
-#EXTINF:-1 tvg-name="Infinity HD" tvg-logo="https://logo.0964750.xyz/logo/logos/hormzyar.png" group-title="Kurdish",Infinity HD
-http://look4k.com:80/666428858999/05525515482/1007096
-#EXTINF:-1 tvg-name="Ir: AVA Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Kurdish",Ir: AVA Series HD
-http://look4k.com:80/Khaldoun/22122023/223280
-#EXTINF:-1 tvg-name="Ir: Avang TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Kurdish",Ir: Avang TV HD
-http://look4k.com:80/666428858999/05525515482/223279
-#EXTINF:-1 tvg-name="[ir] IRIB Zagros (kermanshah) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Kurdish",[ir] IRIB Zagros (kermanshah) HD
-http://look4k.com:80/Khaldoun/22122023/2600
-#EXTINF:-1 tvg-name="[ir] Radio Javan HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png" group-title="Kurdish",[ir] Radio Javan HD
-http://look4k.com:80/821518196/276181918/2588
-#EXTINF:-1 tvg-name="Jamawar HD" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Flive-radiotv.blogspot.com%2F2012%2F10%2Fjamawar-tv-live.html&psig=AOvVaw3ekwF6elbdM-V3H6qTzqVo&ust=1602581420527000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIi4i5ffruwCFQAAAAAdAAAAABAJ" group-title="Kurdish",Jamawar HD
-http://look4k.com:80/Khaldoun/22122023/1007040
+#EXTINF:-1 tvg-name="IN_Star Pravah HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",IN_Star Pravah HD
+http://best4u.biz:8080/26842788/26842788/8788
 #EXTINF:-1 tvg-id="K24.ke@SD" tvg-logo="https://i.imgur.com/SUjo6Bm.png" group-title="Kurdish",K24 (1080p)
 https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
-#EXTINF:-1 tvg-name="KANI HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",KANI HD
-http://look4k.com:80/Khaldoun/22122023/1007142
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Khak TV
 http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
 #EXTINF:-1 tvg-id="KhavaranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png" group-title="Kurdish",Khavaran
 https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Kirkuk TV
 https://live.kirkuklive.live/hls/stream/index.m3u8
-#EXTINF:-1 tvg-name="KMC HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",KMC HD
-http://look4k.com:80/821518196/276181918/1007138
-#EXTINF:-1 tvg-name="KMP TV HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",KMP TV HD
-http://look4k.com:80/821518196/276181918/1007139
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",KNN TV
 https://silicon.kurdlive.xyz/live/knnHD/playlist.m3u8
 #EXTINF:-1 tvg-id="KomalaTV.se@SD" tvg-logo="https://i.imgur.com/D6KBLB8.png" group-title="Kurdish",Komala TV
 https://komhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Komall TV HD" tvg-logo="https://logo.0964750.xyz/logo/logos/PicsArt_02-02-12.51.15.png" group-title="Kurdish",Komall TV HD
-http://look4k.com:80/Khaldoun/22122023/1007052
 #EXTINF:-1 tvg-id="TLN.ca@KQSL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png" group-title="Kurdish",KQSL Channel 8 (720p)
 https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
-#EXTINF:-1 tvg-name="[krd] CIRA TV HD" tvg-logo="http://redmonkeytv.com:8080/images/a1714d76e62448ebb8cf4b9d452203b6.png" group-title="Kurdish",[krd] CIRA TV HD
-http://look4k.com:80/821518196/276181918/4565
-#EXTINF:-1 tvg-name="[krd] Korek TV HD" tvg-logo="http://redmonkeytv.com:8080/images/2aa5dcc3d38377c0597d7430978532f6.png" group-title="Kurdish",[krd] Korek TV HD
-http://look4k.com:80/Khaldoun/22122023/4560
-#EXTINF:-1 tvg-name="[krd] Kurdistan24 TV HD" tvg-logo="http://redmonkeytv.com:8080/images/c069c5cccb795d9f1809f361427f3fdf.png" group-title="Kurdish",[krd] Kurdistan24 TV HD
-http://look4k.com:80/Khaldoun/22122023/4558
-#EXTINF:-1 tvg-name="[krd] Kurdmax Music HD" tvg-logo="http://redmonkeytv.com:8080/images/8cGRMdqqgj4AnMhY1l2B1l3YgpjIm5MFPxd7LW7v_Tr95jWJFz0YjqE8jyp5hoswXu8cMmkLfKIO3wIiX4EtSI73u6gT8Odqeywzej-lmMw.png" group-title="Kurdish",[krd] Kurdmax Music HD
-http://look4k.com:80/821518196/276181918/4557
-#EXTINF:-1 tvg-name="[krd] Kurdmax TV HD" tvg-logo="http://redmonkeytv.com:8080/images/8cGRMdqqgj4AnMhY1l2B1l3YgpjIm5MFPxd7LW7v_TqaROhTpsukFgL7d4pUvTLNZ511WzpYC9vvQZWyVVy1EHr-IWaJVzoefT0NCg5gMKU.png" group-title="Kurdish",[krd] Kurdmax TV HD
-http://look4k.com:80/821518196/276181918/4554
-#EXTINF:-1 tvg-name="[krd] MED Muzik HD" tvg-logo="http://redmonkeytv.com:8080/images/a99e4b1a311e6c2de3266ad14359047c.png" group-title="Kurdish",[krd] MED Muzik HD
-http://look4k.com:80/821518196/276181918/4548
-#EXTINF:-1 tvg-name="[krd] Medya Haber HD" tvg-logo="http://redmonkeytv.com:8080/images/8e7adcd23b8901e499e3b2a4d311e075.png" group-title="Kurdish",[krd] Medya Haber HD
-http://look4k.com:80/821518196/276181918/4547
-#EXTINF:-1 tvg-name="[krd] Rudaw HD" tvg-logo="http://redmonkeytv.com:8080/images/7a052b2499923c95ba7da3099facf607.png" group-title="Kurdish",[krd] Rudaw HD
-http://look4k.com:80/821518196/276181918/4538
-#EXTINF:-1 tvg-name="[krd] Sahar Kurdish HD" tvg-logo="http://redmonkeytv.com:8080/images/eb522d5bdcb9ff354e91aad0631edb84.png" group-title="Kurdish",[krd] Sahar Kurdish HD
-http://look4k.com:80/Khaldoun/22122023/4537
-#EXTINF:-1 tvg-name="[krd] Suboro TV HD" tvg-logo="http://redmonkeytv.com:8080/images/0baf8027dc77196cfbdec40d6958e083.png" group-title="Kurdish",[krd] Suboro TV HD
-http://look4k.com:80/821518196/276181918/4534
-#EXTINF:-1 tvg-name="Ku: Aryen TV HD" tvg-logo="https://asiagrandiptv.us/logo/aryentv.png" group-title="Kurdish",Ku: Aryen TV HD
-http://look4k.com:80/666428858999/05525515482/226133
-#EXTINF:-1 tvg-name="Ku: Astera Sport HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ku: Astera Sport HD
-http://look4k.com:80/Khaldoun/22122023/226099
-#EXTINF:-1 tvg-name="Ku: AVA Entertainment HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ku: AVA Entertainment HD
-http://look4k.com:80/Khaldoun/22122023/226098
-#EXTINF:-1 tvg-name="Ku: Bangawaz HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ku: Bangawaz HD
-http://look4k.com:80/Khaldoun/22122023/226097
-#EXTINF:-1 tvg-name="Ku: CIRA TV HD" tvg-logo="https://asiagrandiptv.us/logo/ciratv.png" group-title="Kurdish",Ku: CIRA TV HD
-http://look4k.com:80/666428858999/05525515482/226132
-#EXTINF:-1 tvg-name="Ku: Dasinya Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ku: Dasinya Sport 1 HD
-http://look4k.com:80/Khaldoun/22122023/226096
-#EXTINF:-1 tvg-name="Ku: Gewher Sport HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ku: Gewher Sport HD
-http://look4k.com:80/666428858999/05525515482/1007130
-#EXTINF:-1 tvg-name="Ku: Iraqia KURD HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ku: Iraqia KURD HD
-http://look4k.com:80/821518196/276181918/226089
-#EXTINF:-1 tvg-name="Ku: JIN TV HD" tvg-logo="https://asiagrandiptv.us/logo/JINTV.jpg" group-title="Kurdish",Ku: JIN TV HD
-http://look4k.com:80/666428858999/05525515482/226129
-#EXTINF:-1 tvg-name="Ku: K24 HD" tvg-logo="https://asiagrandiptv.us/logo/kurdistan24.png" group-title="Kurdish",Ku: K24 HD
-http://look4k.com:80/666428858999/05525515482/226126
-#EXTINF:-1 tvg-name="Ku: Kirkuk HD" tvg-logo="https://asiagrandiptv.us/logo/kirkuktv.png" group-title="Kurdish",Ku: Kirkuk HD
-http://look4k.com:80/666428858999/05525515482/226128
-#EXTINF:-1 tvg-name="Ku: KURD Channel HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ku: KURD Channel HD
-http://look4k.com:80/666428858999/05525515482/1007066
-#EXTINF:-1 tvg-name="Ku: Kurdistan TV HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ku: Kurdistan TV HD
-http://look4k.com:80/666428858999/05525515482/226084
-#EXTINF:-1 tvg-name="Ku: Kurdmax HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ku: Kurdmax HD
-http://look4k.com:80/666428858999/05525515482/226083
-#EXTINF:-1 tvg-name="Ku: Kurdmax SHOW HD" tvg-logo="https://asiagrandiptv.us/logo/kurdshow.png" group-title="Kurdish",Ku: Kurdmax SHOW HD
-http://look4k.com:80/Khaldoun/22122023/226124
-#EXTINF:-1 tvg-name="Ku: Kurdmax SHOW Sorani HD" tvg-logo="https://asiagrandiptv.us/logo/KURDMAXSHOWSORANI.jpg" group-title="Kurdish",Ku: Kurdmax SHOW Sorani HD
-http://look4k.com:80/666428858999/05525515482/226123
-#EXTINF:-1 tvg-name="Ku: Kurdmax Sorani HD" tvg-logo="https://asiagrandiptv.us/logo/KURDMAXPEPÛLESORANI.jpg" group-title="Kurdish",Ku: Kurdmax Sorani HD
-http://look4k.com:80/666428858999/05525515482/226122
-#EXTINF:-1 tvg-name="Ku: Kurdsat NEWS HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ku: Kurdsat NEWS HD
-http://look4k.com:80/821518196/276181918/226080
-#EXTINF:-1 tvg-name="Ku: MED Muzik HD" tvg-logo="https://asiagrandiptv.us/logo/medmuzik.png" group-title="Kurdish",Ku: MED Muzik HD
-http://look4k.com:80/Khaldoun/22122023/226121
-#EXTINF:-1 tvg-name="Ku: Medya Haber HD" tvg-logo="https://asiagrandiptv.us/logo/medyahabertv.png" group-title="Kurdish",Ku: Medya Haber HD
-http://look4k.com:80/Khaldoun/22122023/226120
-#EXTINF:-1 tvg-name="Ku: MMN Movies HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ku: MMN Movies HD
-http://look4k.com:80/Khaldoun/22122023/226078
-#EXTINF:-1 tvg-name="Ku: MMN Sport (events Only) HD" tvg-logo="https://asiagrandiptv.us/logo/MMNSPORT2.png" group-title="Kurdish",Ku: MMN Sport (events Only) HD
-http://look4k.com:80/Khaldoun/22122023/226119
-#EXTINF:-1 tvg-name="Ku: Nohadra HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ku: Nohadra HD
-http://look4k.com:80/821518196/276181918/226070
-#EXTINF:-1 tvg-name="Ku: NRT 2 HD" tvg-logo="https://asiagrandiptv.us/logo/NRTTV.png" group-title="Kurdish",Ku: NRT 2 HD
-http://look4k.com:80/Khaldoun/22122023/226115
-#EXTINF:-1 tvg-name="Ku: NRT 3 KIDS HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ku: NRT 3 KIDS HD
-http://look4k.com:80/Khaldoun/22122023/226075
-#EXTINF:-1 tvg-name="Ku: NRT NEWS HD" tvg-logo="https://asiagrandiptv.us/logo/NRTTV.png" group-title="Kurdish",Ku: NRT NEWS HD
-http://look4k.com:80/Khaldoun/22122023/226116
-#EXTINF:-1 tvg-name="Ku: Payam TV HD" tvg-logo="https://asiagrandiptv.us/logo/kupayamtv.png" group-title="Kurdish",Ku: Payam TV HD
-http://look4k.com:80/Khaldoun/22122023/226114
-#EXTINF:-1 tvg-name="Ku: Rudaw HD" tvg-logo="https://asiagrandiptv.us/logo/RUDAWTV.jpg" group-title="Kurdish",Ku: Rudaw HD
-http://look4k.com:80/Khaldoun/22122023/226112
-#EXTINF:-1 tvg-name="Ku: SHOW TV HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ku: SHOW TV HD
-http://look4k.com:80/821518196/276181918/226067
-#EXTINF:-1 tvg-name="Ku: Sterk TV HD" tvg-logo="https://asiagrandiptv.us/logo/sterktv.png" group-title="Kurdish",Ku: Sterk TV HD
-http://look4k.com:80/666428858999/05525515482/226110
-#EXTINF:-1 tvg-name="Ku: Suryoyo SAT HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ku: Suryoyo SAT HD
-http://look4k.com:80/821518196/276181918/226064
-#EXTINF:-1 tvg-name="Ku: TRT Kurdi HD" tvg-logo="https://asiagrandiptv.us/logo/trtkurdi.png" group-title="Kurdish",Ku: TRT Kurdi HD
-http://look4k.com:80/666428858999/05525515482/226109
-#EXTINF:-1 tvg-name="Ku: WAAR HD" tvg-logo="https://asiagrandiptv.us/logo/WAAR.jpg" group-title="Kurdish",Ku: WAAR HD
-http://look4k.com:80/666428858999/05525515482/226108
-#EXTINF:-1 tvg-name="Ku: Zagros TV HD" tvg-logo="https://asiagrandiptv.us/logo/zagrostv.png" group-title="Kurdish",Ku: Zagros TV HD
-http://look4k.com:80/666428858999/05525515482/226107
 #EXTINF:-1 tvg-id="KurdChannel.iq@SD" tvg-logo="https://i.imgur.com/xPwzad9.png" group-title="Kurdish",Kurd Channel
 https://kurdchhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="KURD TV HD" tvg-logo="https://www.kurdch.tv/wp-content/uploads/2020/06/kurdch-logo-300x240.png" group-title="Kurdish",KURD TV HD
-http://look4k.com:80/821518196/276181918/1007035
-#EXTINF:-1 tvg-name="Kurdistan HD" tvg-logo="https://logo.0964750.xyz/logo/logos/kurdistantv.png" group-title="Kurdish",Kurdistan HD
-http://look4k.com:80/821518196/276181918/1006987
-#EXTINF:-1 tvg-name="Kurdistan 24 FHD" tvg-logo="https://logo.0964750.xyz/logo/logos/k24.png" group-title="Kurdish",Kurdistan 24 FHD
-http://look4k.com:80/666428858999/05525515482/1006976
-#EXTINF:-1 tvg-name="Kurdistan Sport HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Kurdistan Sport HD
-http://look4k.com:80/666428858999/05525515482/1007117
+#EXTINF:-1 tvg-id="Kurdistan24.iq@SD" tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="Kurdish",Kurdistan 24 (1080p)
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
 #EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="Kurdish",Kurdistan TV (720p)
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Kurdmax Kurmanci
@@ -268,52 +94,24 @@ http://31.14.40.139:1935/music/livestream/playlist.m3u8
 https://stream.kurdmaxshow.tv/app/kurdmaxshow-sorani/llhls.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Kurdmax Show Kurmanci
 http://31.14.40.139:1935/liveTrans/SHOW2/playlist.m3u8
-#EXTINF:-1 tvg-name="Kurdmax SHOW (sorani) HD" tvg-logo="https://logo.0964750.xyz/logo/logos/kurdmaxsorani.png" group-title="Kurdish",Kurdmax SHOW (sorani) HD
-http://look4k.com:80/821518196/276181918/1006992
-#EXTINF:-1 tvg-name="Kurdmax HD (sorani)" tvg-logo="https://logo.0964750.xyz/logo/logos/kurdmaxsorani.png" group-title="Kurdish",Kurdmax HD (sorani)
-http://look4k.com:80/821518196/276181918/1006990
-#EXTINF:-1 tvg-name="Kurdsat HD" tvg-logo="https://logo.0964750.xyz/logo/logos/kurdsat.png" group-title="Kurdish",Kurdsat HD
-http://look4k.com:80/821518196/276181918/1006988
-#EXTINF:-1 tvg-name="Kurdsat NEWS HD" tvg-logo="https://logo.0964750.xyz/logo/logos/kurdsatnews.png" group-title="Kurdish",Kurdsat NEWS HD
-http://look4k.com:80/666428858999/05525515482/1006977
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Kurdmax Sorani
+https://stream.kurdmax.tv/app/kurdmax-sorani1/ts:playlist.m3u8
+#EXTINF:-1 tvg-id="Kurdsat.iq@SD" tvg-logo="https://i.imgur.com/UAbSwYA.png" group-title="Kurdish",Kurdsat (1080p)
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Kurdsat News
+https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
+#EXTINF:-1 tvg-name="La cravate (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUrL8KxoC9Fc1vr2zpFMy2U2pGw.jpg" group-title="Kurdish",La cravate (2020)
+http://best4u.biz:8080/movie/26842788/26842788/45427.mkv
 #EXTINF:-1 tvg-id="LaoNetTV.la@SD" tvg-logo="https://i.imgur.com/ohbRT05.png" group-title="Kurdish",Lao Net TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="LD Pshdar HD" tvg-logo="https://i.ibb.co/f2wXVJk/IMG-20240330-024439-368.png" group-title="Kurdish",LD Pshdar HD
-http://look4k.com:80/821518196/276181918/1007004
-#EXTINF:-1 tvg-name="LD Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",LD Sport 1 HD
-http://look4k.com:80/666428858999/05525515482/1007115
-#EXTINF:-1 tvg-name="LD Sport Check HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",LD Sport Check HD
-http://look4k.com:80/Khaldoun/22122023/1007127
-#EXTINF:-1 tvg-name="LIFE HD" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Fkarwantvkurdish.blogspot.com%2F2017%2F05%2Fimk-tv-hd.html&psig=AOvVaw2cBlojpbwoah_zabuZRyz1&ust=1602581596304000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCm8OnfruwCFQAAAAAdAAAAABAD" group-title="Kurdish",LIFE HD
-http://look4k.com:80/Khaldoun/22122023/1007039
-#EXTINF:-1 tvg-name="LIKE Documentary HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",LIKE Documentary HD
-http://look4k.com:80/821518196/276181918/1007189
-#EXTINF:-1 tvg-name="4K LOVE Nature" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/pelistank.png" group-title="Kurdish",4K LOVE Nature
-http://look4k.com:80/666428858999/05525515482/1007182
-#EXTINF:-1 tvg-name="MED Muzik HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",MED Muzik HD
-http://look4k.com:80/Khaldoun/22122023/1007131
-#EXTINF:-1 tvg-name="Mihrab FM HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Mihrab FM HD
-http://look4k.com:80/666428858999/05525515482/1007144
-#EXTINF:-1 tvg-name="Mihrab TV HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Mihrab TV HD
-http://look4k.com:80/666428858999/05525515482/1007149
-#EXTINF:-1 tvg-name="MIX HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",MIX HD
-http://look4k.com:80/Khaldoun/22122023/1007094
-#EXTINF:-1 tvg-name="MMN Classical Music HD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FMMNTV.RO%2F&psig=AOvVaw0FWiRy9kU6s2f9nC3QVdzC&ust=1602753113294000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiAhv7es-wCFQAAAAAdAAAAABAD" group-title="Kurdish",MMN Classical Music HD
-http://look4k.com:80/666428858999/05525515482/1007133
-#EXTINF:-1 tvg-name="MMN Quran HD" tvg-logo="https://logo.0964750.xyz/logo/logos/PicsArt_02-02-01.35.07.png" group-title="Kurdish",MMN Quran HD
-http://look4k.com:80/666428858999/05525515482/1007145
-#EXTINF:-1 tvg-name="MMN Radio TURK HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",MMN Radio TURK HD
-http://look4k.com:80/666428858999/05525515482/1007069
-#EXTINF:-1 tvg-name="MMN SHOW TV HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",MMN SHOW TV HD
-http://look4k.com:80/666428858999/05525515482/1007068
+#EXTINF:-1 tvg-name="Marjaavaan - 2019" tvg-logo="http://ultimeiptv.net:8000/images/c038d2af11fdd34855b16f08a23025d3.jpg" group-title="Kurdish",Marjaavaan - 2019
+http://best4u.biz:8080/movie/26842788/26842788/36249.mkv
+#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="Kurdish",Med Muzik (1080p)
+http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 tvg-id="MtavariArkhi.ge@SD" tvg-logo="https://i.imgur.com/tLtGnJW.png" group-title="Kurdish",Mtavari Arkhi
 https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
 #EXTINF:-1 tvg-id="MTVAva.fi@SD" tvg-logo="https://i.imgur.com/WxNCiAk.png" group-title="Kurdish",MTV Ava (720p)
 https://live-fi.tvkaista.net/ava/live.m3u8
-#EXTINF:-1 tvg-name="MTV Family HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",MTV Family HD
-http://look4k.com:80/Khaldoun/22122023/1007093
-#EXTINF:-1 tvg-name="MTV Music HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",MTV Music HD
-http://look4k.com:80/821518196/276181918/1007137
 #EXTINF:-1 tvg-id="MoraNetTV.hu@SD" tvg-logo="https://i.imgur.com/yT0RmKi.png" group-title="Kurdish",Móra-Net TV (576p)
 https://stream.moranettv.hu/live/index.m3u8
 #EXTINF:-1 tvg-id="NavahangTV.fi@SD" tvg-logo="https://i.imgur.com/YteKXJy.png" group-title="Kurdish",Navahang TV (720p)
@@ -322,104 +120,40 @@ https://hls.navahang.live/hls/stream.m3u8
 https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar@SD" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Kurdish",NET TV (720p)
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
-#EXTINF:-1 tvg-name="Newline Hd1" tvg-logo="https://logo.0964750.xyz/logo/logos/newlinehd.png" group-title="Kurdish",Newline Hd1
-http://look4k.com:80/Khaldoun/22122023/1006995
-#EXTINF:-1 tvg-name="Newline Hd2" tvg-logo="https://logo.0964750.xyz/logo/logos/newlinehd.png" group-title="Kurdish",Newline Hd2
-http://look4k.com:80/821518196/276181918/1006996
-#EXTINF:-1 tvg-name="Newmax Comedy HD" tvg-logo="https://3.bp.blogspot.com/-dXn9JYJheuk/XOX4heI9hnI/AAAAAAAAC0c/u17gmv2FJv0KtmqKQEmL6z1yUgG3OznFgCLcBGAs/w150-h150/NewMax%2BBox%2Boffice.png" group-title="Kurdish",Newmax Comedy HD
-http://look4k.com:80/Khaldoun/22122023/1007022
-#EXTINF:-1 tvg-name="NEXT HD" tvg-logo="https://imgur.com/M6iHbRL.png" group-title="Kurdish",NEXT HD
-http://look4k.com:80/Khaldoun/22122023/1007014
-#EXTINF:-1 tvg-name="NIGA Family HD" tvg-logo="https://logo.0964750.xyz/logo/logos/nigafamily.png" group-title="Kurdish",NIGA Family HD
-http://look4k.com:80/Khaldoun/22122023/1007091
-#EXTINF:-1 tvg-name="Niroj HD" tvg-logo="https://logo.0964750.xyz/logo/logos/niroj.png" group-title="Kurdish",Niroj HD
-http://look4k.com:80/Khaldoun/22122023/1007015
-#EXTINF:-1 tvg-name="NRT FHD" tvg-logo="https://logo.0964750.xyz/logo/logos/nrt.png" group-title="Kurdish",NRT FHD
-http://look4k.com:80/821518196/276181918/1006981
-#EXTINF:-1 tvg-name="NRT Sport HD" tvg-logo="https://logo.0964750.xyz/logo/logos/nrtsport.png" group-title="Kurdish",NRT Sport HD
-http://look4k.com:80/666428858999/05525515482/1007114
-#EXTINF:-1 tvg-name="Nrt2 (sorani) HD" tvg-logo="https://logo.0964750.xyz/logo/logos/nrt2.png" group-title="Kurdish",Nrt2 (sorani) HD
-http://look4k.com:80/666428858999/05525515482/1007024
-#EXTINF:-1 tvg-name="Nubar Sport TV HD" tvg-logo="https://logo.0964750.xyz/logo/logos/nubarsport.png" group-title="Kurdish",Nubar Sport TV HD
-http://look4k.com:80/666428858999/05525515482/1007113
-#EXTINF:-1 tvg-name="Nujin TV HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Nujin TV HD
-http://look4k.com:80/666428858999/05525515482/1007020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HI5GOfF.png" tvg-language="Kurdish" group-title="Kurdish",NRT
+https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 #EXTINF:-1 tvg-id="OmroepHoekscheWaard.nl@SD" tvg-logo="https://i.imgur.com/pgMwNGV.png" group-title="Kurdish",Omroep Hoeksche Waard (480p)
 https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepLingewaard.nl@SD" tvg-logo="https://i.imgur.com/FqyTFVN.png" group-title="Kurdish",Omroep Lingewaard (720p)
 https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Pavarotti (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bf0Iim4D6XXrAAJGwHXyrWFqUz8.jpg" group-title="Kurdish",Pavarotti (2019)
+http://best4u.biz:8080/movie/26842788/26842788/45463.mkv
 #EXTINF:-1 tvg-id="PayameAfghanTV.us@SD" tvg-logo="https://i.imgur.com/t9wYYY9.png" group-title="Kurdish",Payam-e-Afghan TV (480p)
 https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
-#EXTINF:-1 tvg-name="Payam FM HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Payam FM HD
-http://look4k.com:80/821518196/276181918/1007100
 #EXTINF:-1 tvg-id="PayamJavanTV.us@SD" tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="Kurdish",Payam Javan TV (720p)
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Payam TV HD" tvg-logo="https://logo.0964750.xyz/logo/logos/payam.png" group-title="Kurdish",Payam TV HD
-http://look4k.com:80/821518196/276181918/1007150
+#EXTINF:-1 tvg-id="PayamTV.iq@SD" tvg-logo="https://i.imgur.com/qySEibb.png" group-title="Kurdish",Payam TV (1080p)
+https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
 #EXTINF:-1 tvg-id="PravasiChannel.in@SD" tvg-logo="https://i.imgur.com/1dHarb7.png" group-title="Kurdish",Pravasi Channel (1080p)
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="PRO Quran TV HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",PRO Quran TV HD
-http://look4k.com:80/666428858999/05525515482/1007148
-#EXTINF:-1 tvg-name="Qallam Ayini HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Qallam Ayini HD
-http://look4k.com:80/666428858999/05525515482/1007143
 #EXTINF:-1 tvg-id="RadioCarnavalTV.es@SD" tvg-logo="https://i.imgur.com/cdpbkSo.png" group-title="Kurdish",Radio Carnaval TV (720p)
 https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="RJTV.us@SD" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Kurdish",Radio Javan TV (1080p)
 https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Ranya HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ranya HD
-http://look4k.com:80/821518196/276181918/1007009
-#EXTINF:-1 tvg-name="Ranya CITY HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Ranya CITY HD
-http://look4k.com:80/821518196/276181918/1007104
-#EXTINF:-1 tvg-name="Rasan HD" tvg-logo="https://logo.0964750.xyz/logo/logos/PicsArt_02-02-12.54.28.png" group-title="Kurdish",Rasan HD
-http://look4k.com:80/821518196/276181918/1007010
-#EXTINF:-1 tvg-name="RED HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",RED HD
-http://look4k.com:80/666428858999/05525515482/1007101
-#EXTINF:-1 tvg-name="RENG HD" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/reng-family.png" group-title="Kurdish",RENG HD
-http://look4k.com:80/Khaldoun/22122023/1007087
-#EXTINF:-1 tvg-name="RENG Documentary HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",RENG Documentary HD
-http://look4k.com:80/821518196/276181918/1007179
+#EXTINF:-1 tvg-name="Ravage 2025" tvg-logo="http://117.55.202.58:8080/images/29a33f07184154bd402e3219917b509a.jpg" group-title="Kurdish",Ravage 2025
+http://best4u.biz:8080/movie/26842788/26842788/72151.mp4
 #EXTINF:-1 tvg-id="RojavaTV.sy@SD" tvg-logo="https://i.imgur.com/42noysO.png" group-title="Kurdish",Rojava TV (1080p)
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
-#EXTINF:-1 tvg-name="Rojhelat HD" tvg-logo="https://i.ibb.co/bzS5k9F/ac697ced75e0219a61d1609d2b7f5b4e.png" group-title="Kurdish",Rojhelat HD
-http://look4k.com:80/Khaldoun/22122023/1007054
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Ronahi TV
 https://iko-streamline-live1.akamaized.net/RonahiTV/master.m3u8
-#EXTINF:-1 tvg-name="ROZH HD" tvg-logo="https://logo.0964750.xyz/logo/logos/PicsArt_02-02-12.55.16.png" group-title="Kurdish",ROZH HD
-http://look4k.com:80/Khaldoun/22122023/1007038
-#EXTINF:-1 tvg-name="Rudaw HD" tvg-logo="https://logo.0964750.xyz/logo/logos/rudaw.png" group-title="Kurdish",Rudaw HD
-http://look4k.com:80/666428858999/05525515482/1006974
 #EXTINF:-1 tvg-id="RudawTV.iq@SD" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="Kurdish",Rudaw TV (1080p)
 https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
-#EXTINF:-1 tvg-id="SavaneTV.bf@SD" tvg-logo="https://i.imgur.com/mv3S1Zc.png" group-title="Kurdish",Savane TV
-https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
-#EXTINF:-1 tvg-name="SEE Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",SEE Sport 1 HD
-http://look4k.com:80/666428858999/05525515482/1007119
-#EXTINF:-1 tvg-name="SEE Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",SEE Sport 2 HD
-http://look4k.com:80/666428858999/05525515482/1007120
-#EXTINF:-1 tvg-name="SEE Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",SEE Sport 3 HD
-http://look4k.com:80/666428858999/05525515482/1007121
-#EXTINF:-1 tvg-name="Shams.tv HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Shams.tv HD
-http://look4k.com:80/821518196/276181918/995758
-#EXTINF:-1 tvg-name="SHNA TV HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",SHNA TV HD
-http://look4k.com:80/666428858999/05525515482/1007080
-#EXTINF:-1 tvg-name="SIMA HD" tvg-logo="https://imgur.com/Zr4de6N.jpg" group-title="Kurdish",SIMA HD
-http://look4k.com:80/821518196/276181918/1007011
-#EXTINF:-1 tvg-name="SIMA Documentary HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",SIMA Documentary HD
-http://look4k.com:80/821518196/276181918/1007180
-#EXTINF:-1 tvg-name="SIMA Sports HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",SIMA Sports HD
-http://look4k.com:80/821518196/276181918/1007124
-#EXTINF:-1 tvg-name="Soran Entertaiment HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Soran Entertaiment HD
-http://look4k.com:80/Khaldoun/22122023/1007089
-#EXTINF:-1 tvg-name="Speda Drama HD" tvg-logo="http://logo.0964750.xyz/logo/spedadrama.fw.png" group-title="Kurdish",Speda Drama HD
-http://look4k.com:80/666428858999/05525515482/1007062
+#EXTINF:-1 tvg-name="Savage Dog - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR1JkFhQoCW72KTSSdeSdNnFtOu.jpg" group-title="Kurdish",Savage Dog - 2017
+http://best4u.biz:8080/movie/26842788/26842788/9785.mp4
+#EXTINF:-1 tvg-name="Savage Salvation (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg" group-title="Kurdish",Savage Salvation (2022)
+http://best4u.biz:8080/movie/26842788/26842788/52067.mkv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Speda TV
 https://spedanet.store/upload/images/spedahd.m3u8
-#EXTINF:-1 tvg-name="SPI HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",SPI HD
-http://look4k.com:80/666428858999/05525515482/1007107
-#EXTINF:-1 tvg-name="SPI Quran HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",SPI Quran HD
-http://look4k.com:80/821518196/276181918/1007154
-#EXTINF:-1 tvg-name="Srusht HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Srusht HD
-http://look4k.com:80/Khaldoun/22122023/1007161
 #EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="Kurdish",Star Pravah HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Sterk TV
@@ -430,8 +164,6 @@ https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
 https://teledrama.ebc.lk/TTT/proxy.php
 #EXTINF:-1 tvg-id="ThrakiNetTV.gr@SD" tvg-logo="https://i.imgur.com/3ITSnqT.png" group-title="Kurdish",Thraki Net TV (1080p)
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1 tvg-name="Tr: TRT Kurdi HD" tvg-logo="http://landiptv.vip:2095/images/tAMEysP4gkZCw5tGuBhL3LLwAOCM7Oe6-TC3wmpAxi6moURKzq1n5_ByQ5pcU-TUyFuWoeIOfoTZu1wLvLbHY08-6dSjnGrn0TbuM1-E37ena4U78IjWb0wEchp-5yuF.png" group-title="Kurdish",Tr: TRT Kurdi HD
-http://look4k.com:80/Khaldoun/22122023/228146
 #EXTINF:-1 tvg-id="TRT1.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="Kurdish",TRT 1 (1440p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr@SD" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Kurdish",TRT 2 (1440p)
@@ -456,8 +188,6 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Kurdish",TRT Haber (720p)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Kurdi HD" tvg-logo="https://logo.0964750.xyz/logo/logos/trtkurdi.png" group-title="Kurdish",TRT Kurdi HD
-http://look4k.com:80/666428858999/05525515482/1007019
 #EXTINF:-1 tvg-id="TRTKurdi.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png" group-title="Kurdish",TRT Kurdî (720p)
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr@SD" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="Kurdish",TRT Müzik (720p)
@@ -476,35 +206,17 @@ https://ncdn.telewebion.ir/nava/live/playlist.m3u8
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="VidusdaugavasTelevizija.lv@SD" tvg-logo="https://i.imgur.com/L5U3PQR.png" group-title="Kurdish",Vidusdaugavas Televīzija (576p)
 https://straume.vdtv.lv/vdtv2/index.m3u8
-#EXTINF:-1 tvg-name="WAAR HD" tvg-logo="https://logo.0964750.xyz/logo/logos/waar.png" group-title="Kurdish",WAAR HD
-http://look4k.com:80/821518196/276181918/1006984
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Waar TV
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Walla TV HD" tvg-logo="https://2.bp.blogspot.com/-DySpBgku4RQ/XMyy0jbfAuI/AAAAAAAACxs/PXE4kWaAP1cgzgmHtK6q5lSoeiplPKlSwCLcBGAs/w150-h150/Amed-TV.png" group-title="Kurdish",Walla TV HD
-http://look4k.com:80/666428858999/05525515482/1007166
-#EXTINF:-1 tvg-name="Wasela Quran HD" tvg-logo="https://logo.0964750.xyz/logo/logos/krdwasela.png" group-title="Kurdish",Wasela Quran HD
-http://look4k.com:80/666428858999/05525515482/1007141
 #EXTINF:-1 tvg-id="WelatTV.sy@HD" tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4" group-title="Kurdish",Welat TV (1080i)
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="WILD Earth HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",WILD Earth HD
-http://look4k.com:80/821518196/276181918/1007186
-#EXTINF:-1 tvg-name="WWE HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",WWE HD
-http://look4k.com:80/Khaldoun/22122023/1007126
+#EXTINF:-1 tvg-name="YAF: k24 tv kenya" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",YAF: k24 tv kenya
+http://best4u.biz:8080/26842788/26842788/61041
 #EXTINF:-1 tvg-id="ZagrosTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/960px-Kermanshah_Zaghros.svg.png" group-title="Kurdish",Zagros
 https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.iq@SD" tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="Kurdish",Zagros TV (1080p)
 https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
-#EXTINF:-1 tvg-name="ZAP TV HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",ZAP TV HD
-http://look4k.com:80/666428858999/05525515482/1007097
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Kurdish",Zarok TV (720p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-name="ZED HD" tvg-logo="https://logo.0964750.xyz/logo/PicsArt_02-01-08.07.05.png" group-title="Kurdish",ZED HD
-http://look4k.com:80/821518196/276181918/1007000
-#EXTINF:-1 tvg-name="ZED PLUS HD" tvg-logo="https://logo.0964750.xyz/logo/logos/PicsArt_02-02-01.10.56.png" group-title="Kurdish",ZED PLUS HD
-http://look4k.com:80/821518196/276181918/1007001
-#EXTINF:-1 tvg-name="ZNAR TV HD" tvg-logo="https://logo.0964750.xyz/logo/logos/znar.png" group-title="Kurdish",ZNAR TV HD
-http://look4k.com:80/666428858999/05525515482/1007071
-#EXTINF:-1 tvg-name="ZOOM HD" tvg-logo="https://logo.0964750.xyz/logo/logos/zoom.png" group-title="Kurdish",ZOOM HD
-http://look4k.com:80/Khaldoun/22122023/1006979
