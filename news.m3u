@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   News - 1052 channels
+#   News - 1053 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-14 11:52 UTC
-#   Channels: 1052
+#   Updated: 2026-09-14 17:45 UTC
+#   Channels: 1053
 # +======================================+
 #EXTINF:-1 tvg-id="10TV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png" group-title="News",10 TV (720p)
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
@@ -542,8 +542,6 @@ https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
 https://feeds.intoday.in/bttv/itgd.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl@SD" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" group-title="News",BTB Info (1080p)
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
-#EXTINF:-1 tvg-id="BTVNews.kh@SD" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="News",BTV News (720p)
-https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BuendiaTV.hn@SD" tvg-logo="https://i.imgur.com/m5hNyNE.png" group-title="News",Buendia TV
 https://servilive.com:3508/stream/play.m3u8
 #EXTINF:-1 tvg-id="ASTV.tr@SD" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" group-title="News",Bursa AS TV (900p)
@@ -800,6 +798,8 @@ https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="News",E! Latin America Mexico (720p)
 http://72.1.184.5:8089/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="EACNewsTV.kh@SD" tvg-logo="https://i.imgur.com/EuYhS9Z.png" group-title="News",EAC News TV
+https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
 #EXTINF:-1 tvg-name="EAF: ETV NEWS (ET)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",EAF: ETV NEWS (ET)
 http://best4u.biz:8080/26842788/26842788/61081
 #EXTINF:-1 tvg-id="EagleNews.mn" tvg-name="Eagle News HD" tvg-logo="https://i.imgur.com/2oqXpve.jpg" group-title="News",Eagle News HD
@@ -888,8 +888,6 @@ http://190.93.224.42/EXITOSA/index.m3u8
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtraProNews.gr@SD" tvg-logo="https://i.imgur.com/VKW9xw6.png" group-title="News",Extra ProNews (576p)
 http://62.1.176.18:8888/extra/index.m3u8
-#EXTINF:-1 tvg-id="FalestinonaChannel.lb" tvg-name="Falestinona Channel" tvg-logo="https://i.imgur.com/Z3QeQHk.png" group-title="News",Falestinona Channel
-https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="FilinfoTV.bf@SD" tvg-logo="https://i.imgur.com/KG93Tvn.png" group-title="News",Filinfo TV (1080p)
 https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
 #EXTINF:-1 tvg-id="FinansTurkTV.tr@SD" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" group-title="News",Finans Turk TV (720p)
@@ -954,6 +952,8 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://guaranteenews.in:8443/live/gnews/index.m3u8
 #EXTINF:-1 tvg-id="Guatevision.gt@SD" tvg-logo="https://i.imgur.com/mbmHPnO.png" group-title="News",Guatevision (720p)
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
+#EXTINF:-1 tvg-id="GugbangTV.kr@SD" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",Gugbang TV (1080p)
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GujaratFirst.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png" group-title="News",Gujarat First (576p)
 https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8
 #EXTINF:-1 tvg-id="GuneydoguTV.tr@SD" tvg-logo="https://i.imgur.com/JT5pp3Y.png" group-title="News",Guneydogu TV (720p)
@@ -1238,6 +1238,8 @@ https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="MiracleChannel.se@SD" tvg-logo="https://i.imgur.com/yrt7Rw9.png" group-title="News",Miracle TV (1080p)
 https://live.miracleonline.org/hls/miracle1.m3u8
+#EXTINF:-1 tvg-id="MKNMarathi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0021LWE6.png?lock=720x540" group-title="News",MKN Marathi (576p)
+https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8
 #EXTINF:-1 tvg-id="MongolianNewsChannel.mn" tvg-name="MNC" tvg-logo="https://i.imgur.com/gMVqbwU.png" group-title="News",MNC
 https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
 #EXTINF:-1 tvg-id="MNTV.mz@SD" tvg-logo="https://mntv.co.mz/wp-content/uploads/2025/11/Prancheta-4_1-1.png" group-title="News",MNTV
@@ -1250,6 +1252,8 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://i.imgur.com/3l25EZI.png" group-title="News",Moon TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
+#EXTINF:-1 tvg-id="MRTVNews.mm@SD" tvg-logo="https://i.imgur.com/5eK8Bc4.png" group-title="News",MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
 #EXTINF:-1 tvg-id="MTVUutiset.fi@SD" tvg-logo="https://i.imgur.com/ZO8ShOK.png" group-title="News",MTV Uutiset (720p)
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-id="MunsifTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MUNSIF_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="News",Munsif TV (576p)
@@ -1322,18 +1326,18 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/in
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
 #EXTINF:-1 tvg-id="News1.th@SD" tvg-logo="https://i.imgur.com/7j8YaAt.png" group-title="News",News1
 https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
-#EXTINF:-1 tvg-id="News12Bronx.us@SD" tvg-logo="https://i.imgur.com/d6xQiaf.png" group-title="News",News12 Bronx
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12Conneticut.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="News",News12 Conneticut
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
-#EXTINF:-1 tvg-id="News12HudsonValley.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="News",News12 Hudson Valley
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12PlusHudsonValley.us@HD" tvg-logo="https://i.ibb.co/cKkdC203/news12plus-HV.jpg" group-title="News",News12+ Hudson Valley (1080p)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12LongIsland.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="News",News12 Long Island (1080p)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12NewJersey.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="News",News12 New Jersey
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12PlusNewYork.us@HD" tvg-logo="https://i.ibb.co/tThKYM09/news12plus-NYC.jpg" group-title="News",News12+ New York (1080p)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="News12Westchester.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="News",News12 Westchester
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News18AssamNorthEast.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_ASSAM_NORTHSYMHYPEAST/images/LOGO_HD/image.png" group-title="News",News18 Assam North-East (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News18Bangla.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_BANGLA/images/LOGO_HD/image.png" group-title="News",News18 Bangla (1080p)
@@ -1618,6 +1622,8 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 tvg-id="RNN.do@SD" tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="News",RNN (720p)
 https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RNN.do@DOS" tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="News",RNN DOS (720p)
+https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RozanaSpokesman.in@SD" tvg-logo="https://www.rozanaspokesman.in/images/logospokesman.png" group-title="News",Rozana Spokesman (1080p)
 https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
 #EXTINF:-1 tvg-id="RPPTV.pe@SD" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="News",RPP TV (1080p)
@@ -1716,8 +1722,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="SkyNewsInternational.uk" tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="News",Sky News (UK) Ⓨ
 https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
-#EXTINF:-1 tvg-id="SkyNewsUrdu.pk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png" group-title="News",Sky News Urdu (720p)
-https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" group-title="News",Sky News Weather (720p)
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="StarKentrikisElladas.gr@SD" tvg-logo="https://i.imgur.com/ZBt6beo.png" group-title="News",Star Kentrikis Elladas (1080p)
@@ -1736,8 +1740,6 @@ https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u
 https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
 #EXTINF:-1 tvg-id="SuvarnaNews.in@SD" tvg-logo="https://i.imgur.com/0H1HObK.png" group-title="News",Suvarna News (576p)
 https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="SwarajExpressSMBC.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SMBC_TV.png" group-title="News",Swaraj Express SMBC (576p)
-https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8
 #EXTINF:-1 tvg-id="SwatantraTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swatantra_News.png" group-title="News",Swatantra TV (1080p)
 https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
 #EXTINF:-1 tvg-id="Syri.al@SD" tvg-logo="https://i.imgur.com/EEHyKdL.jpeg" group-title="News",Syri (720p)
@@ -1868,8 +1870,6 @@ https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCNews.ng" tvg-name="TVC News" tvg-logo="https://i.imgur.com/jaSq18B.png" group-title="News",TVC News Ⓨ
 https://www.youtube.com/tvcnewsnigeria/live
-#EXTINF:-1 tvg-id="TVKStella.pl@SD" tvg-logo="https://www.tvkstella.pl/img/poster.png" group-title="News",TVK Stella (576p)
-https://stream.tvkstella.pl/stella/stella.m3u8
 #EXTINF:-1 tvg-id="TVMElSalvador.sv@SD" tvg-logo="https://i.imgur.com/fyCC8R6.png" group-title="News",TVM El Salvador (720p)
 https://twitch-m3u8.bastypro112.workers.dev/tvm_esa/index.m3u8
 #EXTINF:-1 tvg-id="TVMnewsPlus.mt@SD" tvg-logo="https://i.imgur.com/CFcst4g.png" group-title="News",TVM News+
@@ -1986,8 +1986,6 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 tvg-id="VTV.mv@SD" tvg-logo="https://i.imgur.com/6bY9Umo.png" group-title="News",VTV (1080p)
 https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
-#EXTINF:-1 tvg-id="VTVCanal32.do@SD" tvg-logo="https://i.imgur.com/qjm4B0J.png" group-title="News",VTV Canal 32 (1080p)
-https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 #EXTINF:-1 tvg-id="VTVNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VTV_GUJARATI/images/LOGO_HD/image.png" group-title="News",VTV News (576p)
 https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8
 #EXTINF:-1 tvg-id="Visir.is@SD" tvg-logo="https://i.imgur.com/07Vlt6i.jpg" group-title="News",Vísir (1080p)
@@ -2026,6 +2024,8 @@ http://best4u.biz:8080/26842788/26842788/60954
 http://best4u.biz:8080/26842788/26842788/60962
 #EXTINF:-1 tvg-name="YAF: Joy  News Ghana (GH)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",YAF: Joy News Ghana (GH)
 http://best4u.biz:8080/26842788/26842788/60966
+#EXTINF:-1 tvg-name="YAF:  KTN KENYA NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",YAF: KTN KENYA NEWS
+http://best4u.biz:8080/26842788/26842788/61039
 #EXTINF:-1 tvg-name="yAF: News Central TV (NG)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",yAF: News Central TV (NG)
 http://best4u.biz:8080/26842788/26842788/61016
 #EXTINF:-1 tvg-name="YAF: TVC News Nigeria Live" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",YAF: TVC News Nigeria Live
@@ -2110,3 +2110,5 @@ http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlaToo24.kg@SD" tvg-logo="https://i.imgur.com/vBPmUQA.png" group-title="News",УТРК Ала-Тоо 24 (480p)
 https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
+#EXTINF:-1 tvg-id="HunanNewsChannel.cn@SD" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/hunantv_logo.png" group-title="News",长沙新闻
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
