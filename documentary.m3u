@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Documentary - 427 channels
+#   Documentary - 425 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-15 16:21 UTC
-#   Channels: 427
+#   Updated: 2026-09-15 21:01 UTC
+#   Channels: 425
 # +======================================+
 #EXTINF:-1 tvg-id="13C.cl@SD" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="Documentary",13C (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
@@ -28,8 +28,6 @@ https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
 https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa@SD" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="Documentary",Al Jazeera Documentary (1080p)
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="Documentary",Alterna TV (720p)
-https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AmaniTV.sn@SD" tvg-logo="https://i.imgur.com/0cY4K7G.png" group-title="Documentary",Amani TV (1080p)
 https://goccn.cloud/hls/amanitv/index.m3u8
 #EXTINF:-1 tvg-name="Ar-Jazeera-Documentary" tvg-logo="http://149.202.206.141:7070/logo/Ar-Jazeera-Documentary.png" group-title="Documentary",Ar-Jazeera-Documentary
@@ -82,6 +80,8 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 http://best4u.biz:8080/26842788/26842788/35528
 #EXTINF:-1 tvg-name="BEIN Discovery Family HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",BEIN Discovery Family HD
 http://best4u.biz:8080/26842788/26842788/35531
+#EXTINF:-1 tvg-id="Belarus3.by@HD" tvg-logo="https://i.imgur.com/JkcDycn.png" group-title="Documentary",Belarus-3 HD (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BetterLifeNatureChannel.us@SD" tvg-logo="https://i.imgur.com/D8Vuw6I.png" group-title="Documentary",Better Life Nature Channel (480p)
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 tvg-id="BigPlanet.ru@SD" tvg-logo="https://i.imgur.com/wyuqWTR.png" group-title="Documentary",Big Planet (576p)
@@ -102,8 +102,6 @@ https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 http://best4u.biz:8080/26842788/26842788/13989
 #EXTINF:-1 tvg-name="CA: National Geographic HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",CA: National Geographic HD
 http://best4u.biz:8080/26842788/26842788/14003
-#EXTINF:-1 tvg-id="CanThoTV2.vn@SD" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" group-title="Documentary",Can Tho TV 2 (1080p)
-https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal17RTVD.do@HD" tvg-logo="https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png" group-title="Documentary",Canal 17 RTVD (1080p)
 https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalDiplomatico.ve@SD" tvg-logo="https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png" group-title="Documentary",Canal Diplomatico
@@ -408,6 +406,8 @@ http://stream.mcquack.net/141/index.m3u8
 https://vod-c57.interspace.com:443/channel_abr/46/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NTE6MDkgUE0maGFzaF92YWx1ZT05S1hVR3ExVVVPUnU5Zk9sTGpDY2dRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3N2RkZGIxYTU=
 #EXTINF:-1 tvg-id="MRT2.mk" tvg-name="MRT2" tvg-logo="https://i.imgur.com/YvOrUnN.png" group-title="Documentary",MRT2 Ⓖ
 https://vod-c57.interspace.com:443/channel_abr/43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MjM6NTQgUE0maGFzaF92YWx1ZT1ZT2dHa29qd09TbDcvVFpqQU1udVh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MTdhN2ZmY2Q=
+#EXTINF:-1 tvg-id="MRTVFarmer.mm@SD" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Documentary",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 #EXTINF:-1 tvg-id="MRTVNRC.mm@SD" tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="Documentary",MRTV NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 #EXTINF:-1 tvg-id="MWDDocumentary.mm@SD" tvg-logo="https://i.imgur.com/4XV7cjU.png" group-title="Documentary",MWD Documentary
@@ -620,8 +620,6 @@ https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",RT Documentary Russian (1080p)
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
-#EXTINF:-1 tvg-id="RTB3.bf@SD" tvg-logo="https://i.imgur.com/OFZm8ic.png" group-title="Documentary",RTB 3
-https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
 #EXTINF:-1 tvg-id="RTGTV.ru@HD" tvg-logo="https://i.imgur.com/ZMKPAho.png" group-title="Documentary",RTG TV HD (1080p)
 http://stream.mcquack.net/164/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" group-title="Documentary",Russia-K HD (1080p)
@@ -734,8 +732,6 @@ https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSTravelNetwork.us@SD" tvg-logo="https://i.imgur.com/vSFf5Ce.png" group-title="Documentary",TVS Travel Network (720p)
 https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
-#EXTINF:-1 tvg-id="UAATV.mx@SD" tvg-logo="https://i.imgur.com/brCSiGh.png" group-title="Documentary",UAA TV (1080p)
-https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
 #EXTINF:-1 tvg-id="UChileTV.cl" tvg-name="UChile TV" tvg-logo="https://i.imgur.com/mF2W8Uh.png" group-title="Documentary",UChile TV
 https://unlimited1-us.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UCL.uy@SD" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Documentary",UCL (720p)
