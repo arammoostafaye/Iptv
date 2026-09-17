@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Full list - 9817 channels
+#   Full list - 9835 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-17 16:20 UTC
-#   Channels: 9817
+#   Updated: 2026-09-17 21:07 UTC
+#   Channels: 9835
 # +======================================+
 #EXTINF:-1 tvg-id="4Kurd.fr@SD" tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" group-title="Kurdish",4 Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
@@ -68,6 +68,8 @@ https://live.host247.net/gk/gksat/playlist.m3u8
 http://best4u.biz:8080/26842788/26842788/8788
 #EXTINF:-1 tvg-id="K24.ke@SD" tvg-logo="https://i.imgur.com/SUjo6Bm.png" group-title="Kurdish",K24 (1080p)
 https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
+#EXTINF:-1 tvg-id="KBRI8.us@SD" tvg-logo="https://i.imgur.com/r8lLsyh.png" group-title="Kurdish",KBRI Brighton Channel 8 (Brighton CO) (720p)
+https://brightonco.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Khak TV
 http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
 #EXTINF:-1 tvg-id="KhavaranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png" group-title="Kurdish",Khavaran
@@ -126,8 +128,6 @@ https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepLingewaard.nl@SD" tvg-logo="https://i.imgur.com/FqyTFVN.png" group-title="Kurdish",Omroep Lingewaard (720p)
 https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8
-#EXTINF:-1 tvg-id="ParlamentodeNavarra.es@SD" tvg-logo="https://i.imgur.com/JnhWxKv.png" group-title="Kurdish",Parlamento de Navarra (368p)
-https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 #EXTINF:-1 tvg-name="Pavarotti (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bf0Iim4D6XXrAAJGwHXyrWFqUz8.jpg" group-title="Kurdish",Pavarotti (2019)
 http://best4u.biz:8080/movie/26842788/26842788/45463.mkv
 #EXTINF:-1 tvg-id="PayameAfghanTV.us@SD" tvg-logo="https://i.imgur.com/t9wYYY9.png" group-title="Kurdish",Payam-e-Afghan TV (480p)
@@ -1386,6 +1386,8 @@ http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
 https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SwerveSports.us@SD" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="Sports",Swerve Sports (720p)
 https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TSports.bd@SD" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T Sports (1080p)
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-id="TSports7.th@SD" tvg-logo="https://i.imgur.com/KyI0s5n.png" group-title="Sports",T Sports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TalentTV.lk@HD" tvg-logo="https://talenttv.lk/logo-footer.png" group-title="Sports",Talent TV (720p)
@@ -1414,6 +1416,8 @@ https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/ind
 https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1 tvg-id="TJKTV2.tr@SD" tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="Sports",TJK TV 2 (1080p)
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
+#EXTINF:-1 tvg-id="TourSpotTV.do@HD" tvg-logo="https://imgur.com/khj869k.png" group-title="Sports",Tour Spot TV (1280p)
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRSport.it@SD" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="Sports",TR Sport (480p)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr@SD" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Sports",Trace Sport Stars SD
@@ -1424,6 +1428,8 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="Sports",TRT Spor Yildiz (1440p)
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
+#EXTINF:-1 tvg-id="TrueTennis.th@SD" tvg-logo="https://i.imgur.com/Zu72OYA.png" group-title="Sports",True Tennis (720p)
+http://58.8.186.128:10004/bysid/2418
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports",TSN The Ocho (1080p)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 tvg-id="TurfMovil.cl@SD" tvg-logo="https://i.imgur.com/TwIe4lK.png" group-title="Sports",Turf Movil (720p)
@@ -2376,6 +2382,8 @@ https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 http://best4u.biz:8080/movie/26842788/26842788/18082.mkv
 #EXTINF:-1 tvg-name="All the Old Knives - 2022" tvg-logo="http://best4u.biz:8000/images/4d24e3aac3555a58aaf093586594c9e9.jpg" group-title="Movies",All the Old Knives - 2022
 http://best4u.biz:8080/movie/26842788/26842788/42830.mkv
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png" group-title="Movies",All Time Movies (576p)
+https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 #EXTINF:-1 tvg-name="All Together Now (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QIpIHoYdlt9ekD6mSIxe0FylpR.jpg" group-title="Movies",All Together Now (2020)
 http://best4u.biz:8080/movie/26842788/26842788/18096.mp4
 #EXTINF:-1 tvg-id="AllWeddingsWEtv.us@SD" tvg-logo="https://i.imgur.com/OjLCew5.png" group-title="Movies",All Weddings We TV
@@ -2784,8 +2792,20 @@ http://best4u.biz:8080/movie/26842788/26842788/54950.mkv
 http://best4u.biz:8080/movie/26842788/26842788/54429.mp4
 #EXTINF:-1 tvg-id="Awkward.de@DACH" tvg-logo="https://images.pluto.tv/channels/62bc1784120ba80007935aaa/colorLogoPNG.png" group-title="Movies",Awkward
 https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
-#EXTINF:-1 tvg-name="Awlad Embaba S01 E29" tvg-logo="https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg" group-title="Movies",Awlad Embaba S01 E29
-http://best4u.biz:8080/series/26842788/26842788/16666.mp4
+#EXTINF:-1 tvg-name="Awlad Embaba S01 E10" tvg-logo="https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg" group-title="Movies",Awlad Embaba S01 E10
+http://best4u.biz:8080/series/26842788/26842788/16647.mp4
+#EXTINF:-1 tvg-name="Awlad Embaba S01 E13" tvg-logo="https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg" group-title="Movies",Awlad Embaba S01 E13
+http://best4u.biz:8080/series/26842788/26842788/16650.mp4
+#EXTINF:-1 tvg-name="Awlad Embaba S01 E14" tvg-logo="https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg" group-title="Movies",Awlad Embaba S01 E14
+http://best4u.biz:8080/series/26842788/26842788/16651.mp4
+#EXTINF:-1 tvg-name="Awlad Embaba S01 E15" tvg-logo="https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg" group-title="Movies",Awlad Embaba S01 E15
+http://best4u.biz:8080/series/26842788/26842788/16652.mp4
+#EXTINF:-1 tvg-name="Awlad Embaba S01 E24" tvg-logo="https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg" group-title="Movies",Awlad Embaba S01 E24
+http://best4u.biz:8080/series/26842788/26842788/16661.mp4
+#EXTINF:-1 tvg-name="Awlad Embaba S01 E26" tvg-logo="https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg" group-title="Movies",Awlad Embaba S01 E26
+http://best4u.biz:8080/series/26842788/26842788/16663.mp4
+#EXTINF:-1 tvg-name="Awlad Embaba S01 E30" tvg-logo="https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg" group-title="Movies",Awlad Embaba S01 E30
+http://best4u.biz:8080/series/26842788/26842788/16667.mp4
 #EXTINF:-1 tvg-name="Awoken (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZUANbEwkNztD9qdr83zKBGzE0p.jpg" group-title="Movies",Awoken (2020)
 http://best4u.biz:8080/movie/26842788/26842788/18178.mkv
 #EXTINF:-1 tvg-name="Axcellerator.2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZUANbEwkNztD9qdr83zKBGzE0p.jpg" group-title="Movies",Axcellerator.2020
@@ -2794,6 +2814,8 @@ http://best4u.biz:8080/movie/26842788/26842788/18179.mp4
 http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia Taiwan (1080p)
 http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 tvg-id="AXNAsia.sg@Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia Thailand (720p)
+http://58.8.186.128:10007/bysid/2814
 #EXTINF:-1 tvg-id="AXNBlack.us@Bulgary" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Movies",AXN Black (576p)
 http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us@Poland" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Movies",AXN Black Poland (576p)
@@ -4844,8 +4866,22 @@ http://best4u.biz:8080/movie/26842788/26842788/18485.mkv
 http://best4u.biz:8080/movie/26842788/26842788/18486.mkv
 #EXTINF:-1 tvg-name="Divorce Club (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0FE1o5SUJzImwV4Q099uAq018U.jpg" group-title="Movies",Divorce Club (2020)
 http://best4u.biz:8080/movie/26842788/26842788/18487.mp4
-#EXTINF:-1 tvg-name="Divorce myself of you S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg" group-title="Movies",Divorce myself of you S01 E42
-http://best4u.biz:8080/series/26842788/26842788/17049.mp4
+#EXTINF:-1 tvg-name="Divorce myself of you S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg" group-title="Movies",Divorce myself of you S01 E06
+http://best4u.biz:8080/series/26842788/26842788/17013.mp4
+#EXTINF:-1 tvg-name="Divorce myself of you S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg" group-title="Movies",Divorce myself of you S01 E17
+http://best4u.biz:8080/series/26842788/26842788/17024.mp4
+#EXTINF:-1 tvg-name="Divorce myself of you S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg" group-title="Movies",Divorce myself of you S01 E18
+http://best4u.biz:8080/series/26842788/26842788/17025.mp4
+#EXTINF:-1 tvg-name="Divorce myself of you S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg" group-title="Movies",Divorce myself of you S01 E19
+http://best4u.biz:8080/series/26842788/26842788/17026.mp4
+#EXTINF:-1 tvg-name="Divorce myself of you S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg" group-title="Movies",Divorce myself of you S01 E26
+http://best4u.biz:8080/series/26842788/26842788/17033.mp4
+#EXTINF:-1 tvg-name="Divorce myself of you S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg" group-title="Movies",Divorce myself of you S01 E28
+http://best4u.biz:8080/series/26842788/26842788/17035.mp4
+#EXTINF:-1 tvg-name="Divorce myself of you S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg" group-title="Movies",Divorce myself of you S01 E29
+http://best4u.biz:8080/series/26842788/26842788/17036.mp4
+#EXTINF:-1 tvg-name="Divorce myself of you S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg" group-title="Movies",Divorce myself of you S01 E39
+http://best4u.biz:8080/series/26842788/26842788/17046.mp4
 #EXTINF:-1 tvg-name="Django Unchained (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4E4TTsCXVFyhBtYu9fKy0gIT3Ih.jpg" group-title="Movies",Django Unchained (2012)
 http://best4u.biz:8080/movie/26842788/26842788/18488.mkv
 #EXTINF:-1 tvg-name="Do Not Enter (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stM9N7eJmHKLmFR59JG4tLdN7Wk.jpg" group-title="Movies",Do Not Enter (2026)
@@ -4918,8 +4954,6 @@ http://best4u.biz:8080/movie/26842788/26842788/18498.mp4
 https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Donna.2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUQQ3q3UucGn6pdetjj6nDMvYWg.jpg" group-title="Movies",Donna.2021
 http://best4u.biz:8080/movie/26842788/26842788/18499.mp4
-#EXTINF:-1 tvg-id="DonnaTV.it" tvg-name="Donna TV" tvg-logo="https://i.imgur.com/Aa1Abme.png" group-title="Movies",Donna TV Ⓢ
-https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Donnie Brasco (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg" group-title="Movies",Donnie Brasco (1997)
 http://best4u.biz:8080/movie/26842788/26842788/17892.mkv
 #EXTINF:-1 tvg-name="Dont.Listen.2020" tvg-logo="http://best4u.biz:8000/images/0264f5ec48fdd1ce2624ba9d17f35400.jpg" group-title="Movies",Dont.Listen.2020
@@ -5304,18 +5338,22 @@ http://best4u.biz:8080/movie/26842788/26842788/9720.mp4
 http://best4u.biz:8080/movie/26842788/26842788/9721.mp4
 #EXTINF:-1 tvg-name="Extra Ordinary (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3IRiGKXx2eMhxtV8GktKwvWkhm.jpg" group-title="Movies",Extra Ordinary (2019)
 http://best4u.biz:8080/movie/26842788/26842788/18566.mkv
-#EXTINF:-1 tvg-name="Extra Sugar S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg" group-title="Movies",Extra Sugar S01 E09
-http://best4u.biz:8080/series/26842788/26842788/16956.mp4
-#EXTINF:-1 tvg-name="Extra Sugar S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg" group-title="Movies",Extra Sugar S01 E11
-http://best4u.biz:8080/series/26842788/26842788/16958.mp4
-#EXTINF:-1 tvg-name="Extra Sugar S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg" group-title="Movies",Extra Sugar S01 E13
-http://best4u.biz:8080/series/26842788/26842788/16960.mp4
+#EXTINF:-1 tvg-name="Extra Sugar S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg" group-title="Movies",Extra Sugar S01 E02
+http://best4u.biz:8080/series/26842788/26842788/16949.mp4
+#EXTINF:-1 tvg-name="Extra Sugar S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg" group-title="Movies",Extra Sugar S01 E03
+http://best4u.biz:8080/series/26842788/26842788/16950.mp4
+#EXTINF:-1 tvg-name="Extra Sugar S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg" group-title="Movies",Extra Sugar S01 E05
+http://best4u.biz:8080/series/26842788/26842788/16952.mp4
+#EXTINF:-1 tvg-name="Extra Sugar S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg" group-title="Movies",Extra Sugar S01 E12
+http://best4u.biz:8080/series/26842788/26842788/16959.mp4
+#EXTINF:-1 tvg-name="Extra Sugar S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg" group-title="Movies",Extra Sugar S01 E17
+http://best4u.biz:8080/series/26842788/26842788/16964.mp4
+#EXTINF:-1 tvg-name="Extra Sugar S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg" group-title="Movies",Extra Sugar S01 E18
+http://best4u.biz:8080/series/26842788/26842788/16965.mp4
+#EXTINF:-1 tvg-name="Extra Sugar S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg" group-title="Movies",Extra Sugar S01 E19
+http://best4u.biz:8080/series/26842788/26842788/16966.mp4
 #EXTINF:-1 tvg-name="Extra Sugar S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg" group-title="Movies",Extra Sugar S01 E21
 http://best4u.biz:8080/series/26842788/26842788/16968.mp4
-#EXTINF:-1 tvg-name="Extra Sugar S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg" group-title="Movies",Extra Sugar S01 E22
-http://best4u.biz:8080/series/26842788/26842788/16969.mp4
-#EXTINF:-1 tvg-name="Extra Sugar S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg" group-title="Movies",Extra Sugar S01 E28
-http://best4u.biz:8080/series/26842788/26842788/16975.mp4
 #EXTINF:-1 tvg-name="Extraction 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg" group-title="Movies",Extraction 2 (2023)
 http://best4u.biz:8080/movie/26842788/26842788/54489.mkv
 #EXTINF:-1 tvg-name="Extraction - 2015" tvg-logo="http://best4u.biz:8000/images/9bd14502f0a9d54736bba734bb3bb877.jpg" group-title="Movies",Extraction - 2015
@@ -5636,14 +5674,14 @@ http://best4u.biz:8080/movie/26842788/26842788/9748.mp4
 http://best4u.biz:8080/movie/26842788/26842788/42844.mkv
 #EXTINF:-1 tvg-name="Forget Me Not (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDux50AIllCTIeAwg8wJ32oN1EE.jpg" group-title="Movies",Forget Me Not (2009)
 http://best4u.biz:8080/movie/26842788/26842788/18612.mp4
-#EXTINF:-1 tvg-name="Forgetfulness Game S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg" group-title="Movies",Forgetfulness Game S01 E24
-http://best4u.biz:8080/series/26842788/26842788/16591.mp4
+#EXTINF:-1 tvg-name="Forgetfulness Game S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg" group-title="Movies",Forgetfulness Game S01 E20
+http://best4u.biz:8080/series/26842788/26842788/16587.mp4
+#EXTINF:-1 tvg-name="Forgetfulness Game S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg" group-title="Movies",Forgetfulness Game S01 E23
+http://best4u.biz:8080/series/26842788/26842788/16590.mp4
 #EXTINF:-1 tvg-name="Forgetfulness Game S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg" group-title="Movies",Forgetfulness Game S01 E25
 http://best4u.biz:8080/series/26842788/26842788/16592.mp4
 #EXTINF:-1 tvg-name="Forgetfulness Game S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg" group-title="Movies",Forgetfulness Game S01 E27
 http://best4u.biz:8080/series/26842788/26842788/16594.mp4
-#EXTINF:-1 tvg-name="Forgetfulness Game S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg" group-title="Movies",Forgetfulness Game S01 E29
-http://best4u.biz:8080/series/26842788/26842788/16596.mp4
 #EXTINF:-1 tvg-name="Forrest Gump (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg" group-title="Movies",Forrest Gump (1994)
 http://best4u.biz:8080/movie/26842788/26842788/18613.mkv
 #EXTINF:-1 tvg-name="forsa thanya S01 E01" tvg-logo="https://media.elcinema.com/uploads/_315x420_4a3d20f1a05a41e8080760e019e39f3ba1771ab382cd7d7ed5d21f5a2dbddb0d.jpg" group-title="Movies",forsa thanya S01 E01
@@ -8106,14 +8144,20 @@ http://best4u.biz:8080/movie/26842788/26842788/17912.mp4
 http://best4u.biz:8080/movie/26842788/26842788/18948.mkv
 #EXTINF:-1 tvg-name="Lowdown Dirty Criminals (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giPGsVuOW3ZSYxigAHrnpdwGCKF.jpg" group-title="Movies",Lowdown Dirty Criminals (2020)
 http://best4u.biz:8080/movie/26842788/26842788/18949.mp4
-#EXTINF:-1 tvg-name="Lu'lu' S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPJNnE2B8nGJW5KthVS3ppngxEM.jpg" group-title="Movies",Lu'lu' S01 E11
-http://best4u.biz:8080/series/26842788/26842788/16608.mp4
-#EXTINF:-1 tvg-name="Lu'lu' S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aifq97H3iffGxBj8KnpvQTcp8FZ.jpg" group-title="Movies",Lu'lu' S01 E14
-http://best4u.biz:8080/series/26842788/26842788/16611.mp4
+#EXTINF:-1 tvg-name="Lu'lu' S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAaB8RVny0ihdGqjwlWTxRlmOmH.jpg" group-title="Movies",Lu'lu' S01 E04
+http://best4u.biz:8080/series/26842788/26842788/16601.mp4
+#EXTINF:-1 tvg-name="Lu'lu' S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59yg7qpgNdwBQQkEAQHME7pPWbR.jpg" group-title="Movies",Lu'lu' S01 E21
+http://best4u.biz:8080/series/26842788/26842788/16618.mp4
+#EXTINF:-1 tvg-name="Lu'lu' S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzn0ljjDe4zQFfvnUZvJx4w9FdY.jpg" group-title="Movies",Lu'lu' S01 E23
+http://best4u.biz:8080/series/26842788/26842788/16620.mp4
+#EXTINF:-1 tvg-name="Lu'lu' S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y39qh0P604zEZliuazvQr2akMjF.jpg" group-title="Movies",Lu'lu' S01 E24
+http://best4u.biz:8080/series/26842788/26842788/16621.mp4
+#EXTINF:-1 tvg-name="Lu'lu' S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adfpq3YgN15EWzNlV1WY275Emvi.jpg" group-title="Movies",Lu'lu' S01 E26
+http://best4u.biz:8080/series/26842788/26842788/16623.mp4
 #EXTINF:-1 tvg-name="Lu'lu' S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqYGFQj7bF9bZjsBd3KeWksi4sM.jpg" group-title="Movies",Lu'lu' S01 E32
 http://best4u.biz:8080/series/26842788/26842788/16629.mp4
-#EXTINF:-1 tvg-name="Lu'lu' S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sn5S7qho7ZjC8NpTCtzAsz88hdZ.jpg" group-title="Movies",Lu'lu' S01 E33
-http://best4u.biz:8080/series/26842788/26842788/16630.mp4
+#EXTINF:-1 tvg-name="Lu'lu' S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgUGEC7F0llf1Msd4UFfcfnlN7M.jpg" group-title="Movies",Lu'lu' S01 E35
+http://best4u.biz:8080/series/26842788/26842788/16632.mp4
 #EXTINF:-1 tvg-name="Luce (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ENjFEByHB4ESDOiOltBiZI2XJb.jpg" group-title="Movies",Luce (2019)
 http://best4u.biz:8080/movie/26842788/26842788/18950.mkv
 #EXTINF:-1 tvg-name="Lucifer - 1987" tvg-logo="http://ultimeiptv.net:8000/images/01603b1b9dc971acecdef2b39f181cd0.jpg" group-title="Movies",Lucifer - 1987
@@ -8190,8 +8234,6 @@ http://best4u.biz:8080/movie/26842788/26842788/17786.mp4
 http://best4u.biz:8080/movie/26842788/26842788/18958.mp4
 #EXTINF:-1 tvg-name="Magic Max (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8YoJLEXcTRC3YvMTqpeajVLXCL.jpg" group-title="Movies",Magic Max (2021)
 http://best4u.biz:8080/movie/26842788/26842788/18959.mp4
-#EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us@SD" tvg-logo="https://i.imgur.com/CXjo8kn.png" group-title="Movies",Magnificent Movies Network
-https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-name="Magnum Force (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvX2msiJR0bHCUkMgm1IoIBTQpG.jpg" group-title="Movies",Magnum Force (1973)
 http://best4u.biz:8080/movie/26842788/26842788/18960.mkv
 #EXTINF:-1 tvg-name="Mags and Julie Go on a Road Trip (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/he7jjMXoJGr4hWGZEFxDR1YID4z.jpg" group-title="Movies",Mags and Julie Go on a Road Trip (2020)
@@ -8808,38 +8850,18 @@ http://best4u.biz:8080/movie/26842788/26842788/36704.mp4
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 tvg-name="Farewell, My Dear Cramer: First Touch (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt9e15Ql4sLO88IkDKoFPb9eNs5.jpg" group-title="Movies",My Dear Cramer: First Touch (2021)
 http://best4u.biz:8080/movie/26842788/26842788/45613.mp4
-#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E01
-http://best4u.biz:8080/series/26842788/26842788/16668.mkv
+#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E02
+http://best4u.biz:8080/series/26842788/26842788/16669.mkv
 #EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E03
 http://best4u.biz:8080/series/26842788/26842788/16670.mkv
-#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E06
-http://best4u.biz:8080/series/26842788/26842788/16673.mkv
-#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E07
-http://best4u.biz:8080/series/26842788/26842788/16674.mkv
+#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E05
+http://best4u.biz:8080/series/26842788/26842788/16672.mkv
+#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E08
+http://best4u.biz:8080/series/26842788/26842788/16675.mkv
 #EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E09
 http://best4u.biz:8080/series/26842788/26842788/16676.mkv
-#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E12
-http://best4u.biz:8080/series/26842788/26842788/16679.mkv
-#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E13
-http://best4u.biz:8080/series/26842788/26842788/16680.mkv
-#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E14
-http://best4u.biz:8080/series/26842788/26842788/16681.mkv
 #EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E15
 http://best4u.biz:8080/series/26842788/26842788/16682.mkv
-#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E16
-http://best4u.biz:8080/series/26842788/26842788/16683.mkv
-#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E17
-http://best4u.biz:8080/series/26842788/26842788/16684.mkv
-#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E19
-http://best4u.biz:8080/series/26842788/26842788/16686.mkv
-#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E20
-http://best4u.biz:8080/series/26842788/26842788/16687.mkv
-#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E34
-http://best4u.biz:8080/series/26842788/26842788/16701.mkv
-#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E40
-http://best4u.biz:8080/series/26842788/26842788/16707.mkv
-#EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E41
-http://best4u.biz:8080/series/26842788/26842788/16708.mkv
 #EXTINF:-1 tvg-name="My Destiny and Your Destiny S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg" group-title="Movies",My Destiny and Your Destiny S01 E45
 http://best4u.biz:8080/series/26842788/26842788/16712.mkv
 #EXTINF:-1 tvg-name="My Fake Boyfriend - 2022" tvg-logo="http://best4u.biz:8000/images/18359cf9fd8fa3dbd3a5f8b5272fe452.jpg" group-title="Movies",My Fake Boyfriend - 2022
@@ -9510,30 +9532,28 @@ http://best4u.biz:8080/movie/26842788/26842788/61289.mp4
 http://best4u.biz:8080/movie/26842788/26842788/17369.mp4
 #EXTINF:-1 tvg-name="Our Nights 80 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E01
 http://best4u.biz:8080/series/26842788/26842788/16538.mp4
-#EXTINF:-1 tvg-name="Our Nights 80 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E02
-http://best4u.biz:8080/series/26842788/26842788/16539.mp4
 #EXTINF:-1 tvg-name="Our Nights 80 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E03
 http://best4u.biz:8080/series/26842788/26842788/16540.mp4
+#EXTINF:-1 tvg-name="Our Nights 80 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E05
+http://best4u.biz:8080/series/26842788/26842788/16542.mp4
 #EXTINF:-1 tvg-name="Our Nights 80 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E06
 http://best4u.biz:8080/series/26842788/26842788/16543.mp4
+#EXTINF:-1 tvg-name="Our Nights 80 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E08
+http://best4u.biz:8080/series/26842788/26842788/16545.mp4
+#EXTINF:-1 tvg-name="Our Nights 80 S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E09
+http://best4u.biz:8080/series/26842788/26842788/16546.mp4
 #EXTINF:-1 tvg-name="Our Nights 80 S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E10
 http://best4u.biz:8080/series/26842788/26842788/16547.mp4
-#EXTINF:-1 tvg-name="Our Nights 80 S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E11
-http://best4u.biz:8080/series/26842788/26842788/16548.mp4
-#EXTINF:-1 tvg-name="Our Nights 80 S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E12
-http://best4u.biz:8080/series/26842788/26842788/16549.mp4
+#EXTINF:-1 tvg-name="Our Nights 80 S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E13
+http://best4u.biz:8080/series/26842788/26842788/16550.mp4
+#EXTINF:-1 tvg-name="Our Nights 80 S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E14
+http://best4u.biz:8080/series/26842788/26842788/16551.mp4
 #EXTINF:-1 tvg-name="Our Nights 80 S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E15
 http://best4u.biz:8080/series/26842788/26842788/16552.mp4
-#EXTINF:-1 tvg-name="Our Nights 80 S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E18
-http://best4u.biz:8080/series/26842788/26842788/16555.mp4
-#EXTINF:-1 tvg-name="Our Nights 80 S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E19
-http://best4u.biz:8080/series/26842788/26842788/16556.mp4
-#EXTINF:-1 tvg-name="Our Nights 80 S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E20
-http://best4u.biz:8080/series/26842788/26842788/16557.mp4
-#EXTINF:-1 tvg-name="Our Nights 80 S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E22
-http://best4u.biz:8080/series/26842788/26842788/16559.mp4
-#EXTINF:-1 tvg-name="Our Nights 80 S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E23
-http://best4u.biz:8080/series/26842788/26842788/16560.mp4
+#EXTINF:-1 tvg-name="Our Nights 80 S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E16
+http://best4u.biz:8080/series/26842788/26842788/16553.mp4
+#EXTINF:-1 tvg-name="Our Nights 80 S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg" group-title="Movies",Our Nights 80 S01 E21
+http://best4u.biz:8080/series/26842788/26842788/16558.mp4
 #EXTINF:-1 tvg-id="OuterSphere.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" group-title="Movies",OuterSphere (1080p)
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-name="Outlaw King - 2018" tvg-logo="http://best4u.biz:8000/images/addb2b4b27c7ca03f2fe9194685c8cb2.jpg" group-title="Movies",Outlaw King - 2018
@@ -10182,8 +10202,12 @@ http://best4u.biz:8080/movie/26842788/26842788/36280.mkv
 http://best4u.biz:8080/movie/26842788/26842788/42862.mkv
 #EXTINF:-1 tvg-name="Radin ! - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejiyCSPsQXLdRzcJspfcR1A510H.jpg" group-title="Movies",Radin ! - 2016
 http://best4u.biz:8080/movie/26842788/26842788/9768.mp4
-#EXTINF:-1 tvg-name="raejl set sitat S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg" group-title="Movies",raejl set sitat S01 E05
-http://best4u.biz:8080/series/26842788/26842788/16817.mkv
+#EXTINF:-1 tvg-name="raejl set sitat S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg" group-title="Movies",raejl set sitat S01 E22
+http://best4u.biz:8080/series/26842788/26842788/16834.mkv
+#EXTINF:-1 tvg-name="raejl set sitat S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg" group-title="Movies",raejl set sitat S01 E25
+http://best4u.biz:8080/series/26842788/26842788/16837.mkv
+#EXTINF:-1 tvg-name="raejl set sitat S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg" group-title="Movies",raejl set sitat S01 E30
+http://best4u.biz:8080/series/26842788/26842788/16842.mkv
 #EXTINF:-1 tvg-name="RAID Dingue - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkIWKRIr5zTMFH0zEi2Y0ZyWbfO.jpg" group-title="Movies",RAID Dingue - 2017
 http://best4u.biz:8080/movie/26842788/26842788/9769.mp4
 #EXTINF:-1 tvg-name="Railway Heroes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTjZErHBML0uYYgj7YsL7YiUKMV.jpg" group-title="Movies",Railway Heroes (2021)
@@ -10368,8 +10392,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626baa721
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61fbd721e5b49e00079bfedc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Rien à perdre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Y9lMmASKN6vyEZyTd6hbUezloh.jpg" group-title="Movies",Rien à perdre (2023)
 http://best4u.biz:8080/movie/26842788/26842788/57483.mp4
-#EXTINF:-1 tvg-name="rijalet el beit S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg" group-title="Movies",rijalet el beit S01 E13
-http://best4u.biz:8080/series/26842788/26842788/16860.mp4
+#EXTINF:-1 tvg-name="rijalet el beit S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg" group-title="Movies",rijalet el beit S01 E09
+http://best4u.biz:8080/series/26842788/26842788/16856.mp4
+#EXTINF:-1 tvg-name="rijalet el beit S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg" group-title="Movies",rijalet el beit S01 E10
+http://best4u.biz:8080/series/26842788/26842788/16857.mp4
+#EXTINF:-1 tvg-name="rijalet el beit S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg" group-title="Movies",rijalet el beit S01 E16
+http://best4u.biz:8080/series/26842788/26842788/16863.mp4
+#EXTINF:-1 tvg-name="rijalet el beit S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg" group-title="Movies",rijalet el beit S01 E23
+http://best4u.biz:8080/series/26842788/26842788/16870.mp4
+#EXTINF:-1 tvg-name="rijalet el beit S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg" group-title="Movies",rijalet el beit S01 E24
+http://best4u.biz:8080/series/26842788/26842788/16871.mp4
 #EXTINF:-1 tvg-name="Rim of the World - 2019" tvg-logo="http://best4u.biz:8000/images/b94be970b53f0dfe70b629fc76e36b5c.jpg" group-title="Movies",Rim of the World - 2019
 http://best4u.biz:8080/movie/26842788/26842788/44598.mp4
 #EXTINF:-1 tvg-name="Rings - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjtAYGglfOO6T1jRov35jH46J6Z.jpg" group-title="Movies",Rings - 2005
@@ -10504,8 +10536,8 @@ https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
 http://best4u.biz:8080/movie/26842788/26842788/57484.mp4
 #EXTINF:-1 tvg-name="Sanctuary – Pluto TV" tvg-logo="https://i.imgur.com/iYyijeJ.png" group-title="Movies",Sanctuary – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb57d6c111bc0008fe2658/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="sandouk S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg" group-title="Movies",sandouk S01 E06
-http://best4u.biz:8080/series/26842788/26842788/16883.mp4
+#EXTINF:-1 tvg-name="sandouk S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg" group-title="Movies",sandouk S01 E12
+http://best4u.biz:8080/series/26842788/26842788/16889.mp4
 #EXTINF:-1 tvg-name="Sandy Wexler - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38SDqWOt4utiLOnWlas7BfrYQGS.jpg" group-title="Movies",Sandy Wexler - 2017
 http://best4u.biz:8080/movie/26842788/26842788/9782.mp4
 #EXTINF:-1 tvg-name="Santa & Cie - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrz2fC1F9H8kbdKu2vOwyeMAzvg.jpg" group-title="Movies",Santa & Cie - 2017
@@ -10608,6 +10640,12 @@ http://best4u.biz:8080/movie/26842788/26842788/36509.mp4
 http://best4u.biz:8080/movie/26842788/26842788/52346.mkv
 #EXTINF:-1 tvg-name="Shaft - 2019" tvg-logo="http://best4u.biz:8000/images/085958a965277277f52b19c3f3c1ff09.jpg" group-title="Movies",Shaft - 2019
 http://best4u.biz:8080/movie/26842788/26842788/44601.mp4
+#EXTINF:-1 tvg-name="Shahed Ayan S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg" group-title="Movies",Shahed Ayan S01 E23
+http://best4u.biz:8080/series/26842788/26842788/16940.mp4
+#EXTINF:-1 tvg-name="Shahed Ayan S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg" group-title="Movies",Shahed Ayan S01 E24
+http://best4u.biz:8080/series/26842788/26842788/16941.mp4
+#EXTINF:-1 tvg-name="Shahed Ayan S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg" group-title="Movies",Shahed Ayan S01 E30
+http://best4u.biz:8080/series/26842788/26842788/16947.mp4
 #EXTINF:-1 tvg-name="SHAHID BOLLYWOOD 1" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Movies",SHAHID BOLLYWOOD 1
 http://best4u.biz:8080/26842788/26842788/52559
 #EXTINF:-1 tvg-name="SHAHID BOLLYWOOD 2" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Movies",SHAHID BOLLYWOOD 2
@@ -10858,12 +10896,10 @@ http://best4u.biz:8080/movie/26842788/26842788/17371.mkv
 http://best4u.biz:8080/movie/26842788/26842788/17337.mkv
 #EXTINF:-1 tvg-name="Solo: A Star Wars Story - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcKR6cAhdGmZQxyFfBqW5oPUF6E.jpg" group-title="Movies",Solo: A Star Wars Story - 2018
 http://best4u.biz:8080/movie/26842788/26842788/9809.mp4
-#EXTINF:-1 tvg-name="Soltanet Al Moez S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DgVwdgkjTj0OcAwCbsm0kcm3F5.jpg" group-title="Movies",Soltanet Al Moez S01 E08
-http://best4u.biz:8080/series/26842788/26842788/16985.mp4
+#EXTINF:-1 tvg-name="Soltanet Al Moez S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DgVwdgkjTj0OcAwCbsm0kcm3F5.jpg" group-title="Movies",Soltanet Al Moez S01 E07
+http://best4u.biz:8080/series/26842788/26842788/16984.mp4
 #EXTINF:-1 tvg-name="Soltanet Al Moez S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DgVwdgkjTj0OcAwCbsm0kcm3F5.jpg" group-title="Movies",Soltanet Al Moez S01 E21
 http://best4u.biz:8080/series/26842788/26842788/16998.mp4
-#EXTINF:-1 tvg-name="Soltanet Al Moez S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DgVwdgkjTj0OcAwCbsm0kcm3F5.jpg" group-title="Movies",Soltanet Al Moez S01 E26
-http://best4u.biz:8080/series/26842788/26842788/17003.mp4
 #EXTINF:-1 tvg-name="Some People Don't Revisit the Marriage Officiant (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhfWhH31NQWZ3sIsfEt73ycY5j7.jpg" group-title="Movies",Some People Don't Revisit the Marriage Officiant (2021)
 http://best4u.biz:8080/movie/26842788/26842788/36707.mp4
 #EXTINF:-1 tvg-name="Something in the Water (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iWGGxHEwswZGvPSoMZlLFf0PNq.jpg" group-title="Movies",Something in the Water (2024)
@@ -11648,6 +11684,18 @@ http://best4u.biz:8080/movie/26842788/26842788/17832.mp4
 http://best4u.biz:8080/movie/26842788/26842788/61889.mp4
 #EXTINF:-1 tvg-name="The Crusade (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSZr7pvaz9Z7QRQUxneRf70aBDY.jpg" group-title="Movies",The Crusade (2021)
 http://best4u.biz:8080/movie/26842788/26842788/45693.mkv
+#EXTINF:-1 tvg-name="The Cup Reader S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNI3kS1zF6AeTtCkdpYaf9Q3D83.jpg" group-title="Movies",The Cup Reader S01 E04
+http://best4u.biz:8080/series/26842788/26842788/16806.mp4
+#EXTINF:-1 tvg-name="The Cup Reader S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1N1B9kwYc5QMBBRrSK53XiCbgC.jpg" group-title="Movies",The Cup Reader S01 E05
+http://best4u.biz:8080/series/26842788/26842788/16807.mp4
+#EXTINF:-1 tvg-name="The Cup Reader S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoW1kAHH3prDu7ge0DZ5mFhDI0W.jpg" group-title="Movies",The Cup Reader S01 E06
+http://best4u.biz:8080/series/26842788/26842788/16808.mp4
+#EXTINF:-1 tvg-name="The Cup Reader S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5lLlpInwF4cHUTuHjBpCDJ6m5H.jpg" group-title="Movies",The Cup Reader S01 E07
+http://best4u.biz:8080/series/26842788/26842788/16809.mp4
+#EXTINF:-1 tvg-name="The Cup Reader S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFqcajEWORwpLBnjSraGit2vL1d.jpg" group-title="Movies",The Cup Reader S01 E08
+http://best4u.biz:8080/series/26842788/26842788/16810.mp4
+#EXTINF:-1 tvg-name="The Cup Reader S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTa2tE4Pnpa0TdzJrXjxwUvxc5d.jpg" group-title="Movies",The Cup Reader S01 E09
+http://best4u.biz:8080/series/26842788/26842788/16811.mp4
 #EXTINF:-1 tvg-name="The Cured - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qheJcFjQ3hAMroE8y6FpCg6jNeN.jpg" group-title="Movies",The Cured - 2018
 http://best4u.biz:8080/movie/26842788/26842788/9845.mp4
 #EXTINF:-1 tvg-name="The Curse of Bridge Hollow (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6P9l6tcVnWLS1ADUAfkUCGQhm0.jpg" group-title="Movies",The Curse of Bridge Hollow (2022)
@@ -11686,10 +11734,20 @@ http://best4u.biz:8080/movie/26842788/26842788/18518.mp4
 http://best4u.biz:8080/movie/26842788/26842788/71979.mp4
 #EXTINF:-1 tvg-name="The Emperor's New Groove (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg" group-title="Movies",The Emperor's New Groove (2000)
 http://best4u.biz:8080/movie/26842788/26842788/45542.mkv
-#EXTINF:-1 tvg-name="The End S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgU8k57U5IEZ7PFkVCFyG2wd8p1.jpg" group-title="Movies",The End S01 E10
-http://best4u.biz:8080/series/26842788/26842788/16752.mp4
-#EXTINF:-1 tvg-name="The End S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgU8k57U5IEZ7PFkVCFyG2wd8p1.jpg" group-title="Movies",The End S01 E16
-http://best4u.biz:8080/series/26842788/26842788/16758.mp4
+#EXTINF:-1 tvg-name="The End S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgU8k57U5IEZ7PFkVCFyG2wd8p1.jpg" group-title="Movies",The End S01 E03
+http://best4u.biz:8080/series/26842788/26842788/16745.mp4
+#EXTINF:-1 tvg-name="The End S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgU8k57U5IEZ7PFkVCFyG2wd8p1.jpg" group-title="Movies",The End S01 E17
+http://best4u.biz:8080/series/26842788/26842788/16759.mp4
+#EXTINF:-1 tvg-name="The End S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgU8k57U5IEZ7PFkVCFyG2wd8p1.jpg" group-title="Movies",The End S01 E18
+http://best4u.biz:8080/series/26842788/26842788/16760.mp4
+#EXTINF:-1 tvg-name="The End S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgU8k57U5IEZ7PFkVCFyG2wd8p1.jpg" group-title="Movies",The End S01 E24
+http://best4u.biz:8080/series/26842788/26842788/16766.mp4
+#EXTINF:-1 tvg-name="The End S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgU8k57U5IEZ7PFkVCFyG2wd8p1.jpg" group-title="Movies",The End S01 E28
+http://best4u.biz:8080/series/26842788/26842788/16770.mp4
+#EXTINF:-1 tvg-name="The End S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgU8k57U5IEZ7PFkVCFyG2wd8p1.jpg" group-title="Movies",The End S01 E29
+http://best4u.biz:8080/series/26842788/26842788/16771.mp4
+#EXTINF:-1 tvg-name="The End S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgU8k57U5IEZ7PFkVCFyG2wd8p1.jpg" group-title="Movies",The End S01 E30
+http://best4u.biz:8080/series/26842788/26842788/16772.mp4
 #EXTINF:-1 tvg-name="The Endless Trench (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgS3e3sTUHeVgKzKmFhIJcl9tVA.jpg" group-title="Movies",The Endless Trench (2019)
 http://best4u.biz:8080/movie/26842788/26842788/17374.mp4
 #EXTINF:-1 tvg-name="The Enforcer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXC8JJbfnRWtbD8i2yKFqqWEO4X.jpg" group-title="Movies",The Enforcer (2022)
@@ -12058,14 +12116,16 @@ http://best4u.biz:8080/movie/26842788/26842788/17235.mp4
 http://best4u.biz:8080/movie/26842788/26842788/9883.mp4
 #EXTINF:-1 tvg-name="The Price We Pay (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fwJt0qZieQ7dKaiiqehObWpXYT.jpg" group-title="Movies",The Price We Pay (2023)
 http://best4u.biz:8080/movie/26842788/26842788/52041.mkv
-#EXTINF:-1 tvg-name="The Prince S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg" group-title="Movies",The Prince S01 E01
-http://best4u.biz:8080/series/26842788/26842788/16773.mp4
-#EXTINF:-1 tvg-name="The Prince S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg" group-title="Movies",The Prince S01 E22
-http://best4u.biz:8080/series/26842788/26842788/16794.mp4
-#EXTINF:-1 tvg-name="The Prince S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dOvTMSeEMjXQWSgxvS2khbILI1.jpg" group-title="Movies",The Prince S01 E24
-http://best4u.biz:8080/series/26842788/26842788/16796.mp4
-#EXTINF:-1 tvg-name="The Prince S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg" group-title="Movies",The Prince S01 E30
-http://best4u.biz:8080/series/26842788/26842788/16802.mp4
+#EXTINF:-1 tvg-name="The Prince S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg" group-title="Movies",The Prince S01 E06
+http://best4u.biz:8080/series/26842788/26842788/16778.mp4
+#EXTINF:-1 tvg-name="The Prince S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg" group-title="Movies",The Prince S01 E07
+http://best4u.biz:8080/series/26842788/26842788/16779.mp4
+#EXTINF:-1 tvg-name="The Prince S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg" group-title="Movies",The Prince S01 E12
+http://best4u.biz:8080/series/26842788/26842788/16784.mp4
+#EXTINF:-1 tvg-name="The Prince S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg" group-title="Movies",The Prince S01 E14
+http://best4u.biz:8080/series/26842788/26842788/16786.mp4
+#EXTINF:-1 tvg-name="The Prince S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg" group-title="Movies",The Prince S01 E15
+http://best4u.biz:8080/series/26842788/26842788/16787.mp4
 #EXTINF:-1 tvg-name="The Princess (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jz44cd6eJU1R4OGUTPH2O9oO1yb.jpg" group-title="Movies",The Princess (2013)
 http://best4u.biz:8080/movie/26842788/26842788/36486.mp4
 #EXTINF:-1 tvg-name="The Princess - 2022" tvg-logo="http://best4u.biz:8000/images/a305824badd6fbb966b737ecb086806b.jpg" group-title="Movies",The Princess - 2022
@@ -12474,8 +12534,6 @@ http://best4u.biz:8080/movie/26842788/26842788/17347.mp4
 http://best4u.biz:8080/movie/26842788/26842788/13101.mp4
 #EXTINF:-1 tvg-name="Time Out (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqG2UCspJ6omJx1p9DWiV5IzwmL.jpg" group-title="Movies",Time Out (2022)
 http://best4u.biz:8080/movie/26842788/26842788/44632.mp4
-#EXTINF:-1 tvg-id="TimelessTV.us@SD" tvg-logo="https://i.imgur.com/bjcpeVH.png" group-title="Movies",Timeless TV
-https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
 #EXTINF:-1 tvg-name="Tin Soldier (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFFDrFLXywFhy6khHes1LCFVMsL.jpg" group-title="Movies",Tin Soldier (2025)
 http://best4u.biz:8080/movie/26842788/26842788/71813.mp4
 #EXTINF:-1 tvg-name="Tinker Bell and the Legend of the NeverBeast (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUGX7duQWSm04yAA1rBBfNRe4kY.jpg" group-title="Movies",Tinker Bell and the Legend of the NeverBeast (2014)
@@ -12600,8 +12658,18 @@ https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
 https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueCrime.uk@SD" tvg-logo="https://i.imgur.com/LK2NFst.png" group-title="Movies",True Crime UK (1080p)
 https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueFilm1.th@SD" tvg-logo="https://i.imgur.com/z9XvYLe.png" group-title="Movies",True Film 1 (720p)
+http://58.8.186.128:10004/bysid/2415
+#EXTINF:-1 tvg-id="TrueFilm2.th@SD" tvg-logo="https://i.imgur.com/4K1HbOB.png" group-title="Movies",True Film 2 (720p)
+http://58.8.186.128:10004/bysid/2432
+#EXTINF:-1 tvg-id="TrueFilmAsia.th@SD" tvg-logo="https://i.imgur.com/Ci872im.png" group-title="Movies",True Film Asia (720p)
+http://58.8.186.128:10004/bysid/2416
+#EXTINF:-1 tvg-id="TrueMovieHits.th@SD" tvg-logo="https://i.imgur.com/65kk1R3.png" group-title="Movies",True Movie Hits (720p)
+http://58.8.186.128:10003/bysid/2325
 #EXTINF:-1 tvg-name="True Spirit (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/B7m21gukMeVK3NAuk1PLCo9C8p.jpg" group-title="Movies",True Spirit (2023)
 http://best4u.biz:8080/movie/26842788/26842788/52229.mp4
+#EXTINF:-1 tvg-id="TrueThaiFilm.th@SD" tvg-logo="https://i.imgur.com/MfLY3LF.png" group-title="Movies",True Thai Film (720p)
+http://58.8.186.128:10003/bysid/2326
 #EXTINF:-1 tvg-name="True: Winter Wishes (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBUKoeZNhHppEmGlhbNZPDBTgiW.jpg" group-title="Movies",True: Winter Wishes (2019)
 http://best4u.biz:8080/movie/26842788/26842788/17856.mkv
 #EXTINF:-1 tvg-name="Trust (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9GS1mUAVMiC3gBn9rb8jrDoK4D.jpg" group-title="Movies",Trust (2025)
@@ -13296,20 +13364,16 @@ http://best4u.biz:8080/series/26842788/26842788/16525.mp4
 http://best4u.biz:8080/series/26842788/26842788/16526.mp4
 #EXTINF:-1 tvg-name="When We Were Young S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg" group-title="Movies",When We Were Young S01 E20
 http://best4u.biz:8080/series/26842788/26842788/16527.mp4
-#EXTINF:-1 tvg-name="When We Were Young S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg" group-title="Movies",When We Were Young S01 E21
-http://best4u.biz:8080/series/26842788/26842788/16528.mp4
 #EXTINF:-1 tvg-name="When We Were Young S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg" group-title="Movies",When We Were Young S01 E22
 http://best4u.biz:8080/series/26842788/26842788/16529.mp4
 #EXTINF:-1 tvg-name="When We Were Young S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg" group-title="Movies",When We Were Young S01 E23
 http://best4u.biz:8080/series/26842788/26842788/16530.mp4
+#EXTINF:-1 tvg-name="When We Were Young S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg" group-title="Movies",When We Were Young S01 E24
+http://best4u.biz:8080/series/26842788/26842788/16531.mp4
 #EXTINF:-1 tvg-name="When We Were Young S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg" group-title="Movies",When We Were Young S01 E25
 http://best4u.biz:8080/series/26842788/26842788/16532.mp4
-#EXTINF:-1 tvg-name="When We Were Young S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg" group-title="Movies",When We Were Young S01 E28
-http://best4u.biz:8080/series/26842788/26842788/16535.mp4
-#EXTINF:-1 tvg-name="When We Were Young S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg" group-title="Movies",When We Were Young S01 E29
-http://best4u.biz:8080/series/26842788/26842788/16536.mp4
-#EXTINF:-1 tvg-name="When We Were Young S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg" group-title="Movies",When We Were Young S01 E30
-http://best4u.biz:8080/series/26842788/26842788/16537.mp4
+#EXTINF:-1 tvg-name="When We Were Young S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg" group-title="Movies",When We Were Young S01 E26
+http://best4u.biz:8080/series/26842788/26842788/16533.mp4
 #EXTINF:-1 tvg-name="Where Is Anne Frank (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBdJr7bAcU8Kle5MMn2Wmu41sRf.jpg" group-title="Movies",Where Is Anne Frank (2021)
 http://best4u.biz:8080/movie/26842788/26842788/45625.avi
 #EXTINF:-1 tvg-id="WhiplashCinema.us@SD" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png" group-title="Movies",Whiplash Cinema (480p)
@@ -13322,14 +13386,16 @@ http://best4u.biz:8080/movie/26842788/26842788/52019.mp4
 http://best4u.biz:8080/movie/26842788/26842788/50231.mkv
 #EXTINF:-1 tvg-name="White Snake - 2019" tvg-logo="http://best4u.biz:8000/images/4078f7ce2bb23545ca981a6553277326.jpg" group-title="Movies",White Snake - 2019
 http://best4u.biz:8080/movie/26842788/26842788/45581.mkv
+#EXTINF:-1 tvg-name="Why Would We Fall in Love Again? S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWrchOHb1qUF9cse6hMJPW72ZL0.jpg" group-title="Movies",Why Would We Fall in Love Again? S01 E03
+http://best4u.biz:8080/series/26842788/26842788/16715.mp4
+#EXTINF:-1 tvg-name="Why Would We Fall in Love Again? S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWrchOHb1qUF9cse6hMJPW72ZL0.jpg" group-title="Movies",Why Would We Fall in Love Again? S01 E11
+http://best4u.biz:8080/series/26842788/26842788/16723.mp4
 #EXTINF:-1 tvg-name="Why Would We Fall in Love Again? S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWrchOHb1qUF9cse6hMJPW72ZL0.jpg" group-title="Movies",Why Would We Fall in Love Again? S01 E14
 http://best4u.biz:8080/series/26842788/26842788/16726.mp4
-#EXTINF:-1 tvg-name="Why Would We Fall in Love Again? S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWrchOHb1qUF9cse6hMJPW72ZL0.jpg" group-title="Movies",Why Would We Fall in Love Again? S01 E15
-http://best4u.biz:8080/series/26842788/26842788/16727.mp4
-#EXTINF:-1 tvg-name="Why Would We Fall in Love Again? S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWrchOHb1qUF9cse6hMJPW72ZL0.jpg" group-title="Movies",Why Would We Fall in Love Again? S01 E25
-http://best4u.biz:8080/series/26842788/26842788/16737.mp4
-#EXTINF:-1 tvg-name="Why Would We Fall in Love Again? S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWrchOHb1qUF9cse6hMJPW72ZL0.jpg" group-title="Movies",Why Would We Fall in Love Again? S01 E29
-http://best4u.biz:8080/series/26842788/26842788/16741.mp4
+#EXTINF:-1 tvg-name="Why Would We Fall in Love Again? S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWrchOHb1qUF9cse6hMJPW72ZL0.jpg" group-title="Movies",Why Would We Fall in Love Again? S01 E17
+http://best4u.biz:8080/series/26842788/26842788/16729.mp4
+#EXTINF:-1 tvg-name="Why Would We Fall in Love Again? S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWrchOHb1qUF9cse6hMJPW72ZL0.jpg" group-title="Movies",Why Would We Fall in Love Again? S01 E23
+http://best4u.biz:8080/series/26842788/26842788/16735.mp4
 #EXTINF:-1 tvg-name="Wil (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ctS4TqJakuMePvqr7HWyKeclpA.jpg" group-title="Movies",Wil (2023)
 http://best4u.biz:8080/movie/26842788/26842788/56015.mp4
 #EXTINF:-1 tvg-id="WildatHeart.us@UK" tvg-logo="https://i.imgur.com/kyVB8Ik.png" group-title="Movies",Wild at Heart
@@ -13400,6 +13466,8 @@ http://best4u.biz:8080/movie/26842788/26842788/50349.mkv
 http://best4u.biz:8080/movie/26842788/26842788/42828.mkv
 #EXTINF:-1 tvg-name="Xico's Journey (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8ZyfUC0THygJkVoO2J7NxsdPI5.jpg" group-title="Movies",Xico's Journey (2020)
 http://best4u.biz:8080/movie/26842788/26842788/17862.mp4
+#EXTINF:-1 tvg-id="AndxplorHD.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&xplor HD (1080p)
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
 #EXTINF:-1 tvg-id="XPTVUS.es@SD" tvg-logo="https://i.imgur.com/1m7kDmc.png" group-title="Movies",XPTV US (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 #EXTINF:-1 tvg-name="Yaara - 2020" tvg-logo="http://ultimeiptv.net:8000/images/cd4ac97a381acec84c2bdcf08c69f147.jpg" group-title="Movies",Yaara - 2020
@@ -13418,18 +13486,20 @@ http://best4u.biz:8080/movie/26842788/26842788/44644.mp4
 http://best4u.biz:8080/movie/26842788/26842788/36329.mkv
 #EXTINF:-1 tvg-name="Yom W Leila S01 E02" tvg-logo="https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg" group-title="Movies",Yom W Leila S01 E02
 http://best4u.biz:8080/series/26842788/26842788/17122.mp4
-#EXTINF:-1 tvg-name="Yom W Leila S01 E06" tvg-logo="https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg" group-title="Movies",Yom W Leila S01 E06
-http://best4u.biz:8080/series/26842788/26842788/17126.mp4
-#EXTINF:-1 tvg-name="Yom W Leila S01 E14" tvg-logo="https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg" group-title="Movies",Yom W Leila S01 E14
-http://best4u.biz:8080/series/26842788/26842788/17134.mp4
+#EXTINF:-1 tvg-name="Yom W Leila S01 E10" tvg-logo="https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg" group-title="Movies",Yom W Leila S01 E10
+http://best4u.biz:8080/series/26842788/26842788/17130.mp4
+#EXTINF:-1 tvg-name="Yom W Leila S01 E11" tvg-logo="https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg" group-title="Movies",Yom W Leila S01 E11
+http://best4u.biz:8080/series/26842788/26842788/17131.mp4
 #EXTINF:-1 tvg-name="Yom W Leila S01 E20" tvg-logo="https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg" group-title="Movies",Yom W Leila S01 E20
 http://best4u.biz:8080/series/26842788/26842788/17140.mp4
-#EXTINF:-1 tvg-name="Yom W Leila S01 E23" tvg-logo="https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg" group-title="Movies",Yom W Leila S01 E23
-http://best4u.biz:8080/series/26842788/26842788/17143.mp4
-#EXTINF:-1 tvg-name="Yom W Leila S01 E27" tvg-logo="https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg" group-title="Movies",Yom W Leila S01 E27
-http://best4u.biz:8080/series/26842788/26842788/17147.mp4
 #EXTINF:-1 tvg-name="Yom W Leila S01 E28" tvg-logo="https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg" group-title="Movies",Yom W Leila S01 E28
 http://best4u.biz:8080/series/26842788/26842788/17148.mp4
+#EXTINF:-1 tvg-name="Yom W Leila S01 E29" tvg-logo="https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg" group-title="Movies",Yom W Leila S01 E29
+http://best4u.biz:8080/series/26842788/26842788/17149.mp4
+#EXTINF:-1 tvg-name="Yom W Leila S01 E32" tvg-logo="https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg" group-title="Movies",Yom W Leila S01 E32
+http://best4u.biz:8080/series/26842788/26842788/17152.mp4
+#EXTINF:-1 tvg-name="Yom W Leila S01 E33" tvg-logo="https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg" group-title="Movies",Yom W Leila S01 E33
+http://best4u.biz:8080/series/26842788/26842788/17153.mp4
 #EXTINF:-1 tvg-name="You Get Me - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eV0mIQqSztD3McjO22EOFlQDj1.jpg" group-title="Movies",You Get Me - 2017
 http://best4u.biz:8080/movie/26842788/26842788/10017.mp4
 #EXTINF:-1 tvg-name="You Should Have Left (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOwE6xsWnu4lKeKbKW0R3iClM.jpg" group-title="Movies",You Should Have Left (2020)
@@ -13948,42 +14018,32 @@ http://best4u.biz:8080/movie/26842788/26842788/72518.mp4
 http://best4u.biz:8080/movie/26842788/26842788/56210.mp4
 #EXTINF:-1 tvg-name="ضغط عالي - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xpzchrB4xKiAbqo5X5FsXjaeUb.jpg" group-title="Movies",ضغط عالي - 2019
 http://best4u.biz:8080/movie/26842788/26842788/10095.mp4
-#EXTINF:-1 tvg-name="طاقة القدر S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طاقة القدر S01 E06
-http://best4u.biz:8080/series/26842788/26842788/17059.mkv
-#EXTINF:-1 tvg-name="طاقة القدر S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طاقة القدر S01 E09
-http://best4u.biz:8080/series/26842788/26842788/17062.mp4
-#EXTINF:-1 tvg-name="طاقة القدر S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طاقة القدر S01 E10
-http://best4u.biz:8080/series/26842788/26842788/17063.mkv
-#EXTINF:-1 tvg-name="طاقة القدر S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طاقة القدر S01 E12
-http://best4u.biz:8080/series/26842788/26842788/17065.mkv
-#EXTINF:-1 tvg-name="طاقة القدر S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طاقة القدر S01 E13
-http://best4u.biz:8080/series/26842788/26842788/17066.mkv
+#EXTINF:-1 tvg-name="طاقة القدر S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طاقة القدر S01 E14
+http://best4u.biz:8080/series/26842788/26842788/17067.mkv
+#EXTINF:-1 tvg-name="طاقة القدر S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طاقة القدر S01 E25
+http://best4u.biz:8080/series/26842788/26842788/17078.mkv
+#EXTINF:-1 tvg-name="طاقة القدر S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طاقة القدر S01 E29
+http://best4u.biz:8080/series/26842788/26842788/17082.mkv
 #EXTINF:-1 tvg-name="طريق الوادي (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGrpSAyuIXmVwqBJruICx3KwHWe.jpg" group-title="Movies",طريق الوادي (2023)
 http://best4u.biz:8080/movie/26842788/26842788/57489.mp4
 #EXTINF:-1 tvg-name="طريق هيكو" tvg-logo="https://cimalina.com/wp-content/uploads/2021/02/Ashampoo_Snap_2021.02.12_10h31m54s_001_-238x292.png" group-title="Movies",طريق هيكو
 http://best4u.biz:8080/movie/26842788/26842788/17863.mp4
+#EXTINF:-1 tvg-name="طريقي  S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E01
+http://best4u.biz:8080/series/26842788/26842788/17084.mkv
+#EXTINF:-1 tvg-name="طريقي  S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E02
+http://best4u.biz:8080/series/26842788/26842788/17085.mkv
 #EXTINF:-1 tvg-name="طريقي  S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E03
 http://best4u.biz:8080/series/26842788/26842788/17086.mkv
-#EXTINF:-1 tvg-name="طريقي  S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E10
-http://best4u.biz:8080/series/26842788/26842788/17093.mkv
-#EXTINF:-1 tvg-name="طريقي  S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E11
-http://best4u.biz:8080/series/26842788/26842788/17094.mkv
+#EXTINF:-1 tvg-name="طريقي  S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E05
+http://best4u.biz:8080/series/26842788/26842788/17088.mkv
+#EXTINF:-1 tvg-name="طريقي  S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E07
+http://best4u.biz:8080/series/26842788/26842788/17090.mkv
+#EXTINF:-1 tvg-name="طريقي  S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E12
+http://best4u.biz:8080/series/26842788/26842788/17095.mkv
 #EXTINF:-1 tvg-name="طريقي  S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E14
 http://best4u.biz:8080/series/26842788/26842788/17097.mkv
 #EXTINF:-1 tvg-name="طريقي  S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E18
 http://best4u.biz:8080/series/26842788/26842788/17101.mkv
-#EXTINF:-1 tvg-name="طريقي  S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E20
-http://best4u.biz:8080/series/26842788/26842788/17103.mkv
-#EXTINF:-1 tvg-name="طريقي  S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E21
-http://best4u.biz:8080/series/26842788/26842788/17104.mkv
-#EXTINF:-1 tvg-name="طريقي  S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E23
-http://best4u.biz:8080/series/26842788/26842788/17106.mkv
-#EXTINF:-1 tvg-name="طريقي  S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E25
-http://best4u.biz:8080/series/26842788/26842788/17108.mkv
-#EXTINF:-1 tvg-name="طريقي  S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E28
-http://best4u.biz:8080/series/26842788/26842788/17111.mkv
-#EXTINF:-1 tvg-name="طريقي  S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg" group-title="Movies",طريقي S01 E29
-http://best4u.biz:8080/series/26842788/26842788/17112.mkv
 #EXTINF:-1 tvg-name="ع الزيرو (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpXYt5IPcBOfRwwiLbktl4dYSdE.jpg" group-title="Movies",ع الزيرو (2023)
 http://best4u.biz:8080/movie/26842788/26842788/60299.mp4
 #EXTINF:-1 tvg-name="عادل مش عادل" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1DpGz6zDeiLiugs4Bu8v4TV1Oz.jpg" group-title="Movies",عادل مش عادل
@@ -14144,10 +14204,6 @@ http://best4u.biz:8080/movie/26842788/26842788/52470.mp4
 http://best4u.biz:8080/movie/26842788/26842788/51980.mp4
 #EXTINF:-1 tvg-name="هجّان (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbC7c7Kg7CxrHn3R6hG2EYuX9Ry.jpg" group-title="Movies",هجّان (2024)
 http://best4u.biz:8080/movie/26842788/26842788/63066.mkv
-#EXTINF:-1 tvg-name="وادي الجن S02 E02" tvg-logo="https://media.elcinema.com/uploads/_315x420_93293ee8d619a1014cc232f6e25488d998d619966703ab06fe9936c61cb7ec48.jpg" group-title="Movies",وادي الجن S02 E02
-http://best4u.biz:8080/series/26842788/26842788/39532.mp4
-#EXTINF:-1 tvg-name="وادي الجن S02 E06" tvg-logo="https://media.elcinema.com/uploads/_315x420_93293ee8d619a1014cc232f6e25488d998d619966703ab06fe9936c61cb7ec48.jpg" group-title="Movies",وادي الجن S02 E06
-http://best4u.biz:8080/series/26842788/26842788/39536.mp4
 #EXTINF:-1 tvg-name="وادي الجن S02 E15" tvg-logo="https://media.elcinema.com/uploads/_315x420_93293ee8d619a1014cc232f6e25488d998d619966703ab06fe9936c61cb7ec48.jpg" group-title="Movies",وادي الجن S02 E15
 http://best4u.biz:8080/series/26842788/26842788/39545.mp4
 #EXTINF:-1 tvg-name="وكل ما نفترق S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pA8AZAmkCctwYUEcDlFr7jungvo.jpg" group-title="Movies",وكل ما نفترق S01 E01
@@ -14330,8 +14386,6 @@ https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="Music",9XM (1080p)
 https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 tvg-id="A2iMusic.sn@SD" tvg-logo="https://i.imgur.com/Fykhzxh.jpg" group-title="Music",A2i Music (720p)
-https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="AaryaaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Music",Aaryaa TV (1080p)
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa@SD" tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png" group-title="Music",Abdulmajeed Abdullah (1080p)
@@ -14466,8 +14520,6 @@ http://stream.mcquack.net/320/index.m3u8
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 #EXTINF:-1 tvg-id="BTATV.ve@SD" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="Music",BTA TV (720p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1 tvg-id="BTBMusic.pl@SD" tvg-logo="https://btb.j00r.us/images/logo_BTBMusic.webp" group-title="Music",BTB Music (1080p)
-https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
 #EXTINF:-1 tvg-id="BuenisimaRadioTV.co@SD" tvg-logo="https://i.imgur.com/URKDlOZ.png" group-title="Music",Buenisima Radio TV
 https://canal.mediaserver.com.co/live/buenisimatv.m3u8
 #EXTINF:-1 tvg-id="CadenaElite.es@SD" tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="Music",Cadena Elite (720p)
@@ -14726,6 +14778,8 @@ https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
 https://k100streymi.mbl.is/beint/k100/index.m3u8
 #EXTINF:-1 tvg-id="KalikaTV.in@SD" tvg-logo="https://i.imgur.com/XWXFoJA.png" group-title="Music",Kalika TV (576p)
 http://server.applelive.in/kalikatv/kalikatv.m3u8
+#EXTINF:-1 tvg-id="KandelaTV.ve@SD" tvg-logo="https://i.imgur.com/cCFxyIp.jpg" group-title="Music",KandelaTV (480p)
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKaraokeporStingray.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Music",Karaoke por Stingray (720p)
 https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
 #EXTINF:-1 tvg-id="KayhanTV.af@SD" tvg-logo="https://i.imgur.com/2MDjU7x.png" group-title="Music",Kayhan TV (720p)
@@ -14846,8 +14900,6 @@ https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
 #EXTINF:-1 tvg-id="MCMTop.fr@SD" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Music",MCM Top (1080p)
 http://89.33.29.118/MCM/index.m3u8
-#EXTINF:-1 tvg-id="MelodyFM.jo@SD" tvg-logo="https://i.imgur.com/J8omcNz.png" group-title="Music",Melody FM Jordan (720p)
-https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MessatidaTV.gr@SD" tvg-logo="https://i.imgur.com/WEYrIrC.png" group-title="Music",Messatida TV (720p)
 https://rtmp.streams.ovh:8081/mtv/index.m3u8
 #EXTINF:-1 tvg-id="MetaleitorTV.us@SD" tvg-logo="https://new.opencaster.com/uploads/logos/logo_14_1752798826.png" group-title="Music",Metaleitor TV
@@ -15014,8 +15066,6 @@ https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 https://videostream.jpbgdigital.com/NOWTV.m3u8
 #EXTINF:-1 tvg-id="NPCRadioeTV.pt@SD" tvg-logo="https://i.imgur.com/mw1lYWE.png" group-title="Music",NPC Rádio e TV (720p)
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
-#EXTINF:-1 tvg-id="NRG91.gr@SD" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="Music",NRG 91 (720p)
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-id="NuevaVidaFM.pr@SD" tvg-logo="https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png" group-title="Music",Nueva Vida TV (720p)
 https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="Number1Ask.tr@SD" tvg-logo="https://i.imgur.com/slwbux7.png" group-title="Music",Number 1 Ask (720p)
@@ -15198,8 +15248,6 @@ https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 #EXTINF:-1 tvg-id="RadioRomania3Net.ro@SD" tvg-logo="https://www.radio3net.ro/img/logos/logo_3.png" group-title="Music",Radio Romania 3Net (480p)
 https://media.3netmedia.ro/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" group-title="Music",Radio Romania Antena Satelor (720p)
-https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRumbaTV.pe@SD" tvg-logo="https://i.imgur.com/BYcxI03.png" group-title="Music",Radio Rumba TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioSanCristobal887FM.py@SD" tvg-logo="https://i.imgur.com/zaJhBdj.png" group-title="Music",Radio San Cristobal 88.7 FM
@@ -15208,6 +15256,8 @@ https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
 https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
 #EXTINF:-1 tvg-id="RadioSWHTV.lv@SD" tvg-logo="https://i.imgur.com/cFrNsXn.png" group-title="Music",Radio SWH TV (1080p)
 https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTropical.pe@SD" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Music",Radio Tropical Tarapoto (480p)
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="RadioTeleHit.ht@SD" tvg-logo="https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png" group-title="Music",Radio Télé Hit (480p)
 https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioWeserTVBremen.de@SD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Music",Radio Weser TV Bremen (576p)
@@ -15286,6 +15336,8 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 http://stream.mcquack.net/319/index.m3u8
 #EXTINF:-1 tvg-id="SaborTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/416_Sabor_TV.png" group-title="Music",Sabor TV (720p)
 https://v1.tustreaming.cl/sabortv/index.m3u8
+#EXTINF:-1 tvg-id="SalsaGordaTelevision.co@SD" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="Music",Salsa Gorda Television (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 #EXTINF:-1 tvg-id="SaltoBrasaMusic.nl@SD" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="Music",Salto Brasa Music (1080p)
 https://salto-streams.nl/hls/sotv1.m3u8
 #EXTINF:-1 tvg-id="SanaPlus.in@SD" tvg-logo="https://i.imgur.com/N6tKUZv.png" group-title="Music",Sana Plus (1080p)
@@ -15638,8 +15690,6 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 tvg-id="VolksmusikTV.de@SD" tvg-logo="https://i.imgur.com/EsWuCJ3.png" group-title="Music",Volksmusik TV (1080p)
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="VosyTV.ec@SD" tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Music",Vos y TV (720p)
-https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="TraVinhTV.vn@HD" tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Music",Vĩnh Long TV5 (1080p)
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="WavezFM.aw@SD" tvg-logo="https://i.imgur.com/uyROZSS.png" group-title="Music",Wavez FM
@@ -15682,8 +15732,6 @@ https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m
 https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="ZBMusic.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png" group-title="Music",ZB Music (720p)
-https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="ZFMZoetermeerTV.nl@SD" tvg-logo="https://i.imgur.com/vrjACvy.png" group-title="Music",ZFM Zoetermeer (720p)
 https://zfmzoetermeer.nl/live/master.m3u8
 #EXTINF:-1 tvg-id="ZICOTV.rs@SD" tvg-logo="https://i.imgur.com/8wbTnNW.png" group-title="Music",ZICO TV (720p)
@@ -16084,8 +16132,6 @@ https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
 http://best4u.biz:8080/26842788/26842788/35854
 #EXTINF:-1 tvg-id="BansalNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BANSAL_NEWS/images/LOGO_HD/image.png" group-title="News",Bansal News (720p)
 https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BarakaTelevision.cd@SD" tvg-logo="https://i.imgur.com/IKXddHN.png" group-title="News",Baraka Television (720p)
-https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
 #EXTINF:-1 tvg-id="BBCUHD2.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" group-title="News",BBC UHD 2 (1080p)
 https://xemzi.short.gy/1000002
 #EXTINF:-1 tvg-id="BBCUHD3.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" group-title="News",BBC UHD 3 (720p)
@@ -16104,6 +16150,8 @@ https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="BBCHomeGarden.us@SD" tvg-logo="https://i.imgur.com/rC0pi1D.png" group-title="News",BBC Home & Garden (1080p)
 https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCLifestyle.uk@Asia" tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title="News",BBC Lifestyle Asia (720p)
+http://58.8.186.128:10003/bysid/2333
 #EXTINF:-1 tvg-id="BBCNews.uk@UK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News (1080p)
 https://xemzi.short.gy/1000015
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News Europe (576p)
@@ -16276,8 +16324,6 @@ https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
 https://feeds.intoday.in/bttv/itgd.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl@SD" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" group-title="News",BTB Info (1080p)
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
-#EXTINF:-1 tvg-id="BTVNews.kh@SD" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="News",BTV News (720p)
-https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BuendiaTV.hn@SD" tvg-logo="https://i.imgur.com/m5hNyNE.png" group-title="News",Buendia TV
 https://servilive.com:3508/stream/play.m3u8
 #EXTINF:-1 tvg-id="ASTV.tr@SD" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" group-title="News",Bursa AS TV (900p)
@@ -16536,8 +16582,6 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="News",E! Latin America (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="News",E! Latin America Mexico (720p)
-http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="EACNewsTV.kh@SD" tvg-logo="https://i.imgur.com/EuYhS9Z.png" group-title="News",EAC News TV
 https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
 #EXTINF:-1 tvg-name="EAF: ETV NEWS (ET)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",EAF: ETV NEWS (ET)
@@ -16626,8 +16670,6 @@ http://190.93.224.42/EXITOSA/index.m3u8
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtraProNews.gr@SD" tvg-logo="https://i.imgur.com/VKW9xw6.png" group-title="News",Extra ProNews (576p)
 http://62.1.176.18:8888/extra/index.m3u8
-#EXTINF:-1 tvg-id="FalestinonaChannel.lb" tvg-name="Falestinona Channel" tvg-logo="https://i.imgur.com/Z3QeQHk.png" group-title="News",Falestinona Channel
-https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="FilinfoTV.bf@SD" tvg-logo="https://i.imgur.com/KG93Tvn.png" group-title="News",Filinfo TV (1080p)
 https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
 #EXTINF:-1 tvg-id="FinansTurkTV.tr@SD" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" group-title="News",Finans Turk TV (720p)
@@ -16954,8 +16996,6 @@ https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
 #EXTINF:-1 tvg-id="MathrubhumiNews.in@SD" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="News",Mathrubhumi News (576p)
 https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="MayaTV.hn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/960px-Maya_TV_logo.png" group-title="News",Maya TV
-https://media.streambrothers.com:19360/8036/8036.m3u8
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD" tvg-logo="https://i.imgur.com/3YsZPY6.jpeg" group-title="News",Medi 1 TV Arabic (1080p)
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVMaghreb.ma@SD" tvg-logo="https://i.imgur.com/F5OFQsp.jpeg" group-title="News",Medi 1 TV Maghreb (1080p)
@@ -17108,14 +17148,14 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12Conneticut.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="News",News12 Conneticut
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
-#EXTINF:-1 tvg-id="News12HudsonValley.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="News",News12 Hudson Valley
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
-#EXTINF:-1 tvg-id="News12NewJersey.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="News",News12 New Jersey
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12PlusHudsonValley.us@HD" tvg-logo="https://i.ibb.co/cKkdC203/news12plus-HV.jpg" group-title="News",News12+ Hudson Valley (1080p)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="News12LongIsland.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="News",News12 Long Island (1080p)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12PlusNewJersey.us@HD" tvg-logo="https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg" group-title="News",News12+ New Jersey (1080p)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12PlusNewYork.us@HD" tvg-logo="https://i.ibb.co/tThKYM09/news12plus-NYC.jpg" group-title="News",News12+ New York (1080p)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="News12Westchester.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="News",News12 Westchester
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News18AssamNorthEast.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_ASSAM_NORTHSYMHYPEAST/images/LOGO_HD/image.png" group-title="News",News18 Assam North-East (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News18Bangla.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_BANGLA/images/LOGO_HD/image.png" group-title="News",News18 Bangla (1080p)
@@ -17324,8 +17364,6 @@ https://stream.ottlive.co.in/primenews/index.m3u8
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
 #EXTINF:-1 tvg-id="ProBusiness.ru@SD" tvg-logo="https://i.imgur.com/1u8KvTD.png" group-title="News",Pro Business (720p)
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PROTVChisinau.md@SD" tvg-logo="https://i.imgur.com/X5PYRxF.png" group-title="News",PRO TV Chisinau (480p)
-https://stream.protv.md/live/sursa-1/index.m3u8
 #EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",Pro TV News (1080p)
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD" tvg-logo="https://i.imgur.com/7oTsfQ4.png" group-title="News",Probashi TV News (1080p)
@@ -17510,8 +17548,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="SkyNewsInternational.uk" tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="News",Sky News (UK) Ⓨ
 https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
-#EXTINF:-1 tvg-id="SkyNewsUrdu.pk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png" group-title="News",Sky News Urdu (720p)
-https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" group-title="News",Sky News Weather (720p)
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="StarKentrikisElladas.gr@SD" tvg-logo="https://i.imgur.com/ZBt6beo.png" group-title="News",Star Kentrikis Elladas (1080p)
@@ -17632,8 +17668,6 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1 tvg-id="TVNatal.br@SD" tvg-logo="https://i.imgur.com/wqQmQml.png" group-title="News",TV Natal (1080p)
 http://185.228.163.146:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="TVParaense.br@HD" tvg-logo="https://duckduckgo.com/i/e408ea02.png" group-title="News",TV Paraense (720p)
-https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="News",TV Peru Noticias (1080p)
 http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
 #EXTINF:-1 tvg-id="TVPunjab.ca@SD" tvg-logo="https://en.tvpunjab.com/storage/2022/03/logo-2022.png" group-title="News",TV Punjab (720p)
@@ -18008,8 +18042,6 @@ http://168.228.44.241:9997/play/a07u/index.m3u8
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="Balapan.kz@HD" tvg-logo="https://vote.rtrk.kz/img/balapan-logo.png" group-title="Kids",Balapan HD (1080p)
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
-#EXTINF:-1 tvg-id="BalapanInternational.kz@SD" tvg-logo="https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png" group-title="Kids",Balapan International (1080p)
-https://live-3.otcnet.ru/Balapan/index.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Kids",Banijay Mr Bean Animé (1080p)
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" tvg-logo="https://i.imgur.com/aH0PCPy.png" group-title="Kids",BBC Four/CBeebies (720p)
@@ -18290,8 +18322,6 @@ http://stream.mcquack.net/144/index.m3u8
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KidoodleTV.ca@SD" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",Kidoodle.TV (1080p)
 https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KidsTV.id@SD" tvg-logo="https://i.imgur.com/B5YiUIP.png" group-title="Kids",Kids TV
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 tvg-id="KiKA.de@SD" tvg-logo="https://i.imgur.com/vZdNp5S.png" group-title="Kids",KiKA (1080p)
 https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 #EXTINF:-1 tvg-id="KnowledgeNetwork.ca@SD" tvg-logo="https://i.imgur.com/VfofmZZ.png" group-title="Kids",Knowledge Network (720p)
@@ -18354,6 +18384,8 @@ https://jmp2.uk/plu-64c92f965580090008084968.m3u8
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1 tvg-id="NickJr.it@SD" tvg-logo="https://i.imgur.com/6p3eFgf.png" group-title="Kids",Nick Jr. (720p)
 http://102.129.186.182:81/nick/index.m3u8
+#EXTINF:-1 tvg-id="NickJrAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr. Asia HD (720p)
+http://58.8.186.128:10003/bysid/2330
 #EXTINF:-1 tvg-id="NickJrClub.de@DACH" tvg-logo="https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png" group-title="Kids",Nick Jr. Club (720p)
 https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us@US" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" group-title="Kids",Nick Jr. Pluto TV (720p)
@@ -18568,6 +18600,8 @@ http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Detskoe.ru@SD" tvg-logo="https://i.imgur.com/1hsNeTa.png" group-title="Kids",Smotrim 100% Detskoe (720p)
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 tvg-id="SomosEntreRios.ar@SD" tvg-logo="https://files.catbox.moe/ufv5z0.png" group-title="Kids",Somos Entre Rios (360p)
+https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
 #EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic (576p)
 http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png" group-title="Kids",Sony Yay! (1080p)
@@ -18782,8 +18816,6 @@ https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="YuGiOh.us@SD" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="Kids",Yu-Gi-Oh! (1080p)
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-id="ZBCartoon.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png" group-title="Kids",ZB Cartoon (1080p)
-https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CTDecko.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png" group-title="Kids",ČT:D/ČT art (1080p)
@@ -18868,6 +18900,8 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 http://best4u.biz:8080/26842788/26842788/35528
 #EXTINF:-1 tvg-name="BEIN Discovery Family HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",BEIN Discovery Family HD
 http://best4u.biz:8080/26842788/26842788/35531
+#EXTINF:-1 tvg-id="Belarus3.by@HD" tvg-logo="https://i.imgur.com/JkcDycn.png" group-title="Documentary",Belarus-3 HD (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BetterLifeNatureChannel.us@SD" tvg-logo="https://i.imgur.com/D8Vuw6I.png" group-title="Documentary",Better Life Nature Channel (480p)
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 tvg-id="BigPlanet.ru@SD" tvg-logo="https://i.imgur.com/wyuqWTR.png" group-title="Documentary",Big Planet (576p)
@@ -19072,6 +19106,8 @@ https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HyderTV.ca@SD" tvg-logo="https://i.imgur.com/reHjjRZ.png" group-title="Documentary",Hyder TV (720p)
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ImaiTV.lk@SD" tvg-logo="https://i.imgur.com/9tODclu.png" group-title="Documentary",Imai TV (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-name="IN_Discovery Science" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",IN_Discovery Science
 http://best4u.biz:8080/26842788/26842788/8820
 #EXTINF:-1 tvg-id="IndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/vmk4F9u.png" group-title="Documentary",Indigenous TV (720p)
@@ -19204,8 +19240,6 @@ http://best4u.biz:8080/26842788/26842788/35519
 http://best4u.biz:8080/26842788/26842788/35518
 #EXTINF:-1 tvg-id="NationalGeographic.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (1080p)
 http://176.61.157.250/NationalGeographic/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic HD East (720p)
-http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.fi@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Finland) (720p)
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic Latin America (1080p)
@@ -19456,6 +19490,8 @@ http://hls127.freeott.top:8080/Teatr/video.m3u8
 https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
 #EXTINF:-1 tvg-id="Telepace2.it@SD" tvg-logo="https://i.imgur.com/qvcf6QC.png" group-title="Documentary",Telepace 2 (1080p)
 https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Teletur.do@SD" tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="Documentary",Teletur (720p)
+https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TerraMaterWILD.de@German" tvg-logo="https://i.imgur.com/EbMK3Ph.png" group-title="Documentary",Terra Mater WILD (1080p)
 https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="TerraMaterWILD.de@English" tvg-logo="https://i.imgur.com/EbMK3Ph.png" group-title="Documentary",Terra Mater WILD English (1080p)
