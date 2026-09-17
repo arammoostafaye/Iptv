@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Kurdish + Persian - 231 channels
+#   Kurdish + Persian - 232 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-17 11:05 UTC
-#   Channels: 231
+#   Updated: 2026-09-17 16:20 UTC
+#   Channels: 232
 # +======================================+
 #EXTINF:-1 tvg-id="4Kurd.fr@SD" tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" group-title="Kurdish",4 Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
@@ -176,8 +176,6 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png" group-title="Kurdish",TRT Avaz (720p)
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Kurdish",TRT Belgesel (720p)
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kurdish",TRT Cocuk (1440p)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr@SD" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Kurdish",TRT Diyanet Çocuk (720p)
@@ -202,8 +200,6 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" group-title="Kurdish",TRT Türk (720p)
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="Kurdish",TRT World (1080p)
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TVANava.ir@SD" tvg-logo="https://i.imgur.com/JRxrsrw.png" group-title="Kurdish",TVA Nava
 https://ncdn.telewebion.ir/nava/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlusSuceava.ro@SD" tvg-logo="https://i.imgur.com/f4fzoLe.png" group-title="Kurdish",TVPlus Suceava (576p)
@@ -248,6 +244,10 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persi
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru@HD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Persian",Channel One HD (720p)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="ChannelOneCIS.ru@SD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Persian",Channel One CIS (576p)
+https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="ChannelOneEurasia.kz@SD" tvg-logo="https://i.imgur.com/vm5sJHP.png" group-title="Persian",Channel One Eurasia (576p)
+https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="DunyaNawTV.af@SD" tvg-logo="https://i.ibb.co/nQkLgyn/dunya-naw-tv.png" group-title="Persian",Dunya Naw TV (576p)
 https://dunyanhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GEM24B.tr@SD" tvg-logo="https://i.imgur.com/8LgdPst.png" group-title="Persian",GEM 24B
@@ -442,6 +442,8 @@ https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 https://sh7hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SimayeAzadi.uk@SD" tvg-logo="https://i.imgur.com/yXcczMq.png" group-title="Persian",Simaye Azadi (1080p)
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
+#EXTINF:-1 tvg-id="SunGemini.in@SD" tvg-logo="https://sund-images.sunnxt.com/194396/300x300_SunGemini_194396_22c18c1e-7eb9-4855-9c4e-12e109911559.png" group-title="Persian",Sun Gemini (576p)
+http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
 #EXTINF:-1 tvg-id="TamadonTV.af@SD" tvg-logo="https://i.imgur.com/edGyj5H.png" group-title="Persian",Tamadon TV (720p)
 https://hls.tamadon.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Tamasha.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png" group-title="Persian",Tamasha
