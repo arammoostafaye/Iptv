@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Kurdish - 106 channels
+#   Kurdish - 109 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-17 03:19 UTC
-#   Channels: 106
+#   Updated: 2026-09-17 11:05 UTC
+#   Channels: 109
 # +======================================+
 #EXTINF:-1 tvg-id="4Kurd.fr@SD" tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" group-title="Kurdish",4 Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
@@ -12,8 +12,12 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 http://best4u.biz:8080/26842788/26842788/60818
 #EXTINF:-1 tvg-name="AF: SNRT TV (MA)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",AF: SNRT TV (MA)
 http://best4u.biz:8080/26842788/26842788/61161
+#EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title="Kurdish",Afarin Baxcha (1080p)
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Afarin TV
 https://65f16f0fdfc51.streamlock.net:443/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AnadoluNetTV.tr@SD" tvg-logo="https://www.anadolunettv.com/d/r/logo.png" group-title="Kurdish",Anadolu Net TV (1080p)
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 #EXTINF:-1 tvg-name="AR-Rudaw-HD" tvg-logo="http://149.202.206.141:7070/logo/AR-Rudaw-HD.png" group-title="Kurdish",AR-Rudaw-HD
 http://best4u.biz:8080/26842788/26842788/1632
 #EXTINF:-1 tvg-name="Arjun Suravaram - 2019" tvg-logo="http://ultimeiptv.net:8000/images/08ee6b13e88653e72cf6bb78a55f22f1.jpg" group-title="Kurdish",Arjun Suravaram - 2019
@@ -122,6 +126,8 @@ https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepLingewaard.nl@SD" tvg-logo="https://i.imgur.com/FqyTFVN.png" group-title="Kurdish",Omroep Lingewaard (720p)
 https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8
+#EXTINF:-1 tvg-id="ParlamentodeNavarra.es@SD" tvg-logo="https://i.imgur.com/JnhWxKv.png" group-title="Kurdish",Parlamento de Navarra (368p)
+https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 #EXTINF:-1 tvg-name="Pavarotti (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bf0Iim4D6XXrAAJGwHXyrWFqUz8.jpg" group-title="Kurdish",Pavarotti (2019)
 http://best4u.biz:8080/movie/26842788/26842788/45463.mkv
 #EXTINF:-1 tvg-id="PayameAfghanTV.us@SD" tvg-logo="https://i.imgur.com/t9wYYY9.png" group-title="Kurdish",Payam-e-Afghan TV (480p)
