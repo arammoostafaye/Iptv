@@ -1,22 +1,26 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Persian - 124 channels
+#   Persian - 129 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-18 15:56 UTC
-#   Channels: 124
+#   Updated: 2026-09-18 20:32 UTC
+#   Channels: 129
 # +======================================+
 #EXTINF:-1 tvg-id="1TV.ge@SD" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="Persian",1TV (720p)
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-id="4Afghanistan.fr@SD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",4 Afghanistan
 https://4afghls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4Music.fr@SD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",4 Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4Kurd.fr@SD" tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" group-title="Persian",4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="9Gem.au" tvg-name="9Gem" tvg-logo="https://i.imgur.com/sWmE1kq.png" group-title="Persian",9Gem Ⓖ
 https://i.mjh.nz/.r/gem-nsw.m3u8
 #EXTINF:-1 tvg-id="AFNTV.ir@SD" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="Persian",AFN TV
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 #EXTINF:-1 tvg-id="ALLBLKGems.us@SD" tvg-logo="https://i.imgur.com/gnkepQJ.png" group-title="Persian",ALLBLK Gems (720p)
 https://df1zke3zj042m.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="AmouzeshTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/500px-Amouzesh_TV_logo_%282023%29.svg.png" group-title="Persian",Amouzesh
+#EXTINF:-1 tvg-id="AmouzeshTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/500px-Amouzesh_TV_logo_%282023%29.svg.png" group-title="Persian",Amouzesh TV
 https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="Persian",Anger Management Channel (1080p)
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
@@ -24,18 +28,22 @@ https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg
 http://best4u.biz:8080/26842788/26842788/1608
 #EXTINF:-1 tvg-name="Avengement - 2019" tvg-logo="http://best4u.biz:8000/images/43a90a4d2e9f8e84bfebd4313ff9f0d0.jpg" group-title="Persian",Avengement - 2019
 http://best4u.biz:8080/movie/26842788/26842788/44517.mp4
-#EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="Persian",BBC Persian (720p) (HEVC) (1080p)
+#EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="Persian",BBC Persian (1080p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BravoFarsiTV.ir@SD" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Persian",Bravo Farsi TV (360p)
 https://bravoohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru@HD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Persian",Channel One HD (720p)
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="ChannelOneCIS.ru@SD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Persian",Channel One CIS (576p)
 https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="ChannelOneEurasia.kz@SD" tvg-logo="https://i.imgur.com/vm5sJHP.png" group-title="Persian",Channel One Eurasia (576p)
 https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="ChannelOne.ru@HD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Persian",Channel One (Russia) HD (720p)
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="ChannelOne.us@SD" tvg-logo="https://i.imgur.com/igskUo0.png" group-title="Persian",Channel One (United States)
+https://pemirateshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DunyaNawTV.af@SD" tvg-logo="https://i.ibb.co/nQkLgyn/dunya-naw-tv.png" group-title="Persian",Dunya Naw TV (576p)
 https://dunyanhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="EBS1TV.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png" group-title="Persian",EBS 1TV (400p)
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="GEM24B.tr@SD" tvg-logo="https://i.imgur.com/8LgdPst.png" group-title="Persian",GEM 24B
 https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMBollywood.tr@SD" tvg-logo="https://i.imgur.com/2XASeBk.png" group-title="Persian",GEM Bollywood
@@ -46,8 +54,6 @@ https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
 https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMDrama.tr@SD" tvg-logo="https://i.imgur.com/k2pGyRH.png" group-title="Persian",GEM Drama
 https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMDramaPlus.tr@SD" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_7.png" group-title="Persian",GEM Drama Plus
-https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMEntertainment.tr@SD" tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_8.png" group-title="Persian",GEM Entertainment
 https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMFilm.tr@SD" tvg-logo="https://i.imgur.com/nrFz3LU.png" group-title="Persian",GEM Film
@@ -64,8 +70,6 @@ https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
 https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMMifa.tr@SD" tvg-logo="https://i.imgur.com/qlI7o7V.png" group-title="Persian",GEM Mifa
 https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMMifaPlus.tr@SD" tvg-logo="https://i.imgur.com/8FIAqR5.png" group-title="Persian",GEM Mifa Plus
-https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMNature.tr@SD" tvg-logo="https://i.imgur.com/ENvOMDQ.png" group-title="Persian",GEM Nature
 https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMOnyx.tr@SD" tvg-logo="https://i.imgur.com/gXRIAw4.png" group-title="Persian",GEM Onyx
@@ -74,13 +78,9 @@ https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202
 https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
 #EXTINF:-1 tvg-id="GEMRiver.tr@SD" tvg-logo="https://i.imgur.com/yJ6f1B6.png" group-title="Persian",GEM River
 https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMRiverPlus.tr@SD" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_29.png" group-title="Persian",GEM River Plus
-https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMRubix.tr@SD" tvg-logo="https://i.imgur.com/cDjOj58.png" group-title="Persian",GEM Rubix
 https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMRubixPlus.tr@SD" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_31.png" group-title="Persian",GEM Rubix Plus
-https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMSeriesPlus.tr@SD" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_33.png" group-title="Persian",GEM Series Plus
+#EXTINF:-1 tvg-id="GEMSeriesPlus.tr@SD" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_33.png" group-title="Persian",GEM Series +
 https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GemShoppingNetwork.us@SD" tvg-logo="https://i.imgur.com/WlHEpAu.png" group-title="Persian",Gem Shopping Network (720p)
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
@@ -88,8 +88,6 @@ https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
 #EXTINF:-1 tvg-id="GEMTV.tr@SD" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_16.png" group-title="Persian",GEM TV
 https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMTVPlus.tr@SD" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_17.png" group-title="Persian",GEM TV Plus
-https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-name="Gemma Bovery (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfDAHJtB9IozFWUDBQBG97CHMyE.jpg" group-title="Persian",Gemma Bovery (2014)
 http://best4u.biz:8080/movie/26842788/26842788/18633.mkv
 #EXTINF:-1 tvg-id="GemsTV.uk@SD" tvg-logo="https://i.imgur.com/WgaJufI.png" group-title="Persian",Gems TV (720p)
@@ -118,23 +116,27 @@ https://hls.irannrtv.live/hls/stream.m3u8
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="IRIBUHD.ir@4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png" group-title="Persian",IRIB UHD (2160p)
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB1.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png" group-title="Persian",IRIB1
+#EXTINF:-1 tvg-id="IRIB1.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png" group-title="Persian",IRIB 1
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB2.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/960px-IRIB_TV2_logo.svg.png" group-title="Persian",IRIB2
+#EXTINF:-1 tvg-id="IRIB2.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/960px-IRIB_TV2_logo.svg.png" group-title="Persian",IRIB 2
 https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB3.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png" group-title="Persian",IRIB3
+#EXTINF:-1 tvg-id="IRIB3.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png" group-title="Persian",IRIB 3
 https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB4.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/960px-IRIB_TV4_logo.svg.png" group-title="Persian",IRIB4
+#EXTINF:-1 tvg-id="IRIB4.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/960px-IRIB_TV4_logo.svg.png" group-title="Persian",IRIB 4
 https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIBMostanad.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png" group-title="Persian",IRIB Mostanad
+https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIBOmid.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/500px-IRIB_Omid.svg.png" group-title="Persian",IRIB Omid
+https://ncdn.telewebion.ir/omid/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir@SD" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="Persian",IRINN (576p)
 http://185.9.2.18/chid_926/index.m3u8
-#EXTINF:-1 tvg-id="IRINN2.ir@SD" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="Persian",IRINN2 Live Farsi News
+#EXTINF:-1 tvg-id="IRINN2.ir@SD" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="Persian",IRINN 2
 https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Judgement - 1992" tvg-logo="http://ultimeiptv.net:8000/images/3eeb0d1f69b4f03250b076a97ed49815.jpg" group-title="Persian",Judgement - 1992
 http://best4u.biz:8080/movie/26842788/26842788/36216.mkv
 #EXTINF:-1 tvg-id="LemarTV.af@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png" group-title="Persian",Lemar TV (720p)
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
-#EXTINF:-1 tvg-id="Manoto.uk@SD" tvg-logo="https://i.imgur.com/8wE1Lbp.png" group-title="Persian",Manoto TV
+#EXTINF:-1 tvg-id="Manoto.uk@SD" tvg-logo="https://i.imgur.com/8wE1Lbp.png" group-title="Persian",Manoto
 https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="MarjaeyatTVArabic.iq@SD" tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="Persian",Marjaeyat TV Arabic (1080p)
 https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
@@ -144,22 +146,28 @@ https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
 https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
 #EXTINF:-1 tvg-id="MihanTV.ir@SD" tvg-logo="https://i.imgur.com/XEMsM7w.png" group-title="Persian",Mihan TV
 https://iptv.mihantv.com/mihantv/playlist.m3u8
-#EXTINF:-1 tvg-id="MohabatTV.us@HD" tvg-logo="https://i.imgur.com/tucTC1O.jpg" group-title="Persian",Mohabat TV
-https://mohabathls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IRIBMostanad.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png" group-title="Persian",Mostanad
-https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MohabatTV.ir@SD" tvg-logo="https://i.imgur.com/Ig0SPev.png" group-title="Persian",Mohabat TV (540p)
+https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MohabatTV.ir@SD" tvg-logo="https://i.imgur.com/Ig0SPev.png" group-title="Persian",Mohabat TV (Iran) (540p)
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MohabatTV.us@SD" tvg-logo="https://i.imgur.com/tucTC1O.jpg" group-title="Persian",Mohabat TV (United States) (540p)
+http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Nasim.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/960px-Nasim_TV_logo.svg.png" group-title="Persian",Nasim
 https://ncdn.telewebion.ir/nasim/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NoorTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/c/ce/Qum_Noor_TV.svg/960px-Qum_Noor_TV.svg.png" group-title="Persian",Noor TV (Iran)
+https://ncdn.telewebion.ir/noor/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NourTV.ae@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg" group-title="Persian",Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1 tvg-id="OfoghTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/960px-Ofogh_TV_logo.svg.png" group-title="Persian",Ofogh
+#EXTINF:-1 tvg-id="OfoghTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/960px-Ofogh_TV_logo.svg.png" group-title="Persian",Ofogh TV
 https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8
-#EXTINF:-1 tvg-id="OmideIranTV.us@SD" tvg-logo="https://i.imgur.com/CeMf68L.png" group-title="Persian",Omide Iran
+#EXTINF:-1 tvg-id="OmideIranTV.us@SD" tvg-logo="https://i.imgur.com/CeMf68L.png" group-title="Persian",Omid e Iran TV
 https://oitnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="OXIRTV.ir@SD" tvg-logo="https://i.imgur.com/MGMhUDx.png" group-title="Persian",OXIR TV
 https://hls.oxir.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ParsTV.us@SD" tvg-logo="https://i.imgur.com/RQ5DzEE.png" group-title="Persian",Pars TV
 https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PayvandTV.ir@SD" tvg-logo="https://i.imgur.com/o2Ww77N.png" group-title="Persian",Payvand TV (Iran) (720p)
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
 #EXTINF:-1 tvg-id="PBCTapeshTV.us@SD" tvg-logo="https://i.imgur.com/50JzsmH.png" group-title="Persian",PBC Tapesh TV (720p)
 https://iptv.tapesh.tv/tapesh/playlist.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr@SD" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Persian",Persiana Cinema
@@ -184,8 +192,6 @@ https://korhls.persiana.live/hls/stream.m3u8
 https://latinohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaMedical.fr@SD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",Persiana Medical
 https://phd2hls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="4Music.fr@SD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",Persiana Music
-https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaNostalgia.fr@SD" tvg-logo="https://i.imgur.com/SWO9CKA.png" group-title="Persian",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaPlus.fr@SD" tvg-logo="https://i.imgur.com/0xttibX.png" group-title="Persian",Persiana Plus
@@ -206,7 +212,7 @@ https://live.1tv.od.ua/stream1/channel1/playlist.m3u8
 https://pmchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PMCTelugu.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png" group-title="Persian",PMC Telugu (1080p)
 https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
-#EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" group-title="Persian",Pooya & Nahal
+#EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" group-title="Persian",Pooya TV
 https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PooyaTVPlus.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" group-title="Persian",Pooya TV Plus
 https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
@@ -216,12 +222,16 @@ https://live.presstv.ir/hls/presstv.m3u8
 https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Project Gemini - 2022" tvg-logo="http://best4u.biz:8000/images/97e5bffe8fe77e08e02c0ba0d9f23356.jpg" group-title="Persian",Project Gemini - 2022
 http://best4u.biz:8080/movie/26842788/26842788/42860.mkv
-#EXTINF:-1 tvg-id="SalamatTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png" group-title="Persian",Salamat
+#EXTINF:-1 tvg-id="QuranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png" group-title="Persian",Quran TV (Iran)
+https://ncdn.telewebion.ir/quran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RoyaTV.ir@SD" tvg-logo="https://static.telewebion.com/channelsLogo/0e3d7425-1a1b-47c4-b020-2e09a5fc2598/default" group-title="Persian",Roya TV (Iran)
+https://ncdn.telewebion.ir/iribu/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SalamatTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png" group-title="Persian",Salamat TV
 https://ncdn.telewebion.ir/salamat/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Sat7Pars.cy@SD" tvg-logo="https://i.imgur.com/VTLQeul.png" group-title="Persian",Sat7 Pars
+#EXTINF:-1 tvg-id="Sat7Pars.cy@SD" tvg-logo="https://i.imgur.com/VTLQeul.png" group-title="Persian",Sat 7 Pars
 https://sat7phls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Sat7Turk.cy@SD" tvg-logo="https://i.imgur.com/cKQIK4i.png" group-title="Persian",Sat7 Türk (1080p)
-https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Shabakeh7.us@SD" tvg-logo="https://i.imgur.com/oHmh5Jb.png" group-title="Persian",Shabakeh 7
 https://sh7hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SimayeAzadi.uk@SD" tvg-logo="https://i.imgur.com/yXcczMq.png" group-title="Persian",Simaye Azadi (1080p)
@@ -236,7 +246,7 @@ https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 https://maxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TBNNejatTV.ir@SD" tvg-logo="https://i.imgur.com/e4WffQA.png" group-title="Persian",TBN Nejat TV
 https://hls.nejat.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TehranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/500px-IRIBTV5.svg.png" group-title="Persian",Tehran
+#EXTINF:-1 tvg-id="TehranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/500px-IRIBTV5.svg.png" group-title="Persian",Tehran TV
 https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ToloTV.af@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/TOLO_TV_logo_2016.png" group-title="Persian",Tolo TV
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8
@@ -250,7 +260,7 @@ http://best4u.biz:8080/26842788/26842788/51674
 http://best4u.biz:8080/26842788/26842788/51664
 #EXTINF:-1 tvg-id="VarzeshTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="Persian",Varzesh TV
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
-#EXTINF:-1 tvg-id="VoATVPersian.us@SD" tvg-logo="https://i.imgur.com/TmqComb.png" group-title="Persian",VOA Persian (1080p)
+#EXTINF:-1 tvg-id="VoATVPersian.us@SD" tvg-logo="https://i.imgur.com/TmqComb.png" group-title="Persian",VoA TV Persian (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 tvg-id="WatanTV.eg@SD" tvg-logo="https://i.imgur.com/pZyKaUH.png" group-title="Persian",Watan TV (1080p)
 https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
