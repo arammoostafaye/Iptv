@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Kurdish + Persian - 242 channels
+#   Kurdish + Persian - 241 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-19 10:25 UTC
-#   Channels: 242
+#   Updated: 2026-09-19 15:27 UTC
+#   Channels: 241
 # +======================================+
 #EXTINF:-1 tvg-name="AF:AVA TV (SN)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",AF:AVA TV (SN)
 http://best4u.biz:8080/26842788/26842788/60818
@@ -392,8 +392,6 @@ https://hls.oxir.live/hls/stream.m3u8
 https://parshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PayvandTV.ir@SD" tvg-logo="https://i.imgur.com/o2Ww77N.png" group-title="Persian",Payvand TV (Iran) (720p)
 https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
-#EXTINF:-1 tvg-id="PBCTapeshTV.us@SD" tvg-logo="https://i.imgur.com/50JzsmH.png" group-title="Persian",PBC Tapesh TV (720p)
-https://iptv.tapesh.tv/tapesh/playlist.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr@SD" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Persian",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr@SD" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Persian",Persiana Comedy
