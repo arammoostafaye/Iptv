@@ -1,17 +1,15 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Kurdish + Persian - 240 channels
+#   Kurdish + Persian - 239 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-21 17:58 UTC
-#   Channels: 240
+#   Updated: 2026-09-21 21:50 UTC
+#   Channels: 239
 # +======================================+
 #EXTINF:-1 tvg-name="AF:AVA TV (SN)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",AF:AVA TV (SN)
 http://best4u.biz:8080/26842788/26842788/60818
 #EXTINF:-1 tvg-name="AF: SNRT TV (MA)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",AF: SNRT TV (MA)
 http://best4u.biz:8080/26842788/26842788/61161
-#EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title="Kurdish",Afarin Baxcha (1080p)
-https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Afarin TV
 https://65f16f0fdfc51.streamlock.net:443/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AnadoluNetTV.tr@SD" tvg-logo="https://www.anadolunettv.com/d/r/logo.png" group-title="Kurdish",Anadolu Net TV (1080p)
