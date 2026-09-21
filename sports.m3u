@@ -3,8 +3,8 @@
 #   Anon TV V2 — by Aram Moostafaye
 #   Sports
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-21 12:02 UTC
-#   Channels: 615
+#   Updated: 2026-09-21 17:58 UTC
+#   Channels: 613
 # +======================================+
 #EXTINF:-1 tvg-id="30AGolfKingdom.us@SD" tvg-logo="https://i.imgur.com/Lv53nh4.png" group-title="Sports",30A Golf Kingdom (720p)
 https://30a-tv.com/feeds/vidaa/golf.m3u8
@@ -628,6 +628,8 @@ https://h.jcp.live.opencaster.com/play_src/index.m3u8
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="MRT3.mk" tvg-name="MRT3" tvg-logo="https://i.imgur.com/3VZrG4T.png" group-title="Sports",MRT3 Ⓖ
 https://vod-c57.interspace.com:443/channel_abr/658323455489957/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzU6NTkgUE0maGFzaF92YWx1ZT1Xb0JsUWRMN1JKLytjbnMyQjVuMUFRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NDRmM2M5MDI=
+#EXTINF:-1 tvg-id="MRTVSports.mm@SD" tvg-logo="https://i.imgur.com/cFTR4kC.png" group-title="Sports",MRTV Sports
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 tvg-id="MSG.us@SD" tvg-logo="https://i.imgur.com/SEQFh0P.png" group-title="Sports",MSG (720p)
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports",MUTV (720p)
@@ -902,12 +904,6 @@ http://178.124.179.122:8080/SportTV/mpegts
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it@SD" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sports",Sportitalia (1080p)
 https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="Sportitalia24.it@SD" tvg-logo="https://i.imgur.com/RSwnoLn.png" group-title="Sports",Sportitalia 24 (720p)
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Sportitalia24.it" tvg-name="Sportitalia LIVE24" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia LIVE24
-https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SportitaliaMotori.it@SD" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia Motori (720p)
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia Plus" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia Plus
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia Solocalcio (1080p)
