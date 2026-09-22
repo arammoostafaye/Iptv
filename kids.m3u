@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Kids - 548 channels
+#   Kids - 625 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-22 03:13 UTC
-#   Channels: 548
+#   Updated: 2026-09-22 11:09 UTC
+#   Channels: 625
 # +======================================+
 #EXTINF:-1 tvg-id="10Shake.au" tvg-name="10 Shake" tvg-logo="https://i.imgur.com/OXtIkOn.png" group-title="Kids",10 Shake
 https://i.mjh.nz/.r/10shake-nsw.m3u8
@@ -72,6 +72,8 @@ http://best4u.biz:8080/26842788/26842788/1607
 http://best4u.biz:8080/26842788/26842788/134
 #EXTINF:-1 tvg-name="AR-TOYOR ALJANAH" tvg-logo="http://149.202.206.141:7070/logo/AR-AFAK-TV.png" group-title="Kids",AR-TOYOR ALJANAH
 http://best4u.biz:8080/26842788/26842788/1501
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",ARG: DISNEY
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4751
 #EXTINF:-1 tvg-id="AtfalMawahebTV.sa@SD" tvg-logo="https://i.imgur.com/Y2BqP9m.png" group-title="Kids",Atfal & Mawaheb TV (1080p)
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV (1080p)
@@ -86,16 +88,44 @@ http://168.228.44.241:9997/play/a07u/index.m3u8
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="Balapan.kz@HD" tvg-logo="https://vote.rtrk.kz/img/balapan-logo.png" group-title="Kids",Balapan HD (1080p)
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-id="BalapanInternational.kz@SD" tvg-logo="https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png" group-title="Kids",Balapan International (1080p)
+https://live-3.otcnet.ru/Balapan/index.m3u8
 #EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" tvg-logo="https://i.imgur.com/aH0PCPy.png" group-title="Kids",BBC Four/CBeebies (720p)
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-logo="https://i.imgur.com/CGXC5fp.png" group-title="Kids",BBC Three/CBBC (720p)
 http://193.46.58.239:8080/CBBCHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",BE: BABY TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158420
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",BE: BOOMERANG
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158421
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",BE: CARTOON NETWORK
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158423
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",BE: CARTOONITO
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158424
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",BE: DISNEY CHANNEL
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158425
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",BE: DISNEY JUNIOR
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158426
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",BE: NICK JR.
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158430
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",BE: NICKELODEON
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158431
 #EXTINF:-1 tvg-name="beIN.Baraem.4K" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",beIN.Baraem.4K
 http://best4u.biz:8080/26842788/26842788/35769
 #EXTINF:-1 tvg-name="beIN.Jeem.4K" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",beIN.Jeem.4K
 http://best4u.biz:8080/26842788/26842788/35770
 #EXTINF:-1 tvg-id="BeJoykids.it@HD" tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png" group-title="Kids",BeJoy.kids (1080p)
 https://stream.paroledivita.org/bejoy.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",BG: BABY TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3306
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",BG: BOOMERANG
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3316
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",BG: CARTOON NETWORK
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3326
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",BG: E KIDS
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3347
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",BG: NICK JR
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3378
 #EXTINF:-1 tvg-id="BobEsponja.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Kids",Bob Esponja (720p)
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 #EXTINF:-1 tvg-id="BobEsponjaCalcaQuadrada.us@BR" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Kids",Bob Esponja Calca Quadrada (720p)
@@ -112,8 +142,12 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 https://stream8.cinerama.uz/1007/playlist.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" group-title="Kids",Box Kids TV (720p)
 http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",BR: NICKELODEON
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4883
 #EXTINF:-1 tvg-id="BratTV.us@SD" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Kids",Brat TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",CA: CARTOON NETWORK
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5412
 #EXTINF:-1 tvg-name="CA: Disney HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",CA: Disney HD
 http://best4u.biz:8080/26842788/26842788/13990
 #EXTINF:-1 tvg-name="CA: Disney JR HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",CA: Disney JR HD
@@ -164,6 +198,12 @@ https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Cufo.al@SD" tvg-logo="https://i.imgur.com/GbBHtwD.png" group-title="Kids",Cufo
 https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",CZ: BOOMERANG
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2178
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",CZ: DISNEY CHANNEL
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2185
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",CZ: DUCK TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2186
 #EXTINF:-1 tvg-id="Daria.de@FR" tvg-logo="https://images.pluto.tv/channels/6683b680efa2a10008e8a393/colorLogoPNG.png" group-title="Kids",Daria (Germany)
 https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8
 #EXTINF:-1 tvg-name="DE_Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",DE_Cartoon Network HD
@@ -222,6 +262,8 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 http://185.227.34.179:8080/disney-xd/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="Kids",Disney XD (United States) (720p)
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",DK: NICKELODEON
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3722
 #EXTINF:-1 tvg-id="DoraTV.us@CA" tvg-logo="https://i.imgur.com/zJuSbmU.png" group-title="Kids",Dora TV
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us@SD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",Dove Channel (1080p)
@@ -230,8 +272,6 @@ https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
 #EXTINF:-1 tvg-id="DrakeJosh.de@DACH" tvg-logo="https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png" group-title="Kids",Drake & Josh
 https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
-#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",DreamWorks Channel Asia (1080p)
-https://cdn12.178.indevs.in/163189/dreamworks
 #EXTINF:-1 tvg-id="DreikoTV.pa@SD" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Kids",Dreiko TV (720p)
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-id="ducktv.sk@HD" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Kids",ducktv HD
@@ -258,12 +298,14 @@ https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd
 #EXTINF:-1 tvg-name="|ES| DISNEY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",|ES| DISNEY CHANNEL HD
 http://best4u.biz:8080/26842788/26842788/71373
-#EXTINF:-1 tvg-name="|ES| DISNEY JUNIOR" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",|ES| DISNEY JUNIOR
-http://best4u.biz:8080/26842788/26842788/71372
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",ES: DISNEY JUNIOR
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/641
 #EXTINF:-1 tvg-name="|ES| DISNEY XD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",|ES| DISNEY XD
 http://best4u.biz:8080/26842788/26842788/71371
 #EXTINF:-1 tvg-name="|ES| NICK Jr" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",|ES| NICK Jr
 http://best4u.biz:8080/26842788/26842788/71369
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",ES: NICKELODEON
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/645
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve@SD" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Kids",eSports Max TV
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us@SD" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Kids",Estrella Games (1080p)
@@ -278,8 +320,34 @@ http://sb.err.ee/live/etv2.m3u8
 https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
 #EXTINF:-1 tvg-id="ExtremaKidsTV.cr@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" group-title="Kids",Extrema Kids TV
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",EXYU: BABY TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144256
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",EXYU: CARTOON NETWORK
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144258
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",EXYU: DISNEY CHANNEL
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144259
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",EXYU: DUCK TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144260
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",EXYU: NICK JR (CRO)
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144267
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",EXYU: NICK JR (SRB)
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144268
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",EXYU: NICKELODEON (CRO)
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144269
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",EXYU: NICKELODEON (SRB)
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144270
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",EXYU: RADIO S - KIDS
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144467
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",EXYU: TESLAVISION KIDS
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144280
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",EXYU: TNT KIDS
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144282
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",FI: NICK JR
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3684
 #EXTINF:-1 tvg-id="ForeverKids.us@SD" tvg-logo="https://i.imgur.com/deeQqYZ.png" group-title="Kids",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",FR: BABY TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/535
 #EXTINF:-1 tvg-name="FR-BoomeRang" tvg-logo="http://54.38.37.127/boomerang.png" group-title="Kids",FR-BoomeRang
 http://best4u.biz:8080/26842788/26842788/1593
 #EXTINF:-1 tvg-name="FR:Boomerang_FullHD" tvg-logo="http://54.38.37.127/boomerang.png" group-title="Kids",FR:Boomerang_FullHD
@@ -288,6 +356,8 @@ http://best4u.biz:8080/26842788/26842788/11922
 http://best4u.biz:8080/26842788/26842788/1360
 #EXTINF:-1 tvg-name="FR:Cartoon_Network_FullHD" tvg-logo="http://54.38.37.127/cartoon-network.png" group-title="Kids",FR:Cartoon_Network_FullHD
 http://best4u.biz:8080/26842788/26842788/11920
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",FR: CARTOONITO
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/598
 #EXTINF:-1 tvg-name="FR-Disney_Channel" tvg-logo="http://54.38.37.127/disney-channel.png" group-title="Kids",FR-Disney_Channel
 http://best4u.biz:8080/26842788/26842788/97
 #EXTINF:-1 tvg-name="FR:Disney_Channel_FullHD" tvg-logo="http://54.38.37.127/disney-channel.png" group-title="Kids",FR:Disney_Channel_FullHD
@@ -302,6 +372,10 @@ http://best4u.biz:8080/26842788/26842788/11901
 http://best4u.biz:8080/26842788/26842788/2693
 #EXTINF:-1 tvg-name="FR-Nickelodeon" tvg-logo="http://54.38.37.127/nickelodeon.png" group-title="Kids",FR-Nickelodeon
 http://best4u.biz:8080/26842788/26842788/2694
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",FR: NICKELODEON +1
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/132339
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",FR: NICKELODEON TEEN
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/551
 #EXTINF:-1 tvg-name="FR-Tiji_Cartoon" tvg-logo="http://54.38.37.127/tiji.png" group-title="Kids",FR-Tiji_Cartoon
 http://best4u.biz:8080/26842788/26842788/1883
 #EXTINF:-1 tvg-id="France4.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png" group-title="Kids",France 4 HD (1080p)
@@ -330,6 +404,24 @@ https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="GospelCartoon.br@SD" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Kids",Gospel Cartoon (360p)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",GR: BABY TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157539
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",GR: BOOMERANG
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157540
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",GR: CARTOON NETWORK
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157541
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",GR: DISNEY CHANNEL
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157542
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",GR: DISNEY JUNIOR
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157543
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",GR: DUCK TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157544
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",GR: IDJ KIDS
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157545
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",GR: NICKELODEON
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157546
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",GR: NOVA PREMIERE ANIMATION
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157522
 #EXTINF:-1 tvg-id="GrooviaKids.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/37034d6b30d2c092aa6827a34fa145ab.png" group-title="Kids",Groovia Kids (576p)
 https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/60px-18._Gulli.png" group-title="Kids",Gulli
@@ -362,8 +454,8 @@ https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8
 http://best4u.biz:8080/26842788/26842788/1494
 #EXTINF:-1 tvg-name="IT_BOOMERANG" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",IT_BOOMERANG
 http://best4u.biz:8080/26842788/26842788/13051
-#EXTINF:-1 tvg-name="IT_cartoon_network" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",IT_cartoon_network
-http://best4u.biz:8080/26842788/26842788/13320
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",IT: CARTOON NETWORK FHD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/135881
 #EXTINF:-1 tvg-name="IT: CARTOON NETWORK ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg?download" group-title="Kids",IT: CARTOON NETWORK ᴴᴰ
 http://best4u.biz:8080/26842788/26842788/55185
 #EXTINF:-1 tvg-name="IT-Cartoonito" tvg-logo="http://41.224.63.105:9999/italia/cartoonito.png" group-title="Kids",IT-Cartoonito
@@ -394,12 +486,8 @@ https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
 http://stream.mcquack.net/144/index.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Kids",Kartoon Channel! (1080p)
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KidOO.us@SD" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/11/Logo-KidOO.png" group-title="Kids",KidOO (1080p)
-http://15.204.246.24:8080/KidooHD/index.m3u8
 #EXTINF:-1 tvg-id="KidoodleTV.ca@SD" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",Kidoodle.TV (1080p)
 https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KidsTV.id@SD" tvg-logo="https://i.imgur.com/B5YiUIP.png" group-title="Kids",Kids TV
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 tvg-id="KiKA.de@SD" tvg-logo="https://i.imgur.com/vZdNp5S.png" group-title="Kids",KiKA (1080p)
 https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 #EXTINF:-1 tvg-id="KnowledgeNetwork.ca@SD" tvg-logo="https://i.imgur.com/VfofmZZ.png" group-title="Kids",Knowledge Network (720p)
@@ -408,6 +496,12 @@ https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/in
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosKids.pt@SD" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Kids",Kuriakos Kids (1080p)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",LA: BOOMERANG
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5075
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",LA: DISNEY XD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5079
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",LA: NICKELODEON
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5077
 #EXTINF:-1 tvg-id="LAMIL35TV.ar@SD" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png" group-title="Kids",LAMIL35 TV
 https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
 #EXTINF:-1 tvg-id="LasTortugasNinja.de@ES" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Kids",Las Tortugas Ninja (Germany) (720p)
@@ -434,6 +528,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MeTVToons.us@KMBYLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png" group-title="Kids",MeTV Toons KMBY-LD
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",MEX: DISNEY CHANNEL
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5147
 #EXTINF:-1 tvg-id="MinikaCocuk.tr@SD" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="Kids",Minika Cocuk (720p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-id="MinikaGo.tr@SD" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Kids",Minika Go (720p)
@@ -444,6 +540,8 @@ http://88.212.15.19/live/test_minimax/playlist.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Mixkurdy.iq@HD" tvg-logo="https://i.imgur.com/WHeH5i7.png" group-title="Kids",Mixkurdy (1080p)
 https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",MKD: M:NET KIDS
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144579
 #EXTINF:-1 tvg-id="MoonbugKids.uk@SD" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",Moonbug Kids (1080p)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Kids",Mr Bean Animated (1080p)
@@ -474,8 +572,6 @@ https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
 https://jmp2.uk/plu-64c92f965580090008084968.m3u8
 #EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us@SD" tvg-logo="https://i.imgur.com/3YPvfPn.png" group-title="Kids",NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
-#EXTINF:-1 tvg-id="NickJrAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr. Asia HD (720p)
-http://58.8.186.128:10003/bysid/2330
 #EXTINF:-1 tvg-id="NickJrClub.de@DACH" tvg-logo="https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png" group-title="Kids",Nick Jr. Club (Germany) (720p)
 https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.us@BR" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png" group-title="Kids",Nick Jr. Club (United States) BR (720p)
@@ -518,8 +614,6 @@ https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="Kids",Nickelodeon Junior (1080p)
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Latin America (1080p)
-http://15.204.246.24:8080/NickHD/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonPlutoTV.us@SD" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Kids",Nickelodeon Pluto TV (720p)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.ru@SD" tvg-logo="https://i.imgur.com/w8iE8dV.png" group-title="Kids",Nickelodeon (Russia) (576p)
@@ -552,8 +646,8 @@ http://stream.mcquack.net/262/index.m3u8
 http://stream.mcquack.net/271/index.m3u8
 #EXTINF:-1 tvg-id="NinjaKidzTV.us@SD" tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="Kids",Ninja Kidz TV (720p)
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="NL: Baby TV" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",NL: Baby TV
-http://best4u.biz:8080/26842788/26842788/12795
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",NL: BABY TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1291
 #EXTINF:-1 tvg-name="NL: Boomerang" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",NL: Boomerang
 http://best4u.biz:8080/26842788/26842788/12796
 #EXTINF:-1 tvg-name="NL: Cartoon" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",NL: Cartoon
@@ -570,6 +664,8 @@ http://best4u.biz:8080/26842788/26842788/1523
 http://best4u.biz:8080/26842788/26842788/3524
 #EXTINF:-1 tvg-name="NL:Nickelodeon" tvg-logo="http://149.202.206.141:7070/logo/NL:Nickelodeon.png" group-title="Kids",NL:Nickelodeon
 http://best4u.biz:8080/26842788/26842788/3522
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",NO: CARTOON NETWORK
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3632
 #EXTINF:-1 tvg-id="NRKSuper.no@SD" tvg-logo="https://i.imgur.com/xIATe2T.png" group-title="Kids",NRK Super (1080i)
 https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8
 #EXTINF:-1 tvg-id="O.ru@SD" tvg-logo="https://i.imgur.com/pDc665V.png" group-title="Kids",O! (576p)
@@ -734,14 +830,16 @@ http://185.227.34.179:8080/jimjam/index.m3u8
 https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
 #EXTINF:-1 tvg-id="PositivTV.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0VIzSua00Fkp3YfEiAsIKjZ6qSysSCEp8Ng&s" group-title="Kids",Positiv TV (1080p)
 https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
-#EXTINF:-1 tvg-name="PT: BABY TV" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",PT: BABY TV
-http://best4u.biz:8080/26842788/26842788/50649
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",PT: BABY TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99546
 #EXTINF:-1 tvg-name="PT: CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",PT: CARTOON NETWORK
 http://best4u.biz:8080/26842788/26842788/50662
 #EXTINF:-1 tvg-name="PT: DISNEY CHANNEL" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",PT: DISNEY CHANNEL
 http://best4u.biz:8080/26842788/26842788/50676
 #EXTINF:-1 tvg-name="PT: DISNEY JUNIOR" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",PT: DISNEY JUNIOR
 http://best4u.biz:8080/26842788/26842788/50677
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",PT: DISNEY JŒNIOR
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99549
 #EXTINF:-1 tvg-name="PT: NICK JR" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",PT: NICK JR
 http://best4u.biz:8080/26842788/26842788/50711
 #EXTINF:-1 tvg-name="PT: NICKELODEON" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",PT: NICKELODEON
@@ -756,6 +854,20 @@ https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RiC.de@SD" tvg-logo="https://i.imgur.com/4wMZ8Em.png" group-title="Kids",RiC (1080p)
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",RO: BOOMERANG
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3198
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",RO: CARTOON NETWORK
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3200
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",RO: DISNEY CHANNEL
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3217
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",RO: DISNEY JR
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3218
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",RO: DUCK TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3221
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",RO: NICK JR
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3262
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",RO: NICKELODEON
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3264
 #EXTINF:-1 tvg-name="ROYA KIDS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",ROYA KIDS
 http://best4u.biz:8080/26842788/26842788/56211
 #EXTINF:-1 tvg-id="RUTVKids.ru@SD" tvg-logo="https://rutvkids.ru/brand/logo-kids.png" group-title="Kids",RU.TV Kids (720p)
@@ -764,6 +876,22 @@ https://rutvkids.ru/live/efir/index.m3u8
 https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 #EXTINF:-1 tvg-id="Rugrats.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Kids",Rugrats (United States)
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",RUS: BOOMERANG
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4187
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",RUS: CARTOON NETWORK
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4165
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",RUS: DA VINCI KIDS
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4196
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",RUS: DISNEY CHANNEL
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4202
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",RUS: KIDS
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4240
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",RUS: KIDS WORLD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4241
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",RUS: NICKELODEON
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4292
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",RUS: NICKELODEON JUNIOR
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4293
 #EXTINF:-1 tvg-id="RyanandFriends.us@SD" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="Kids",Ryan and Friends (1080p)
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Ryzhiy.ru@SD" tvg-logo="https://i.imgur.com/acrU2IE.png" group-title="Kids",Ryzhiy (576i)
@@ -926,6 +1054,8 @@ https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
 https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
 #EXTINF:-1 tvg-id="SvampeBobFirkant.se@NO" tvg-logo="https://images.pluto.tv/channels/61c09ac98a80a4000703f992/colorLogoPNG.png" group-title="Kids",SvampeBob Firkant NO (720p)
 https://jmp2.uk/plu-61c1d59a244e500007581861.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",SWE: CARTOON NETWORK
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2286
 #EXTINF:-1 tvg-id="SX3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/960px-SX3_logo.svg.png" group-title="Kids",SX3 (1080p)
 https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="Kids",Taha TV (576p)
@@ -1022,6 +1152,18 @@ https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
 #EXTINF:-1 tvg-id="TVSPinballNetwork.us@SD" tvg-logo="https://i.imgur.com/HHmc14i.png" group-title="Kids",TVS Pinball Network (480p)
 https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",UA: DUCK TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157734
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",UA: DUCK TV PLUS
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157738
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",UA: KS TV | KIDS
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157733
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",UA: KS TV | KIDS PLANET
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157731
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",UA: NIKI JUNIOR
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157740
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",UA: NIKI KIDS
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157739
 #EXTINF:-1 tvg-name="UK-Baby TV SD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",UK-Baby TV SD
 http://best4u.biz:8080/26842788/26842788/12156
 #EXTINF:-1 tvg-name="UK-Boomerang HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",UK-Boomerang HD
@@ -1044,6 +1186,10 @@ http://best4u.biz:8080/26842788/26842788/12142
 http://best4u.biz:8080/26842788/26842788/12140
 #EXTINF:-1 tvg-name="UK-Free Form Kids" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",UK-Free Form Kids
 http://best4u.biz:8080/26842788/26842788/12170
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",UK: KIDS 1
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146798
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",UK: KIDS 2
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146797
 #EXTINF:-1 tvg-name="UK-Nick JR." tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",UK-Nick JR.
 http://best4u.biz:8080/26842788/26842788/12151
 #EXTINF:-1 tvg-name="UK-Nick Jr 2 HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",UK-Nick Jr 2 HD
@@ -1052,6 +1198,8 @@ http://best4u.biz:8080/26842788/26842788/12153
 http://best4u.biz:8080/26842788/26842788/12148
 #EXTINF:-1 tvg-name="UK-Nickelodeon (LO)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",UK-Nickelodeon (LO)
 http://best4u.biz:8080/26842788/26842788/12149
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",UK: VIP NICK JR TOO
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1817
 #EXTINF:-1 tvg-id="UniqueTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png" group-title="Kids",Unique TV (576p)
 https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 #EXTINF:-1 tvg-name="US: Baby TV" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",US: Baby TV
@@ -1080,6 +1228,12 @@ http://best4u.biz:8080/26842788/26842788/51542
 http://best4u.biz:8080/26842788/26842788/51612
 #EXTINF:-1 tvg-name="US: Universal Kids" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",US: Universal Kids
 http://best4u.biz:8080/26842788/26842788/51546
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",USA: BABY FIRST
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154680
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",USA: BABY TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154681
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",USA: NICK JR.
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156377
 #EXTINF:-1 tvg-name="USA: Starz Kids&Family East FHD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",USA: Starz Kids&Family East FHD
 http://best4u.biz:8080/26842788/26842788/51812
 #EXTINF:-1 tvg-name="USA: Universal Kids" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kids",USA: Universal Kids

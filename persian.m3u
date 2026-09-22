@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Persian - 128 channels
+#   Persian - 130 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-22 03:13 UTC
-#   Channels: 128
+#   Updated: 2026-09-22 11:09 UTC
+#   Channels: 130
 # +======================================+
 #EXTINF:-1 tvg-id="1TV.ge@SD" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="Persian",1TV (720p)
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
@@ -16,8 +16,8 @@ https://musichls.persiana.live/hls/stream.m3u8
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="9Gem.au" tvg-name="9Gem" tvg-logo="https://i.imgur.com/sWmE1kq.png" group-title="Persian",9Gem Ⓖ
 https://i.mjh.nz/.r/gem-nsw.m3u8
-#EXTINF:-1 tvg-id="AFNTV.ir@SD" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="Persian",AFN TV
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 tvg-id="AlImanTV.lb@SD" tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="Persian",Al-Iman TV (Lebanon) (240p)
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ALLBLKGems.us@SD" tvg-logo="https://i.imgur.com/gnkepQJ.png" group-title="Persian",ALLBLK Gems (720p)
 https://df1zke3zj042m.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AmouzeshTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/500px-Amouzesh_TV_logo_%282023%29.svg.png" group-title="Persian",Amouzesh TV
@@ -132,6 +132,8 @@ https://ncdn.telewebion.ir/omid/live/playlist.m3u8
 http://185.9.2.18/chid_926/index.m3u8
 #EXTINF:-1 tvg-id="IRINN2.ir@SD" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="Persian",IRINN 2
 https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Judgement - 1992" tvg-logo="http://ultimeiptv.net:8000/images/3eeb0d1f69b4f03250b076a97ed49815.jpg" group-title="Persian",Judgement - 1992
+http://best4u.biz:8080/movie/26842788/26842788/36216.mkv
 #EXTINF:-1 tvg-id="LemarTV.af@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png" group-title="Persian",Lemar TV (720p)
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
 #EXTINF:-1 tvg-id="Manoto.uk@SD" tvg-logo="https://i.imgur.com/8wE1Lbp.png" group-title="Persian",Manoto
@@ -256,6 +258,8 @@ https://itnhls.wns.live/hls/stream.m3u8
 http://best4u.biz:8080/26842788/26842788/51674
 #EXTINF:-1 tvg-name="US: Press TV" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",US: Press TV
 http://best4u.biz:8080/26842788/26842788/51664
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",USA: AFN SPORT
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154617
 #EXTINF:-1 tvg-id="VarzeshTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="Persian",Varzesh TV
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="VoATVPersian.us@SD" tvg-logo="https://i.imgur.com/TmqComb.png" group-title="Persian",VoA TV Persian (1080p)
