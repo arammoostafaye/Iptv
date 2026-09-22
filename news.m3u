@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   News - 1157 channels
+#   News - 1364 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-22 11:09 UTC
-#   Channels: 1157
+#   Updated: 2026-09-22 16:28 UTC
+#   Channels: 1364
 # +======================================+
 #EXTINF:-1 tvg-id="10TV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png" group-title="News",10 TV (720p)
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
@@ -60,6 +60,8 @@ https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="4SiDESTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" group-title="News",4 SiDES TV (1080p)
 https://stream.ottlive.co.in/4sidestv/index.m3u8
+#EXTINF:-1 tvg-id="4DmasNoticiasTV.py@SD" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" group-title="News",4Dmas Noticias TV (1080p)
+https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-id="4TVNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png" group-title="News",4TV News (576p)
 https://cdn.pishow.tv/ott/live/1007/master.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-logo="https://i.imgur.com/l3EcRnZ.png" group-title="News",6 TV Telugu (576p)
@@ -98,8 +100,6 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 https://www.twitch.tv/abcnewsal
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News (AU)" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News (AU) Ⓨ
 https://www.youtube.com/@abcnewsaustralia/live
-#EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live (720p)
-https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 1 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive10.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 10 (720p)
@@ -132,8 +132,6 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
 https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" group-title="News",ABP News (1080p)
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
-#EXTINF:-1 tvg-id="Actualidad360.es@SD" tvg-logo="https://i.imgur.com/3YeTu0n.png" group-title="News",Actualidad 360
-https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40 (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="ADNTV.cl@SD" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="News",ADN TV (720p)
@@ -244,12 +242,8 @@ https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
 http://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD" tvg-logo="https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height=auto&width=512&croppingPoint=&version=1&type=png" group-title="News",Alarabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",ALB: ABC NEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158228
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",ALB: EURONEWS ALBANIA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158229
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",ALB: TOP NEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158240
+#EXTINF:-1 tvg-name="ALB: TOP NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",ALB: TOP NEWS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/11688
 #EXTINF:-1 tvg-id="AlephBusiness.ro@SD" tvg-logo="https://i.imgur.com/IqvZBeo.png" group-title="News",Aleph Business (1280p)
 https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AlephNews.ro@SD" tvg-logo="https://i.imgur.com/qPRQZMI.png" group-title="News",Aleph News (720p)
@@ -270,14 +264,14 @@ http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 https://amarujala.ottlive.co.in/amarujala/index.m3u8
 #EXTINF:-1 tvg-id="AmericasVoice.us@SD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",America's Voice (720p)
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
-#EXTINF:-1 tvg-id="AmericasVoiceNews.us@SD" tvg-logo="https://i.imgur.com/C4w0eYC.png" group-title="News",America's Voice News (720p)
-https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
 #EXTINF:-1 tvg-id="Ameritrade.us@SD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png" group-title="News",Ameritrade (1080p)
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmuTV.us@SD" tvg-logo="https://i.imgur.com/KXdvPum.png" group-title="News",Amu TV
 https://jmc-live.ercdn.net/amutv/amutv.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias.mx@SD" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias (720p)
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="AnandaBarta.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anand_Barta.png" group-title="News",Ananda Barta (720p)
+https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
 #EXTINF:-1 tvg-id="ANBNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANB_NEWS/images/LOGO_HD/image.png" group-title="News",ANB News (720p)
 https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
 #EXTINF:-1 tvg-id="AnewZTV.az@SD" tvg-logo="https://i.imgur.com/Lwgdbuu.png" group-title="News",AnewZ TV
@@ -294,8 +288,14 @@ https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8
 #EXTINF:-1 tvg-name="AR-AL ALAM news" tvg-logo="http://149.202.206.141:7070/logo/AR-Alam_News.png" group-title="News",AR-AL ALAM news
 http://best4u.biz:8080/26842788/26842788/1867
+#EXTINF:-1 tvg-name="AR: AL JAZEERA" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",AR: AL JAZEERA
+http://62.182.83.108:80/99558627/uUhQQlcHjD/5777
+#EXTINF:-1 tvg-id="AlJazeera.nws" tvg-name="AR: ALJAZEERA NEWS EN" tvg-logo="https://static.epg.best/nl/AlJazeeraEnglish.nl.png" group-title="News",AR: ALJAZEERA NEWS EN
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73883
 #EXTINF:-1 tvg-name="AR-BBC-ARABIC" tvg-logo="http://149.202.206.141:7070/logo/AR-BBC-ARABIC.png" group-title="News",AR-BBC-ARABIC
 http://best4u.biz:8080/26842788/26842788/824
+#EXTINF:-1 tvg-name="AR: DW ARABIC" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",AR: DW ARABIC
+http://62.182.83.108:80/99558627/uUhQQlcHjD/50860
 #EXTINF:-1 tvg-name="AR-DW-TV" tvg-logo="http://149.202.206.141:7070/logo/AR-DW-TV.png" group-title="News",AR-DW-TV
 http://best4u.biz:8080/26842788/26842788/288
 #EXTINF:-1 tvg-name="AR-DZAIR-news" tvg-logo="http://54.38.37.127/dzair-news.jpeg" group-title="News",AR-DZAIR-news
@@ -360,6 +360,16 @@ http://45.171.108.253:8888/ATV/index.m3u8
 http://5.254.89.106/8709/index.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+ Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="News",ATV+ Noticias Ⓨ
 https://www.youtube.com/c/ATVNoticiasOficial/live
+#EXTINF:-1 tvg-name="AU: 7 NEWS SPOTLIGHT" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",AU: 7 NEWS SPOTLIGHT
+http://62.182.83.108:80/99558627/uUhQQlcHjD/276801
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="AU: ABC News" tvg-logo="https://static.epg.best/au/ABCNews24.au.png" group-title="News",AU: ABC News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/7136
+#EXTINF:-1 tvg-id="ABCNewsPerth.au" tvg-name="AU: ABC NEWS B" tvg-logo="https://static.epg.best/au/ABCNews24.au.png" group-title="News",AU: ABC NEWS B
+http://62.182.83.108:80/99558627/uUhQQlcHjD/197858
+#EXTINF:-1 tvg-name="AU: EURONEWS WORLD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",AU: EURONEWS WORLD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/179818
+#EXTINF:-1 tvg-name="AU: SKY NEWS NOW" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",AU: SKY NEWS NOW
+http://62.182.83.108:80/99558627/uUhQQlcHjD/180411
 #EXTINF:-1 tvg-id="AusbizTV.au@SD" tvg-logo="https://i.imgur.com/8vGGdB0.png" group-title="News",Ausbiz TV (720p)
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD" tvg-logo="https://i.imgur.com/eKQs51V.png" group-title="News",Awaaz India TV (720p)
@@ -374,6 +384,8 @@ https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
 http://best4u.biz:8080/26842788/26842788/35854
 #EXTINF:-1 tvg-id="BansalNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BANSAL_NEWS/images/LOGO_HD/image.png" group-title="News",Bansal News (720p)
 https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BarakaTelevision.cd@SD" tvg-logo="https://i.imgur.com/IKXddHN.png" group-title="News",Baraka Television (720p)
+https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
 #EXTINF:-1 tvg-id="BBCUHD2.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" group-title="News",BBC UHD 2 (1080p)
 https://xemzi.short.gy/1000002
 #EXTINF:-1 tvg-id="BBCUHD3.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" group-title="News",BBC UHD 3 (720p)
@@ -492,8 +504,6 @@ https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_str
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCThree.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png" group-title="News",BBC Three (720p)
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCTravel.us@Germany" tvg-logo="https://i.imgur.com/QiuYWs9.png" group-title="News",BBC Travel
-https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="News",BBC Two HD (720p)
 http://193.46.58.239:8080/BBCTwoHD/index.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIrelandHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="News",BBC Two Northern Ireland HD (720p)
@@ -504,14 +514,6 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_w
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 #EXTINF:-1 tvg-name="BD: NEWS 24" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",BD: NEWS 24
 http://best4u.biz:8080/26842788/26842788/35883
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",BE: CNBC
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158412
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",BE: CNN
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158414
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",BE: EURONEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158415
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",BE: FRANCE 24
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158416
 #EXTINF:-1 tvg-name="beIN.BBC.Earth.4K" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",beIN.BBC.Earth.4K
 http://best4u.biz:8080/26842788/26842788/35768
 #EXTINF:-1 tvg-id="BEKNews.us@SD" tvg-logo="https://i.imgur.com/m80uxdz.png" group-title="News",BEK News (720p)
@@ -536,8 +538,6 @@ https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-id="BlackNewsChannel.us@SD" tvg-logo="https://i.imgur.com/oX5oR4d.png" group-title="News",Black News Channel (1080p)
 https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BlazeLive.us@SD" tvg-logo="https://i.imgur.com/GwxneSQ.png" group-title="News",Blaze Live (720p)
-https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr@SD" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="News",Bloomberg HT (720p)
 https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV + (2160p)
@@ -558,14 +558,8 @@ https://bloomberg.com/media-manifest/streams/us-event.m3u8
 https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@PoliticsLiveEvent" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV Politics Live Event (720p)
 https://bloomberg.com/media-manifest/streams/politics.m3u8
-#EXTINF:-1 tvg-id="BMCNews.br@SD" tvg-logo="https://i.imgur.com/pOUY2Uz.png" group-title="News",BM&C News (720p)
-https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 #EXTINF:-1 tvg-id="BMGTV.ge@SD" tvg-logo="https://i.imgur.com/vGLkTPA.png" group-title="News",BMG TV
 https://tv.nucast.tv/lb/ge/bmg/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",BR: GLOBO NEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4864
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",BR: RECORD NEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4895
 #EXTINF:-1 tvg-id="BR8TV.br@SD" tvg-logo="https://i.ibb.co/1QZv2q1/Br8-fb-graph.png" group-title="News",BR8 TV
 https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BrianTV.la@SD" tvg-logo="https://i.imgur.com/zG1WNgU.jpg" group-title="News",Brian TV (720p)
@@ -586,12 +580,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2220
 https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://i.imgur.com/E3pamA5.png" group-title="News",C5N Ⓨ
 https://www.youtube.com/c/c5n/live
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",CA: BBC WORLD NEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5404
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",CA: CNBC
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5426
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",CA: CNN
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5427
 #EXTINF:-1 tvg-name="CA: CTV News Live Events 3 HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",CA: CTV News Live Events 3 HD
 http://best4u.biz:8080/26842788/26842788/13971
 #EXTINF:-1 tvg-name="CA: CTV News Live Events 4 HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",CA: CTV News Live Events 4 HD
@@ -626,8 +614,6 @@ https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 #EXTINF:-1 tvg-id="CapitalTV.pk@SD" tvg-logo="https://i.imgur.com/UxAE5O4.png" group-title="News",Capital TV
 https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",CAR: CGTN DOCUMENTARY
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5335
 #EXTINF:-1 tvg-id="Carivision.do@SD" tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="News",Carivision (1080p)
 https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
 #EXTINF:-1 tvg-id="CatamarcaTV.ar@SD" tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="News",Catamarca TV (720p)
@@ -638,8 +624,6 @@ https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://i.imgur.com/nki2HDQ.png" group-title="News",CBS News
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="News",CBS News 24/7 (720p)
-https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBaltimore.us@SD" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="News",CBS News Baltimore (720p)
 https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBayArea.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Bay Area (720p)
@@ -728,12 +712,16 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 #EXTINF:-1 tvg-id="SK1.ua" tvg-name="CK 1" tvg-logo="https://i.imgur.com/XiXwr5h.png" group-title="News",CK 1
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",CL: CNN ESPAÑOL
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134018
 #EXTINF:-1 tvg-id="ClassCNBC.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Class_CNBC_2026.svg/960px-Class_CNBC_2026.svg.png" group-title="News",Class CNBC (1080p)
 https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNA.al@SD" tvg-logo="https://codeit.al/wp-content/uploads/2020/08/cna.png" group-title="News",CNA (Albania) (1080p)
-https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-name="CN: CGTN Arabic" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",CN: CGTN Arabic
+http://62.182.83.108:80/99558627/uUhQQlcHjD/57777
+#EXTINF:-1 tvg-name="CN: CGTN English" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",CN: CGTN English
+http://62.182.83.108:80/99558627/uUhQQlcHjD/57779
+#EXTINF:-1 tvg-name="CN: CGTN Espanol" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",CN: CGTN Espanol
+http://62.182.83.108:80/99558627/uUhQQlcHjD/57780
+#EXTINF:-1 tvg-name="CN: CGTN Francais" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",CN: CGTN Francais
+http://62.182.83.108:80/99558627/uUhQQlcHjD/57781
 #EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (576p)
 https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 #EXTINF:-1 tvg-id="CNA.sg@SD" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="News",CNA (Singapore) (1080p)
@@ -764,8 +752,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="CNEWSPRIME.fr@HD" tvg-logo="https://www.cnews.fr/themes/cnews/img/cnews-prime.png" group-title="News",CNEWS PRIME (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="News",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="CNN 4K" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",CNN 4K
+http://62.182.83.108:80/99558627/uUhQQlcHjD/246920
 #EXTINF:-1 tvg-id="News18.com" tvg-name="CNN-News18" tvg-logo="https://i.imgur.com/K3M8MoK.png" group-title="News",CNN-News18
 https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://i.imgur.com/NYH39xs.png" group-title="News",CNN Portugal
@@ -824,8 +812,10 @@ https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-id="DijlahTV.iq@SD" tvg-logo="https://i.imgur.com/kyzH3G5.png" group-title="News",Dijlah TV (1080p)
 https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",DK: TV2 NEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3736
+#EXTINF:-1 tvg-name="DK: BBC Earth" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",DK: BBC Earth
+http://62.182.83.108:80/99558627/uUhQQlcHjD/122502
+#EXTINF:-1 tvg-name="DK: TV2 News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",DK: TV2 News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/122538
 #EXTINF:-1 tvg-id="Don24.ru@SD" tvg-logo="https://i.imgur.com/fW15la1.png" group-title="News",Don 24 (1080p)
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV1.vn@SD" tvg-logo="https://i.imgur.com/oQyioVa.png" group-title="News",Dong Nai TV 1 (720p)
@@ -852,6 +842,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="DW.de@Russian" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Russian (1080p)
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1 tvg-name="DW VN" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",DW VN
+http://62.182.83.108:80/99558627/uUhQQlcHjD/231109
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-name="DW العربية" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW العربية
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="DY365.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540" group-title="News",DY 365 (360p)
@@ -860,6 +852,8 @@ https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="News",E! Latin America Mexico (720p)
 http://72.1.184.5:8089/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="EACNewsTV.kh@SD" tvg-logo="https://i.imgur.com/EuYhS9Z.png" group-title="News",EAC News TV
+https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
 #EXTINF:-1 tvg-name="EAF: ETV NEWS (ET)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",EAF: ETV NEWS (ET)
 http://best4u.biz:8080/26842788/26842788/61081
 #EXTINF:-1 tvg-id="EagleNews.mn" tvg-name="Eagle News HD" tvg-logo="https://i.imgur.com/2oqXpve.jpg" group-title="News",Eagle News HD
@@ -890,6 +884,14 @@ https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
 https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8
 #EXTINF:-1 tvg-id="ERTNews.gr@HD" tvg-logo="https://i.imgur.com/HXbsPfB.png" group-title="News",ERT News HD (1080p)
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
+#EXTINF:-1 tvg-name="ES: CNN en Espanol" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",ES: CNN en Espanol
+http://62.182.83.108:80/99558627/uUhQQlcHjD/181872
+#EXTINF:-1 tvg-name="ES: euronews en Espanol" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",ES: euronews en Espanol
+http://62.182.83.108:80/99558627/uUhQQlcHjD/181909
+#EXTINF:-1 tvg-name="ES: France 24" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",ES: France 24
+http://62.182.83.108:80/99558627/uUhQQlcHjD/181914
+#EXTINF:-1 tvg-name="ES: RT Español" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",ES: RT Español
+http://62.182.83.108:80/99558627/uUhQQlcHjD/182013
 #EXTINF:-1 tvg-id="EspaceTV.gn@SD" tvg-logo="https://i.imgur.com/R5tbzFI.png" group-title="News",Espace TV (1080p)
 https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
 #EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-logo="https://i.imgur.com/xNatV8K.png" group-title="News",Espreso TV (1080p)
@@ -928,8 +930,6 @@ https://www.youtube.com/euronewsfr/live
 https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGeorgia.ge@SD" tvg-logo="https://i.imgur.com/VNJ4soR.png" group-title="News",Euronews Georgia
 http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
-#EXTINF:-1 tvg-id="EuronewsGerman.fr@SD" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png" group-title="News",Euronews German (720p)
-https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 #EXTINF:-1 tvg-id="EuronewsGreek.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Greek (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Hungarian (720p)
@@ -938,8 +938,6 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="EuronewsItalian.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Italian (720p)
 https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Portuguese (720p)
-https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews România" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="News",Euronews România Ⓨ
 https://www.youtube.com/euronewsro/live
 #EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Russian (1080p)
@@ -952,14 +950,6 @@ http://190.93.224.42/EXITOSA/index.m3u8
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtraProNews.gr@SD" tvg-logo="https://i.imgur.com/VKW9xw6.png" group-title="News",Extra ProNews (576p)
 http://62.1.176.18:8888/extra/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",EXYU: BBC EARTH
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144289
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",EXYU: CNN
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144290
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",EXYU: RT BALKAN
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144312
-#EXTINF:-1 tvg-id="FalestinonaChannel.lb" tvg-name="Falestinona Channel" tvg-logo="https://i.imgur.com/Z3QeQHk.png" group-title="News",Falestinona Channel
-https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="FilinfoTV.bf@SD" tvg-logo="https://i.imgur.com/KG93Tvn.png" group-title="News",Filinfo TV (1080p)
 https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
 #EXTINF:-1 tvg-id="FinansTurkTV.tr@SD" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" group-title="News",Finans Turk TV (720p)
@@ -980,16 +970,14 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us@SD" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="News",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",FR: AL JAZEERA ARABIC
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/132313
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",FR: C NEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/573
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="FR: C NEWS" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="News",FR: C NEWS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/194513
 #EXTINF:-1 tvg-name="FR:C_NEWS_FullHD" tvg-logo="http://54.38.37.127/cnews.png" group-title="News",FR:C_NEWS_FullHD
 http://best4u.biz:8080/26842788/26842788/11946
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",FR: EURONEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/577
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",FR: FRANCE 24
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/579
+#EXTINF:-1 tvg-id="France.24.fr" tvg-name="FR: FRANCE 24" tvg-logo="https://static.epg.best/fr/France24.fr.png" group-title="News",FR: FRANCE 24
+http://62.182.83.108:80/99558627/uUhQQlcHjD/11779
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR: LCI" tvg-logo="https://static.epg.best/fr/LCI.fr.png" group-title="News",FR: LCI
+http://62.182.83.108:80/99558627/uUhQQlcHjD/11821
 #EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="News",France 24 (1080p)
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 Arabic (1080p)
@@ -1008,30 +996,42 @@ https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41
 https://dash4.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh@SD" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="News",Fresh News
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-name="[FUBO TV] ABC News Live" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/fubotv-127957.png" group-title="News",[FUBO TV] ABC News Live
+http://62.182.83.108:80/99558627/uUhQQlcHjD/282169
+#EXTINF:-1 tvg-name="[FUBO TV] CBS News 24/7" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/fubotv-118793.png" group-title="News",[FUBO TV] CBS News 24/7
+http://62.182.83.108:80/99558627/uUhQQlcHjD/282201
+#EXTINF:-1 tvg-name="[FUBO TV] Cheddar News" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/fubotv-114796.png" group-title="News",[FUBO TV] Cheddar News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/282204
+#EXTINF:-1 tvg-name="[FUBO TV] euronews" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/fubotv-19039.png" group-title="News",[FUBO TV] euronews
+http://62.182.83.108:80/99558627/uUhQQlcHjD/282235
+#EXTINF:-1 tvg-name="[FUBO TV] FOX News Channel" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/fubotv-70522.png" group-title="News",[FUBO TV] FOX News Channel
+http://62.182.83.108:80/99558627/uUhQQlcHjD/282249
+#EXTINF:-1 tvg-name="[FUBO TV] News 12 New York" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/fubotv-131568.png" group-title="News",[FUBO TV] News 12 New York
+http://62.182.83.108:80/99558627/uUhQQlcHjD/282325
+#EXTINF:-1 tvg-name="[FUBO TV] Salem News Channel" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/fubotv-140284.png" group-title="News",[FUBO TV] Salem News Channel
+http://62.182.83.108:80/99558627/uUhQQlcHjD/282358
+#EXTINF:-1 tvg-name="[FUBO TV] Scripps News" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/fubotv-120010.png" group-title="News",[FUBO TV] Scripps News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/282359
 #EXTINF:-1 tvg-id="FZTV1.cn" tvg-name="FZTV-1 News 新闻综合频道" tvg-logo="https://i.imgur.com/QvBxGw3.png" group-title="News",FZTV-1 News 新闻综合频道
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png" group-title="News",GB News HD (2160p)
 https://xemzi.short.gy/1000017
 #EXTINF:-1 tvg-id="GiornaleRadioTV.it@SD" tvg-logo="https://i.imgur.com/2Y5qiao.png" group-title="News",Giornale Radio TV (720p)
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="News",Global News
-https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
-#EXTINF:-1 tvg-id="CFSKDT.ca" tvg-name="Global News Saskatoon" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="News",Global News Saskatoon
-https://jmp2.uk/plu-62cc00359cb58900088dc840.m3u8
-#EXTINF:-1 tvg-id="CKNDDT.ca" tvg-name="Global News Winnipeg" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="News",Global News Winnipeg
-https://jmp2.uk/plu-62cc0120880c890007191016.m3u8
+#EXTINF:-1 tvg-id="GlobalNews.ca" tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" group-title="News",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-id="GlobalPunjab.in@SD" tvg-logo="https://i.imgur.com/WDLqcWW.png" group-title="News",Global Punjab (1080p)
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 #EXTINF:-1 tvg-id="GoodNewsToday.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_NEWS_TODAY/images/LOGO_HD/image.png" group-title="News",Good News Today (720p)
 https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
 #EXTINF:-1 tvg-id="GovoritMoskva.ru@SD" tvg-logo="https://i.imgur.com/z2mxf3E.png" group-title="News",Govorit Moskva (720p)
 https://video.govoritmoskva.ru/rufm/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",GR: BBC EARTH
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157480
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",GR: ERT NEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157562
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",GR: EURONEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157563
+#EXTINF:-1 tvg-name="GR: BCI 24 News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",GR: BCI 24 News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/137454
+#EXTINF:-1 tvg-name="GR: ERT News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",GR: ERT News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/137478
+#EXTINF:-1 tvg-name="GR: euronews" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",GR: euronews
+http://62.182.83.108:80/99558627/uUhQQlcHjD/137482
 #EXTINF:-1 tvg-id="GSTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/GS_TV.png" group-title="News",GS TV (576p)
 https://mumt05.tangotv.in/87NeALx2GSTV/index.m3u8
 #EXTINF:-1 tvg-id="GTCNews.in@SD" tvg-logo="https://www.thegtcnetwork.com/gtc-news.png" group-title="News",GTC News (1080p)
@@ -1042,6 +1042,8 @@ https://guaranteenews.in:8443/live/gnews/index.m3u8
 https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8
 #EXTINF:-1 tvg-id="Guatevision.gt@SD" tvg-logo="https://i.imgur.com/mbmHPnO.png" group-title="News",Guatevision (720p)
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
+#EXTINF:-1 tvg-id="GugbangTV.kr@SD" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",Gugbang TV (1080p)
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GujaratFirst.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png" group-title="News",Gujarat First (576p)
 https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8
 #EXTINF:-1 tvg-id="GuneydoguTV.tr@SD" tvg-logo="https://i.imgur.com/JT5pp3Y.png" group-title="News",Guneydogu TV (720p)
@@ -1084,8 +1086,6 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
 #EXTINF:-1 tvg-id="HTV9.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp" group-title="News",HTV9 (720p)
 https://dethich.pw/htv9/index.m3u8
-#EXTINF:-1 tvg-id="HunanNewsChannel.cn@SD" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/hunantv_logo.png" group-title="News",Hunan News Channel
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 #EXTINF:-1 tvg-id="INews.iq@SD" tvg-logo="https://i.imgur.com/9lOuzHQ.png" group-title="News",I News (1080p)
 https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="i24NEWSArabic.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="News",i24NEWS Arabic (1080p)
@@ -1107,31 +1107,129 @@ http://best4u.biz:8080/26842788/26842788/35707
 #EXTINF:-1 tvg-name="IN: Aajtakk News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Aajtakk News
 http://best4u.biz:8080/26842788/26842788/35694
 #EXTINF:-1 tvg-name="IN: ABP News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: ABP News
-http://best4u.biz:8080/26842788/26842788/35678
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55691
 #EXTINF:-1 tvg-name="IN_ASIANET NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN_ASIANET NEWS
 http://best4u.biz:8080/26842788/26842788/8831
+#EXTINF:-1 tvg-name="IN: Asianet News Bangla" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Asianet News Bangla
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55706
+#EXTINF:-1 tvg-name="IN: Asianet News Tamil" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Asianet News Tamil
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55707
+#EXTINF:-1 tvg-name="IN: Asianet Suvarna News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Asianet Suvarna News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55709
+#EXTINF:-1 tvg-name="IN: Bansal News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Bansal News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55718
+#EXTINF:-1 tvg-name="IN: BBC Earth" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: BBC Earth
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55719
+#EXTINF:-1 tvg-name="IN: BBC Toronto" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: BBC Toronto
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55720
 #EXTINF:-1 tvg-name="IN_BOL NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN_BOL NEWS
 http://best4u.biz:8080/26842788/26842788/8824
+#EXTINF:-1 tvg-name="IN: Captain News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Captain News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55726
+#EXTINF:-1 tvg-name="IN: CNBC Awaaz" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: CNBC Awaaz
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55733
+#EXTINF:-1 tvg-name="IN: CNBC Bajar" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: CNBC Bajar
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55734
+#EXTINF:-1 tvg-name="IN: CNBC TV 18" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: CNBC TV 18
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55735
 #EXTINF:-1 tvg-name="IN: DAWN NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: DAWN NEWS
 http://best4u.biz:8080/26842788/26842788/35663
+#EXTINF:-1 tvg-name="IN: DBC NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: DBC NEWS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55747
 #EXTINF:-1 tvg-name="IN: DD News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: DD News
-http://best4u.biz:8080/26842788/26842788/35653
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55753
+#EXTINF:-1 tvg-name="IN: Fast Way News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Fast Way News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55783
 #EXTINF:-1 tvg-name="IN: GNN NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: GNN NEWS
 http://best4u.biz:8080/26842788/26842788/35695
+#EXTINF:-1 tvg-name="IN: Good News Today" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Good News Today
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55793
 #EXTINF:-1 tvg-name="IN: Good News TV" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Good News TV
 http://best4u.biz:8080/26842788/26842788/35641
+#EXTINF:-1 tvg-name="IN: Hmtv News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Hmtv News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55800
+#EXTINF:-1 tvg-name="IN: India News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: India News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55808
+#EXTINF:-1 tvg-name="IN: K News India" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: K News India
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55826
+#EXTINF:-1 tvg-name="IN: Kairali News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Kairali News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55828
+#EXTINF:-1 tvg-name="IN: Kanak News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Kanak News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55835
 #EXTINF:-1 tvg-name="IN: LAHORE NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: LAHORE NEWS
 http://best4u.biz:8080/26842788/26842788/35704
+#EXTINF:-1 tvg-name="IN: Malabar News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Malabar News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55853
+#EXTINF:-1 tvg-name="IN: Manorama News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Manorama News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55854
+#EXTINF:-1 tvg-name="IN: Mantavya News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Mantavya News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55857
+#EXTINF:-1 tvg-name="IN: Mathrubhumi News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Mathrubhumi News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55860
+#EXTINF:-1 tvg-name="IN: Mediaone News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Mediaone News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55863
+#EXTINF:-1 tvg-name="IN: News 18 Assam" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 18 Assam
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55882
+#EXTINF:-1 tvg-name="IN: News 18 Chhattisgarh" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 18 Chhattisgarh
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55884
+#EXTINF:-1 tvg-name="IN: News 18 Gujarati" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 18 Gujarati
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55885
+#EXTINF:-1 tvg-name="IN: News 18 India" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 18 India
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55886
+#EXTINF:-1 tvg-name="IN: News 18 Jharkhand" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 18 Jharkhand
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55887
+#EXTINF:-1 tvg-name="IN: News 18 Kannada" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 18 Kannada
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55888
+#EXTINF:-1 tvg-name="IN: News 18 Lokmat" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 18 Lokmat
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55889
+#EXTINF:-1 tvg-name="IN: News 18 Malayalam" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 18 Malayalam
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55890
+#EXTINF:-1 tvg-name="IN: News 18 Odia" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 18 Odia
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55891
+#EXTINF:-1 tvg-name="IN: News 18 Punjab" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 18 Punjab
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55892
+#EXTINF:-1 tvg-name="IN: News 18 Rajasthan" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 18 Rajasthan
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55893
+#EXTINF:-1 tvg-name="IN: News 18 Tamil" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 18 Tamil
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55894
+#EXTINF:-1 tvg-name="IN: News 18 Urdu" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 18 Urdu
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55895
+#EXTINF:-1 tvg-name="IN: News 18 Uttarakhand" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 18 Uttarakhand
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55896
+#EXTINF:-1 tvg-name="IN: News 24" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 24
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55897
+#EXTINF:-1 tvg-name="IN: News 7 Tamil" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News 7 Tamil
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55881
+#EXTINF:-1 tvg-name="IN: News Live" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: News Live
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55898
 #EXTINF:-1 tvg-name="IN_News X" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN_News X
 http://best4u.biz:8080/26842788/26842788/8806
+#EXTINF:-1 tvg-name="IN: Polimer News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Polimer News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55908
+#EXTINF:-1 tvg-name="IN: Pramaya News 7" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Pramaya News 7
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55910
+#EXTINF:-1 tvg-name="IN: Prime9 Telugu News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Prime9 Telugu News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55914
+#EXTINF:-1 tvg-name="IN: PTC News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: PTC News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55916
 #EXTINF:-1 tvg-name="IN: PTV NEWS PK" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: PTV NEWS PK
 http://best4u.biz:8080/26842788/26842788/35660
 #EXTINF:-1 tvg-name="IN-punjabi PTC News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN-punjabi PTC News
 http://best4u.biz:8080/26842788/26842788/11468
+#EXTINF:-1 tvg-name="IN: Raj News 24x7" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Raj News 24x7
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55926
+#EXTINF:-1 tvg-name="IN: Real News Kerala" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Real News Kerala
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55928
 #EXTINF:-1 tvg-name="IN: ROZE NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: ROZE NEWS
 http://best4u.biz:8080/26842788/26842788/35705
-#EXTINF:-1 tvg-name="IN: SONY BBC Earth" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: SONY BBC Earth
-http://best4u.biz:8080/26842788/26842788/35644
+#EXTINF:-1 tvg-name="IN: Sadhna Plus News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Sadhna Plus News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55939
+#EXTINF:-1 tvg-name="IN: Sony BBC Earth" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Sony BBC Earth
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55967
+#EXTINF:-1 tvg-name="IN: Sun News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: Sun News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56001
+#EXTINF:-1 tvg-name="IN: T News Telugu" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: T News Telugu
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56007
 #EXTINF:-1 tvg-name="IN : Tamil | CAPTAIN NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN : Tamil | CAPTAIN NEWS
 http://best4u.biz:8080/26842788/26842788/11402
 #EXTINF:-1 tvg-name="IN : Tamil | DAN News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN : Tamil | DAN News
@@ -1146,10 +1244,22 @@ http://best4u.biz:8080/26842788/26842788/11433
 http://best4u.biz:8080/26842788/26842788/11442
 #EXTINF:-1 tvg-name="IN : Tamil | THANTHI NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN : Tamil | THANTHI NEWS
 http://best4u.biz:8080/26842788/26842788/11446
+#EXTINF:-1 tvg-name="IN: TV5 Telugu News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: TV5 Telugu News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56023
+#EXTINF:-1 tvg-name="IN: TV9 Kannada News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: TV9 Kannada News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56024
 #EXTINF:-1 tvg-name="IN: TV9 KANNADA NEWS LIVE" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: TV9 KANNADA NEWS LIVE
 http://best4u.biz:8080/26842788/26842788/35659
+#EXTINF:-1 tvg-name="IN: TV9 Telugu News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: TV9 Telugu News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56025
+#EXTINF:-1 tvg-name="IN: V6 News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: V6 News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56030
+#EXTINF:-1 tvg-name="IN: VTV News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: VTV News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56035
 #EXTINF:-1 tvg-name="IN_ZEE NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN_ZEE NEWS
 http://best4u.biz:8080/26842788/26842788/8758
+#EXTINF:-1 tvg-name="IN: ZEE Telugu News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IN: ZEE Telugu News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56068
 #EXTINF:-1 tvg-id="IndiaAhead.in@SD" tvg-logo="https://i.imgur.com/hBkTmf9.png" group-title="News",India Ahead (576p)
 https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
 #EXTINF:-1 tvg-id="IndiaDailyLive.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Daily_24x7.png" group-title="News",India Daily Live (1080p)
@@ -1176,8 +1286,14 @@ https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
 https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8
 #EXTINF:-1 tvg-id="IraneFardaTV.uk@SD" tvg-logo="https://i.imgur.com/ixgcgZY.png" group-title="News",IraneFarda TV
 https://iranefardalive.com/stream/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",IT: RAI NEWS 24 HD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136250
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="News",IT: RAI NEWS 24
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="News",IT: SKY TG 24
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73880
+#EXTINF:-1 tvg-id="Tgnorba24.it" tvg-name="IT: TG NORBA 24" tvg-logo="https://static.epg.best/it/TGNorba24.it.png" group-title="News",IT: TG NORBA 24
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73881
+#EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="IT: TGCOM 24" tvg-logo="https://static.epg.best/it/Tgcom24.it.png" group-title="News",IT: TGCOM 24
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73879
 #EXTINF:-1 tvg-id="Izvestia.ru@SD" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="News",Izvestia (1080p)
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="J3NEWSTV.br@SD" tvg-logo="https://i.imgur.com/lezIQyL.png" group-title="News",J3NEWS TV
@@ -1246,8 +1362,6 @@ https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 tvg-id="LaltroCorriereTV.it@SD" tvg-logo="https://i.imgur.com/05YWVCq.png" group-title="News",L'altro Corriere TV
 https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",LA: BBC WORLD NEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5017
 #EXTINF:-1 tvg-id="LaCNews24.it@SD" tvg-logo="https://www.omnys.com/media/news/lac-news24-icona.png" group-title="News",LaC News 24 (720p)
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 #EXTINF:-1 tvg-id="LagunaTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg" group-title="News",Laguna TV (1080p)
@@ -1294,8 +1408,6 @@ https://stream-live.lrt.lt/radijas/master.m3u8
 https://cdn.rabta.stream/M-News/index.m3u8
 #EXTINF:-1 tvg-id="M95TelevisionMarbella.es@SD" tvg-logo="https://i.imgur.com/RzAkP1V.png" group-title="News",M95 Television Marbella (1080p)
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
-#EXTINF:-1 tvg-id="MaanTV.ps@SD" tvg-logo="https://i.imgur.com/hRFa03k.png" group-title="News",Ma'an TV (720p)
-https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:-1 tvg-id="MadhimugamTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="News",Madhimugam TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
 #EXTINF:-1 tvg-id="MahaaNews.in@SD" tvg-logo="https://i.imgur.com/buT76vR.png" group-title="News",Mahaa News (1080p)
@@ -1310,8 +1422,6 @@ https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab
 https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8
 #EXTINF:-1 tvg-id="MathrubhumiNews.in@SD" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="News",Mathrubhumi News (576p)
 https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="MayaTV.hn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/960px-Maya_TV_logo.png" group-title="News",Maya TV
-https://media.streambrothers.com:19360/8036/8036.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfrique.ma@SD" tvg-logo="https://i.imgur.com/a20DHnj.png" group-title="News",Medi1TV Afrique (1080p)
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD" tvg-logo="https://i.imgur.com/3YsZPY6.jpeg" group-title="News",Medi1TV Arabic (1080p)
@@ -1334,16 +1444,10 @@ https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="News",Metro TV (Indonesia)
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",MEX: BBC WORLD NEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5122
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",MEX: DW
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5150
 #EXTINF:-1 tvg-id="Mh1News.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png?lock=720x540" group-title="News",Mh 1 News (576p)
 https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MilenialTV.pe@SD" tvg-logo="https://i.imgur.com/8ZiNoEa.png" group-title="News",Milenial TV
 https://www.milenial.news/salida/milenial.m3u8
-#EXTINF:-1 tvg-id="MilenioTelevision.mx@SD" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="News",Milenio Television (720p)
-https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
 #EXTINF:-1 tvg-id="Millet.ru@SD" tvg-logo="https://i.imgur.com/hUjLRLy.png" group-title="News",Millet (720p)
 https://live1.1tvcrimea.ru/milletlive.m3u8
 #EXTINF:-1 tvg-id="MinformoTV.it@SD" tvg-logo="https://i.imgur.com/9Oq6fLw.png" group-title="News",Minformo TV (720p)
@@ -1366,8 +1470,8 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://i.imgur.com/3l25EZI.png" group-title="News",Moon TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",MT: TVM NEWS+
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3997
+#EXTINF:-1 tvg-id="TVMNEWS+.mt" tvg-name="MT: TVM NEWS  (+7 DAYS)" tvg-logo="https://static.epg.best/mt/TVM.mt.png" group-title="News",MT: TVM NEWS (+7 DAYS)
+http://62.182.83.108:80/99558627/uUhQQlcHjD/87891
 #EXTINF:-1 tvg-id="MTVUutiset.fi@SD" tvg-logo="https://i.imgur.com/ZO8ShOK.png" group-title="News",MTV Uutiset (720p)
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-id="MunsifTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MUNSIF_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="News",Munsif TV (576p)
@@ -1386,8 +1490,8 @@ https://server.playontv.in/nationnews/index.m3u8
 https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalIranianCongressTV.us@SD" tvg-logo="https://iraniancongress.com/tv/logo.png" group-title="News",National Iranian Congress TV
 https://tv.iraniancongress.com/stream/tv.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW (1080p)
-https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+#EXTINF:-1 tvg-id="NBCNN.PEACOCK" tvg-name="NBC NEWS NOW" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",NBC NEWS NOW
+http://62.182.83.108:80/99558627/uUhQQlcHjD/265014
 #EXTINF:-1 tvg-id="NCTV.cl@SD" tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="News",NCTV (1080p)
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s154895_ld_h15_aa.png?lock=720x540" group-title="News",NDTV 24x7 (720p)
@@ -1478,10 +1582,12 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MIL
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12LongIsland.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="News",News12 Long Island (1080p)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https
-#EXTINF:-1 tvg-id="News12PlusNewJersey.us@HD" tvg-logo="https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg" group-title="News",News12+ New Jersey (1080p)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="News12NewJersey.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="News",News12 New Jersey
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12NewYork.us@SD" tvg-logo="https://i.imgur.com/Ez7qAZP.png" group-title="News",News12 New York (1080p)
 https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8
+#EXTINF:-1 tvg-id="News12Westchester.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="News",News12 Westchester
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News18AssamNorthEast.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_ASSAM_NORTHSYMHYPEAST/images/LOGO_HD/image.png" group-title="News",News18 Assam North-East (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News18Bangla.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_BANGLA/images/LOGO_HD/image.png" group-title="News",News18 Bangla (1080p)
@@ -1540,18 +1646,20 @@ http://best4u.biz:8080/26842788/26842788/295
 https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
 #EXTINF:-1 tvg-id="NKTVBangla.in@SD" tvg-logo="https://www.nktvbangla.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-2.59.18-PM.jpg" group-title="News",NK TV Bangla (1080p)
 https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",NO: BBC BIRT
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3630
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",NO: BBC EARTH
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3631
+#EXTINF:-1 tvg-name="NL: BBC Entertainment" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",NL: BBC Entertainment
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56375
+#EXTINF:-1 tvg-name="NL: BBC First" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",NL: BBC First
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56376
+#EXTINF:-1 tvg-name="NO: BBC Brit" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",NO: BBC Brit
+http://62.182.83.108:80/99558627/uUhQQlcHjD/157269
+#EXTINF:-1 tvg-name="NO: BBC Earth" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",NO: BBC Earth
+http://62.182.83.108:80/99558627/uUhQQlcHjD/157270
 #EXTINF:-1 tvg-id="NopolaNews.fi@SD" tvg-logo="https://i.imgur.com/vDoQaGl.png" group-title="News",Nopola News (1080p)
 https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NorteInformativoTV.cr@SD" tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="News",Norte Informativo TV (240p)
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="Noticias16.do@SD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",Noticias 16 (720p)
 https://edge.essastream.com/noticias16/playlist.m3u8
-#EXTINF:-1 tvg-id="NoticiasRCN.co@SD" tvg-logo="https://i.imgur.com/FMX4QCM.png" group-title="News",Noticias RCN (720p)
-https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 #EXTINF:-1 tvg-id="Noticiero90Minutos.co@SD" tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="News",Noticiero 90 Minutos (1080p)
 https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
 #EXTINF:-1 tvg-id="NovorossiyaTV.ru@SD" tvg-logo="https://i.imgur.com/ijmf0bV.png" group-title="News",Novorossiya TV (1080p)
@@ -1578,6 +1686,8 @@ https://hls.newworldtv.com/nw-economie/video/live.m3u8
 https://hls.newworldtv.com/nw-info/video/live.m3u8
 #EXTINF:-1 tvg-id="NWInfo2.tg@SD" tvg-logo="https://i.imgur.com/0W4GqFD.png" group-title="News",NW Info 2 (576p)
 https://hls.newworldtv.com/nw-info-2/video/live.m3u8
+#EXTINF:-1 tvg-name="USA | News 7 Watertown, NY WWNYⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",NY WWNYⓧ
+http://62.182.83.108:80/99558627/uUhQQlcHjD/229317
 #EXTINF:-1 tvg-id="Ozbekiston24.uz@SD" tvg-logo="https://i.imgur.com/VRFhKbw.png" group-title="News",O'zbekiston 24 (1080p)
 https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="OANPlus.us@SD" tvg-logo="https://i.imgur.com/T9VhMAD.png" group-title="News",OAN Plus (1080p)
@@ -1600,6 +1710,48 @@ https://cnn.hostlagarto.com/ondatv/index.m3u8
 http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:-1 tvg-id="OplotTV.ru@SD" tvg-logo="https://i.imgur.com/RvUkId2.png" group-title="News",Oplot TV (1080p)
 http://31.131.139.253:9002/oplot_hd/index.m3u8
+#EXTINF:-1 tvg-name="[OQEE] Al Arabiya FHD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] Al Arabiya FHD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262664
+#EXTINF:-1 tvg-name="[OQEE] Al Jazeera" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] Al Jazeera
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262667
+#EXTINF:-1 tvg-name="[OQEE] Al Jazeera International" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] Al Jazeera International
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262668
+#EXTINF:-1 tvg-name="[OQEE] Asharq News FHD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] Asharq News FHD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262692
+#EXTINF:-1 tvg-name="[OQEE] BBC News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] BBC News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262703
+#EXTINF:-1 tvg-name="[OQEE] CGTN-Documentaire" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] CGTN-Documentaire
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262818
+#EXTINF:-1 tvg-name="[OQEE] CGTN F" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] CGTN F
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262817
+#EXTINF:-1 tvg-name="[OQEE] CGTN-News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] CGTN-News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262819
+#EXTINF:-1 tvg-name="[OQEE] CNBC" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] CNBC
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262845
+#EXTINF:-1 tvg-name="[OQEE] DW-TV" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] DW-TV
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262890
+#EXTINF:-1 tvg-name="[OQEE] Euronews" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] Euronews
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262905
+#EXTINF:-1 tvg-name="[OQEE] Euronews Int FHD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] Euronews Int FHD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262906
+#EXTINF:-1 tvg-name="[OQEE] France 24" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] France 24
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262922
+#EXTINF:-1 tvg-name="[OQEE] France 24 Arab" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] France 24 Arab
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262923
+#EXTINF:-1 tvg-name="[OQEE] France 24 English" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] France 24 English
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262924
+#EXTINF:-1 tvg-name="[OQEE] Haber Turk" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] Haber Turk
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262978
+#EXTINF:-1 tvg-name="[OQEE] i24 News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] i24 News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/262986
+#EXTINF:-1 tvg-name="[OQEE] M24 News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] M24 News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/263041
+#EXTINF:-1 tvg-name="[OQEE] RT Doc" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] RT Doc
+http://62.182.83.108:80/99558627/uUhQQlcHjD/263188
+#EXTINF:-1 tvg-name="[OQEE] Sky News International" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] Sky News International
+http://62.182.83.108:80/99558627/uUhQQlcHjD/263195
+#EXTINF:-1 tvg-name="[OQEE] TRT World" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[OQEE] TRT World
+http://62.182.83.108:80/99558627/uUhQQlcHjD/263274
 #EXTINF:-1 tvg-id="OraNews.al@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/960px-Ora_News_%28Albania%29.svg.png" group-title="News",Ora News (720p)
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1 tvg-id="PalestineAlYawm.lb@SD" tvg-logo="https://i.imgur.com/n8dSgx4.png" group-title="News",Palestine Al Yawm (720p)
@@ -1616,6 +1768,38 @@ https://159.69.221.56/panorama/livestream/playlist.m3u8
 https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8
 #EXTINF:-1 tvg-id="PBO.pe@SD" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="News",PBO (1080p)
 http://190.93.224.42/PBO/index.m3u8
+#EXTINF:-1 tvg-name="Peacock Live | NBC News Boston" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",Peacock Live | NBC News Boston
+http://62.182.83.108:80/99558627/uUhQQlcHjD/126799
+#EXTINF:-1 tvg-name="Peacock Live | NBC News Chicago" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",Peacock Live | NBC News Chicago
+http://62.182.83.108:80/99558627/uUhQQlcHjD/126802
+#EXTINF:-1 tvg-name="Peacock Live | NBC News Florida" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",Peacock Live | NBC News Florida
+http://62.182.83.108:80/99558627/uUhQQlcHjD/126797
+#EXTINF:-1 tvg-name="Peacock Live | NBC News LA" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",Peacock Live | NBC News LA
+http://62.182.83.108:80/99558627/uUhQQlcHjD/126801
+#EXTINF:-1 tvg-name="Peacock Live | NBC News New York" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",Peacock Live | NBC News New York
+http://62.182.83.108:80/99558627/uUhQQlcHjD/126800
+#EXTINF:-1 tvg-name="Peacock Live | NBC News Now" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",Peacock Live | NBC News Now
+http://62.182.83.108:80/99558627/uUhQQlcHjD/126796
+#EXTINF:-1 tvg-name="Peacock Live | NBC News Philadelphia" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",Peacock Live | NBC News Philadelphia
+http://62.182.83.108:80/99558627/uUhQQlcHjD/126798
+#EXTINF:-1 tvg-name="[PEACOCK] NBC Boston News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[PEACOCK] NBC Boston News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/264175
+#EXTINF:-1 tvg-name="[PEACOCK] NBC Chicago News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[PEACOCK] NBC Chicago News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/264171
+#EXTINF:-1 tvg-name="[PEACOCK] NBC Los Angeles News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[PEACOCK] NBC Los Angeles News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/264172
+#EXTINF:-1 tvg-name="[PEACOCK] NBC New York News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[PEACOCK] NBC New York News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/264173
+#EXTINF:-1 tvg-name="[PEACOCK] NBC NEWS NOW" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[PEACOCK] NBC NEWS NOW
+http://62.182.83.108:80/99558627/uUhQQlcHjD/264143
+#EXTINF:-1 tvg-name="[PEACOCK] NBC Philadelphia News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[PEACOCK] NBC Philadelphia News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/264174
+#EXTINF:-1 tvg-name="[PEACOCK] NBC South Florida News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[PEACOCK] NBC South Florida News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/264176
+#EXTINF:-1 tvg-name="[PEACOCK] News 12 New York" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[PEACOCK] News 12 New York
+http://62.182.83.108:80/99558627/uUhQQlcHjD/264177
+#EXTINF:-1 tvg-name="[PEACOCK] Sky News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[PEACOCK] Sky News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/264155
 #EXTINF:-1 tvg-id="PerviyInformationniy.by@HD" tvg-logo="https://i.imgur.com/eIiXRAI.png" group-title="News",Perviy Informationniy HD (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru@SD" tvg-logo="https://i.imgur.com/ti4OMBv.png" group-title="News",Pervyy Respublikanskiy
@@ -1658,8 +1842,8 @@ http://best4u.biz:8080/26842788/26842788/7517
 http://best4u.biz:8080/26842788/26842788/8401
 #EXTINF:-1 tvg-name="PL-BBC Earth HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",PL-BBC Earth HD
 http://best4u.biz:8080/26842788/26842788/8400
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",PL: BBC FIRST
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/908
+#EXTINF:-1 tvg-name="PL: BBC First" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",PL: BBC First
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56090
 #EXTINF:-1 tvg-name="PL-BBC LIFESTYLE HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",PL-BBC LIFESTYLE HD
 http://best4u.biz:8080/26842788/26842788/8399
 #EXTINF:-1 tvg-name="PL-POLSAT NEWS HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",PL-POLSAT NEWS HD
@@ -1668,8 +1852,6 @@ http://best4u.biz:8080/26842788/26842788/8479
 http://best4u.biz:8080/26842788/26842788/8420
 #EXTINF:-1 tvg-id="PlenaTV.br@SD" tvg-logo="https://i.imgur.com/lH4RT7b.png" group-title="News",Plena TV (720p)
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRecordNews.us@BR" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="News",Pluto TV Record News (720p)
-https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
 #EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png?lock=720x540" group-title="News",Polimer News (576p)
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-id="PolsatNews.pl@SD" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="News",Polsat News (1080p)
@@ -1712,14 +1894,14 @@ https://srspsn.live/live/livestream.m3u8
 https://srspsn2.live/live/livestream.m3u8
 #EXTINF:-1 tvg-name="PT: BBC WORLD NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",PT: BBC WORLD NEWS
 http://best4u.biz:8080/26842788/26842788/50650
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",PT: CNN PORTUGAL
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99564
+#EXTINF:-1 tvg-name="PT: CNBC" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",PT: CNBC
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237567
+#EXTINF:-1 tvg-name="PT: CNN Portugal" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",PT: CNN Portugal
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237568
 #EXTINF:-1 tvg-name="PT: EURO NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",PT: EURO NEWS
 http://best4u.biz:8080/26842788/26842788/50686
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",PT: NEWS NOW
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154442
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",PT: SKY NEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99509
+#EXTINF:-1 tvg-name="PT: euronews" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",PT: euronews
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237585
 #EXTINF:-1 tvg-id="PTCNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LOGO_HD/image.png" group-title="News",PTC News (576p)
 https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PTV.ua@SD" tvg-logo="https://i.imgur.com/WDHoSVz.png" group-title="News",PTV (Ukraine) (720p)
@@ -1750,12 +1932,50 @@ https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it@HD" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="News",Rai News 24 HD (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
+#EXTINF:-1 tvg-name="[RAIPLAY] Rai News 24" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[RAIPLAY] Rai News 24
+http://62.182.83.108:80/99558627/uUhQQlcHjD/275731
 #EXTINF:-1 tvg-id="RajNewsKannada.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_KANNADA/images/LOGO_HD/image.png" group-title="News",Raj News Kannada (576p)
 https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8
 #EXTINF:-1 tvg-id="RajNewsMalayalam.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_MALAYALAM/images/LOGO_HD/image.png" group-title="News",Raj News Malayalam (576p)
 https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
 #EXTINF:-1 tvg-id="RajNewsTelugu.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_TELUGU/images/LOGO_HD/image.png" group-title="News",Raj News Telugu (576p)
 https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8
+#EXTINF:-1 tvg-name="[rakuten] Al Jazeera" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[rakuten] Al Jazeera
+http://62.182.83.108:80/99558627/uUhQQlcHjD/296037
+#EXTINF:-1 tvg-name="[rakuten] CNBC" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[rakuten] CNBC
+http://62.182.83.108:80/99558627/uUhQQlcHjD/296039
+#EXTINF:-1 tvg-name="[rakuten] CNN" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[rakuten] CNN
+http://62.182.83.108:80/99558627/uUhQQlcHjD/296031
+#EXTINF:-1 tvg-name="[rakuten] CNN Headlines International" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[rakuten] CNN Headlines International
+http://62.182.83.108:80/99558627/uUhQQlcHjD/296034
+#EXTINF:-1 tvg-name="[rakuten] DW" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[rakuten] DW
+http://62.182.83.108:80/99558627/uUhQQlcHjD/296038
+#EXTINF:-1 tvg-name="[rakuten] Euronews LIVE" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[rakuten] Euronews LIVE
+http://62.182.83.108:80/99558627/uUhQQlcHjD/296030
+#EXTINF:-1 tvg-name="[rakuten] FRANCE 24 FAST" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[rakuten] FRANCE 24 FAST
+http://62.182.83.108:80/99558627/uUhQQlcHjD/296036
+#EXTINF:-1 tvg-name="[rakuten] GB News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[rakuten] GB News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/296033
+#EXTINF:-1 tvg-name="[Rakuten it] BBC Earth" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[Rakuten it] BBC Earth
+http://62.182.83.108:80/99558627/uUhQQlcHjD/273974
+#EXTINF:-1 tvg-name="[Rakuten it] CNBC" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[Rakuten it] CNBC
+http://62.182.83.108:80/99558627/uUhQQlcHjD/273889
+#EXTINF:-1 tvg-name="[Rakuten it] CNN Headlines" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[Rakuten it] CNN Headlines
+http://62.182.83.108:80/99558627/uUhQQlcHjD/273888
+#EXTINF:-1 tvg-name="[Rakuten it] Euronews IN DIRETTA" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[Rakuten it] Euronews IN DIRETTA
+http://62.182.83.108:80/99558627/uUhQQlcHjD/273880
+#EXTINF:-1 tvg-name="[Rakuten it] FRANCE 24 FAST" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[Rakuten it] FRANCE 24 FAST
+http://62.182.83.108:80/99558627/uUhQQlcHjD/273886
+#EXTINF:-1 tvg-name="[Rakuten it] NBC News NOW" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[Rakuten it] NBC News NOW
+http://62.182.83.108:80/99558627/uUhQQlcHjD/273890
+#EXTINF:-1 tvg-name="[Rakuten it] Sky News International" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[Rakuten it] Sky News International
+http://62.182.83.108:80/99558627/uUhQQlcHjD/273885
+#EXTINF:-1 tvg-name="[Rakuten it] Urania News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[Rakuten it] Urania News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/273883
+#EXTINF:-1 tvg-name="[rakuten] NBC News NOW" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[rakuten] NBC News NOW
+http://62.182.83.108:80/99558627/uUhQQlcHjD/296040
+#EXTINF:-1 tvg-name="[rakuten] Sky News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[rakuten] Sky News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/296032
 #EXTINF:-1 tvg-id="RCVTV.hn@SD" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="News",RCV TV (712p)
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 tvg-id="RDN.do@SD" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="News",RDN (1080p)
@@ -1790,10 +2010,20 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RNN.do@DOS" tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="News",RNN DOS (720p)
 https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RO: BBC EARTH
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3196
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RO: PRO TV NEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3273
+#EXTINF:-1 tvg-name="RO: Aleph News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RO: Aleph News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237057
+#EXTINF:-1 tvg-name="RO: BBC Earth" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RO: BBC Earth
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237074
+#EXTINF:-1 tvg-name="RO: BBC First" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RO: BBC First
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237075
+#EXTINF:-1 tvg-name="RO: euronews" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RO: euronews
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237114
+#EXTINF:-1 tvg-name="RO: Global News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RO: Global News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237132
+#EXTINF:-1 tvg-name="RO: Prima News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RO: Prima News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237173
+#EXTINF:-1 tvg-name="RO: Pro TV News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RO: Pro TV News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237184
 #EXTINF:-1 tvg-id="RozanaSpokesman.in@SD" tvg-logo="https://www.rozanaspokesman.in/images/logospokesman.png" group-title="News",Rozana Spokesman (1080p)
 https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
 #EXTINF:-1 tvg-id="RPPTV.pe@SD" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="News",RPP TV (1080p)
@@ -1828,12 +2058,14 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-id="RTU.ec@SD" tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="News",RTU (1080p)
 http://45.224.97.181:9999/RTU/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RUS: CNN
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4193
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RUS: EURO NEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4211
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RUS: RT DOCUMENTARY
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4307
+#EXTINF:-1 tvg-name="RU: euronews" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RU: euronews
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55353
+#EXTINF:-1 tvg-name="RU: RT Documentary" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RU: RT Documentary
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55425
+#EXTINF:-1 tvg-name="RU: RT News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RU: RT News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/55426
+#EXTINF:-1 tvg-name="RU: RT NEWS B" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",RU: RT NEWS B
+http://62.182.83.108:80/99558627/uUhQQlcHjD/185026
 #EXTINF:-1 tvg-id="Russia24.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="News",Russia-24 HD (1080p)
 http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1 tvg-id="RT.ru" tvg-name="Russia Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png" group-title="News",Russia Today Ⓖ
@@ -1874,6 +2106,10 @@ https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 #EXTINF:-1 tvg-id="ScrippsNews.us@SD" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="News",Scripps News (1080p)
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
+#EXTINF:-1 tvg-name="SE: BBC Brit" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",SE: BBC Brit
+http://62.182.83.108:80/99558627/uUhQQlcHjD/159798
+#EXTINF:-1 tvg-name="SE: BBC Earth" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",SE: BBC Earth
+http://62.182.83.108:80/99558627/uUhQQlcHjD/159799
 #EXTINF:-1 tvg-id="ShamsTV.iq@SD" tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" group-title="News",Shams TV (Iraq) (1080p)
 https://stream.shams.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SilverbirdNews24.ng@SD" tvg-logo="https://i.imgur.com/9jcV9oG.png" group-title="News",Silverbird News 24 (576p)
@@ -1898,10 +2134,70 @@ https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
 https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" group-title="News",Sky News Weather (720p)
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-name="[SLING TV USA] ABC News Live" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-abcnewslive.png" group-title="News",[SLING TV USA] ABC News Live
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268169
+#EXTINF:-1 tvg-name="[SLING TV USA] Al Arabiya" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-alarabiya.png" group-title="News",[SLING TV USA] Al Arabiya
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268015
+#EXTINF:-1 tvg-name="[SLING TV USA] Al Ekhbariya" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-alekhbariya.png" group-title="News",[SLING TV USA] Al Ekhbariya
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268466
+#EXTINF:-1 tvg-name="[SLING TV USA] Al Hadath" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-alhadath.png" group-title="News",[SLING TV USA] Al Hadath
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268017
+#EXTINF:-1 tvg-name="[SLING TV USA] Al Jazeera Arabic" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-aljazeeraarabic.png" group-title="News",[SLING TV USA] Al Jazeera Arabic
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268211
+#EXTINF:-1 tvg-name="[SLING TV USA] ARY News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[SLING TV USA] ARY News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268445
+#EXTINF:-1 tvg-name="[SLING TV USA] BBC Comedy" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-bbccomedy.png" group-title="News",[SLING TV USA] BBC Comedy
+http://62.182.83.108:80/99558627/uUhQQlcHjD/267888
+#EXTINF:-1 tvg-name="[SLING TV USA] BBC Earth" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-bbcearth.png" group-title="News",[SLING TV USA] BBC Earth
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268264
+#EXTINF:-1 tvg-name="[SLING TV USA] BBC Food" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-bbcfood.png" group-title="News",[SLING TV USA] BBC Food
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268146
+#EXTINF:-1 tvg-name="[SLING TV USA] BBC News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[SLING TV USA] BBC News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268117
+#EXTINF:-1 tvg-name="[SLING TV USA] CBS News 24/7" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-cbsnews247.png" group-title="News",[SLING TV USA] CBS News 24/7
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268199
+#EXTINF:-1 tvg-name="[SLING TV USA] CBS News Bay Area" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-cbsnewsbayarea.png" group-title="News",[SLING TV USA] CBS News Bay Area
+http://62.182.83.108:80/99558627/uUhQQlcHjD/267935
+#EXTINF:-1 tvg-name="[SLING TV USA] CBS News Boston" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-cbsnewsboston.png" group-title="News",[SLING TV USA] CBS News Boston
+http://62.182.83.108:80/99558627/uUhQQlcHjD/267882
+#EXTINF:-1 tvg-name="[SLING TV USA] CBS News Chicago" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-cbsnewschicago.png" group-title="News",[SLING TV USA] CBS News Chicago
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268137
+#EXTINF:-1 tvg-name="[SLING TV USA] CBS News Colorado" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-cbsnewscolorado.png" group-title="News",[SLING TV USA] CBS News Colorado
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268144
+#EXTINF:-1 tvg-name="[SLING TV USA] CBS News Detroit" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[SLING TV USA] CBS News Detroit
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268480
+#EXTINF:-1 tvg-name="[SLING TV USA] CBS News Los Angeles" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-cbsnewslosangeles.png" group-title="News",[SLING TV USA] CBS News Los Angeles
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268357
+#EXTINF:-1 tvg-name="[SLING TV USA] CBS News Minnesota" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-cbsnewsminnesota.png" group-title="News",[SLING TV USA] CBS News Minnesota
+http://62.182.83.108:80/99558627/uUhQQlcHjD/267898
+#EXTINF:-1 tvg-name="[SLING TV USA] CBS News New York" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-cbsnewsnewyork.png" group-title="News",[SLING TV USA] CBS News New York
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268135
+#EXTINF:-1 tvg-name="[SLING TV USA] CBS News Philadelphia" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-cbsnewsphiladelphia.png" group-title="News",[SLING TV USA] CBS News Philadelphia
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268097
+#EXTINF:-1 tvg-name="[SLING TV USA] CBS News Texas" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-cbsnewstexas.png" group-title="News",[SLING TV USA] CBS News Texas
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268125
+#EXTINF:-1 tvg-name="[SLING TV USA] Cheddar News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[SLING TV USA] Cheddar News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268514
+#EXTINF:-1 tvg-name="[SLING TV USA] Estrella News" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-estrellanews.png" group-title="News",[SLING TV USA] Estrella News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/267922
+#EXTINF:-1 tvg-name="[SLING TV USA] France 24" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-france24.png" group-title="News",[SLING TV USA] France 24
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268194
+#EXTINF:-1 tvg-name="[SLING TV USA] HUM News" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-humnews.png" group-title="News",[SLING TV USA] HUM News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/267934
+#EXTINF:-1 tvg-name="[SLING TV USA] Manorama News" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-manoramanews.png" group-title="News",[SLING TV USA] Manorama News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/267973
+#EXTINF:-1 tvg-name="[SLING TV USA] News 12 New York" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-news12newyork.png" group-title="News",[SLING TV USA] News 12 New York
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268012
+#EXTINF:-1 tvg-name="[SLING TV USA] Newsmax Removal" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-newsmaxremoval-1.png" group-title="News",[SLING TV USA] Newsmax Removal
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268254
+#EXTINF:-1 tvg-name="[SLING TV USA] Salem News Channel" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-salemnewschannel.png" group-title="News",[SLING TV USA] Salem News Channel
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268192
+#EXTINF:-1 tvg-name="[SLING TV USA] Scripps News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[SLING TV USA] Scripps News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268440
+#EXTINF:-1 tvg-name="[SLING TV USA] TVB News" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-tvbnews.png" group-title="News",[SLING TV USA] TVB News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/268246
 #EXTINF:-1 tvg-id="Sochi24.ru@SD" tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="News",Sochi24 (720p)
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",SRB: EURONEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144630
 #EXTINF:-1 tvg-id="StarKentrikisElladas.gr@SD" tvg-logo="https://i.imgur.com/ZBt6beo.png" group-title="News",Star Kentrikis Elladas (1080p)
 https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 #EXTINF:-1 tvg-id="StartTV.gr@SD" tvg-logo="https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg" group-title="News",Start TV (480p)
@@ -1924,8 +2220,6 @@ https://cdn.pishow.tv/ott/live/465/master.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8
 #EXTINF:-1 tvg-id="SwatantraTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swatantra_News.png" group-title="News",Swatantra TV (1080p)
 https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",SWE: BBC BRIT
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2272
 #EXTINF:-1 tvg-id="Syri.al@SD" tvg-logo="https://i.imgur.com/EEHyKdL.jpeg" group-title="News",Syri (720p)
 https://stream.syritv.al/live/syritv/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.sy@SD" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="News",Syria TV (1080p)
@@ -1942,8 +2236,6 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleCauquenes.cl@SD" tvg-logo="https://i.imgur.com/cNYDqhp.png" group-title="News",TeleCauquenes (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
-#EXTINF:-1 tvg-id="Telegela647.it@SD" tvg-logo="https://i.imgur.com/ppkX45f.png" group-title="News",Telegela 647
-https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMoldovaPlus.ro@SD" tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="News",TeleMoldova +
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1 tvg-id="TelenewsTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3878-294x165-FFFFFF.jpg" group-title="News",Telenews TV
@@ -1996,10 +2288,28 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
 #EXTINF:-1 tvg-id="TopStoriesbyNewsy.us@SD" tvg-logo="https://i.imgur.com/UfN6aAi.png" group-title="News",Top Stories by Newsy (720p)
 https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",TR: CNN TURK FHD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/140894
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",TR: NTV HABER FHD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141131
+#EXTINF:-1 tvg-name="TR: A News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",TR: A News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/58235
+#EXTINF:-1 tvg-name="TR: BBC Earth" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",TR: BBC Earth
+http://62.182.83.108:80/99558627/uUhQQlcHjD/58253
+#EXTINF:-1 tvg-name="TR: CNN TURK" tvg-logo="https://static.epg.best/tr/CNNTurk.tr.png" group-title="News",TR: CNN TURK
+http://62.182.83.108:80/99558627/uUhQQlcHjD/12168
+#EXTINF:-1 tvg-name="TR: Flash Haber TV" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",TR: Flash Haber TV
+http://62.182.83.108:80/99558627/uUhQQlcHjD/58309
+#EXTINF:-1 tvg-name="TR: HABER HD" tvg-logo="https://static.epg.best/tr/AHaber.tr.png" group-title="News",TR: HABER HD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/12179
+#EXTINF:-1 tvg-name="TR: Haber 61" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",TR: Haber 61
+http://62.182.83.108:80/99558627/uUhQQlcHjD/58316
+#EXTINF:-1 tvg-name="TR: Haber Global" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",TR: Haber Global
+http://62.182.83.108:80/99558627/uUhQQlcHjD/58317
+#EXTINF:-1 tvg-name="TR: TGRT Haber" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",TR: TGRT Haber
+http://62.182.83.108:80/99558627/uUhQQlcHjD/58426
+#EXTINF:-1 tvg-name="TR: TRT Haber" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",TR: TRT Haber
+http://62.182.83.108:80/99558627/uUhQQlcHjD/58445
+#EXTINF:-1 tvg-name="TR: TRT World" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",TR: TRT World
+http://62.182.83.108:80/99558627/uUhQQlcHjD/58450
+#EXTINF:-1 tvg-name="TR: Uzay Haber" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",TR: Uzay Haber
+http://62.182.83.108:80/99558627/uUhQQlcHjD/58465
 #EXTINF:-1 tvg-id="24TV.tr@SD" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="News",TR24 TV (720p)
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="Trailers.es@UK" tvg-logo="https://i.imgur.com/RwZ1hCN.png" group-title="News",Trailers UK (1080p)
@@ -2032,8 +2342,6 @@ https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
 #EXTINF:-1 tvg-id="TVPunjab.ca@SD" tvg-logo="https://en.tvpunjab.com/storage/2022/03/logo-2022.png" group-title="News",TV Punjab (720p)
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSimCachoeiro.br@SD" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="News",TV Sim Cachoeiro (720p)
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSUD.ro@SD" tvg-logo="https://i.imgur.com/m3Slmbe.png" group-title="News",TV SUD (1080p)
 https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 #EXTINF:-1 tvg-id="TVZoom.br@SD" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="News",TV Zoom (720p)
@@ -2086,60 +2394,106 @@ https://edge.essastream.com/vozzmedia/index.m3u8
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRInfo.ro@SD" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="News",TVR Info
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UA: DW
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157727
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UA: EURONEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157715
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UA: EURONEWS ENGLISH
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157714
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UA: FRANCE 24 ARABIC
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157723
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UA: FRANCE 24 EN
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157724
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UA: FRANCE 24 FR
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157725
+#EXTINF:-1 tvg-id="Rewind.uk" tvg-name="UK: 92 NEWS" tvg-logo="https://static.epg.best/pk/92News.pk.png" group-title="News",UK: 92 NEWS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73884
+#EXTINF:-1 tvg-name="UK: ABC NEWS INTERNATIONAL" tvg-logo="https://static.epg.best/au/ABCNews24.au.png" group-title="News",UK: ABC NEWS INTERNATIONAL
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73871
+#EXTINF:-1 tvg-name="UK: APB NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: APB NEWS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/58229
+#EXTINF:-1 tvg-id="AriseNews.uk" tvg-name="UK: ARISE NEWS" tvg-logo="https://static.epg.best/uk/AriseNews.uk.png" group-title="News",UK: ARISE NEWS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73885
+#EXTINF:-1 tvg-name="UK: BBC 4K" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: BBC 4K
+http://62.182.83.108:80/99558627/uUhQQlcHjD/241135
+#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="UK: BBC 1 FHD" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" group-title="News",UK: BBC 1 FHD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/1742
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="UK: BBC 1 ( +7 DAYS )" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" group-title="News",UK: BBC 1 ( +7 DAYS )
+http://62.182.83.108:80/99558627/uUhQQlcHjD/109680
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK: BBC 2 FHD" tvg-logo="https://static.epg.best/uk/BBC2.uk.png" group-title="News",UK: BBC 2 FHD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/1745
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK: BBC 2 ( +7 DAYS )" tvg-logo="https://static.epg.best/uk/BBC2.uk.png" group-title="News",UK: BBC 2 ( +7 DAYS )
+http://62.182.83.108:80/99558627/uUhQQlcHjD/161225
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="UK: BBC 3 " tvg-logo="https://static.epg.best/uk/CBBC.uk.png" group-title="News",UK: BBC 3
+http://62.182.83.108:80/99558627/uUhQQlcHjD/1746
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="UK: BBC 3 (+7 DAYS)" tvg-logo="https://static.epg.best/uk/CBBC.uk.png" group-title="News",UK: BBC 3 (+7 DAYS)
+http://62.182.83.108:80/99558627/uUhQQlcHjD/185766
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-name="UK: BBC ALBA" tvg-logo="https://i.imgur.com/36KDxLg.png" group-title="News",UK: BBC ALBA
+http://62.182.83.108:80/99558627/uUhQQlcHjD/69457
+#EXTINF:-1 tvg-id="BBCBrit.se" tvg-name="UK: BBC COMEDY" tvg-logo="https://static.epg.best/pl/BBCBrit.pl.png" group-title="News",UK: BBC COMEDY
+http://62.182.83.108:80/99558627/uUhQQlcHjD/258966
+#EXTINF:-1 tvg-name="UK: BBC EARTH HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: BBC EARTH HD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/186740
+#EXTINF:-1 tvg-name="UK: BBC FIRST " tvg-logo="http://o11zet.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/gotv-bbcfirst.png" group-title="News",UK: BBC FIRST
+http://62.182.83.108:80/99558627/uUhQQlcHjD/258967
+#EXTINF:-1 tvg-name="UK: BBC FOOD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: BBC FOOD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/270800
 #EXTINF:-1 tvg-name="UK-BBC Four HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK-BBC Four HD
 http://best4u.biz:8080/26842788/26842788/12018
 #EXTINF:-1 tvg-name="UK-BBC Four (LO)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK-BBC Four (LO)
 http://best4u.biz:8080/26842788/26842788/12019
+#EXTINF:-1 tvg-id="13.TV.es" tvg-name="UK: BBC NEWS HD" tvg-logo="https://static.epg.best/uk/BBCNews.uk.png" group-title="News",UK: BBC NEWS HD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73866
 #EXTINF:-1 tvg-name="UK-BBC ONE HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK-BBC ONE HD
 http://best4u.biz:8080/26842788/26842788/11973
-#EXTINF:-1 tvg-name="UK-BBC One (Northern Ireland)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK-BBC One (Northern Ireland)
-http://best4u.biz:8080/26842788/26842788/11974
+#EXTINF:-1 tvg-id="BBCOneNorthernIreland.uk" tvg-name="UK: BBC ONE NORTHERN IRELAND" tvg-logo="https://static.epg.best/uk/BBCOneScotland.uk.png" group-title="News",UK: BBC ONE NORTHERN IRELAND
+http://62.182.83.108:80/99558627/uUhQQlcHjD/69587
+#EXTINF:-1 tvg-id="BBCOneWales.uk" tvg-name="UK: BBC ONE WALES" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: BBC ONE WALES
+http://62.182.83.108:80/99558627/uUhQQlcHjD/69593
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="UK: BBC PARLAMENT" tvg-logo="https://static.epg.best/uk/BBCParliament.uk.png" group-title="News",UK: BBC PARLAMENT
+http://62.182.83.108:80/99558627/uUhQQlcHjD/1754
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="UK: BBC SCOTLAND" tvg-logo="https://static.epg.best/uk/BBCScotland.uk.png" group-title="News",UK: BBC SCOTLAND
+http://62.182.83.108:80/99558627/uUhQQlcHjD/1741
 #EXTINF:-1 tvg-name="UK-BBC Two HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK-BBC Two HD
 http://best4u.biz:8080/26842788/26842788/11975
+#EXTINF:-1 tvg-id="BBC2NorthernIreland.uk" tvg-name="UK: BBC TWO NORTHERN IRELAND" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: BBC TWO NORTHERN IRELAND
+http://62.182.83.108:80/99558627/uUhQQlcHjD/69705
+#EXTINF:-1 tvg-id="BBC2Wales.uk" tvg-name="UK: BBC TWO WALES" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: BBC TWO WALES
+http://62.182.83.108:80/99558627/uUhQQlcHjD/69706
+#EXTINF:-1 tvg-id="BBCWorldNews.nws" tvg-name="UK: BBC WORLD NEWS" tvg-logo="https://static.epg.best/uk/BBCWorldNews.uk.png" group-title="News",UK: BBC WORLD NEWS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73864
+#EXTINF:-1 tvg-name="UK: BBC WORLD NEWS B" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: BBC WORLD NEWS B
+http://62.182.83.108:80/99558627/uUhQQlcHjD/231535
+#EXTINF:-1 tvg-id="Bloomberg.nws" tvg-name="UK: BLOOMBERG" tvg-logo="https://static.epg.best/uk/BloombergTV.uk.png" group-title="News",UK: BLOOMBERG
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73875
+#EXTINF:-1 tvg-name="UK: CGTN DOCUMANTARY" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: CGTN DOCUMANTARY
+http://62.182.83.108:80/99558627/uUhQQlcHjD/69458
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="UK: CGTN NEWS" tvg-logo="https://static.epg.best/cn/CGTNEnglish.cn.png" group-title="News",UK: CGTN NEWS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73876
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="UK: CNBC HD" tvg-logo="https://static.epg.best/uk/CNBC.uk.png" group-title="News",UK: CNBC HD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73870
+#EXTINF:-1 tvg-id="CNBC.nws" tvg-name="UK: CNBC EUROPE" tvg-logo="https://static.epg.best/uk/CNBC.uk.png" group-title="News",UK: CNBC EUROPE
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73867
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="UK: CNN INTERNATIONAL" tvg-logo="https://static.epg.best/uk/CNN.uk.png" group-title="News",UK: CNN INTERNATIONAL
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73861
+#EXTINF:-1 tvg-id="cnninternationalna.ca" tvg-name="UK: CNN NEWS" tvg-logo="https://static.epg.best/uk/CNN.uk.png" group-title="News",UK: CNN NEWS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73860
 #EXTINF:-1 tvg-name="UK-Dunya News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK-Dunya News
 http://best4u.biz:8080/26842788/26842788/12327
+#EXTINF:-1 tvg-id="10Bold.au" tvg-name="UK: EURONEWS LOCAL" tvg-logo="https://static.epg.best/uk/EuroNews.uk.png" group-title="News",UK: EURONEWS LOCAL
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73872
+#EXTINF:-1 tvg-id="FOXNews.uk" tvg-name="UK: FOX NEWS" tvg-logo="https://static.epg.best/uk/FOXNews.uk.png" group-title="News",UK: FOX NEWS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73863
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="UK: FRANCE 24" tvg-logo="https://static.epg.best/fr/France24.fr.png" group-title="News",UK: FRANCE 24
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73874
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="UK: GB NEWS HD" tvg-logo="https://static.epg.best/uk/gb.uk.png" group-title="News",UK: GB NEWS HD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73869
 #EXTINF:-1 tvg-name="UK-Geo News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK-Geo News
 http://best4u.biz:8080/26842788/26842788/12315
 #EXTINF:-1 tvg-name="UK-Hum News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK-Hum News
 http://best4u.biz:8080/26842788/26842788/12324
+#EXTINF:-1 tvg-id="RTENewsNow.ie" tvg-name="UK: RTE NEWS" tvg-logo="https://static.epg.best/ie/TG4.ie.png" group-title="News",UK: RTE NEWS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73873
 #EXTINF:-1 tvg-name="UK-RTE News NOW" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK-RTE News NOW
 http://best4u.biz:8080/26842788/26842788/12265
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK: SKY NEWS FHD " tvg-logo="https://static.epg.best/uk/SkyNews.uk.png" group-title="News",UK: SKY NEWS FHD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73858
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-name="UK: TALK TV" tvg-logo="https://static.epg.best/uk/TalkTV.uk.png" group-title="News",UK: TALK TV
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73857
+#EXTINF:-1 tvg-name="UK: TG4 IRELAND" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: TG4 IRELAND
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73865
 #EXTINF:-1 tvg-name="UK-UK92 News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK-UK92 News
 http://best4u.biz:8080/26842788/26842788/12331
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: VIP ABP NEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1821
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: VIP AL JAZEERA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1857
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: VIP BBC ALBA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1863
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: VIP BBC ENTERTAINMENT
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1866
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: VIP BBC FOUR
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1862
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: VIP BBC ONE
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1859
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: VIP BBC PARLIAMENT
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1893
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: VIP BBC THREE
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1861
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: VIP BBC TWO (SCOTLAND)
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1869
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: VIP EURONEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1875
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UK: VIP FRANCE 24
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1856
+#EXTINF:-1 tvg-name="UKR: 100% News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UKR: 100% News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/54057
 #EXTINF:-1 tvg-id="UMSATVULP.bo@SD" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" group-title="News",UMSA TVU LP (720p)
 https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:-1 tvg-id="UNWebTV.us@SD" tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="News",UN Web TV (540p)
@@ -2148,8 +2502,8 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="UNews.lb@SD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UNews (1080p)
 https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
-#EXTINF:-1 tvg-id="Unicanal.py@SD" tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="News",Unicanal
-http://45.170.130.224:8000/play/a04y/index.m3u8?hls
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="https://i.imgur.com/brlepuX.png" group-title="News",Unicanal Ⓨ
+https://www.youtube.com/@unicanalpy/live
 #EXTINF:-1 tvg-id="Unifranz.bo@HD" tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="News",Unifranz (720p)
 https://edge.enhdtv.com/8192/index.m3u8
 #EXTINF:-1 tvg-name="US: Abc News HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",US: Abc News HD
@@ -2160,6 +2514,8 @@ http://best4u.biz:8080/26842788/26842788/51637
 http://best4u.biz:8080/26842788/26842788/51483
 #EXTINF:-1 tvg-name="US: Bbc World News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",US: Bbc World News
 http://best4u.biz:8080/26842788/26842788/51639
+#EXTINF:-1 tvg-id="10Bold.au" tvg-name="US: CBC NEWS NETWORK" tvg-logo="https://static.epg.best/ca/CBCNews.ca.png" group-title="News",US: CBC NEWS NETWORK
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73868
 #EXTINF:-1 tvg-name="US: Cheddar News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",US: Cheddar News
 http://best4u.biz:8080/26842788/26842788/51646
 #EXTINF:-1 tvg-name="US: Cnbc HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",US: Cnbc HD
@@ -2186,28 +2542,58 @@ http://best4u.biz:8080/26842788/26842788/51631
 http://best4u.biz:8080/26842788/26842788/51660
 #EXTINF:-1 tvg-name="US: One America News Network" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",US: One America News Network
 http://best4u.biz:8080/26842788/26842788/51662
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA: ABC NEWS LIVE HD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154570
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA: BBC AMERICA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154693
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA: BBC EARTH
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154695
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA: BBC WORLD NEWS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154698
-#EXTINF:-1 tvg-name="USA: Cbs News Boston" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA: Cbs News Boston
-http://best4u.biz:8080/26842788/26842788/51845
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA: CBS NEWS CHICAGO
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154856
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA: CBS NEWS NEW YORK
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154862
+#EXTINF:-1 tvg-name="USA | BBC Americaⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | BBC Americaⓧ
+http://62.182.83.108:80/99558627/uUhQQlcHjD/228499
+#EXTINF:-1 tvg-name="USA | BBC Newsⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | BBC Newsⓧ
+http://62.182.83.108:80/99558627/uUhQQlcHjD/228498
+#EXTINF:-1 tvg-name="USA | Black News Channelⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | Black News Channelⓧ
+http://62.182.83.108:80/99558627/uUhQQlcHjD/228513
+#EXTINF:-1 tvg-name="USA | CBN Newsⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | CBN Newsⓧ
+http://62.182.83.108:80/99558627/uUhQQlcHjD/228528
+#EXTINF:-1 tvg-name="USA: CBS NEWS BOSTON" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA: CBS NEWS BOSTON
+http://62.182.83.108:80/99558627/uUhQQlcHjD/73877
+#EXTINF:-1 tvg-name="USA: Cbs News New York" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA: Cbs News New York
+http://best4u.biz:8080/26842788/26842788/51846
 #EXTINF:-1 tvg-name="USA: Cgtn Doc" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA: Cgtn Doc
 http://best4u.biz:8080/26842788/26842788/51423
+#EXTINF:-1 tvg-name="USA: CHEDDAR NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA: CHEDDAR NEWS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/69481
+#EXTINF:-1 tvg-name="USA | Cheddar Newsⓧ (Backup)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | Cheddar Newsⓧ (Backup)
+http://62.182.83.108:80/99558627/uUhQQlcHjD/228670
+#EXTINF:-1 tvg-name="USA | CNBCⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | CNBCⓧ
+http://62.182.83.108:80/99558627/uUhQQlcHjD/228681
+#EXTINF:-1 tvg-name="USA | CNBC Worldⓧ FHD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | CNBC Worldⓧ FHD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/228680
+#EXTINF:-1 tvg-name="USA | CNNⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | CNNⓧ
+http://62.182.83.108:80/99558627/uUhQQlcHjD/228684
+#EXTINF:-1 tvg-name="USA | CNN en Españolⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | CNN en Españolⓧ
+http://62.182.83.108:80/99558627/uUhQQlcHjD/228682
+#EXTINF:-1 tvg-name="USA | CNN Internationalⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | CNN Internationalⓧ
+http://62.182.83.108:80/99558627/uUhQQlcHjD/228683
+#EXTINF:-1 tvg-name="USA | Estrella TV Newsⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | Estrella TV Newsⓧ
+http://62.182.83.108:80/99558627/uUhQQlcHjD/228770
+#EXTINF:-1 tvg-name="USA: FOX BUSINESS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA: FOX BUSINESS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/186105
+#EXTINF:-1 tvg-name="USA | FOX Newsⓧ 4K" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | FOX Newsⓧ 4K
+http://62.182.83.108:80/99558627/uUhQQlcHjD/229722
 #EXTINF:-1 tvg-name="USA: Nbc News Now HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA: Nbc News Now HD
 http://best4u.biz:8080/26842788/26842788/51429
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA: NEWS 12 WESTCHESTER
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156318
+#EXTINF:-1 tvg-name="USA | News 12 Long Islandⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | News 12 Long Islandⓧ
+http://62.182.83.108:80/99558627/uUhQQlcHjD/229313
+#EXTINF:-1 tvg-name="USA | News 12 New Jerseyⓧ FHD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | News 12 New Jerseyⓧ FHD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/229314
+#EXTINF:-1 tvg-name="USA | News 12 The Bronxⓧ FHD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | News 12 The Bronxⓧ FHD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/229315
+#EXTINF:-1 tvg-name="USA | News 12 Westchesterⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | News 12 Westchesterⓧ
+http://62.182.83.108:80/99558627/uUhQQlcHjD/229316
+#EXTINF:-1 tvg-name="USA | One America Newsⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | One America Newsⓧ
+http://62.182.83.108:80/99558627/uUhQQlcHjD/229333
+#EXTINF:-1 tvg-name="USA | Spectrum News 13 PLⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | Spectrum News 13 PLⓧ
+http://62.182.83.108:80/99558627/uUhQQlcHjD/229768
 #EXTINF:-1 tvg-id="USATODAY.us@SD" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News",USA TODAY (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1 tvg-name="USA | Yahoo! Newsⓧ HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",USA | Yahoo! Newsⓧ HD
+http://62.182.83.108:80/99558627/uUhQQlcHjD/229695
 #EXTINF:-1 tvg-id="UzReportTV.uz@SD" tvg-logo="https://i.imgur.com/Bch2RHc.jpg" group-title="News",UzReport TV (1080p)
 https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="V6News.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144047_ld_h15_aa.png?lock=720x540" group-title="News",V6 News (576p)
@@ -2232,6 +2618,20 @@ https://stream.ottlive.co.in/vistaartv/index.m3u8
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-id="VoATV.us@SD" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="News",VoA TV (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+#EXTINF:-1 tvg-name="[vodafone-pt-af] CNBC" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[vodafone-pt-af] CNBC
+http://62.182.83.108:80/99558627/uUhQQlcHjD/263798
+#EXTINF:-1 tvg-name="[vodafone-pt-af] CNN PORTUGAL" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[vodafone-pt-af] CNN PORTUGAL
+http://62.182.83.108:80/99558627/uUhQQlcHjD/263799
+#EXTINF:-1 tvg-name="[vodafone-pt-af] DW" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[vodafone-pt-af] DW
+http://62.182.83.108:80/99558627/uUhQQlcHjD/263806
+#EXTINF:-1 tvg-name="[vodafone-pt-af] EURONEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[vodafone-pt-af] EURONEWS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/263816
+#EXTINF:-1 tvg-name="[vodafone-pt-af] FRANCE 24" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[vodafone-pt-af] FRANCE 24
+http://62.182.83.108:80/99558627/uUhQQlcHjD/263827
+#EXTINF:-1 tvg-name="[vodafone-pt-af] Record News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[vodafone-pt-af] Record News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/263856
+#EXTINF:-1 tvg-name="[vodafone-pt-af] SKY NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",[vodafone-pt-af] SKY NEWS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/263875
 #EXTINF:-1 tvg-id="VoiceofLebanon.lb@SD" tvg-logo="https://i.imgur.com/f8WcqRY.png" group-title="News",Voice of Lebanon (1080p)
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VouliTV.cy@SD" tvg-logo="https://i.ibb.co/tzQ3jCR/cropped-VOULI-TV-LOGO-HIGH-RESOLUTION-BLUE.png" group-title="News",Vouli TV (1080p)
@@ -2276,6 +2676,20 @@ http://best4u.biz:8080/26842788/26842788/61016
 http://best4u.biz:8080/26842788/26842788/60990
 #EXTINF:-1 tvg-id="YahooFinance.us@SD" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="News",Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="ZA: BBC Brit" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",ZA: BBC Brit
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237234
+#EXTINF:-1 tvg-name="ZA: BBC Earth South Africa" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",ZA: BBC Earth South Africa
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237235
+#EXTINF:-1 tvg-name="ZA: BBC Lifestyle" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",ZA: BBC Lifestyle
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237236
+#EXTINF:-1 tvg-name="ZA: CGTN NEWS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",ZA: CGTN NEWS
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237260
+#EXTINF:-1 tvg-name="ZA: CNBC" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",ZA: CNBC
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237262
+#EXTINF:-1 tvg-name="ZA: SABC News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",ZA: SABC News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237322
+#EXTINF:-1 tvg-name="ZA: sky News" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",ZA: sky News
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237324
 #EXTINF:-1 tvg-id="Zee24Ghanta.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KGXP.png?lock=720x540" group-title="News",Zee 24 Ghanta (576p)
 https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8
 #EXTINF:-1 tvg-id="Zee24Kalak.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230P1R.png?lock=720x540" group-title="News",Zee 24 Kalak (720p)
