@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Documentary - 621 channels
+#   Documentary - 650 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-22 21:03 UTC
-#   Channels: 621
+#   Updated: 2026-09-23 03:14 UTC
+#   Channels: 650
 # +======================================+
 #EXTINF:-1 tvg-id="13C.cl@SD" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="Documentary",13C (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
@@ -86,22 +86,16 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BetterLifeNatureChannel.us@SD" tvg-logo="https://i.imgur.com/D8Vuw6I.png" group-title="Documentary",Better Life Nature Channel (480p)
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",BG: DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="BG: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/bulgaria/discoverychannel.png" group-title="Documentary",BG: DISCOVERY CHANNEL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3339
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",BG: DISCOVERY SCIENCE
+#EXTINF:-1 tvg-name="BG: DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/bulgaria/discoveryscience.png" group-title="Documentary",BG: DISCOVERY SCIENCE
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3340
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",BG: HISTORY CHANNEL
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3363
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",BG: NAT GEO WILD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3377
 #EXTINF:-1 tvg-id="BigPlanet.ru@SD" tvg-logo="https://i.imgur.com/wyuqWTR.png" group-title="Documentary",Big Planet (576p)
 https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="BloombergOriginals.us@US" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="Documentary",Bloomberg Originals (1080p)
 https://bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 tvg-id="Bonairetv.bq@SD" tvg-logo="https://i.ibb.co/rG8pHh9/bonaire-tv-logo-596x150.png" group-title="Documentary",Bonaire.tv (1080p)
 https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
-#EXTINF:-1 tvg-id="BondiRescue.de@GB" tvg-logo="https://images.pluto.tv/channels/660be37e7bcd860008793a6a/colorLogoPNG.png" group-title="Documentary",Bondi Rescue (Germany)
-https://jmp2.uk/plu-660be37e7bcd860008793a6a.m3u8
 #EXTINF:-1 tvg-id="BritBoxMysteries.us@SD" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="Documentary",BritBox Mysteries (1080p)
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
 #EXTINF:-1 tvg-id="BXArts.us@SD" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="Documentary",BX Arts (720p)
@@ -110,6 +104,10 @@ https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
 https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="CMalayalamTV.ca@SD" tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="Documentary",C Malayalam TV (1080p)
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF:-1 tvg-name="CA: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/canada/animalplanet.png" group-title="Documentary",CA: ANIMAL PLANET
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5403
+#EXTINF:-1 tvg-name="CA: LOVE NATURE" tvg-logo="https://docdog.top/logo/countries/canada/lovenature.png" group-title="Documentary",CA: LOVE NATURE
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5470
 #EXTINF:-1 tvg-id="Smithsonian.Channel.HDTV.(East).(SMITHHD).us" tvg-name="CA: SMITHSONIAN CHANNEL" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" group-title="Documentary",CA: SMITHSONIAN CHANNEL
 http://62.182.83.108:80/99558627/uUhQQlcHjD/5618
 #EXTINF:-1 tvg-id="CanThoTV2.vn@SD" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" group-title="Documentary",Can Tho TV 2 (1080p)
@@ -168,16 +166,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo
 https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
 #EXTINF:-1 tvg-id="CrimenHistoria.es@SD" tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" group-title="Documentary",Crimen & Historia (720p)
 https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",CRO: DISCOVERY CHANNEL
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3019
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",CRO: NAT GEO WILD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3068
 #EXTINF:-1 tvg-id="CT2.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" group-title="Documentary",CT2
 http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Cultura24.pe@SD" tvg-logo="https://i.imgur.com/h0LxXsx.png" group-title="Documentary",Cultura 24
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 #EXTINF:-1 tvg-id="CuriosityNOW.de@EN" tvg-logo="https://i.imgur.com/gJ9eMaG.png" group-title="Documentary",Curiosity NOW EN (1080p)
 https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CZ: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/cz/animalplanet.png" group-title="Documentary",CZ: ANIMAL PLANET
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2176
+#EXTINF:-1 tvg-name="CZ: NAT GEO" tvg-logo="https://docdog.top/logo/countries/cz/natgeo.png" group-title="Documentary",CZ: NAT GEO
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2207
+#EXTINF:-1 tvg-name="CZ: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/cz/natgeowild.png" group-title="Documentary",CZ: NAT GEO WILD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2208
 #EXTINF:-1 tvg-id="DangerTV.us@SD" tvg-logo="https://i.imgur.com/4aTk45R.png" group-title="Documentary",Danger TV (720p)
 https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="Documentary",Dateline 24/7 (1080p)
@@ -186,8 +186,6 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_ch
 https://cdn.pishow.tv/ott/live/10/master.m3u8
 #EXTINF:-1 tvg-id="DDPunjabi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540" group-title="Documentary",DD Punjabi (504p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",DE: ANIMAL PLANET
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/135034
 #EXTINF:-1 tvg-id="Discovery.HD.de" tvg-name="DE: DISCOVERY FHD" tvg-logo="https://static.epg.best/th/Discovery.th.png" group-title="Documentary",DE: DISCOVERY FHD
 http://62.182.83.108:80/99558627/uUhQQlcHjD/11874
 #EXTINF:-1 tvg-id="N24Doku.de" tvg-name="DE: N24 HD" tvg-logo="https://static.epg.best/de/N24Doku.de.png" group-title="Documentary",DE: N24 HD
@@ -196,10 +194,8 @@ http://62.182.83.108:80/99558627/uUhQQlcHjD/11886
 http://62.182.83.108:80/99558627/uUhQQlcHjD/11875
 #EXTINF:-1 tvg-id="NAT.GEO.WILD.de" tvg-name="DE: NAT GEO WILD HD" tvg-logo="https://static.epg.best/de/NatGeoWild.de.png" group-title="Documentary",DE: NAT GEO WILD HD
 http://62.182.83.108:80/99558627/uUhQQlcHjD/11876
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",DE: NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1 tvg-name="DE: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://docdog.top/logo/countries/germany/new/NATIONAL_GEOGRAPHIC_WILD_HD.png" group-title="Documentary",DE: NATIONAL GEOGRAPHIC WILD
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/135051
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",DE: THE HISTORY CHANNEL
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/135058
 #EXTINF:-1 tvg-name="[DE WowTV] History" tvg-logo="https://pixel.disco.wowtv.de/logo/skychb_113_lightnow/LOGO_CHANNEL_DARK/100/100?language=de-DE&proposition=NOWOTT" group-title="Documentary",[DE WowTV] History
 http://62.182.83.108:80/99558627/uUhQQlcHjD/300898
 #EXTINF:-1 tvg-name="[DE WowTV] Sky Nature" tvg-logo="https://pixel.disco.wowtv.de/logo/skychb_118_lightnow/LOGO_CHANNEL_DARK/100/100?language=de-DE&proposition=NOWOTT" group-title="Documentary",[DE WowTV] Sky Nature
@@ -216,18 +212,18 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/5IxIFJ0.png" group-title="Documentary",Discovery Channel
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",DK: DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="DK: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/denmark/discoverychannel.png" group-title="Documentary",DK: DISCOVERY CHANNEL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3703
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",DK: DISCOVERY SCIENCE
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3705
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",DK: DISCOVERY WORLD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3706
+#EXTINF:-1 tvg-name="DK: Discovery Science" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",DK: Discovery Science
+http://62.182.83.108:80/99558627/uUhQQlcHjD/122508
+#EXTINF:-1 tvg-name="DK: Discovery World" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",DK: Discovery World
+http://62.182.83.108:80/99558627/uUhQQlcHjD/122509
 #EXTINF:-1 tvg-name="DK: History" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",DK: History
 http://62.182.83.108:80/99558627/uUhQQlcHjD/122519
 #EXTINF:-1 tvg-name="DK: Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",DK: Investigation Discovery
 http://62.182.83.108:80/99558627/uUhQQlcHjD/122520
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",DK: NAT GEO
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3719
+#EXTINF:-1 tvg-name="DK: NAT GEO" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",DK: NAT GEO
+http://62.182.83.108:80/99558627/uUhQQlcHjD/122526
 #EXTINF:-1 tvg-id="DocuBayTV.in@SD" tvg-logo="https://i.imgur.com/OGyeLLR.png" group-title="Documentary",DocuBay TV (1080p)
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 #EXTINF:-1 tvg-id="DocuBox.nl@SD" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Documentary",DocuBox
@@ -238,8 +234,6 @@ http://str2.iptvhd.ru:8080/DocuBoxHD/index.m3u8
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@International" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Documentary",Documentary+ International (1080p)
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Docurama.us@SD" tvg-logo="https://i.imgur.com/2248nxX.png" group-title="Documentary",Docurama (1080p)
-https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Dokusat.de@SD" tvg-logo="https://i.imgur.com/GadfTwF.png" group-title="Documentary",Dokusat (1080p)
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-id="DossiersFBI.us@France" tvg-logo="https://i.imgur.com/8Zx6dA7.png" group-title="Documentary",Dossiers FBI
@@ -270,7 +264,7 @@ https://www.youtube.com/user/encuentro/live
 https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
 #EXTINF:-1 tvg-id="EPlanetTV.ir@SD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",EPlanet TV
 https://eplhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",ES: DISCOVERY
+#EXTINF:-1 tvg-id="0" tvg-name="ES: DISCOVERY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" group-title="Documentary",ES: DISCOVERY
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/708
 #EXTINF:-1 tvg-name="ES: Discovery World" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",ES: Discovery World
 http://62.182.83.108:80/99558627/uUhQQlcHjD/181892
@@ -278,14 +272,40 @@ http://62.182.83.108:80/99558627/uUhQQlcHjD/181892
 http://62.182.83.108:80/99558627/uUhQQlcHjD/181930
 #EXTINF:-1 tvg-name="ES: NAT GEO" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",ES: NAT GEO
 http://62.182.83.108:80/99558627/uUhQQlcHjD/181990
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",ES: NAT GEO WILD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/712
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",ES: NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-name="ES: NAT GEO Wild" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",ES: NAT GEO Wild
+http://62.182.83.108:80/99558627/uUhQQlcHjD/181991
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="Documentary",ES: NATIONAL GEOGRAPHIC
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/711
 #EXTINF:-1 tvg-name="ES: Nature Time" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",ES: Nature Time
 http://62.182.83.108:80/99558627/uUhQQlcHjD/181992
+#EXTINF:-1 tvg-name="EXYU: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ANIMAL_PLANET.png" group-title="Documentary",EXYU: ANIMAL PLANET
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144287
+#EXTINF:-1 tvg-name="EXYU: DA VINCI LEARNING" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/DA_VINCI_LEARNING.png" group-title="Documentary",EXYU: DA VINCI LEARNING
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144292
+#EXTINF:-1 tvg-name="EXYU: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/DISCOVERY_CHANNEL.png" group-title="Documentary",EXYU: DISCOVERY CHANNEL
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144293
+#EXTINF:-1 tvg-name="EXYU: DISCOVERY ID / INVESTIGATION DISCOVERY" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/DISCOVERY_ID__INVESTIGATION_DISCOVERY.png" group-title="Documentary",EXYU: DISCOVERY ID / INVESTIGATION DISCOVERY
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144294
+#EXTINF:-1 tvg-name="EXYU: HISTORY 2" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/HISTORY_2.png" group-title="Documentary",EXYU: HISTORY 2
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144304
+#EXTINF:-1 tvg-name="EXYU: HISTORY CHANNEL" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/HISTORY_CHANNEL.png" group-title="Documentary",EXYU: HISTORY CHANNEL
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144305
+#EXTINF:-1 tvg-name="EXYU: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/NAT_GEO_WILD.png" group-title="Documentary",EXYU: NAT GEO WILD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144308
+#EXTINF:-1 tvg-name="EXYU: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/NATIONAL_GEOGRAPHIC.png" group-title="Documentary",EXYU: NATIONAL GEOGRAPHIC
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144309
+#EXTINF:-1 tvg-name="EXYU: NOVA DOCUMENTARY" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/NOVA_DOCUMENTARY.png" group-title="Documentary",EXYU: NOVA DOCUMENTARY
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144311
+#EXTINF:-1 tvg-name="EXYU: VIASAT HISTORY" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/VIASAT_HISTORY.png" group-title="Documentary",EXYU: VIASAT HISTORY
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144316
+#EXTINF:-1 tvg-name="EXYU: VIASAT NATURE" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/VIASAT_NATURE.png" group-title="Documentary",EXYU: VIASAT NATURE
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144317
+#EXTINF:-1 tvg-name="EXYU: YU PLANET" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/YU_PLANET.png" group-title="Documentary",EXYU: YU PLANET
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144456
 #EXTINF:-1 tvg-id="FBIFiles.us@UK" tvg-logo="https://i.imgur.com/vzYDSLo.png" group-title="Documentary",FBI Files
 https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
+#EXTINF:-1 tvg-name="FI: NAT GEO WILD [MULTI-SUB]" tvg-logo="https://docdog.top/logo/countries/finland/natgeowild.png" group-title="Documentary",FI: NAT GEO WILD [MULTI-SUB]
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3682
 #EXTINF:-1 tvg-id="FlowersTVUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" group-title="Documentary",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="FNX.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FNX_Web_Logo.png" group-title="Documentary",FNX (1080p)
@@ -294,9 +314,9 @@ https://fnx.lls.pbs.org/index.m3u8
 https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us@SD" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Documentary",Fox Soul (1080p)
 https://foxsoul-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",FR: DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="FR: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DISCOVERY_CHANNEL.png" group-title="Documentary",FR: DISCOVERY CHANNEL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/502
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",FR: DISCOVERY INVESTIGATION
+#EXTINF:-1 tvg-id="Discovery Investigation" tvg-name="FR: DISCOVERY INVESTIGATION" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DISCOVERY_INVESTIGATION.png" group-title="Documentary",FR: DISCOVERY INVESTIGATION
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/503
 #EXTINF:-1 tvg-id="Discovery.Science.fr" tvg-name="FR: DISCOVERY SCIENCE" tvg-logo="https://static.epg.best/fr/DiscoveryScience.fr.png" group-title="Documentary",FR: DISCOVERY SCIENCE
 http://62.182.83.108:80/99558627/uUhQQlcHjD/11810
@@ -304,8 +324,6 @@ http://62.182.83.108:80/99558627/uUhQQlcHjD/11810
 http://62.182.83.108:80/99558627/uUhQQlcHjD/11823
 #EXTINF:-1 tvg-id="Canalsat.NATIONAL.GEOGRAPHIC.WILD.fr" tvg-name="FR: NAT GEO WILD" tvg-logo="https://static.epg.best/fr/NatGeoWild.fr.png" group-title="Documentary",FR: NAT GEO WILD
 http://62.182.83.108:80/99558627/uUhQQlcHjD/11824
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",FR: NATIONAL GEOGRAPHIC WILD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/132369
 #EXTINF:-1 tvg-id="Planète+.fr" tvg-name="FR: PLANET" tvg-logo="https://static.epg.best/fr/PlanetePlus.fr.png" group-title="Documentary",FR: PLANET
 http://62.182.83.108:80/99558627/uUhQQlcHjD/11828
 #EXTINF:-1 tvg-id="Planète+.A.and.E.fr" tvg-name="FR: PLANET A&E" tvg-logo="https://static.epg.best/fr/PlaneteAction.fr.png" group-title="Documentary",FR: PLANET A&E
@@ -338,8 +356,6 @@ http://62.182.83.108:80/99558627/uUhQQlcHjD/245631
 http://62.182.83.108:80/99558627/uUhQQlcHjD/137503
 #EXTINF:-1 tvg-name="GR: Viasat History" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",GR: Viasat History
 http://62.182.83.108:80/99558627/uUhQQlcHjD/137533
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",GR: VIASAT NATURE
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157491
 #EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/gxzypd.jpg" group-title="Documentary",Guangxi Variety & Travel Channel
 http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="GuaymateTV.do@SD" tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="Documentary",Guaymate TV (720p)
@@ -354,8 +370,6 @@ http://str2.iptvhd.ru:8080/H2_HD/index.m3u8
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 Latin America Brazil (720p)
 http://45.177.114.114/HISTORY_2/index.m3u8
-#EXTINF:-1 tvg-id="HistoryAsia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History Asia (720p)
-https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="History.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History (Brazil) (720p)
 http://45.177.114.114/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="HistoryHit.uk@SD" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="Documentary",History Hit (1080p)
@@ -384,8 +398,8 @@ http://62.182.83.108:80/99558627/uUhQQlcHjD/155252
 http://62.182.83.108:80/99558627/uUhQQlcHjD/155279
 #EXTINF:-1 tvg-name="HU: Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",HU: Investigation Discovery
 http://62.182.83.108:80/99558627/uUhQQlcHjD/155281
-#EXTINF:-1 tvg-name="HU: NAT GEO" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",HU: NAT GEO
-http://62.182.83.108:80/99558627/uUhQQlcHjD/155297
+#EXTINF:-1 tvg-name="HU: NAT GEO" tvg-logo="https://docdog.top/logo/countries/hungary/natgeo.png" group-title="Documentary",HU: NAT GEO
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3814
 #EXTINF:-1 tvg-name="HU: NAT GEO Wild" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",HU: NAT GEO Wild
 http://62.182.83.108:80/99558627/uUhQQlcHjD/155298
 #EXTINF:-1 tvg-name="HU: Viasat History" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",HU: Viasat History
@@ -396,6 +410,8 @@ https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 http://62.182.83.108:80/99558627/uUhQQlcHjD/56344
 #EXTINF:-1 tvg-name="IL: NAT GEO Wild" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",IL: NAT GEO Wild
 http://62.182.83.108:80/99558627/uUhQQlcHjD/56352
+#EXTINF:-1 tvg-id="ImaiTV.lk@SD" tvg-logo="https://i.imgur.com/9tODclu.png" group-title="Documentary",Imai TV (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-name="IN: ANIMAL PLANET" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",IN: ANIMAL PLANET
 http://62.182.83.108:80/99558627/uUhQQlcHjD/55697
 #EXTINF:-1 tvg-name="IN: ANIMAL PLANET (TATA PLAY)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",IN: ANIMAL PLANET (TATA PLAY)
@@ -424,8 +440,6 @@ https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg008
 https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery.it" tvg-name="IT: DISCOVERY  FHD " tvg-logo="https://static.epg.best/it/DiscoveryChannel.it.png" group-title="Documentary",IT: DISCOVERY FHD
 http://62.182.83.108:80/99558627/uUhQQlcHjD/53974
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",IT: DISCOVERY CHANNEL HD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136059
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="IT: DISCOVERY DMAX FHD" tvg-logo="https://static.epg.best/it/DMAX.it.png" group-title="Documentary",IT: DISCOVERY DMAX FHD
 http://62.182.83.108:80/99558627/uUhQQlcHjD/53973
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="IT: DISCOVERY GIALLO" tvg-logo="https://static.epg.best/it/Giallo.it.png" group-title="Documentary",IT: DISCOVERY GIALLO
@@ -462,6 +476,8 @@ http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KulturMD.de@SD" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Documentary",KulturMD (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-name="LA: DISCOVERY INVESTIGATION" tvg-logo="https://docdog.top/logo/countries/latino/discoveryinvestigation.png" group-title="Documentary",LA: DISCOVERY INVESTIGATION
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5070
 #EXTINF:-1 tvg-id="LanzhouCultureTourismChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/lanzhou.jpg" group-title="Documentary",Lanzhou Culture & Tourism Channel
 https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 #EXTINF:-1 tvg-id="LawCrime.us@SD" tvg-logo="https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj" group-title="Documentary",Law & Crime (720p)
@@ -504,6 +520,18 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-id="Mega2.cl@SD" tvg-logo="https://i.imgur.com/c1ME00r.png" group-title="Documentary",Mega 2 (1080p)
 http://15.204.246.24:8080/Mega2HD/index.m3u8
+#EXTINF:-1 tvg-name="MEX: DISCOVERY CIVILIZATION" tvg-logo="https://docdog.top/logo/countries/mexico/discoverycivilization.png" group-title="Documentary",MEX: DISCOVERY CIVILIZATION
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5140
+#EXTINF:-1 tvg-name="MEX: DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/mexico/discoveryscience.png" group-title="Documentary",MEX: DISCOVERY SCIENCE
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5143
+#EXTINF:-1 tvg-name="MEX: DISCOVERY THEATER" tvg-logo="https://docdog.top/logo/countries/mexico/discoverytheater.png" group-title="Documentary",MEX: DISCOVERY THEATER
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5144
+#EXTINF:-1 tvg-name="MEX: DISCOVERY WORLD" tvg-logo="https://docdog.top/logo/countries/mexico/discoveryworld.png" group-title="Documentary",MEX: DISCOVERY WORLD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5146
+#EXTINF:-1 tvg-name="MEX: INVESTIGATION DISCOVERY" tvg-logo="https://docdog.top/logo/countries/mexico/investigationdiscovery.png" group-title="Documentary",MEX: INVESTIGATION DISCOVERY
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5177
+#EXTINF:-1 tvg-name="MEX: NAT GEO" tvg-logo="https://docdog.top/logo/countries/mexico/natgeo.png" group-title="Documentary",MEX: NAT GEO
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5189
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel30.us@SD" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Documentary",Midpen Media Center Channel 30 (720p)
 https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel75.us@SD" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Documentary",Midpen Media Center Channel 75 (720p)
@@ -518,8 +546,6 @@ http://stream.mcquack.net/141/index.m3u8
 https://vod-c57.interspace.com:443/channel_abr/46/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NTE6MDkgUE0maGFzaF92YWx1ZT05S1hVR3ExVVVPUnU5Zk9sTGpDY2dRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3N2RkZGIxYTU=
 #EXTINF:-1 tvg-id="MRT2.mk" tvg-name="MRT2" tvg-logo="https://i.imgur.com/YvOrUnN.png" group-title="Documentary",MRT2 Ⓖ
 https://vod-c57.interspace.com:443/channel_abr/43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MjM6NTQgUE0maGFzaF92YWx1ZT1ZT2dHa29qd09TbDcvVFpqQU1udVh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MTdhN2ZmY2Q=
-#EXTINF:-1 tvg-id="MRTVFarmer.mm@SD" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Documentary",MRTV Farmer
-https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 #EXTINF:-1 tvg-id="MRTVNRC.mm@SD" tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="Documentary",MRTV NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 #EXTINF:-1 tvg-id="MWDDocumentary.mm@SD" tvg-logo="https://i.imgur.com/4XV7cjU.png" group-title="Documentary",MWD Documentary
@@ -570,28 +596,26 @@ https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NITV.au" tvg-name="NITV" tvg-logo="https://i.imgur.com/YR7sXaN.png" group-title="Documentary",NITV Ⓖ
 https://i.mjh.nz/.r/sbs-5nsw.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NL: ANIMAL PLANET
+#EXTINF:-1 tvg-id="Animal Planet [TV]" tvg-name="NL: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/netherlands/animalplanet.png" group-title="Documentary",NL: ANIMAL PLANET
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1289
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NL: DISCOVERY CHANNEL
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1299
 #EXTINF:-1 tvg-id="investigationdiscovery.nl" tvg-name="NL: DISCOVERY INVESTIGATION" tvg-logo="https://static.epg.best/fr/DiscoveryInvestigation.fr.png" group-title="Documentary",NL: DISCOVERY INVESTIGATION
 http://62.182.83.108:80/99558627/uUhQQlcHjD/54011
 #EXTINF:-1 tvg-id="discoveryscience.nl" tvg-name="NL: DISCOVERY SC" tvg-logo="https://static.epg.best/nl/DiscoveryScience.nl.png" group-title="Documentary",NL: DISCOVERY SC
 http://62.182.83.108:80/99558627/uUhQQlcHjD/54010
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NL: DISCOVERY SCIENCE
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1301
+#EXTINF:-1 tvg-name="NL: Discovery Science" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NL: Discovery Science
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56386
 #EXTINF:-1 tvg-name="NL: Discovery World" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NL: Discovery World
 http://62.182.83.108:80/99558627/uUhQQlcHjD/56387
 #EXTINF:-1 tvg-name="NL: History" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NL: History
 http://62.182.83.108:80/99558627/uUhQQlcHjD/56412
 #EXTINF:-1 tvg-name="NL: Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NL: Investigation Discovery
 http://62.182.83.108:80/99558627/uUhQQlcHjD/56416
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NL: LOVE NATURE
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1325
+#EXTINF:-1 tvg-name="NL: Love Nature" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NL: Love Nature
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56425
 #EXTINF:-1 tvg-name="NL: NAT GEO" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NL: NAT GEO
 http://62.182.83.108:80/99558627/uUhQQlcHjD/56428
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NL: NAT GEO WILD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1331
+#EXTINF:-1 tvg-name="NL: NAT GEO Wild" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NL: NAT GEO Wild
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56429
 #EXTINF:-1 tvg-name="NO: Discovery Science" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NO: Discovery Science
 http://62.182.83.108:80/99558627/uUhQQlcHjD/157276
 #EXTINF:-1 tvg-name="NO: Discovery World" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NO: Discovery World
@@ -604,8 +628,8 @@ http://62.182.83.108:80/99558627/uUhQQlcHjD/157286
 http://62.182.83.108:80/99558627/uUhQQlcHjD/157288
 #EXTINF:-1 tvg-name="NO: NAT GEO" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NO: NAT GEO
 http://62.182.83.108:80/99558627/uUhQQlcHjD/157292
-#EXTINF:-1 tvg-name="NO: NAT GEO Wild" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",NO: NAT GEO Wild
-http://62.182.83.108:80/99558627/uUhQQlcHjD/157293
+#EXTINF:-1 tvg-name="NO: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/norway/natgeowild.png" group-title="Documentary",NO: NAT GEO WILD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3639
 #EXTINF:-1 tvg-id="NTVMir.ru@SD" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Documentary",NTV Mir (576p)
 http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 #EXTINF:-1 tvg-id="NYXT.us@SD" tvg-logo="https://i.imgur.com/7kuluji.png" group-title="Documentary",NYXT (1080p)
@@ -652,30 +676,26 @@ https://iptv.peer.biz/live/peertv-en.m3u8
 https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru@HD" tvg-logo="https://i.imgur.com/N1Ze5IE.png" group-title="Documentary",Pervyy Kosmicheskiy HD (1080p)
 http://str2.iptvhd.ru:8080/Eureka_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: ANIMAL PLANET
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/899
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: DA VINCI
+#EXTINF:-1 tvg-name="PL: ANIMAL PLANET" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: ANIMAL PLANET
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56082
+#EXTINF:-1 tvg-name="PL: DA VINCI" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="Documentary",PL: DA VINCI
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134639
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: DISCOVERY CHANNEL
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/928
+#EXTINF:-1 tvg-name="PL: DISCOVERY" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="Documentary",PL: DISCOVERY
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134660
 #EXTINF:-1 tvg-name="PL: Discovery History" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: Discovery History
 http://62.182.83.108:80/99558627/uUhQQlcHjD/56118
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: DISCOVERY INVESTIGATION
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/148668
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: DISCOVERY LIFE
+#EXTINF:-1 tvg-id="Discovery Life" tvg-name="PL: DISCOVERY LIFE" tvg-logo="https://docdog.top/logo/countries/poland/discoverylife.png" group-title="Documentary",PL: DISCOVERY LIFE
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/931
 #EXTINF:-1 tvg-name="PL: Discovery Life Polska" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: Discovery Life Polska
 http://62.182.83.108:80/99558627/uUhQQlcHjD/56119
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: DISCOVERY SCIENCE
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/932
+#EXTINF:-1 tvg-name="PL: Discovery Science" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: Discovery Science
+http://62.182.83.108:80/99558627/uUhQQlcHjD/56120
 #EXTINF:-1 tvg-name="PL: Discovery Turbo Xtra" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: Discovery Turbo Xtra
 http://62.182.83.108:80/99558627/uUhQQlcHjD/56121
 #EXTINF:-1 tvg-name="PL: Discovery World" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: Discovery World
 http://62.182.83.108:80/99558627/uUhQQlcHjD/56122
 #EXTINF:-1 tvg-name="PL: History" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: History
 http://62.182.83.108:80/99558627/uUhQQlcHjD/56156
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: HISTORY 2
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/954
 #EXTINF:-1 tvg-name="PL: Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: Investigation Discovery
 http://62.182.83.108:80/99558627/uUhQQlcHjD/56159
 #EXTINF:-1 tvg-name="PL: NAT GEO" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: NAT GEO
@@ -684,8 +704,6 @@ http://62.182.83.108:80/99558627/uUhQQlcHjD/56167
 http://62.182.83.108:80/99558627/uUhQQlcHjD/56168
 #EXTINF:-1 tvg-name="PL: NAT GEO Wild" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: NAT GEO Wild
 http://62.182.83.108:80/99558627/uUhQQlcHjD/56169
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: NATIONAL GEOGRAPHIC WILD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/974
 #EXTINF:-1 tvg-name="PL: TVP History" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: TVP History
 http://62.182.83.108:80/99558627/uUhQQlcHjD/56244
 #EXTINF:-1 tvg-name="PL: Viasat History" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PL: Viasat History
@@ -730,11 +748,7 @@ https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
 https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistoria.de@ES" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documentary",Pluto TV Historia (Germany) (720p)
 https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHistory.de@DACH" tvg-logo="https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png" group-title="Documentary",Pluto TV History (Germany)
-https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHistory.de@GB" tvg-logo="https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png" group-title="Documentary",Pluto TV History (Germany) GB
-https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHistory.us@US" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Documentary",Pluto TV History (United States)
+#EXTINF:-1 tvg-id="PlutoTVHistory.us@US" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Documentary",Pluto TV History
 https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
 #EXTINF:-1 tvg-id="PlutoTVInvestigacao.us@BR" tvg-logo="https://i.imgur.com/JlQq0YJ.png" group-title="Documentary",Pluto TV Investigacao
 https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
@@ -786,16 +800,16 @@ https://dfoiz3dv1euv7.cloudfront.net/ptnlive-s3/live1.m3u8
 http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
 #EXTINF:-1 tvg-id="PresumiendoMexico.mx@SD" tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="Documentary",Presumiendo Mexico (720p)
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PT: DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/portugal/discoverychannel.png" group-title="Documentary",PT: DISCOVERY CHANNEL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99538
 #EXTINF:-1 tvg-name="PT: Discovery World" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PT: Discovery World
 http://62.182.83.108:80/99558627/uUhQQlcHjD/237571
 #EXTINF:-1 tvg-name="PT: Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PT: Investigation Discovery
 http://62.182.83.108:80/99558627/uUhQQlcHjD/237596
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PT: NAT GEO
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99541
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PT: NAT GEO WILD
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99540
+#EXTINF:-1 tvg-name="PT: NAT GEO" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PT: NAT GEO
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237609
+#EXTINF:-1 tvg-name="PT: NAT GEO Wild" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",PT: NAT GEO Wild
+http://62.182.83.108:80/99558627/uUhQQlcHjD/237610
 #EXTINF:-1 tvg-id="QausainTV.ng@SD" tvg-logo="https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png" group-title="Documentary",Qausain TV (720p)
 https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RNE_Radio_3_2026.svg/500px-RNE_Radio_3_2026.svg.png" group-title="Documentary",Radio 3 (720p)
@@ -820,6 +834,8 @@ http://62.182.83.108:80/99558627/uUhQQlcHjD/296009
 https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 #EXTINF:-1 tvg-name="RO: ANIMAL PLANET" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",RO: ANIMAL PLANET
 http://62.182.83.108:80/99558627/uUhQQlcHjD/237060
+#EXTINF:-1 tvg-name="RO: DISCOVERY INVESTIGATION" tvg-logo="https://docdog.top/logo/countries/latino/discoveryinvestigation.png" group-title="Documentary",RO: DISCOVERY INVESTIGATION
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3215
 #EXTINF:-1 tvg-name="RO: Discovery Science" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",RO: Discovery Science
 http://62.182.83.108:80/99558627/uUhQQlcHjD/237100
 #EXTINF:-1 tvg-name="RO: Discovery Turbo Xtra (DTX)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",RO: Discovery Turbo Xtra (DTX)
@@ -830,8 +846,6 @@ http://62.182.83.108:80/99558627/uUhQQlcHjD/237102
 http://62.182.83.108:80/99558627/uUhQQlcHjD/237107
 #EXTINF:-1 tvg-name="RO: History" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",RO: History
 http://62.182.83.108:80/99558627/uUhQQlcHjD/237138
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",RO: HISTORY CHANNEL
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3242
 #EXTINF:-1 tvg-name="RO: Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",RO: Investigation Discovery
 http://62.182.83.108:80/99558627/uUhQQlcHjD/237143
 #EXTINF:-1 tvg-name="RO: Love Nature" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",RO: Love Nature
@@ -842,8 +856,8 @@ http://62.182.83.108:80/99558627/uUhQQlcHjD/237164
 http://62.182.83.108:80/99558627/uUhQQlcHjD/237165
 #EXTINF:-1 tvg-name="RO: Viasat History" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",RO: Viasat History
 http://62.182.83.108:80/99558627/uUhQQlcHjD/237222
-#EXTINF:-1 tvg-name="RO: Viasat Nature" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",RO: Viasat Nature
-http://62.182.83.108:80/99558627/uUhQQlcHjD/237223
+#EXTINF:-1 tvg-name="RO: VIASAT NATURE" tvg-logo="https://docdog.top/logo/countries/romania/viasatnature.png" group-title="Documentary",RO: VIASAT NATURE
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3295
 #EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",RT Documentary (1080p)
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",RT Documentary Russian (1080p)
@@ -870,12 +884,22 @@ http://62.182.83.108:80/99558627/uUhQQlcHjD/55411
 http://62.182.83.108:80/99558627/uUhQQlcHjD/55474
 #EXTINF:-1 tvg-name="RU: Viasat Nature" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",RU: Viasat Nature
 http://62.182.83.108:80/99558627/uUhQQlcHjD/55475
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",RUS: ANIMAL PLANET
+#EXTINF:-1 tvg-name="RUS: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/russian/animalplanet.png" group-title="Documentary",RUS: ANIMAL PLANET
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4182
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",RUS: DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="RUS: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/russian/discoverychannel.png" group-title="Documentary",RUS: DISCOVERY CHANNEL
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4199
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",RUS: DISCOVERY SCIENCE
+#EXTINF:-1 tvg-name="RUS: DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/russian/discoveryscience.png" group-title="Documentary",RUS: DISCOVERY SCIENCE
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4200
+#EXTINF:-1 tvg-name="RUS: DISCOVERY SHOWCASE" tvg-logo="https://docdog.top/logo/countries/russian/discoveryshowcase.png" group-title="Documentary",RUS: DISCOVERY SHOWCASE
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4201
+#EXTINF:-1 tvg-name="RUS: HISTORY" tvg-logo="https://docdog.top/logo/countries/russian/historychannel.png" group-title="Documentary",RUS: HISTORY
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4230
+#EXTINF:-1 tvg-name="RUS: MATCH PLANET" tvg-logo="https://docdog.top/logo/countries/russian/matchplanet.png" group-title="Documentary",RUS: MATCH PLANET
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4271
+#EXTINF:-1 tvg-name="RUS: VIASAT HISTORY" tvg-logo="https://docdog.top/logo/countries/russian/viasathistory.png" group-title="Documentary",RUS: VIASAT HISTORY
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4356
+#EXTINF:-1 tvg-name="RUS: VIASAT NATURE" tvg-logo="https://docdog.top/logo/countries/russian/viasatnature.png" group-title="Documentary",RUS: VIASAT NATURE
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4357
 #EXTINF:-1 tvg-id="RussiaK.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" group-title="Documentary",Russia-K HD (1080p)
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1 tvg-id="SafariTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png" group-title="Documentary",Safari TV (576p)
@@ -954,6 +978,10 @@ http://62.182.83.108:80/99558627/uUhQQlcHjD/267892
 http://62.182.83.108:80/99558627/uUhQQlcHjD/268232
 #EXTINF:-1 tvg-name="[SLING TV USA] True History" tvg-logo="http://o11usa.tvset.top:8585/u=sathobby/p=4051a6a5ea185e7c1bf8778c55423e0a60c822c1fddd60c0ee45e4577fd44387/logos/slingtvusa-truehistory.png" group-title="Documentary",[SLING TV USA] True History
 http://62.182.83.108:80/99558627/uUhQQlcHjD/268217
+#EXTINF:-1 tvg-name="SLO: HISTORY" tvg-logo="https://docdog.top/logo/countries/SLO/HISTORY.png" group-title="Documentary",SLO: HISTORY
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144609
+#EXTINF:-1 tvg-name="SLO: PLANET TV" tvg-logo="https://docdog.top/logo/countries/SLO/PLANET_TV.png" group-title="Documentary",SLO: PLANET TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144611
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us@BR" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Documentary",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Documentary",Smithsonian Channel Pluto TV LatAm
@@ -980,9 +1008,13 @@ https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
 https://136044159.r.cdnsun.net/storychannel.m3u8
 #EXTINF:-1 tvg-id="SuspilneKultura.ua@SD" tvg-logo="https://i.imgur.com/hHMJV8e.png" group-title="Documentary",Suspilne. Kultura (1080p)
 http://stream.mcquack.net/435/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",SWE: NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-name="SWE: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/sweden/animalplanet.png" group-title="Documentary",SWE: ANIMAL PLANET
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2271
+#EXTINF:-1 tvg-name="SWE: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/sweden/nationalgeographic.png" group-title="Documentary",SWE: NATIONAL GEOGRAPHIC
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2301
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",SWE: VIASAT HISTORY
+#EXTINF:-1 tvg-name="SWE: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://docdog.top/logo/countries/sweden/nationalgeographicwild.png" group-title="Documentary",SWE: NATIONAL GEOGRAPHIC WILD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2302
+#EXTINF:-1 tvg-name="SWE: VIASAT HISTORY" tvg-logo="https://docdog.top/logo/countries/sweden/viasathistory.png" group-title="Documentary",SWE: VIASAT HISTORY
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2333
 #EXTINF:-1 tvg-id="TeenMom.us@SD" tvg-logo="https://i.imgur.com/8o3ClCV.png" group-title="Documentary",Teen Mom (United States)
 https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
@@ -1010,32 +1042,58 @@ https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
 http://str2.iptvhd.ru:8080/HD_Life/index.m3u8
 #EXTINF:-1 tvg-id="TotalCrime.ca@CA" tvg-logo="https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png" group-title="Documentary",Total Crime (1080p)
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+#EXTINF:-1 tvg-name="TR: ANIMAL PLANET HD" tvg-logo="https://docdog.top/logo/countries/turkey/animalplanet.png" group-title="Documentary",TR: ANIMAL PLANET HD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141856
+#EXTINF:-1 tvg-name="TR: BELGESEL 2" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: BELGESEL 2
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/140860
 #EXTINF:-1 tvg-name="TR: Da Vinci" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: Da Vinci
 http://62.182.83.108:80/99558627/uUhQQlcHjD/58279
-#EXTINF:-1 tvg-name="TR: Discovery Science" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: Discovery Science
-http://62.182.83.108:80/99558627/uUhQQlcHjD/58282
+#EXTINF:-1 tvg-name="TR: DA VINCI LEARNING HD" tvg-logo="https://docdog.top/logo/countries/turkey/davincilearning.png" group-title="Documentary",TR: DA VINCI LEARNING HD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/140900
+#EXTINF:-1 tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/turkey/discoverychannel.png" group-title="Documentary",TR: DISCOVERY CHANNEL HD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141861
+#EXTINF:-1 tvg-name="TR: DISCOVERY ID HD" tvg-logo="https://docdog.top/logo/countries/turkey/discoveryidx.png" group-title="Documentary",TR: DISCOVERY ID HD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141862
+#EXTINF:-1 tvg-name="TR: DISCOVERY IDX HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: DISCOVERY IDX HD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/140916
+#EXTINF:-1 tvg-name="TR: DISCOVERY SCIENCE HD" tvg-logo="https://docdog.top/logo/countries/turkey/discoveryscience.png" group-title="Documentary",TR: DISCOVERY SCIENCE HD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141863
+#EXTINF:-1 tvg-name="TR: DISCOVERY SHOWCASE" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: DISCOVERY SHOWCASE
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141864
+#EXTINF:-1 tvg-name="TR: DISCOVERY TURBO EXTRA HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: DISCOVERY TURBO EXTRA HD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141865
 #EXTINF:-1 tvg-name="TR: Discovery World" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: Discovery World
 http://62.182.83.108:80/99558627/uUhQQlcHjD/58283
 #EXTINF:-1 tvg-name="TR: DocuBox" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: DocuBox
 http://62.182.83.108:80/99558627/uUhQQlcHjD/58289
 #EXTINF:-1 tvg-name="TR: History" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: History
 http://62.182.83.108:80/99558627/uUhQQlcHjD/58319
+#EXTINF:-1 tvg-name="TR: HISTORY CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/turkey/historychannel.png" group-title="Documentary",TR: HISTORY CHANNEL HD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141867
 #EXTINF:-1 tvg-name="TR: Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: Investigation Discovery
 http://62.182.83.108:80/99558627/uUhQQlcHjD/58324
-#EXTINF:-1 tvg-name="TR: Love Nature" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: Love Nature
-http://62.182.83.108:80/99558627/uUhQQlcHjD/58355
+#EXTINF:-1 tvg-name="TR: LOVE NATURE FHD" tvg-logo="https://docdog.top/logo/countries/turkey/lovenature.png" group-title="Documentary",TR: LOVE NATURE FHD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141094
 #EXTINF:-1 tvg-name="TR: NAT GEO" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: NAT GEO
 http://62.182.83.108:80/99558627/uUhQQlcHjD/58374
 #EXTINF:-1 tvg-name="TR: NAT GEO Wild" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: NAT GEO Wild
 http://62.182.83.108:80/99558627/uUhQQlcHjD/58375
-#EXTINF:-1 tvg-name="TR: TGRT Belgesel" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: TGRT Belgesel
-http://62.182.83.108:80/99558627/uUhQQlcHjD/58424
-#EXTINF:-1 tvg-name="TR: TRT BELGESEL HD" tvg-logo="https://static.epg.best/tr/TRTBelgesel.tr.png" group-title="Documentary",TR: TRT BELGESEL HD
-http://62.182.83.108:80/99558627/uUhQQlcHjD/12170
-#EXTINF:-1 tvg-name="TR: Viasat History" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: Viasat History
-http://62.182.83.108:80/99558627/uUhQQlcHjD/58469
+#EXTINF:-1 tvg-name="TR: NATURE ESCAPE FHD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: NATURE ESCAPE FHD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141873
+#EXTINF:-1 tvg-name="TR: PLANET TURK" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: PLANET TURK
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141875
+#EXTINF:-1 tvg-name="TR: TGRT BELGESEL" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: TGRT BELGESEL
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141220
+#EXTINF:-1 tvg-name="TR: TRT BELGESEL FHD" tvg-logo="https://docdog.top/logo/countries/turkey/trt-belgesel-tr.png" group-title="Documentary",TR: TRT BELGESEL FHD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141882
+#EXTINF:-1 tvg-name="TR: VIASAT EXPLORER HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: VIASAT EXPLORER HD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141886
+#EXTINF:-1 tvg-name="TR: VIASAT HISTORY" tvg-logo="https://docdog.top/logo/countries/turkey/viasathistory.png" group-title="Documentary",TR: VIASAT HISTORY
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141887
 #EXTINF:-1 tvg-name="TR: Viasat Nature" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: Viasat Nature
 http://62.182.83.108:80/99558627/uUhQQlcHjD/58470
+#EXTINF:-1 tvg-name="TR: VIASAT NATURE/HISTORY FHD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",TR: VIASAT NATURE/HISTORY FHD
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141888
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru@HD" tvg-logo="https://i.imgur.com/AlpdXC4.png" group-title="Documentary",Travel+Adventure HD (1080p)
 http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD" tvg-logo="https://i.imgur.com/3tBJERH.png" group-title="Documentary",Travel Box Brazil (720p)
@@ -1102,12 +1160,8 @@ http://62.182.83.108:80/99558627/uUhQQlcHjD/53987
 http://62.182.83.108:80/99558627/uUhQQlcHjD/53995
 #EXTINF:-1 tvg-id="DiscoveryTurboPlus1.uk" tvg-name="UK: DISCOVERY TURBO HD" tvg-logo="https://static.epg.best/uk/DiscoveryTurbo.uk.png" group-title="Documentary",UK: DISCOVERY TURBO HD
 http://62.182.83.108:80/99558627/uUhQQlcHjD/53993
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",UK: DOCUMENTARY 4
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",UK: DOCUMENTARY 7
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146777
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",UK: DOCUMENTARY 9
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146775
+#EXTINF:-1 tvg-name="UK: DOCUMENTARY 10" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",UK: DOCUMENTARY 10
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146774
 #EXTINF:-1 tvg-id="SkyHistory.uk" tvg-name="UK: HISTORY CHANNEL FHD " tvg-logo="https://static.epg.best/uk/History.uk.png" group-title="Documentary",UK: HISTORY CHANNEL FHD
 http://62.182.83.108:80/99558627/uUhQQlcHjD/53999
 #EXTINF:-1 tvg-name="UK: LOVE NATURE FHD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",UK: LOVE NATURE FHD
@@ -1176,6 +1230,8 @@ http://62.182.83.108:80/99558627/uUhQQlcHjD/229736
 http://62.182.83.108:80/99558627/uUhQQlcHjD/229737
 #EXTINF:-1 tvg-name="USA | Discovery Plus | TRAVEL CHANNEL+ ⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",USA | Discovery Plus | TRAVEL CHANNEL+ ⓧ
 http://62.182.83.108:80/99558627/uUhQQlcHjD/229738
+#EXTINF:-1 tvg-name="USA: DISCOVERY VELOCITY" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",USA: DISCOVERY VELOCITY
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155073
 #EXTINF:-1 tvg-name="USA: DISCOVERY WEST" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",USA: DISCOVERY WEST
 http://62.182.83.108:80/99558627/uUhQQlcHjD/186163
 #EXTINF:-1 tvg-id="Science.us" tvg-name="USA | Hallmark Channelⓧ" tvg-logo="https://static.epg.best/us/Hallmark.us.png" group-title="Documentary",USA | Hallmark Channelⓧ
@@ -1190,6 +1246,8 @@ http://62.182.83.108:80/99558627/uUhQQlcHjD/229001
 http://62.182.83.108:80/99558627/uUhQQlcHjD/229038
 #EXTINF:-1 tvg-id="10Bold.au" tvg-name="USA: NAT GEO" tvg-logo="https://static.epg.best/us/NatGeo.us.png" group-title="Documentary",USA: NAT GEO
 http://62.182.83.108:80/99558627/uUhQQlcHjD/54030
+#EXTINF:-1 tvg-name="USA: NAT GEO (EAST)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",USA: NAT GEO (EAST)
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155855
 #EXTINF:-1 tvg-name="USA | Nat Geo Wildⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",USA | Nat Geo Wildⓧ
 http://62.182.83.108:80/99558627/uUhQQlcHjD/229081
 #EXTINF:-1 tvg-name="USA | National Geographicⓧ" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Documentary",USA | National Geographicⓧ
