@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   News - 1092 channels
+#   News - 1091 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-23 10:53 UTC
-#   Channels: 1092
+#   Updated: 2026-09-23 16:12 UTC
+#   Channels: 1091
 # +======================================+
 #EXTINF:-1 tvg-id="10TV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png" group-title="News",10 TV (720p)
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
@@ -564,6 +564,8 @@ https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
 https://feeds.intoday.in/bttv/itgd.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl@SD" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" group-title="News",BTB Info (1080p)
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+#EXTINF:-1 tvg-id="BTVNews.kh@SD" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="News",BTV News (720p)
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BuendiaTV.hn@SD" tvg-logo="https://i.imgur.com/m5hNyNE.png" group-title="News",Buendia TV
 https://servilive.com:3508/stream/play.m3u8
 #EXTINF:-1 tvg-id="BusinessRockstars.us@SD" tvg-logo="https://i.imgur.com/vfAMWLJ.png" group-title="News",Business Rockstars (720p)
@@ -756,8 +758,6 @@ https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="CP24.ca@SD" tvg-logo="https://i.imgur.com/YzjZUEl.png" group-title="News",CP24 (720p)
 http://107.167.16.138/cp24/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Crimea24.ru@SD" tvg-logo="https://i.imgur.com/k4C0uvp.png" group-title="News",Crimea 24
-https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-id="CRTVNews.cm@SD" tvg-logo="https://i.imgur.com/5CshVf9.png" group-title="News",CRTV News
 https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" group-title="News",Crónica TV Ⓨ
@@ -1316,6 +1316,8 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://i.imgur.com/3l25EZI.png" group-title="News",Moon TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
+#EXTINF:-1 tvg-id="MRTVNews.mm@SD" tvg-logo="https://i.imgur.com/5eK8Bc4.png" group-title="News",MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
 #EXTINF:-1 tvg-id="MTVUutiset.fi@SD" tvg-logo="https://i.imgur.com/ZO8ShOK.png" group-title="News",MTV Uutiset (720p)
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-id="MunsifTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Munsif_TV.png" group-title="News",Munsif TV (576p)
@@ -1792,8 +1794,6 @@ https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
 #EXTINF:-1 tvg-id="SathiyamTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143765_ld_h15_aa.png?lock=720x540" group-title="News",Sathiyam TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
-#EXTINF:-1 tvg-id="SBSWorldWatch.au@Sydney" tvg-logo="https://i.imgur.com/gCKMxrW.png" group-title="News",SBS WorldWatch
-http://44.32.200.142:5004/auto/v35
 #EXTINF:-1 tvg-id="SBTNews.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" group-title="News",SBT News (720p)
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #EXTINF:-1 tvg-id="SCCurrents.us@SD" tvg-logo="https://i.imgur.com/8FZsNyK.png" group-title="News",SC Currents
@@ -1866,8 +1866,6 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleCauquenes.cl@SD" tvg-logo="https://i.imgur.com/cNYDqhp.png" group-title="News",TeleCauquenes (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
-#EXTINF:-1 tvg-id="Telegela647.it@SD" tvg-logo="https://i.imgur.com/ppkX45f.png" group-title="News",Telegela 647
-https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMoldovaPlus.ro@SD" tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="News",TeleMoldova +
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1 tvg-id="TELESIGLO.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-294x165-FFFFFF.jpg" group-title="News",TELESIGLO (1080p)
@@ -2030,10 +2028,10 @@ https://edge.enhdtv.com/8190/index.m3u8
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn@SD" tvg-logo="https://i.imgur.com/V9Fpd3Y.png" group-title="News",UNE TV (720p)
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="UNews.lb@SD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",UNews (1080p)
+https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
 #EXTINF:-1 tvg-id="Unicanal.py@SD" tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="News",Unicanal
 http://45.170.130.224:8000/play/a04y/index.m3u8?hls
-#EXTINF:-1 tvg-id="Unifranz.bo@HD" tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="News",Unifranz (720p)
-https://edge.enhdtv.com/8192/index.m3u8
 #EXTINF:-1 tvg-name="US: Abc News HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",US: Abc News HD
 http://best4u.biz:8080/26842788/26842788/51634
 #EXTINF:-1 tvg-name="US: Bbc America HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="News",US: Bbc America HD
