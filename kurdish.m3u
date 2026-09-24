@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Kurdish - 111 channels
+#   Kurdish - 114 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-24 03:05 UTC
-#   Channels: 111
+#   Updated: 2026-09-24 11:20 UTC
+#   Channels: 114
 # +======================================+
 #EXTINF:-1 tvg-name="AF:AVA TV (SN)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",AF:AVA TV (SN)
 http://best4u.biz:8080/26842788/26842788/60818
@@ -64,10 +64,14 @@ https://cdn.qd.je/163189/ch8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
 #EXTINF:-1 tvg-id="CiraTV.de@SD" tvg-logo="https://i.imgur.com/YFnmSLW.png" group-title="Kurdish",Cira TV (1080p)
 https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+#EXTINF:-1 tvg-name="CZ: BRAVA" tvg-logo="https://docdog.top/logo/countries/cz/brava.png" group-title="Kurdish",CZ: BRAVA
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2179
 #EXTINF:-1 tvg-id="DivyavaniTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="Kurdish",Divyavani TV (576p)
 https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Gali Kurdistan
 https://live.host247.net/gk/gksat/playlist.m3u8
+#EXTINF:-1 tvg-name="GR: THRAKI NET TV" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",GR: THRAKI NET TV
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157585
 #EXTINF:-1 tvg-name="IN_Star Pravah HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",IN_Star Pravah HD
 http://best4u.biz:8080/26842788/26842788/8788
 #EXTINF:-1 tvg-id="K24.ke@SD" tvg-logo="https://i.imgur.com/SUjo6Bm.png" group-title="Kurdish",K24 (1080p)
@@ -130,10 +134,10 @@ https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepLingewaard.nl@SD" tvg-logo="https://i.imgur.com/FqyTFVN.png" group-title="Kurdish",Omroep Lingewaard (720p)
 https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8
+#EXTINF:-1 tvg-id="ParlamentodeNavarra.es@SD" tvg-logo="https://i.imgur.com/JnhWxKv.png" group-title="Kurdish",Parlamento de Navarra (368p)
+https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 #EXTINF:-1 tvg-name="Pavarotti (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bf0Iim4D6XXrAAJGwHXyrWFqUz8.jpg" group-title="Kurdish",Pavarotti (2019)
 http://best4u.biz:8080/movie/26842788/26842788/45463.mkv
-#EXTINF:-1 tvg-id="PayameAfghanTV.us@SD" tvg-logo="https://i.imgur.com/t9wYYY9.png" group-title="Kurdish",Payam-e-Afghan TV (480p)
-https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="PayamJavanTV.us@SD" tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="Kurdish",Payam Javan TV (720p)
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PayamTV.iq@SD" tvg-logo="https://i.imgur.com/qySEibb.png" group-title="Kurdish",Payam TV (1080p)
@@ -154,6 +158,8 @@ https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
 http://best4u.biz:8080/movie/26842788/26842788/9785.mp4
 #EXTINF:-1 tvg-name="Savage Salvation (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg" group-title="Kurdish",Savage Salvation (2022)
 http://best4u.biz:8080/movie/26842788/26842788/52067.mkv
+#EXTINF:-1 tvg-id="SavaneTV.bf@SD" tvg-logo="https://i.imgur.com/mv3S1Zc.png" group-title="Kurdish",Savane TV
+https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Speda TV
 https://spedanet.store/upload/images/spedahd.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="Kurdish",Star Pravah HD (720p)
