@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Kurdish + Persian - 241 channels
+#   Kurdish + Persian - 242 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-25 16:36 UTC
-#   Channels: 241
+#   Updated: 2026-09-25 21:15 UTC
+#   Channels: 242
 # +======================================+
 #EXTINF:-1 tvg-name="AF:AVA TV (SN)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",AF:AVA TV (SN)
 http://best4u.biz:8080/26842788/26842788/60818
@@ -46,6 +46,8 @@ https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
 https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 #EXTINF:-1 tvg-name="Avatar – Pluto TV" tvg-logo="https://i.imgur.com/KDSStnJ.png" group-title="Kurdish",Avatar – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624da1cd2af90c0007c13205/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="Avatar.se@DK" tvg-logo="https://images.pluto.tv/channels/61c09b48d6d97900076e91c5/colorLogoPNG.png" group-title="Kurdish",Avatar (Sweden)
+https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
 #EXTINF:-1 tvg-name="Avatar: The Deep Dive - A Special Edition of 20/20 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtVeIsmeXnpjNbEKnm9Say58XjV.jpg" group-title="Kurdish",Avatar: The Deep Dive - A Special Edition of 20/20 (2022)
 http://best4u.biz:8080/movie/26842788/26842788/52068.mp4
 #EXTINF:-1 tvg-name="Avatar: The Way of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="Kurdish",Avatar: The Way of Water (2022)
@@ -114,6 +116,8 @@ http://54.36.110.140/live3/live3.m3u8
 https://stream.moranettv.hu/live/index.m3u8
 #EXTINF:-1 tvg-id="MtavariArkhi.ge@SD" tvg-logo="https://i.imgur.com/tLtGnJW.png" group-title="Kurdish",Mtavari Arkhi
 https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
+#EXTINF:-1 tvg-id="AVA.fi" tvg-name="MTV Ava" tvg-logo="https://i.imgur.com/rtyJVgB.png" group-title="Kurdish",MTV Ava
+https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="NavahangTV.fi@SD" tvg-logo="https://i.imgur.com/YteKXJy.png" group-title="Kurdish",Navahang TV (720p)
 https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NavarreteTelevision.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/navarrete.png" group-title="Kurdish",Navarrete Television (1080p)
@@ -150,8 +154,6 @@ https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
 http://best4u.biz:8080/movie/26842788/26842788/9785.mp4
 #EXTINF:-1 tvg-name="Savage Salvation (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg" group-title="Kurdish",Savage Salvation (2022)
 http://best4u.biz:8080/movie/26842788/26842788/52067.mkv
-#EXTINF:-1 tvg-id="SavaneTV.bf@SD" tvg-logo="https://i.imgur.com/mv3S1Zc.png" group-title="Kurdish",Savane TV
-https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Speda TV
 https://spedanet.store/upload/images/spedahd.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="Kurdish",Star Pravah HD (720p)

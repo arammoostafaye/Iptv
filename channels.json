@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-25T16:36:41.255368",
-  "total": 10230,
+  "updated": "2026-09-25T21:15:29.327378",
+  "total": 10249,
   "groups": {
-    "Kurdish": 110,
+    "Kurdish": 111,
     "Persian": 131,
-    "Sports": 611,
-    "Movies": 6581,
-    "Music": 750,
-    "News": 1084,
-    "Kids": 517,
-    "Documentary": 446
+    "Sports": 620,
+    "Movies": 6555,
+    "Music": 753,
+    "News": 1086,
+    "Kids": 537,
+    "Documentary": 456
   },
   "channels": [
     {
@@ -170,6 +170,14 @@
       "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624da1cd2af90c0007c13205/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
       "logo": "https://i.imgur.com/KDSStnJ.png",
       "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Avatar (Sweden)",
+      "group": "Kurdish",
+      "stream": "https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8",
+      "logo": "https://images.pluto.tv/channels/61c09b48d6d97900076e91c5/colorLogoPNG.png",
+      "tvg_id": "Avatar.se@DK",
       "satellites": []
     },
     {
@@ -445,6 +453,14 @@
       "satellites": []
     },
     {
+      "name": "MTV Ava",
+      "group": "Kurdish",
+      "stream": "https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv",
+      "logo": "https://i.imgur.com/rtyJVgB.png",
+      "tvg_id": "AVA.fi",
+      "satellites": []
+    },
+    {
       "name": "Navahang TV (720p)",
       "group": "Kurdish",
       "stream": "https://hls.navahang.live/hls/stream.m3u8",
@@ -586,14 +602,6 @@
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/52067.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg",
       "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Savane TV",
-      "group": "Kurdish",
-      "stream": "https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8",
-      "logo": "https://i.imgur.com/mv3S1Zc.png",
-      "tvg_id": "SavaneTV.bf@SD",
       "satellites": []
     },
     {
@@ -2789,6 +2797,14 @@
       "satellites": []
     },
     {
+      "name": "Brondby TV",
+      "group": "Sports",
+      "stream": "https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8",
+      "logo": "https://images.pluto.tv/channels/685029cda1e091e16ff57fc8/colorLogoPNG_1750246109707.png",
+      "tvg_id": "BrondbyTV.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Budapest Europa Televizio (576p)",
       "group": "Sports",
       "stream": "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8",
@@ -3450,6 +3466,14 @@
       "stream": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
       "logo": "https://i.imgur.com/qBVqtYd.png",
       "tvg_id": "FBTV.tr@SD",
+      "satellites": []
+    },
+    {
+      "name": "FCK Lovinderne",
+      "group": "Sports",
+      "stream": "https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8",
+      "logo": "https://images.pluto.tv/channels/68ac5403de4a734954b5ab75/colorLogoPNG_1756124331035.png",
+      "tvg_id": "FCKLovinderne.se@DK",
       "satellites": []
     },
     {
@@ -4445,6 +4469,14 @@
       "satellites": []
     },
     {
+      "name": "MRTV Sports",
+      "group": "Sports",
+      "stream": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
+      "logo": "https://i.imgur.com/cFTR4kC.png",
+      "tvg_id": "MRTVSports.mm@SD",
+      "satellites": []
+    },
+    {
       "name": "MSG (720p)",
       "group": "Sports",
       "stream": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
@@ -4869,6 +4901,30 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV Fishing",
+      "group": "Sports",
+      "stream": "https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8",
+      "logo": "https://images.pluto.tv/channels/619e1874e0d3a7000729a036/colorLogoPNG.png",
+      "tvg_id": "PlutoTVFishing.se@DK",
+      "satellites": []
+    },
+    {
+      "name": "Pluto TV Handbold Highlights",
+      "group": "Sports",
+      "stream": "https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8",
+      "logo": "https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png",
+      "tvg_id": "PlutoTVHandboldHighlights.se@DK",
+      "satellites": []
+    },
+    {
+      "name": "Pluto TV Handbold Live",
+      "group": "Sports",
+      "stream": "https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8",
+      "logo": "https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png",
+      "tvg_id": "PlutoTVHandboldLive.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV Handboll Highlights",
       "group": "Sports",
       "stream": "https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8",
@@ -4933,6 +4989,14 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV Snooker 900 (Sweden) DK (720p)",
+      "group": "Sports",
+      "stream": "https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8",
+      "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+      "tvg_id": "PlutoTVSnooker900.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV Snooker 900 (Sweden) NO (720p)",
       "group": "Sports",
       "stream": "https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8",
@@ -4962,6 +5026,14 @@
       "stream": "https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8",
       "logo": "https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png",
       "tvg_id": "PlutoTVSport.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Pluto TV Sport (Sweden) DK",
+      "group": "Sports",
+      "stream": "https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8",
+      "logo": "https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png",
+      "tvg_id": "PlutoTVSport.se@DK",
       "satellites": []
     },
     {
@@ -6693,6 +6765,14 @@
       "satellites": []
     },
     {
+      "name": "Viaplay TV (720p)",
+      "group": "Sports",
+      "stream": "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg",
+      "tvg_id": "ViaplayTV.fi@SD",
+      "satellites": []
+    },
+    {
       "name": "viju+ Sport HD (1080p)",
       "group": "Sports",
       "stream": "http://str2.iptvhd.ru:8080/Viasat_Sport/index.m3u8",
@@ -6701,19 +6781,19 @@
       "satellites": []
     },
     {
+      "name": "Vinh Long TV 4 (720p)",
+      "group": "Sports",
+      "stream": "https://dethich.pw/thvl4/index.m3u8",
+      "logo": "https://i.imgur.com/ARhIkvR.png",
+      "tvg_id": "VinhLongTV4.vn@SD",
+      "satellites": []
+    },
+    {
       "name": "Vital Drive",
       "group": "Sports",
       "stream": "https://autopilot.catcast.tv/content/37909/index.m3u8",
       "logo": "https://i.imgur.com/XoR9zLh.png",
       "tvg_id": "VitalDrive.ru@HD",
-      "satellites": []
-    },
-    {
-      "name": "VSBet HD (1080p)",
-      "group": "Sports",
-      "stream": "https://live05.meung.app/live/16226575.m3u8",
-      "logo": "https://i.imgur.com/sMhL2Nl.png",
-      "tvg_id": "VSBetHD.vn@HD",
       "satellites": []
     },
     {
@@ -7133,6 +7213,14 @@
       "satellites": []
     },
     {
+      "name": "2900 Happiness",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8",
+      "logo": "https://images.pluto.tv/channels/6720bc6cdaad7f000872a6e2/colorLogoPNG.png",
+      "tvg_id": "2900Happiness.se@DK",
+      "satellites": []
+    },
+    {
       "name": "2Fast 2 Furious",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/17995.mkv",
@@ -7218,14 +7306,6 @@
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/9570.mp4",
       "logo": "http://best4u.tn:8000/images/042c0712d4d4cf0c7ebf04d11ddda6c5.jpg",
       "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "312 Kino (406p)",
-      "group": "Movies",
-      "stream": "http://176.126.166.43:1935/live/312kino/playlist.m3u8",
-      "logo": "https://i.ibb.co/3m9LrLj/k7gIibH.png",
-      "tvg_id": "312Kino.kg@SD",
       "satellites": []
     },
     {
@@ -7514,6 +7594,14 @@
       "stream": "https://jmp2.uk/plu-6728cab6e482950008b76d8c.m3u8",
       "logo": "https://images.pluto.tv/channels/6728c9c85534bb0008b320a4/colorLogoPNG.png",
       "tvg_id": "7thHeaven.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "7th Heaven DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-6728c9c85534bb0008b320a4.m3u8",
+      "logo": "https://images.pluto.tv/channels/6728c9c85534bb0008b320a4/colorLogoPNG.png",
+      "tvg_id": "7thHeaven.se@DK",
       "satellites": []
     },
     {
@@ -9693,6 +9781,14 @@
       "satellites": []
     },
     {
+      "name": "All Time Movies (576p)",
+      "group": "Movies",
+      "stream": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "logo": "https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj",
+      "tvg_id": "AllTimeMovies.in@SD",
+      "satellites": []
+    },
+    {
       "name": "All Together Now (2020)",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/18096.mp4",
@@ -11197,6 +11293,14 @@
       "satellites": []
     },
     {
+      "name": "Auction Hunters (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-62da73c4ec46c000070f4cb1.m3u8",
+      "logo": "https://images.pluto.tv/channels/62da73c4ec46c000070f4cb1/colorLogoPNG.png",
+      "tvg_id": "AuctionHunters.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Auction Hunters (Sweden) NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-62da7159ca8f220008032730.m3u8",
@@ -11301,22 +11405,6 @@
       "satellites": []
     },
     {
-      "name": "Awlad Embaba S01 E01",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16638.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Awlad Embaba S01 E02",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16639.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Awlad Embaba S01 E03",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16640.mp4",
@@ -11333,57 +11421,9 @@
       "satellites": []
     },
     {
-      "name": "Awlad Embaba S01 E05",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16642.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Awlad Embaba S01 E06",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16643.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Awlad Embaba S01 E07",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16644.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Awlad Embaba S01 E08",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16645.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Awlad Embaba S01 E09",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16646.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Awlad Embaba S01 E10",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16647.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Awlad Embaba S01 E11",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16648.mp4",
       "logo": "https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg",
       "tvg_id": "",
       "satellites": []
@@ -11405,14 +11445,6 @@
       "satellites": []
     },
     {
-      "name": "Awlad Embaba S01 E14",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16651.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Awlad Embaba S01 E16",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16653.mp4",
@@ -11429,22 +11461,6 @@
       "satellites": []
     },
     {
-      "name": "Awlad Embaba S01 E18",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16655.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Awlad Embaba S01 E19",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16656.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Awlad Embaba S01 E20",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16657.mp4",
@@ -11456,14 +11472,6 @@
       "name": "Awlad Embaba S01 E21",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16658.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Awlad Embaba S01 E22",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16659.mp4",
       "logo": "https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg",
       "tvg_id": "",
       "satellites": []
@@ -11517,6 +11525,14 @@
       "satellites": []
     },
     {
+      "name": "Awlad Embaba S01 E30",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16667.mp4",
+      "logo": "https://media.elcinema.com/uploads/_315x420_990b51e5bb0a60cfb8c3ff0c0447440af32e8855be573ba524e1b09acab25b10.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "Awoken (2020)",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/18178.mkv",
@@ -11562,14 +11578,6 @@
       "stream": "http://138.121.15.230:9002/AXN/index.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
       "tvg_id": "AXNLatinAmerica.us@CentralAmerica",
-      "satellites": []
-    },
-    {
-      "name": "AXN Latin America South",
-      "group": "Movies",
-      "stream": "http://45.228.235.116:8000/play/a0iy/index.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-      "tvg_id": "AXNLatinAmerica.us@South",
       "satellites": []
     },
     {
@@ -12413,6 +12421,14 @@
       "satellites": []
     },
     {
+      "name": "Becker (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8",
+      "logo": "https://images.pluto.tv/channels/672e157d7d5da5000812872d/colorLogoPNG-1731073515797.png",
+      "tvg_id": "Becker.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Becker (Sweden) NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-672e1634e482950008c759a5.m3u8",
@@ -12989,14 +13005,6 @@
       "satellites": []
     },
     {
-      "name": "Bela Dalel S01 E44",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16105.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueobcWwikf41pFAk565M7krRJ5m.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Belle (2021)",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/45521.mkv",
@@ -13106,6 +13114,14 @@
       "stream": "https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8",
       "logo": "https://images.pluto.tv/channels/68c32d88f56983aba40052bd/colorLogoPNG_1759246622596.png",
       "tvg_id": "BETComedyMovies.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "BET DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8",
+      "logo": "https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png",
+      "tvg_id": "BET.se@DK",
       "satellites": []
     },
     {
@@ -14253,6 +14269,14 @@
       "satellites": []
     },
     {
+      "name": "Bondi Rescue (Sweden) DK (720p)",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8",
+      "logo": "https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png",
+      "tvg_id": "BondiRescue.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Bondi Rescue (Sweden) NO (720p)",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-660d67c419ca71000849a4e9.m3u8",
@@ -15013,6 +15037,14 @@
       "satellites": []
     },
     {
+      "name": "Britain's Next Top Model DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8",
+      "logo": "https://images.pluto.tv/channels/67a09ddc21af380008088dc3/colorLogoPNG.png",
+      "tvg_id": "BritainsNextTopModel.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Britain's Next Top Model NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-67a09e25c070cf00083c40fa.m3u8",
@@ -15445,6 +15477,14 @@
       "satellites": []
     },
     {
+      "name": "Bull DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8",
+      "logo": "https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png",
+      "tvg_id": "Bull.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Bull NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-6964b9b97d2afdec4f9390f6.m3u8",
@@ -15805,14 +15845,6 @@
       "satellites": []
     },
     {
-      "name": "Canal+ Cinemas (720p)",
-      "group": "Movies",
-      "stream": "http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8",
-      "logo": "https://i.imgur.com/fvPoNEa.jpeg",
-      "tvg_id": "CanalPlusCinemas.fr@SD",
-      "satellites": []
-    },
-    {
       "name": "Capernaum - 2018",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/44524.mp4",
@@ -15930,6 +15962,14 @@
       "stream": "https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8",
       "logo": "https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png",
       "tvg_id": "CarChase.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Car Chase (Sweden) DK (720p)",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8",
+      "logo": "https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png",
+      "tvg_id": "CarChase.se@DK",
       "satellites": []
     },
     {
@@ -18469,6 +18509,14 @@
       "satellites": []
     },
     {
+      "name": "CSI (Sweden)",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8",
+      "logo": "https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png",
+      "tvg_id": "CSI.se@DK",
+      "satellites": []
+    },
+    {
       "name": "CSI (United States)",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8",
@@ -18733,6 +18781,14 @@
       "satellites": []
     },
     {
+      "name": "Dallas Cowboys Cheerleaders DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8",
+      "logo": "https://images.pluto.tv/channels/64e87c6b28cec700088ceb55/colorLogoPNG.png",
+      "tvg_id": "DallasCowboysCheerleaders.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Dallas Cowboys Cheerleaders NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-64e77016324d190008291c13.m3u8",
@@ -18962,6 +19018,14 @@
       "stream": "https://jmp2.uk/plu-692edd6bdb8695f63e14f3b9.m3u8",
       "logo": "https://images.pluto.tv/channels/692edc78d52ea9e4858cf78f/colorLogoPNG_1768226003744.png",
       "tvg_id": "DatingNakedUK.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Dating Naked UK DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8",
+      "logo": "https://images.pluto.tv/channels/692edc78d52ea9e4858cf78f/colorLogoPNG_1768226003744.png",
+      "tvg_id": "DatingNakedUK.se@DK",
       "satellites": []
     },
     {
@@ -19773,6 +19837,14 @@
       "satellites": []
     },
     {
+      "name": "Diagnosis Murder DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8",
+      "logo": "https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png",
+      "tvg_id": "DiagnosisMurder.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Diagnosis Murder NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8",
@@ -20005,65 +20077,49 @@
       "satellites": []
     },
     {
-      "name": "Divorce myself of you S01 E05",
+      "name": "Divorce myself of you S01 E04",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17012.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17011.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "Divorce myself of you S01 E06",
+      "name": "Divorce myself of you S01 E08",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17013.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17015.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "Divorce myself of you S01 E09",
+      "name": "Divorce myself of you S01 E13",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17016.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17020.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "Divorce myself of you S01 E21",
+      "name": "Divorce myself of you S01 E15",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17028.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17022.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "Divorce myself of you S01 E23",
+      "name": "Divorce myself of you S01 E38",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17030.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17045.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "Divorce myself of you S01 E30",
+      "name": "Divorce myself of you S01 E46",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17037.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Divorce myself of you S01 E40",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17047.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Divorce myself of you S01 E44",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17051.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17053.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMygGyjUBZPTZNa5O9u8n5n9S9V.jpg",
       "tvg_id": "",
       "satellites": []
@@ -21357,14 +21413,6 @@
       "satellites": []
     },
     {
-      "name": "Endzeit.2018",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/movie/26842788/26842788/18542.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZViaX2oRnI0uM3Gf87Z7eCZ3hE.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Enemy Lines (2020)",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/17896.mp4",
@@ -21741,10 +21789,10 @@
       "satellites": []
     },
     {
-      "name": "Everything Everywhere All at Once - 2022",
+      "name": "Everything Everywhere All at Once (2022)",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/movie/26842788/26842788/44213.mkv",
-      "logo": "http://best4u.biz:8000/images/dd31428b33327f67777839b4339f1079.jpg",
+      "stream": "http://best4u.biz:8080/movie/26842788/26842788/51989.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
       "tvg_id": "",
       "satellites": []
     },
@@ -21933,9 +21981,65 @@
       "satellites": []
     },
     {
+      "name": "Extra Sugar S01 E02",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16949.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extra Sugar S01 E03",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16950.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extra Sugar S01 E05",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16952.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extra Sugar S01 E06",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16953.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "Extra Sugar S01 E07",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16954.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extra Sugar S01 E08",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16955.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extra Sugar S01 E09",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16956.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extra Sugar S01 E11",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16958.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
       "tvg_id": "",
       "satellites": []
@@ -21949,6 +22053,38 @@
       "satellites": []
     },
     {
+      "name": "Extra Sugar S01 E15",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16962.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extra Sugar S01 E16",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16963.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extra Sugar S01 E17",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16964.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extra Sugar S01 E18",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16965.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "Extra Sugar S01 E19",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16966.mp4",
@@ -21957,9 +22093,41 @@
       "satellites": []
     },
     {
-      "name": "Extra Sugar S01 E22",
+      "name": "Extra Sugar S01 E21",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16969.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16968.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extra Sugar S01 E23",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16970.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extra Sugar S01 E24",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16971.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extra Sugar S01 E27",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16974.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extra Sugar S01 E29",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16976.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OU2WPxWJ75yL5pvUNneZbMn62.jpg",
       "tvg_id": "",
       "satellites": []
@@ -21985,6 +22153,46 @@
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/18565.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlfDxbGEsW58vGhFljKkcR5IxDj.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extremely Dangerous S01 E02",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16912.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fMIrvSmmF8qt9FS68PRuzcTY8b.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extremely Dangerous S01 E04",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16914.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/amaz7ffj7MKaqxa08fzQAcvUq93.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extremely Dangerous S01 E05",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16915.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuTNCW75bw6jl4I2WGSJuQuiUtf.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extremely Dangerous S01 E06",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16916.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dC6GgYLIWFbi1JjbGgqmekUGRkA.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Extremely Dangerous S01 E07",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16917.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dC6GgYLIWFbi1JjbGgqmekUGRkA.jpg",
       "tvg_id": "",
       "satellites": []
     },
@@ -22037,14 +22245,6 @@
       "satellites": []
     },
     {
-      "name": "Faceless (2021)",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/movie/26842788/26842788/18569.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0uLZZ56clKhgyLY4dLDJ5ddGCp.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Fahrenheit 451 - 1966",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/9724.mp4",
@@ -22065,22 +22265,6 @@
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/54643.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGgojtD6vJKYeCfktAhhA1pmH0n.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Faith (1990)",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/movie/26842788/26842788/18570.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeuwTpr979YrApjADGbDMRtxyTy.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Faith Based (2020)",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/movie/26842788/26842788/18571.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EobXh41lnhIo9RPoH3Sf2exxu2.jpg",
       "tvg_id": "",
       "satellites": []
     },
@@ -22197,6 +22381,14 @@
       "satellites": []
     },
     {
+      "name": "Farscape",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-699c1b4c9c3b075ecd513139.m3u8",
+      "logo": "https://i.imgur.com/2WH4lSc.png",
+      "tvg_id": "Farscape.us@SD",
+      "satellites": []
+    },
+    {
       "name": "Fast and Fierce: Death Race (2020)",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/18584.mkv",
@@ -22217,14 +22409,6 @@
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/18585.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDztZS30sheoqnJnKyO4QMnf3f8.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Fast & Furious 10",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/movie/26842788/26842788/18581.mkv",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DyEk84XnbJEdPlGF43crxfdtHH.jpg",
       "tvg_id": "",
       "satellites": []
     },
@@ -22265,14 +22449,6 @@
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/18586.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4EAJ6PXNbxBb2xrdTrT2SlJlCH.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Fatal Fiancé (2021)",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/movie/26842788/26842788/18588.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6xBOM1KmgXMJhTyWMjpR1NRx54.jpg",
       "tvg_id": "",
       "satellites": []
     },
@@ -22346,6 +22522,14 @@
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/36184.mkv",
       "logo": "http://ultimeiptv.net:8000/images/b55ca808c224ec5f323045d9ba290c84.jpg",
       "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "FBoy Island",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8",
+      "logo": "https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png",
+      "tvg_id": "FBoyIsland.se@DK",
       "satellites": []
     },
     {
@@ -23205,86 +23389,6 @@
       "satellites": []
     },
     {
-      "name": "Forgetfulness Game S01 E01",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16568.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E02",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16569.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E03",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16570.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E04",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16571.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E05",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16572.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E06",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16573.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E07",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16574.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E08",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16575.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E09",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16576.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E10",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16577.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Forgetfulness Game S01 E11",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16578.mp4",
@@ -23296,150 +23400,6 @@
       "name": "Forgetfulness Game S01 E12",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16579.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E13",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16580.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E14",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16581.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E15",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16582.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E16",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16583.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E17",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16584.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E18",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16585.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E19",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16586.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E20",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16587.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E21",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16588.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E22",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16589.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E23",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16590.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E24",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16591.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E25",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16592.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E26",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16593.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E27",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16594.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E28",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16595.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E29",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16596.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Forgetfulness Game S01 E30",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16597.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyTIpNckWNlmuoMkKUJ8owrfEBm.jpg",
       "tvg_id": "",
       "satellites": []
@@ -24149,14 +24109,6 @@
       "satellites": []
     },
     {
-      "name": "Furious 7 (2015)",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/movie/26842788/26842788/18627.mkv",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wurKlC3VKUgcfsn0K51MJYEleS2.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Fury (2014)",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/18628.mkv",
@@ -24313,14 +24265,6 @@
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/36190.mkv",
       "logo": "http://ultimeiptv.net:8000/images/db8452829dd4fb2c09c415077609c57c.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Get Carter (2000)",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/movie/26842788/26842788/18635.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VpfpxZCewEHTrUYwMb9pb9ggSz.jpg",
       "tvg_id": "",
       "satellites": []
     },
@@ -24618,6 +24562,14 @@
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/36191.mkv",
       "logo": "http://ultimeiptv.net:8000/images/8585ba96d792988d465ff772d874f861.jpg",
       "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Ghost Dimension",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-619e1bb3e9af5a0007f235ad.m3u8",
+      "logo": "https://i.imgur.com/a0jOxez.png",
+      "tvg_id": "GhostDimension.us@UK",
       "satellites": []
     },
     {
@@ -26053,6 +26005,14 @@
       "satellites": []
     },
     {
+      "name": "Happy Days (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8",
+      "logo": "https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png",
+      "tvg_id": "HappyDays.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Happy Days (Sweden) NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8",
@@ -26589,6 +26549,14 @@
       "satellites": []
     },
     {
+      "name": "Highway to Heaven",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-68bff9a63efb41cd97562e46.m3u8",
+      "logo": "https://i.imgur.com/e6pvibn.png",
+      "tvg_id": "HighwaytoHeaven.us@UK",
+      "satellites": []
+    },
+    {
       "name": "Hijack (1971)",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/61254.mp4",
@@ -27114,6 +27082,14 @@
       "stream": "https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8",
       "logo": "https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png",
       "tvg_id": "HouseofLies.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "House of Lies DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8",
+      "logo": "https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png",
+      "tvg_id": "HouseofLies.se@DK",
       "satellites": []
     },
     {
@@ -29301,6 +29277,14 @@
       "satellites": []
     },
     {
+      "name": "JAG (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8",
+      "logo": "https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png",
+      "tvg_id": "JAG.se@DK",
+      "satellites": []
+    },
+    {
       "name": "JAG (Sweden) NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8",
@@ -29909,14 +29893,6 @@
       "satellites": []
     },
     {
-      "name": "John Wick (2014)",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/movie/26842788/26842788/18836.mkv",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "John Wick: Chapter 2 (2017)",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/18837.mkv",
@@ -30082,6 +30058,14 @@
       "stream": "https://jmp2.uk/plu-6380c4ab81c8d2000790fbf3.m3u8",
       "logo": "https://images.pluto.tv/channels/6380c36389eccc000858c50f/colorLogoPNG.png",
       "tvg_id": "JudgeJudy.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Judge Judy (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8",
+      "logo": "https://images.pluto.tv/channels/6380c36389eccc000858c50f/colorLogoPNG.png",
+      "tvg_id": "JudgeJudy.se@DK",
       "satellites": []
     },
     {
@@ -31189,11 +31173,11 @@
       "satellites": []
     },
     {
-      "name": "Kinopremyera (1080p)",
+      "name": "Kinopremyera HD (1080p)",
       "group": "Movies",
-      "stream": "http://5.188.159.128:8070/KINOPREMIERA/index.m3u8",
+      "stream": "https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv",
       "logo": "https://i.imgur.com/s0UYT8T.png",
-      "tvg_id": "Kinopremyera.ru@SD",
+      "tvg_id": "Kinopremyera.ru@HD",
       "satellites": []
     },
     {
@@ -31202,6 +31186,14 @@
       "stream": "http://stream.mcquack.net/170/index.m3u8",
       "logo": "https://i.imgur.com/4BF5VeK.png",
       "tvg_id": "Kinosemja.ru@SD",
+      "satellites": []
+    },
+    {
+      "name": "Kinosvidanie (576p)",
+      "group": "Movies",
+      "stream": "http://5.188.159.128:8070/kinosvidanie/index.m3u8",
+      "logo": "https://i.imgur.com/ZRaWqxj.png",
+      "tvg_id": "Kinosvidanie.ru@SD",
       "satellites": []
     },
     {
@@ -33237,6 +33229,14 @@
       "satellites": []
     },
     {
+      "name": "Lost.Bayou.2020",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/movie/26842788/26842788/18935.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/41qVwAz4ZCc8g7YQETQih8fpB8q.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "Lost Bullet 2 (2022)",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/52039.mkv",
@@ -33421,62 +33421,6 @@
       "satellites": []
     },
     {
-      "name": "Lu'lu' S01 E01",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16598.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZFVMKapWbpWjXw2pGH11jtsRUW.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E02",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16599.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FlXP5rtwwBMQOFdY7vW26rJhs6.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E03",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16600.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzRhUzMs64SV6A9cTj51LOxlSX7.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E04",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16601.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAaB8RVny0ihdGqjwlWTxRlmOmH.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E05",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16602.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6hgO7VBKu0pv7IgnUsuxjup8oP.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E06",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16603.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT5PfoCTFfrU2IFMmS3uEis2Pto.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E07",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16604.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fiozhgkDI1YKCjw0c4i7s3bl1BY.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Lu'lu' S01 E08",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16605.mp4",
@@ -33485,258 +33429,10 @@
       "satellites": []
     },
     {
-      "name": "Lu'lu' S01 E09",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16606.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzSrfN3kRHprSBTFl2WD4a2jhrC.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E10",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16607.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jGnrVNQKjoFEpobQ61RbDboFvH.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E11",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16608.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPJNnE2B8nGJW5KthVS3ppngxEM.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E12",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16609.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6USlH1u6OWev5HPLfAB32n5u1PL.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E13",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16610.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcEgZFaF4P7wgLdpBqefNKcLq5m.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E14",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16611.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aifq97H3iffGxBj8KnpvQTcp8FZ.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E15",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16612.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oBXDtFP5RkIWHE4zzJBhVKlux4.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E16",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16613.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBbQWY8Y0vq4XoJOqX1EFoeeFzI.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E17",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16614.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xWjdoLVZ0Q4xNItIe1ru8JfK4w.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E18",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16615.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/81mM0BQDo29xFUArs2hcgivhunY.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E19",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16616.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocB4xDj6NH0O2vGlPGmQRPO0pDM.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E20",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16617.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBmveO6iiys1JcQylVmxDlHk53W.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E21",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16618.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/59yg7qpgNdwBQQkEAQHME7pPWbR.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E22",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16619.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vWa7BD64aRpsi0zm23c8FryeEg.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E23",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16620.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzn0ljjDe4zQFfvnUZvJx4w9FdY.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E24",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16621.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y39qh0P604zEZliuazvQr2akMjF.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Lu'lu' S01 E25",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16622.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgPFUQ0rEH5BXwG17NgZA9UnTle.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E26",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16623.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/adfpq3YgN15EWzNlV1WY275Emvi.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E27",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16624.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTaMZvcOFStyABUrT6c13bU85Pz.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E28",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16625.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDjLKO97F0biJuiz06F2Y6Lb0DX.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E29",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16626.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/98093vzw2tmM20lIRtpHxeWd1Ay.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E30",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16627.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/udnVwGtrI4VIsqPxSbaAKBTDyJX.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E31",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16628.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFB25QuRvj8WqbcxW4M6HEO5r6Q.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E32",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16629.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqYGFQj7bF9bZjsBd3KeWksi4sM.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E33",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16630.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sn5S7qho7ZjC8NpTCtzAsz88hdZ.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E34",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16631.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbjEB0dwiQsq8GFPARI7BTj8r4i.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E35",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16632.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgUGEC7F0llf1Msd4UFfcfnlN7M.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E36",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16633.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ruHmETHSbRzPrIjbjnWMYB1wFK.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E37",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16634.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLkEJhTlL5MkzTjVdipbQ0FDF7K.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E38",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16635.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBRVytaUL7A2MlJDuZGHzESgO1.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E39",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16636.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sF7b0Xl3QKPu7SA2ayX1lBDtKdX.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Lu'lu' S01 E40",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16637.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGAF7fqhmu3nsai3yi6sXUGk2Zl.jpg",
       "tvg_id": "",
       "satellites": []
     },
@@ -33906,6 +33602,14 @@
       "stream": "https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8",
       "logo": "https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png",
       "tvg_id": "MacGyver.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "MacGyver (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8",
+      "logo": "https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png",
+      "tvg_id": "MacGyver.se@DK",
       "satellites": []
     },
     {
@@ -34733,6 +34437,14 @@
       "satellites": []
     },
     {
+      "name": "Matlock (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8",
+      "logo": "https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png",
+      "tvg_id": "Matlock.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Matlock (Sweden) NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8",
@@ -34957,6 +34669,14 @@
       "satellites": []
     },
     {
+      "name": "Medium (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-68f0f54ca362b63a8df4d5a9.m3u8",
+      "logo": "https://images.pluto.tv/channels/68f0f54ca362b63a8df4d5a9/colorLogoPNG_1760622009795.png",
+      "tvg_id": "Medium.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Medium (Sweden) NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-68f0f602a362b63a8df4efb4.m3u8",
@@ -35114,6 +34834,14 @@
       "stream": "https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8",
       "logo": "https://images.pluto.tv/channels/63048147b09fd60007847a08/colorLogoPNG.png",
       "tvg_id": "MerryChristmasfromViafree.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Merry Christmas from Viafree DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8",
+      "logo": "https://images.pluto.tv/channels/63048147b09fd60007847a08/colorLogoPNG.png",
+      "tvg_id": "MerryChristmasfromViafree.se@DK",
       "satellites": []
     },
     {
@@ -35501,6 +35229,14 @@
       "satellites": []
     },
     {
+      "name": "Mission Impossible (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8",
+      "logo": "https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png",
+      "tvg_id": "MissionImpossible.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Mission Impossible (Sweden) NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8",
@@ -35801,14 +35537,6 @@
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/52487.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Mord im Orient-Express",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/movie/26842788/26842788/17913.mkv",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/subhzhanuzxPhh1jotcRJa8eJdU.jpg",
       "tvg_id": "",
       "satellites": []
     },
@@ -36661,17 +36389,17 @@
       "satellites": []
     },
     {
-      "name": "My Destiny and Your Destiny S01 E03",
+      "name": "My Destiny and Your Destiny S01 E04",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16670.mkv",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16671.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "My Destiny and Your Destiny S01 E04",
+      "name": "My Destiny and Your Destiny S01 E05",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16671.mkv",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16672.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
       "tvg_id": "",
       "satellites": []
@@ -36701,14 +36429,6 @@
       "satellites": []
     },
     {
-      "name": "My Destiny and Your Destiny S01 E09",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16676.mkv",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "My Destiny and Your Destiny S01 E10",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16677.mkv",
@@ -36717,9 +36437,25 @@
       "satellites": []
     },
     {
+      "name": "My Destiny and Your Destiny S01 E11",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16678.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "My Destiny and Your Destiny S01 E12",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16679.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "My Destiny and Your Destiny S01 E13",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16680.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
       "tvg_id": "",
       "satellites": []
@@ -36741,14 +36477,6 @@
       "satellites": []
     },
     {
-      "name": "My Destiny and Your Destiny S01 E16",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16683.mkv",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "My Destiny and Your Destiny S01 E17",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16684.mkv",
@@ -36757,73 +36485,49 @@
       "satellites": []
     },
     {
-      "name": "My Destiny and Your Destiny S01 E22",
+      "name": "My Destiny and Your Destiny S01 E18",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16689.mkv",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16685.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "My Destiny and Your Destiny S01 E26",
+      "name": "My Destiny and Your Destiny S01 E20",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16693.mkv",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16687.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "My Destiny and Your Destiny S01 E28",
+      "name": "My Destiny and Your Destiny S01 E24",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16695.mkv",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16691.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "My Destiny and Your Destiny S01 E32",
+      "name": "My Destiny and Your Destiny S01 E29",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16699.mkv",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16696.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "My Destiny and Your Destiny S01 E33",
+      "name": "My Destiny and Your Destiny S01 E39",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16700.mkv",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16706.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "My Destiny and Your Destiny S01 E34",
+      "name": "My Destiny and Your Destiny S01 E40",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16701.mkv",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "My Destiny and Your Destiny S01 E36",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16703.mkv",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "My Destiny and Your Destiny S01 E38",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16705.mkv",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "My Destiny and Your Destiny S01 E41",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16708.mkv",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16707.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkWfqMp1MVSRBtcPsnkc6BjB7wt.jpg",
       "tvg_id": "",
       "satellites": []
@@ -37621,11 +37325,43 @@
       "satellites": []
     },
     {
+      "name": "NCIS: Det bedste med Gibbs",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8",
+      "logo": "https://images.pluto.tv/channels/6901d952ec12c3c759fdc7cd/colorLogoPNG_1763121346503.png",
+      "tvg_id": "NCISDetbedstemedGibbs.se@DK",
+      "satellites": []
+    },
+    {
+      "name": "NCIS: Det bedste med Tony & Ziva",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8",
+      "logo": "https://images.pluto.tv/channels/68921b2f4fa995eff24df6c8/colorLogoPNG_1756105299557.png",
+      "tvg_id": "NCISDetbedstemedTonyZiva.se@DK",
+      "satellites": []
+    },
+    {
+      "name": "NCIS: Los Angeles (Sweden)",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8",
+      "logo": "https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png",
+      "tvg_id": "NCISLosAngeles.se@DK",
+      "satellites": []
+    },
+    {
       "name": "NCIS: Los Angeles (United States)",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8",
       "logo": "https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png",
       "tvg_id": "NCISLosAngeles.us@CA",
+      "satellites": []
+    },
+    {
+      "name": "NCIS (Sweden)",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8",
+      "logo": "https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png",
+      "tvg_id": "NCIS.se@DK",
       "satellites": []
     },
     {
@@ -38677,6 +38413,14 @@
       "satellites": []
     },
     {
+      "name": "NonStop Kung Fu DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8",
+      "logo": "https://images.pluto.tv/channels/6728d2be529ac9000830dc15/colorLogoPNG_1732110461260.png",
+      "tvg_id": "NonStopKungFu.se@DK",
+      "satellites": []
+    },
+    {
       "name": "NonStop Kung Fu NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-6728d30cdaad7f000881d979.m3u8",
@@ -38866,6 +38610,14 @@
       "stream": "https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8",
       "logo": "https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png",
       "tvg_id": "Numb3rs.se@NO",
+      "satellites": []
+    },
+    {
+      "name": "Numbers (Sweden)",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8",
+      "logo": "https://images.pluto.tv/channels/62bebb3a67307900077a7f9d/colorLogoPNG.png",
+      "tvg_id": "Numbers.se@DK",
       "satellites": []
     },
     {
@@ -39477,241 +39229,9 @@
       "satellites": []
     },
     {
-      "name": "Our Nights 80 S01 E01",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16538.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E02",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16539.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E03",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16540.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E04",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16541.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E05",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16542.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Our Nights 80 S01 E06",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16543.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E07",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16544.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E08",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16545.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E09",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16546.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E10",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16547.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E11",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16548.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E12",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16549.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E13",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16550.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E14",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16551.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E15",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16552.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E16",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16553.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E17",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16554.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E18",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16555.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E19",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16556.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E20",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16557.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E21",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16558.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E22",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16559.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E23",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16560.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E24",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16561.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E25",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16562.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E26",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16563.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E27",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16564.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E28",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16565.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E29",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16566.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Our Nights 80 S01 E30",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16567.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRz1KJ4q0p6t6dpTygy1JtSYayS.jpg",
       "tvg_id": "",
       "satellites": []
@@ -40477,6 +39997,14 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV Action (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8",
+      "logo": "https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png",
+      "tvg_id": "PlutoTVAction.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV Action (Sweden) NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8",
@@ -40578,6 +40106,14 @@
       "stream": "https://jmp2.uk/plu-65b917720d9ab4000833f323.m3u8",
       "logo": "https://images.pluto.tv/channels/64be7398e4391c0008cdedfe/colorLogoPNG_1776936976930.png",
       "tvg_id": "PlutoTVBudTerence.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Pluto TV Bud & Terence (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-65b915b1dc10a40008d53797.m3u8",
+      "logo": "https://images.pluto.tv/channels/64be7398e4391c0008cdedfe/colorLogoPNG_1776936976930.png",
+      "tvg_id": "PlutoTVBudTerence.se@DK",
       "satellites": []
     },
     {
@@ -40917,6 +40453,14 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV Danske klassikere",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-67d2b814fe36d6e7b1d2318a.m3u8",
+      "logo": "https://images.pluto.tv/channels/67d2b814fe36d6e7b1d2318a/colorLogoPNG.png",
+      "tvg_id": "PlutoTVDanskeklassikere.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV Dating (720p)",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8",
@@ -41085,6 +40629,14 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV Film (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8",
+      "logo": "https://images.pluto.tv/channels/61c09515fbb4b50007d221f5/colorLogoPNG.png",
+      "tvg_id": "PlutoTVFilm.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV Film (Sweden) NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-61c1e1e55deef000075aed0c.m3u8",
@@ -41157,6 +40709,14 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV Harlequin DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8",
+      "logo": "https://images.pluto.tv/channels/68c01afa3efb41cd9759dafb/colorLogoPNG_1770018342774.png",
+      "tvg_id": "PlutoTVHarlequin.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV Harlequin NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-68c01b9a6bdcf3b9a64febcc.m3u8",
@@ -41205,6 +40765,14 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV Horror (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8",
+      "logo": "https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png",
+      "tvg_id": "PlutoTVHorror.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV Horror (Sweden) NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8",
@@ -41226,6 +40794,14 @@
       "stream": "https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8",
       "logo": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png",
       "tvg_id": "PlutoTVHorror.us@CA",
+      "satellites": []
+    },
+    {
+      "name": "Pluto TV Humor (Sweden)",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8",
+      "logo": "https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png",
+      "tvg_id": "PlutoTVHumor.se@DK",
       "satellites": []
     },
     {
@@ -41258,6 +40834,14 @@
       "stream": "https://jmp2.uk/plu-655caaaac0fc8800086f5d99.m3u8",
       "logo": "https://images.pluto.tv/channels/655ca7aa635c3c000855d655/colorLogoPNG.png",
       "tvg_id": "PlutoTVJohnWayne.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Pluto TV John Wayne DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8",
+      "logo": "https://images.pluto.tv/channels/655ca7aa635c3c000855d655/colorLogoPNG.png",
+      "tvg_id": "PlutoTVJohnWayne.se@DK",
       "satellites": []
     },
     {
@@ -41298,6 +40882,14 @@
       "stream": "https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8",
       "logo": "https://images.pluto.tv/channels/66337de656fc840008ff7a65/colorLogoPNG.png",
       "tvg_id": "PlutoTVKultComedies.de@DACH",
+      "satellites": []
+    },
+    {
+      "name": "Pluto TV Kultfilm",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8",
+      "logo": "https://images.pluto.tv/channels/63dbe7ed51f5d000083e9499/colorLogoPNG.png",
+      "tvg_id": "PlutoTVKultfilm.se@DK",
       "satellites": []
     },
     {
@@ -41533,6 +41125,14 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV Paranormal (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8",
+      "logo": "https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png",
+      "tvg_id": "PlutoTVParanormal.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV Polar",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8",
@@ -41621,6 +41221,14 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV Romantik DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8",
+      "logo": "https://images.pluto.tv/channels/63a1c954d3897300079fcb12/colorLogoPNG_1767773445743.png",
+      "tvg_id": "PlutoTVRomantik.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV Romantikk",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8",
@@ -41682,6 +41290,14 @@
       "stream": "https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8",
       "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
       "tvg_id": "PlutoTVSciFi.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Pluto TV Sci-Fi (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8",
+      "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
+      "tvg_id": "PlutoTVSciFi.se@DK",
       "satellites": []
     },
     {
@@ -41941,6 +41557,14 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV Star Trek (Sweden)",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8",
+      "logo": "https://images.pluto.tv/channels/61c1979dfa307000070bbe4d/colorLogoPNG.png",
+      "tvg_id": "PlutoTVStarTrek.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV Storage Wars (720p)",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8",
@@ -42069,6 +41693,14 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV True Crime (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
+      "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
+      "tvg_id": "PlutoTVTrueCrime.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV True Crime (Sweden) NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
@@ -42173,11 +41805,27 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV Wild West DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8",
+      "logo": "https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png",
+      "tvg_id": "PlutoTVWildWest.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV Wild West NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8",
       "logo": "https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png",
       "tvg_id": "PlutoTVWildWest.se@NO",
+      "satellites": []
+    },
+    {
+      "name": "Pluto TV Wipeout",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8",
+      "logo": "https://i.imgur.com/KVTNBFr.png",
+      "tvg_id": "PlutoTVWipeout.us@SD",
       "satellites": []
     },
     {
@@ -42781,14 +42429,6 @@
       "satellites": []
     },
     {
-      "name": "raejl set sitat S01 E03",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16815.mkv",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "raejl set sitat S01 E04",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16816.mkv",
@@ -42805,9 +42445,57 @@
       "satellites": []
     },
     {
+      "name": "raejl set sitat S01 E06",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16818.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "raejl set sitat S01 E09",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16821.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "raejl set sitat S01 E10",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16822.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "raejl set sitat S01 E12",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16824.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "raejl set sitat S01 E13",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16825.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "raejl set sitat S01 E15",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16827.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "raejl set sitat S01 E17",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16829.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
       "tvg_id": "",
       "satellites": []
@@ -42821,9 +42509,17 @@
       "satellites": []
     },
     {
-      "name": "raejl set sitat S01 E32",
+      "name": "raejl set sitat S01 E25",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16844.mkv",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16837.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "raejl set sitat S01 E31",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16843.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
       "tvg_id": "",
       "satellites": []
@@ -43229,6 +42925,14 @@
       "satellites": []
     },
     {
+      "name": "Rawhide (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8",
+      "logo": "https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png",
+      "tvg_id": "Rawhide.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Rawhide (Sweden) NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8",
@@ -43605,9 +43309,25 @@
       "satellites": []
     },
     {
-      "name": "rijalet el beit S01 E02",
+      "name": "rijalet el beit S01 E01",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16849.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16848.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "rijalet el beit S01 E03",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16850.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "rijalet el beit S01 E08",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16855.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
       "tvg_id": "",
       "satellites": []
@@ -43616,6 +43336,46 @@
       "name": "rijalet el beit S01 E11",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16858.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "rijalet el beit S01 E12",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16859.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "rijalet el beit S01 E14",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16861.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "rijalet el beit S01 E20",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16867.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "rijalet el beit S01 E25",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16872.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "rijalet el beit S01 E26",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16873.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
       "tvg_id": "",
       "satellites": []
@@ -44141,49 +43901,81 @@
       "satellites": []
     },
     {
-      "name": "sandouk S01 E01",
+      "name": "sandouk S01 E07",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16878.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16884.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "sandouk S01 E02",
+      "name": "sandouk S01 E08",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16879.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16885.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "sandouk S01 E03",
+      "name": "sandouk S01 E13",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16880.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16890.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "sandouk S01 E18",
+      "name": "sandouk S01 E15",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16895.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16892.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "sandouk S01 E19",
+      "name": "sandouk S01 E17",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16896.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16894.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "sandouk S01 E26",
+      "name": "sandouk S01 E29",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16903.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16906.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "sandouk S01 E30",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16907.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "sandouk S01 E31",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16908.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "sandouk S01 E32",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16909.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "sandouk S01 E33",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16910.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG6OX3F07q7sucl5KLwC6kPdWZO.jpg",
       "tvg_id": "",
       "satellites": []
@@ -44322,6 +44114,14 @@
       "stream": "https://jmp2.uk/plu-63a1c9c2847a090007f248da.m3u8",
       "logo": "https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoPNG.png",
       "tvg_id": "Scorpion.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Scorpion (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-63a1caefc8d285000799e8af.m3u8",
+      "logo": "https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoPNG.png",
+      "tvg_id": "Scorpion.se@DK",
       "satellites": []
     },
     {
@@ -44605,25 +44405,49 @@
       "satellites": []
     },
     {
-      "name": "Shahed Ayan S01 E03",
+      "name": "Shahed Ayan S01 E01",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16920.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16918.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "Shahed Ayan S01 E06",
+      "name": "Shahed Ayan S01 E02",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16923.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16919.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "Shahed Ayan S01 E13",
+      "name": "Shahed Ayan S01 E07",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16930.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16924.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Shahed Ayan S01 E09",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16926.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Shahed Ayan S01 E10",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16927.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Shahed Ayan S01 E11",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16928.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
       "tvg_id": "",
       "satellites": []
@@ -44637,9 +44461,17 @@
       "satellites": []
     },
     {
-      "name": "Shahed Ayan S01 E17",
+      "name": "Shahed Ayan S01 E18",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16934.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16935.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Shahed Ayan S01 E19",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16936.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
       "tvg_id": "",
       "satellites": []
@@ -44648,6 +44480,70 @@
       "name": "Shahed Ayan S01 E21",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16938.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Shahed Ayan S01 E22",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16939.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Shahed Ayan S01 E24",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16941.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Shahed Ayan S01 E25",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16942.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Shahed Ayan S01 E26",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16943.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Shahed Ayan S01 E27",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16944.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Shahed Ayan S01 E28",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16945.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Shahed Ayan S01 E29",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16946.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Shahed Ayan S01 E30",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16947.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGoGbX7mDKcnI9TXSA66yXTdX.jpg",
       "tvg_id": "",
       "satellites": []
@@ -45661,6 +45557,14 @@
       "satellites": []
     },
     {
+      "name": "Soltanet Al Moez S01 E06",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16983.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DgVwdgkjTj0OcAwCbsm0kcm3F5.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "Soltanet Al Moez S01 E07",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16984.mp4",
@@ -45669,9 +45573,49 @@
       "satellites": []
     },
     {
-      "name": "Soltanet Al Moez S01 E11",
+      "name": "Soltanet Al Moez S01 E09",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16988.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16986.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DgVwdgkjTj0OcAwCbsm0kcm3F5.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Soltanet Al Moez S01 E15",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16992.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DgVwdgkjTj0OcAwCbsm0kcm3F5.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Soltanet Al Moez S01 E17",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16994.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DgVwdgkjTj0OcAwCbsm0kcm3F5.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Soltanet Al Moez S01 E19",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16996.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DgVwdgkjTj0OcAwCbsm0kcm3F5.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Soltanet Al Moez S01 E21",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16998.mp4",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DgVwdgkjTj0OcAwCbsm0kcm3F5.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Soltanet Al Moez S01 E29",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17006.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DgVwdgkjTj0OcAwCbsm0kcm3F5.jpg",
       "tvg_id": "",
       "satellites": []
@@ -45689,14 +45633,6 @@
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/72466.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iWGGxHEwswZGvPSoMZlLFf0PNq.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Sonchiriya - 2019",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/movie/26842788/26842788/36302.mkv",
-      "logo": "http://ultimeiptv.net:8000/images/ed9a8c1f8d16e38466134474eb02ddca.jpg",
       "tvg_id": "",
       "satellites": []
     },
@@ -46141,6 +46077,14 @@
       "satellites": []
     },
     {
+      "name": "Star Trek Movies DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8",
+      "logo": "https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png",
+      "tvg_id": "StarTrekMovies.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Star Trek Movies NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8",
@@ -46194,6 +46138,14 @@
       "stream": "https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8",
       "logo": "https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png",
       "tvg_id": "StarTrekTheOriginalSeries.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Star Trek: The Original Series (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-693add137e308621c051e733.m3u8",
+      "logo": "https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png",
+      "tvg_id": "StarTrekTheOriginalSeries.se@DK",
       "satellites": []
     },
     {
@@ -48845,34 +48797,10 @@
       "satellites": []
     },
     {
-      "name": "The Cup Reader S01 E02",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16804.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnj5h5yrDk4hXJRcCZ3z6hZDsK8.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "The Cup Reader S01 E03",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16805.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxHUi8SNsqWH5xv9UQ3mXQWZTAx.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "The Cup Reader S01 E04",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16806.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNI3kS1zF6AeTtCkdpYaf9Q3D83.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "The Cup Reader S01 E07",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16809.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5lLlpInwF4cHUTuHjBpCDJ6m5H.jpg",
       "tvg_id": "",
       "satellites": []
     },
@@ -49025,30 +48953,6 @@
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/45542.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "The End S01 E09",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16751.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgU8k57U5IEZ7PFkVCFyG2wd8p1.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "The End S01 E23",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16765.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgU8k57U5IEZ7PFkVCFyG2wd8p1.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "The End S01 E24",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16766.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgU8k57U5IEZ7PFkVCFyG2wd8p1.jpg",
       "tvg_id": "",
       "satellites": []
     },
@@ -49733,6 +49637,14 @@
       "satellites": []
     },
     {
+      "name": "The L Word DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8",
+      "logo": "https://images.pluto.tv/channels/693ae48864476d678e9b6235/colorLogoPNG_1768226798170.png",
+      "tvg_id": "TheLWord.se@DK",
+      "satellites": []
+    },
+    {
       "name": "The L Word NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-693ae4b616c2bba998852c21.m3u8",
@@ -50181,6 +50093,14 @@
       "satellites": []
     },
     {
+      "name": "The New Detectives (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-618147d2a814250007b42916.m3u8",
+      "logo": "https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png",
+      "tvg_id": "TheNewDetectives.se@DK",
+      "satellites": []
+    },
+    {
       "name": "The New Detectives (Sweden) NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-6181511c1e13690007b143c2.m3u8",
@@ -50581,57 +50501,17 @@
       "satellites": []
     },
     {
-      "name": "The Prince S01 E04",
+      "name": "The Prince S01 E06",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16776.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16778.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "The Prince S01 E08",
+      "name": "The Prince S01 E07",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16780.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "The Prince S01 E09",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16781.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "The Prince S01 E13",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16785.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHldHqh8Rpx6MziVW05H1L6ss4O.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "The Prince S01 E14",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16786.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "The Prince S01 E15",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16787.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "The Prince S01 E16",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16788.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16779.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg",
       "tvg_id": "",
       "satellites": []
@@ -50645,41 +50525,9 @@
       "satellites": []
     },
     {
-      "name": "The Prince S01 E21",
+      "name": "The Prince S01 E27",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16793.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "The Prince S01 E22",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16794.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "The Prince S01 E23",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16795.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "The Prince S01 E24",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16796.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dOvTMSeEMjXQWSgxvS2khbILI1.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "The Prince S01 E25",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16797.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/16799.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4CBAP6vL8IWKEYwmMUFLS8IBh7.jpg",
       "tvg_id": "",
       "satellites": []
@@ -51885,6 +51733,14 @@
       "satellites": []
     },
     {
+      "name": "The Twilight Zone DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8",
+      "logo": "https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png",
+      "tvg_id": "TheTwilightZone.se@DK",
+      "satellites": []
+    },
+    {
       "name": "The Twilight Zone NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8",
@@ -52066,6 +51922,14 @@
       "stream": "https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8",
       "logo": "https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png",
       "tvg_id": "TheWildWildWest.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "The Wild Wild West (Sweden) DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8",
+      "logo": "https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png",
+      "tvg_id": "TheWildWildWest.se@DK",
       "satellites": []
     },
     {
@@ -54533,6 +54397,14 @@
       "satellites": []
     },
     {
+      "name": "Viafree Movies DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8",
+      "logo": "https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png",
+      "tvg_id": "ViafreeMovies.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Viafree Movies NO",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8",
@@ -54634,6 +54506,14 @@
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/52225.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CxWs95VQWlOAdgE0iadrz3RPwH.jpg",
       "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Vinh Long TV 3 (720p)",
+      "group": "Movies",
+      "stream": "https://dethich.pw/thvl3/index.m3u8",
+      "logo": "https://i.imgur.com/OQXEhqu.png",
+      "tvg_id": "VinhLongTV3.vn@SD",
       "satellites": []
     },
     {
@@ -55501,14 +55381,6 @@
       "satellites": []
     },
     {
-      "name": "When We Were Young S01 E03",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16510.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "When We Were Young S01 E04",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16511.mp4",
@@ -55536,14 +55408,6 @@
       "name": "When We Were Young S01 E07",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16514.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "When We Were Young S01 E08",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16515.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg",
       "tvg_id": "",
       "satellites": []
@@ -55605,25 +55469,9 @@
       "satellites": []
     },
     {
-      "name": "When We Were Young S01 E16",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16523.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "When We Were Young S01 E17",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16524.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "When We Were Young S01 E18",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16525.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg",
       "tvg_id": "",
       "satellites": []
@@ -55637,22 +55485,6 @@
       "satellites": []
     },
     {
-      "name": "When We Were Young S01 E20",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16527.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "When We Were Young S01 E21",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16528.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "When We Were Young S01 E22",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16529.mp4",
@@ -55661,25 +55493,9 @@
       "satellites": []
     },
     {
-      "name": "When We Were Young S01 E23",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16530.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "When We Were Young S01 E24",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16531.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "When We Were Young S01 E25",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16532.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg",
       "tvg_id": "",
       "satellites": []
@@ -55712,14 +55528,6 @@
       "name": "When We Were Young S01 E29",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/series/26842788/26842788/16536.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "When We Were Young S01 E30",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16537.mp4",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv7l7RbHbVg3NNcrB6dWzMC3Val.jpg",
       "tvg_id": "",
       "satellites": []
@@ -55773,22 +55581,6 @@
       "satellites": []
     },
     {
-      "name": "Why Would We Fall in Love Again? S01 E03",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16715.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWrchOHb1qUF9cse6hMJPW72ZL0.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Why Would We Fall in Love Again? S01 E17",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/16729.mp4",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWrchOHb1qUF9cse6hMJPW72ZL0.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Wil (2023)",
       "group": "Movies",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/56015.mp4",
@@ -55826,6 +55618,14 @@
       "stream": "https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8",
       "logo": "https://images.pluto.tv/channels/62b9b63d3bbe9000073c0a2d/colorLogoPNG.png",
       "tvg_id": "Wildfire.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Wildfire DK",
+      "group": "Movies",
+      "stream": "https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8",
+      "logo": "https://images.pluto.tv/channels/62b9b63d3bbe9000073c0a2d/colorLogoPNG.png",
+      "tvg_id": "Wildfire.se@DK",
       "satellites": []
     },
     {
@@ -56149,65 +55949,17 @@
       "satellites": []
     },
     {
-      "name": "Yom W Leila S01 E04",
+      "name": "Yom W Leila S01 E06",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17124.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17126.mp4",
       "logo": "https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "Yom W Leila S01 E08",
+      "name": "Yom W Leila S01 E07",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17128.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Yom W Leila S01 E09",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17129.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Yom W Leila S01 E10",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17130.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Yom W Leila S01 E13",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17133.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Yom W Leila S01 E15",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17135.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Yom W Leila S01 E16",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17136.mp4",
-      "logo": "https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Yom W Leila S01 E17",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17137.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17127.mp4",
       "logo": "https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg",
       "tvg_id": "",
       "satellites": []
@@ -56229,17 +55981,25 @@
       "satellites": []
     },
     {
-      "name": "Yom W Leila S01 E26",
+      "name": "Yom W Leila S01 E28",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17146.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17148.mp4",
       "logo": "https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "Yom W Leila S01 E32",
+      "name": "Yom W Leila S01 E31",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17152.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17151.mp4",
+      "logo": "https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Yom W Leila S01 E34",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17154.mp4",
       "logo": "https://media.elcinema.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg",
       "tvg_id": "",
       "satellites": []
@@ -58141,17 +57901,9 @@
       "satellites": []
     },
     {
-      "name": "طاقة القدر S01 E02",
+      "name": "طاقة القدر S01 E03",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17055.mkv",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "طاقة القدر S01 E05",
-      "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17058.mkv",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17056.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
       "tvg_id": "",
       "satellites": []
@@ -58165,17 +57917,49 @@
       "satellites": []
     },
     {
-      "name": "طاقة القدر S01 E21",
+      "name": "طاقة القدر S01 E13",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17074.mkv",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17066.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "طاقة القدر S01 E23",
+      "name": "طاقة القدر S01 E15",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17076.mkv",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17068.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "طاقة القدر S01 E24",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17077.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "طاقة القدر S01 E25",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17078.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "طاقة القدر S01 E26",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17079.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "طاقة القدر S01 E29",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17082.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
       "tvg_id": "",
       "satellites": []
@@ -58197,17 +57981,25 @@
       "satellites": []
     },
     {
-      "name": "طريقي S01 E04",
+      "name": "طريقي S01 E06",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17087.mkv",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17089.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "طريقي S01 E15",
+      "name": "طريقي S01 E09",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17098.mkv",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17092.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "طريقي S01 E16",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17099.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
       "tvg_id": "",
       "satellites": []
@@ -58221,9 +58013,57 @@
       "satellites": []
     },
     {
-      "name": "طريقي S01 E28",
+      "name": "طريقي S01 E19",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17111.mkv",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17102.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "طريقي S01 E20",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17103.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "طريقي S01 E22",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17105.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "طريقي S01 E24",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17107.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "طريقي S01 E27",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17110.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "طريقي S01 E29",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17112.mkv",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "طريقي S01 E30",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17113.mkv",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fadG0PGQ6aWptibyZCm9UXc9VR0.jpg",
       "tvg_id": "",
       "satellites": []
@@ -58869,17 +58709,49 @@
       "satellites": []
     },
     {
-      "name": "وادي الجن S01 E05",
+      "name": "وادي الجن S01 E03",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/17119.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17117.mp4",
       "logo": "https://media.elcinema.com/uploads/_315x420_93293ee8d619a1014cc232f6e25488d998d619966703ab06fe9936c61cb7ec48.jpg",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "وادي الجن S02 E09",
+      "name": "وادي الجن S01 E04",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/39539.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17118.mp4",
+      "logo": "https://media.elcinema.com/uploads/_315x420_93293ee8d619a1014cc232f6e25488d998d619966703ab06fe9936c61cb7ec48.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "وادي الجن S01 E06",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/17120.mp4",
+      "logo": "https://media.elcinema.com/uploads/_315x420_93293ee8d619a1014cc232f6e25488d998d619966703ab06fe9936c61cb7ec48.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "وادي الجن S02 E02",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/39532.mp4",
+      "logo": "https://media.elcinema.com/uploads/_315x420_93293ee8d619a1014cc232f6e25488d998d619966703ab06fe9936c61cb7ec48.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "وادي الجن S02 E04",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/39534.mp4",
+      "logo": "https://media.elcinema.com/uploads/_315x420_93293ee8d619a1014cc232f6e25488d998d619966703ab06fe9936c61cb7ec48.jpg",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "وادي الجن S02 E05",
+      "group": "Movies",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/39535.mp4",
       "logo": "https://media.elcinema.com/uploads/_315x420_93293ee8d619a1014cc232f6e25488d998d619966703ab06fe9936c61cb7ec48.jpg",
       "tvg_id": "",
       "satellites": []
@@ -58893,9 +58765,9 @@
       "satellites": []
     },
     {
-      "name": "وادي الجن S02 E13",
+      "name": "وادي الجن S02 E12",
       "group": "Movies",
-      "stream": "http://best4u.biz:8080/series/26842788/26842788/39543.mp4",
+      "stream": "http://best4u.biz:8080/series/26842788/26842788/39542.mp4",
       "logo": "https://media.elcinema.com/uploads/_315x420_93293ee8d619a1014cc232f6e25488d998d619966703ab06fe9936c61cb7ec48.jpg",
       "tvg_id": "",
       "satellites": []
@@ -59661,14 +59533,6 @@
       "satellites": []
     },
     {
-      "name": "Adria Music Television",
-      "group": "Music",
-      "stream": "https://adriaapp.b-cdn.net/1080p/index.m3u8",
-      "logo": "https://i.imgur.com/QoDpnKg.png",
-      "tvg_id": "AdriaMusicTelevision.de@SD",
-      "satellites": []
-    },
-    {
       "name": "AE Radio TV (720p)",
       "group": "Music",
       "stream": "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8",
@@ -59861,14 +59725,6 @@
       "satellites": []
     },
     {
-      "name": "Alegria TV (720p)",
-      "group": "Music",
-      "stream": "https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8",
-      "logo": "https://i.imgur.com/MIBZ2pZ.png",
-      "tvg_id": "AlegriaTV.bo@SD",
-      "satellites": []
-    },
-    {
       "name": "AMC (Afghanistan) (1080p)",
       "group": "Music",
       "stream": "https://amchls.wns.live/hls/stream.m3u8",
@@ -60058,6 +59914,14 @@
       "stream": "https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8",
       "logo": "https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG_1767773210944.png",
       "tvg_id": "BestofMTV.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Best of MTV DK",
+      "group": "Music",
+      "stream": "https://jmp2.uk/plu-632aff5e44111b00076ad9b1.m3u8",
+      "logo": "https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG_1767773210944.png",
+      "tvg_id": "BestofMTV.se@DK",
       "satellites": []
     },
     {
@@ -60805,22 +60669,6 @@
       "satellites": []
     },
     {
-      "name": "Folx Music Television",
-      "group": "Music",
-      "stream": "https://folxapp.b-cdn.net/1080p/index.m3u8",
-      "logo": "https://i.imgur.com/ze04puX.png",
-      "tvg_id": "FolxMusicTelevision.de@SD",
-      "satellites": []
-    },
-    {
-      "name": "Folx Slovenija",
-      "group": "Music",
-      "stream": "https://folxsloapp.b-cdn.net/1080p/index.m3u8",
-      "logo": "https://i.imgur.com/RK1IASU.png",
-      "tvg_id": "FolxSlovenija.si@SD",
-      "satellites": []
-    },
-    {
       "name": "FON Music (576p)",
       "group": "Music",
       "stream": "https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8",
@@ -61330,6 +61178,14 @@
       "stream": "https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8",
       "logo": "https://yt3.googleusercontent.com/opqPJfc0Ptd9ohl4R-2hPjaquIAdWuqvRb0T_LBCmfyGznIvfGN0HOlcWZk6Lj2jk11s2Zlk=s1200-c-k-c0x00ffffff-no-rj",
       "tvg_id": "KoolTV.ph@SD",
+      "satellites": []
+    },
+    {
+      "name": "KpopTV Play (576p)",
+      "group": "Music",
+      "stream": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8",
+      "logo": "https://i.imgur.com/Tf0vweF.png",
+      "tvg_id": "KpopTVPlay.br@SD",
       "satellites": []
     },
     {
@@ -61901,6 +61757,14 @@
       "satellites": []
     },
     {
+      "name": "MTV Catfish (Sweden) DK (720p)",
+      "group": "Music",
+      "stream": "https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8",
+      "logo": "https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png",
+      "tvg_id": "MTVCatfish.se@DK",
+      "satellites": []
+    },
+    {
       "name": "MTV Catfish (Sweden) NO",
       "group": "Music",
       "stream": "https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8",
@@ -61981,6 +61845,14 @@
       "satellites": []
     },
     {
+      "name": "MTV Dating (Sweden) DK (720p)",
+      "group": "Music",
+      "stream": "https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8",
+      "logo": "https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png",
+      "tvg_id": "MTVDating.se@DK",
+      "satellites": []
+    },
+    {
       "name": "MTV Dating (Sweden) NO (720p)",
       "group": "Music",
       "stream": "https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8",
@@ -62026,6 +61898,14 @@
       "stream": "https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8",
       "logo": "https://images.pluto.tv/channels/61c0909b872c650008ed42e4/colorLogoPNG.png",
       "tvg_id": "MTVExOnTheBeach.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "MTV Ex On The Beach DK",
+      "group": "Music",
+      "stream": "https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8",
+      "logo": "https://images.pluto.tv/channels/61c0909b872c650008ed42e4/colorLogoPNG.png",
+      "tvg_id": "MTVExOnTheBeach.se@DK",
       "satellites": []
     },
     {
@@ -62165,6 +62045,14 @@
       "satellites": []
     },
     {
+      "name": "MTV Reality (Sweden) DK (720p)",
+      "group": "Music",
+      "stream": "https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8",
+      "logo": "https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png",
+      "tvg_id": "MTVReality.se@DK",
+      "satellites": []
+    },
+    {
       "name": "MTV Reality (Sweden) NO",
       "group": "Music",
       "stream": "https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8",
@@ -62202,6 +62090,14 @@
       "stream": "https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8",
       "logo": "https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png",
       "tvg_id": "MTVRidiculousness.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "MTV Ridiculousness (Sweden) DK (720p)",
+      "group": "Music",
+      "stream": "https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8",
+      "logo": "https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png",
+      "tvg_id": "MTVRidiculousness.se@DK",
       "satellites": []
     },
     {
@@ -62269,11 +62165,27 @@
       "satellites": []
     },
     {
+      "name": "MTV Sub",
+      "group": "Music",
+      "stream": "https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv",
+      "logo": "https://i.imgur.com/VRCuxQt.png",
+      "tvg_id": "Sub.fi",
+      "satellites": []
+    },
+    {
       "name": "MTV Teen Mom (Sweden) (720p)",
       "group": "Music",
       "stream": "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8",
       "logo": "https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png",
       "tvg_id": "MTVTeenMom.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "MTV Teen Mom (Sweden) DK (720p)",
+      "group": "Music",
+      "stream": "https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8",
+      "logo": "https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png",
+      "tvg_id": "MTVTeenMom.se@DK",
       "satellites": []
     },
     {
@@ -62290,6 +62202,14 @@
       "stream": "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8",
       "logo": "https://images.pluto.tv/channels/61c09039ebd75200072587f9/colorLogoPNG.png",
       "tvg_id": "MTVTheHills.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "MTV The Hills DK",
+      "group": "Music",
+      "stream": "https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8",
+      "logo": "https://images.pluto.tv/channels/61c09039ebd75200072587f9/colorLogoPNG.png",
+      "tvg_id": "MTVTheHills.se@DK",
       "satellites": []
     },
     {
@@ -62778,22 +62698,6 @@
       "stream": "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8",
       "logo": "https://i.imgur.com/u5804Au.jpg",
       "tvg_id": "OndambientalTV.co@SD",
-      "satellites": []
-    },
-    {
-      "name": "One Adria",
-      "group": "Music",
-      "stream": "https://oneadriaapp.b-cdn.net/1080p/index.m3u8",
-      "logo": "https://i.imgur.com/NYkMamU.png",
-      "tvg_id": "OneAdria.de@SD",
-      "satellites": []
-    },
-    {
-      "name": "One Music Television",
-      "group": "Music",
-      "stream": "https://oneapp.b-cdn.net/1080p/index.m3u8",
-      "logo": "https://i.imgur.com/dLgoKJ0.png",
-      "tvg_id": "OneMusicTelevision.de@SD",
       "satellites": []
     },
     {
@@ -63421,14 +63325,6 @@
       "satellites": []
     },
     {
-      "name": "Radio Romania Antena Satelor (720p)",
-      "group": "Music",
-      "stream": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
-      "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
-      "tvg_id": "RadioRomaniaAntenaSatelor.ro@720p",
-      "satellites": []
-    },
-    {
       "name": "Radio Rumba TV (720p)",
       "group": "Music",
       "stream": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
@@ -63637,6 +63533,14 @@
       "satellites": []
     },
     {
+      "name": "RHT Guadeloupe (720p)",
+      "group": "Music",
+      "stream": "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8",
+      "logo": "https://i.imgur.com/hQ0Q6nE.png",
+      "tvg_id": "RHTGuadeloupe.gp@SD",
+      "satellites": []
+    },
+    {
       "name": "Ritoque TV (720p)",
       "group": "Music",
       "stream": "https://streaming.purum.cl/ritoquetv/index.m3u8",
@@ -63794,14 +63698,6 @@
       "stream": "https://v1.tustreaming.cl/sabortv/index.m3u8",
       "logo": "https://cdn.m3u.cl/logo/416_Sabor_TV.png",
       "tvg_id": "SaborTV.cl@SD",
-      "satellites": []
-    },
-    {
-      "name": "Salsa Gorda Television (1080p)",
-      "group": "Music",
-      "stream": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
-      "logo": "https://i.imgur.com/3IhYd7G.jpg",
-      "tvg_id": "SalsaGordaTelevision.co@SD",
       "satellites": []
     },
     {
@@ -64098,6 +63994,14 @@
       "stream": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
       "logo": "https://i.imgur.com/PZhxyIT.png",
       "tvg_id": "StingrayHotCountry.ca@SD",
+      "satellites": []
+    },
+    {
+      "name": "Stingray iConcerts HD (1080p)",
+      "group": "Music",
+      "stream": "http://str2.iptvhd.ru:8080/iConcertsHD/index.m3u8",
+      "logo": "https://i.imgur.com/GKc7RFz.png",
+      "tvg_id": "StingrayiConcerts.ca@HD",
       "satellites": []
     },
     {
@@ -64725,14 +64629,6 @@
       "satellites": []
     },
     {
-      "name": "TV Exitos (720p)",
-      "group": "Music",
-      "stream": "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8",
-      "logo": "https://i.imgur.com/ahz7X7u.png",
-      "tvg_id": "TVExitos.do@SD",
-      "satellites": []
-    },
-    {
       "name": "TV Peruanisima (720p)",
       "group": "Music",
       "stream": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8",
@@ -65237,6 +65133,14 @@
       "satellites": []
     },
     {
+      "name": "Vos y TV (720p)",
+      "group": "Music",
+      "stream": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
+      "logo": "https://i.imgur.com/294FDCB.png",
+      "tvg_id": "VosyTV.ec@SD",
+      "satellites": []
+    },
+    {
       "name": "Wavez FM",
       "group": "Music",
       "stream": "https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8",
@@ -65450,14 +65354,6 @@
       "stream": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
       "tvg_id": "Zoom.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "Zwei Music Television",
-      "group": "Music",
-      "stream": "https://zweiapp.b-cdn.net/1080p/index.m3u8",
-      "logo": "https://i.imgur.com/RbdpCNf.png",
-      "tvg_id": "ZweiMusicTelevision.de@SD",
       "satellites": []
     },
     {
@@ -66501,14 +66397,6 @@
       "satellites": []
     },
     {
-      "name": "ALWifak News TV (720p)",
-      "group": "News",
-      "stream": "http://alwifaklive.info:1935/live/myStream/playlist.m3u8",
-      "logo": "https://i.imgur.com/1vqhmNz.png",
-      "tvg_id": "ALWifakNewsTV.lb@SD",
-      "satellites": []
-    },
-    {
       "name": "AmarUjala (1080p)",
       "group": "News",
       "stream": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
@@ -66562,14 +66450,6 @@
       "stream": "https://account19.livebox.co.in/Anandabarta2hls/live.m3u8",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Anand_Barta.png",
       "tvg_id": "AnandaBarta.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "ANB News (720p)",
-      "group": "News",
-      "stream": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANB_NEWS/images/LOGO_HD/image.png",
-      "tvg_id": "ANBNews.in@SD",
       "satellites": []
     },
     {
@@ -66826,6 +66706,14 @@
       "stream": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
       "logo": "https://papaji.freetvindia.com/media/channels/asom_live_24x7.png",
       "tvg_id": "AsomLive24.in@SD",
+      "satellites": []
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "group": "News",
+      "stream": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "logo": "https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540",
+      "tvg_id": "AssamTalks.in@SD",
       "satellites": []
     },
     {
@@ -67709,6 +67597,14 @@
       "satellites": []
     },
     {
+      "name": "BTV News (720p)",
+      "group": "News",
+      "stream": "https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8",
+      "logo": "https://i.imgur.com/sUHiRj3.png",
+      "tvg_id": "BTVNews.kh@SD",
+      "satellites": []
+    },
+    {
       "name": "Buendia TV",
       "group": "News",
       "stream": "https://servilive.com:3508/stream/play.m3u8",
@@ -68485,6 +68381,14 @@
       "satellites": []
     },
     {
+      "name": "Crimea 24",
+      "group": "News",
+      "stream": "https://cdn.1tvcrimea.ru/24tvcrimea.m3u8",
+      "logo": "https://i.imgur.com/k4C0uvp.png",
+      "tvg_id": "Crimea24.ru@SD",
+      "satellites": []
+    },
+    {
       "name": "CRTV News",
       "group": "News",
       "stream": "https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8",
@@ -69189,6 +69093,14 @@
       "satellites": []
     },
     {
+      "name": "First Channel News (1080p)",
+      "group": "News",
+      "stream": "https://amtvusdvr.tulix.tv/am3abr/index.m3u8",
+      "logo": "https://i.imgur.com/RlYJUH4.png",
+      "tvg_id": "FirstChannelNews.am@SD",
+      "satellites": []
+    },
+    {
       "name": "First India News (576p)",
       "group": "News",
       "stream": "https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8",
@@ -69373,14 +69285,6 @@
       "satellites": []
     },
     {
-      "name": "Global Punjab (1080p)",
-      "group": "News",
-      "stream": "https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8",
-      "logo": "https://i.imgur.com/WDLqcWW.png",
-      "tvg_id": "GlobalPunjab.in@SD",
-      "satellites": []
-    },
-    {
       "name": "Good News Today (720p)",
       "group": "News",
       "stream": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
@@ -69434,14 +69338,6 @@
       "stream": "https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8",
       "logo": "https://i.imgur.com/mbmHPnO.png",
       "tvg_id": "Guatevision.gt@SD",
-      "satellites": []
-    },
-    {
-      "name": "Gugbang TV (1080p)",
-      "group": "News",
-      "stream": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8",
-      "logo": "https://i.imgur.com/f1tz5fg.png",
-      "tvg_id": "GugbangTV.kr@SD",
       "satellites": []
     },
     {
@@ -70309,14 +70205,6 @@
       "satellites": []
     },
     {
-      "name": "Le Monde en 24h",
-      "group": "News",
-      "stream": "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8",
-      "logo": "https://i.imgur.com/2igwi7g.png",
-      "tvg_id": "LeMondeen24h.cd@SD",
-      "satellites": []
-    },
-    {
       "name": "Le Nouveau Manager TV",
       "group": "News",
       "stream": "https://lnmlive.com/live/lnmtv.m3u8",
@@ -70709,6 +70597,14 @@
       "satellites": []
     },
     {
+      "name": "MRTV News",
+      "group": "News",
+      "stream": "https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8",
+      "logo": "https://i.imgur.com/5eK8Bc4.png",
+      "tvg_id": "MRTVNews.mm@SD",
+      "satellites": []
+    },
+    {
       "name": "MTV Uutiset (720p)",
       "group": "News",
       "stream": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
@@ -70746,6 +70642,14 @@
       "stream": "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8",
       "logo": "https://i.imgur.com/9OFdMud.png",
       "tvg_id": "NaftemporikiTV.gr@HD",
+      "satellites": []
+    },
+    {
+      "name": "Nagaland TV (576p)",
+      "group": "News",
+      "stream": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
+      "logo": "https://i.imgur.com/EBEIpPo.png",
+      "tvg_id": "NagalandTV.in@SD",
       "satellites": []
     },
     {
@@ -71021,6 +70925,14 @@
       "satellites": []
     },
     {
+      "name": "News Nation 81 (1080p)",
+      "group": "News",
+      "stream": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation_81.png",
+      "tvg_id": "NewsNation81.in@SD",
+      "satellites": []
+    },
+    {
       "name": "News of the World (720p)",
       "group": "News",
       "stream": "https://nowhls.wns.live/hls/stream.m3u8",
@@ -71101,19 +71013,35 @@
       "satellites": []
     },
     {
-      "name": "News12 Bronx",
+      "name": "News12 Brooklyn",
       "group": "News",
-      "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https",
-      "logo": "https://i.imgur.com/d6xQiaf.png",
-      "tvg_id": "News12Bronx.us@SD",
+      "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https",
+      "logo": "https://i.imgur.com/fvcOzzK.png",
+      "tvg_id": "News12Brooklyn.us@SD",
       "satellites": []
     },
     {
-      "name": "News12+ Hudson Valley (1080p)",
+      "name": "News12+ Connecticut (1080p)",
       "group": "News",
-      "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8",
-      "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
-      "tvg_id": "News12PlusHudsonValley.us@HD",
+      "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8",
+      "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
+      "tvg_id": "News12PlusConnecticut.us@HD",
+      "satellites": []
+    },
+    {
+      "name": "News12 Conneticut",
+      "group": "News",
+      "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+      "tvg_id": "News12Conneticut.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "News12 Hudson Valley",
+      "group": "News",
+      "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+      "tvg_id": "News12HudsonValley.us@SD",
       "satellites": []
     },
     {
@@ -71125,11 +71053,11 @@
       "satellites": []
     },
     {
-      "name": "News12 New Jersey",
+      "name": "News12+ New Jersey (1080p)",
       "group": "News",
-      "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-      "tvg_id": "News12NewJersey.us@SD",
+      "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8",
+      "logo": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
+      "tvg_id": "News12PlusNewJersey.us@HD",
       "satellites": []
     },
     {
@@ -72165,14 +72093,6 @@
       "satellites": []
     },
     {
-      "name": "Radio Uno Tacna (720p)",
-      "group": "News",
-      "stream": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
-      "logo": "https://i.imgur.com/PswowQP.png",
-      "tvg_id": "RadioUnoTacna.pe@SD",
-      "satellites": []
-    },
-    {
       "name": "Rai News 24 HD (1080p)",
       "group": "News",
       "stream": "https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8",
@@ -72570,14 +72490,6 @@
       "stream": "https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Samachar_Plus.png",
       "tvg_id": "SamacharPlus24x7.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "Samay Kolkata (1080p)",
-      "group": "News",
-      "stream": "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8",
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Samay_Kolkata.png",
-      "tvg_id": "SamayKolkata.in@SD",
       "satellites": []
     },
     {
@@ -73125,6 +73037,14 @@
       "satellites": []
     },
     {
+      "name": "TurkHaber TV (720p)",
+      "group": "News",
+      "stream": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
+      "logo": "https://i.imgur.com/2AcRKdL.png",
+      "tvg_id": "TurkHaberTV.tr@SD",
+      "satellites": []
+    },
+    {
       "name": "Turno (720p)",
       "group": "News",
       "stream": "https://redirector.dps.live/hls/turno/playlist.m3u8",
@@ -73234,14 +73154,6 @@
       "stream": "https://stream.tv30bharat.com/hls/shree/bhattji.m3u8",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV30India.png",
       "tvg_id": "TV30India.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "TV45 (1080p)",
-      "group": "News",
-      "stream": "https://server.livelegitpro.in/bnews24/bnews24/video.m3u8",
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV45.png",
-      "tvg_id": "TV45.in@SD",
       "satellites": []
     },
     {
@@ -73509,14 +73421,6 @@
       "satellites": []
     },
     {
-      "name": "UNews (1080p)",
-      "group": "News",
-      "stream": "https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "UNews.lb@SD",
-      "satellites": []
-    },
-    {
       "name": "Unicanal",
       "group": "News",
       "stream": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
@@ -73754,6 +73658,14 @@
       "stream": "https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8",
       "logo": "https://i.imgur.com/ZBHqSZj.png",
       "tvg_id": "VestiFM.ru@HD",
+      "satellites": []
+    },
+    {
+      "name": "Vinh Long TV 1 (720p)",
+      "group": "News",
+      "stream": "https://dethich.pw/thvl1/index.m3u8",
+      "logo": "https://i.imgur.com/5YFsqPx.png",
+      "tvg_id": "VinhLongTV1.vn@SD",
       "satellites": []
     },
     {
@@ -74469,6 +74381,14 @@
       "satellites": []
     },
     {
+      "name": "Balapan International (1080p)",
+      "group": "Kids",
+      "stream": "https://live-3.otcnet.ru/Balapan/index.m3u8",
+      "logo": "https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png",
+      "tvg_id": "BalapanInternational.kz@SD",
+      "satellites": []
+    },
+    {
       "name": "BBC Four/CBeebies (720p)",
       "group": "Kids",
       "stream": "http://193.46.58.239:8080/CbeebiesHD/index.m3u8",
@@ -75029,6 +74949,14 @@
       "satellites": []
     },
     {
+      "name": "DreamWorks Channel Asia (1080p)",
+      "group": "Kids",
+      "stream": "https://cdn12.178.indevs.in/163189/dreamworks",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "DreamWorksChannelAsia.us@SD",
+      "satellites": []
+    },
+    {
       "name": "Dreiko TV (720p)",
       "group": "Kids",
       "stream": "https://cloudvideo.servers10.com:8081/8020/index.m3u8",
@@ -75493,6 +75421,14 @@
       "satellites": []
     },
     {
+      "name": "iCarly (Sweden) DK",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8",
+      "logo": "https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png",
+      "tvg_id": "iCarly.se@DK",
+      "satellites": []
+    },
+    {
       "name": "iCarly (Sweden) NO",
       "group": "Kids",
       "stream": "https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8",
@@ -75658,6 +75594,14 @@
       "stream": "https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8",
       "logo": "https://i.imgur.com/1luzP3T.png",
       "tvg_id": "KartoonChannel.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "KidOO (1080p)",
+      "group": "Kids",
+      "stream": "http://15.204.246.24:8080/KidooHD/index.m3u8",
+      "logo": "https://digitaltv.prensariozone.com/wp-content/uploads/2022/11/Logo-KidOO.png",
+      "tvg_id": "KidOO.us@SD",
       "satellites": []
     },
     {
@@ -76693,6 +76637,14 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV Juniorklubben DK (720p)",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8",
+      "logo": "https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png",
+      "tvg_id": "PlutoTVJuniorklubben.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV Juniorklubben NO (720p)",
       "group": "Kids",
       "stream": "https://jmp2.uk/plu-61c1d459fbb4b50007d24647.m3u8",
@@ -76746,6 +76698,14 @@
       "stream": "https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8",
       "logo": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
       "tvg_id": "PlutoTVKids.us@LatAm",
+      "satellites": []
+    },
+    {
+      "name": "Pluto TV Klassiske tegnefilm (720p)",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8",
+      "logo": "https://images.pluto.tv/channels/67f508992ebe80e2929b5c98/colorLogoPNG_1748955041610.png",
+      "tvg_id": "PlutoTVKlassisketegnefilm.se@DK",
       "satellites": []
     },
     {
@@ -76837,6 +76797,14 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV Tegnefilm (720p)",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8",
+      "logo": "https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png",
+      "tvg_id": "PlutoTVTegnefilm.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV Tegnefilm NO (720p)",
       "group": "Kids",
       "stream": "https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8",
@@ -76858,6 +76826,14 @@
       "stream": "https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8",
       "logo": "https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png",
       "tvg_id": "PlutoTVUngdomsserier.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Pluto TV Ungdomsserier DK (720p)",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8",
+      "logo": "https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png",
+      "tvg_id": "PlutoTVUngdomsserier.se@DK",
       "satellites": []
     },
     {
@@ -77133,6 +77109,14 @@
       "satellites": []
     },
     {
+      "name": "South Park Armageddon DK",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-660bff28516d260008479e23.m3u8",
+      "logo": "https://images.pluto.tv/channels/660bff28516d260008479e23/colorLogoPNG.png",
+      "tvg_id": "SouthParkArmageddon.se@DK",
+      "satellites": []
+    },
+    {
       "name": "South Park Armageddon NO",
       "group": "Kids",
       "stream": "https://jmp2.uk/plu-660bff5724e1d000085b7c07.m3u8",
@@ -77157,6 +77141,14 @@
       "satellites": []
     },
     {
+      "name": "South Park: Butters Collection (Sweden) DK",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8",
+      "logo": "https://images.pluto.tv/channels/65d87a66ec9fda0008a5ac11/colorLogoPNG.png",
+      "tvg_id": "SouthParkButtersCollection.se@DK",
+      "satellites": []
+    },
+    {
       "name": "South Park: Butters Collection (Sweden) NO",
       "group": "Kids",
       "stream": "https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8",
@@ -77178,6 +77170,14 @@
       "stream": "https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8",
       "logo": "https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png",
       "tvg_id": "SouthParkCartmanCollection.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "South Park: Cartman Collection (Sweden) DK",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8",
+      "logo": "https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png",
+      "tvg_id": "SouthParkCartmanCollection.se@DK",
       "satellites": []
     },
     {
@@ -77301,6 +77301,14 @@
       "satellites": []
     },
     {
+      "name": "South Park: Into the Stars DK",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8",
+      "logo": "https://images.pluto.tv/channels/664f0eaa8ce31100088036bd/colorLogoPNG.png",
+      "tvg_id": "SouthParkIntotheStars.se@DK",
+      "satellites": []
+    },
+    {
       "name": "South Park: Into the Stars NO",
       "group": "Kids",
       "stream": "https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8",
@@ -77322,6 +77330,14 @@
       "stream": "https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8",
       "logo": "https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png",
       "tvg_id": "SouthParkKennyCollection.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "South Park: Kenny Collection (Sweden) DK",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8",
+      "logo": "https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png",
+      "tvg_id": "SouthParkKennyCollection.se@DK",
       "satellites": []
     },
     {
@@ -77357,6 +77373,14 @@
       "satellites": []
     },
     {
+      "name": "South Park: Kyle Collection (Sweden) DK",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8",
+      "logo": "https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png",
+      "tvg_id": "SouthParkKyleCollection.se@DK",
+      "satellites": []
+    },
+    {
       "name": "South Park: Kyle Collection (Sweden) NO",
       "group": "Kids",
       "stream": "https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8",
@@ -77389,6 +77413,14 @@
       "satellites": []
     },
     {
+      "name": "South Park Rockin' Out DK",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8",
+      "logo": "https://images.pluto.tv/channels/664f132c8ea5560008ce4d86/colorLogoPNG.png",
+      "tvg_id": "SouthParkRockinOut.se@DK",
+      "satellites": []
+    },
+    {
       "name": "South Park Rockin' Out NO",
       "group": "Kids",
       "stream": "https://jmp2.uk/plu-664f1370f78a8500092df452.m3u8",
@@ -77413,6 +77445,14 @@
       "satellites": []
     },
     {
+      "name": "South Park: Stan Collection (Sweden) DK",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8",
+      "logo": "https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png",
+      "tvg_id": "SouthParkStanCollection.se@DK",
+      "satellites": []
+    },
+    {
       "name": "South Park: Stan Collection (Sweden) NO",
       "group": "Kids",
       "stream": "https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8",
@@ -77434,6 +77474,14 @@
       "stream": "https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8",
       "logo": "https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png",
       "tvg_id": "SouthPark.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "South Park (Sweden) DK",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8",
+      "logo": "https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png",
+      "tvg_id": "SouthPark.se@DK",
       "satellites": []
     },
     {
@@ -77586,6 +77634,14 @@
       "stream": "https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8",
       "logo": "https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png",
       "tvg_id": "SvampBobFyrkant.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "SvampeBob Firkant (720p)",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8",
+      "logo": "https://images.pluto.tv/channels/61c09ac98a80a4000703f992/colorLogoPNG.png",
+      "tvg_id": "SvampeBobFirkant.se@DK",
       "satellites": []
     },
     {
@@ -77850,6 +77906,14 @@
       "stream": "https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8",
       "logo": "https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png",
       "tvg_id": "TotallyTurtles.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Totally Turtles (Sweden) DK (720p)",
+      "group": "Kids",
+      "stream": "https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8",
+      "logo": "https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png",
+      "tvg_id": "TotallyTurtles.se@DK",
       "satellites": []
     },
     {
@@ -78261,6 +78325,14 @@
       "satellites": []
     },
     {
+      "name": "ZB Cartoon (1080p)",
+      "group": "Kids",
+      "stream": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png",
+      "tvg_id": "ZBCartoon.in@HD",
+      "satellites": []
+    },
+    {
       "name": "ZooMoo (1080p)",
       "group": "Kids",
       "stream": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
@@ -78573,6 +78645,14 @@
       "satellites": []
     },
     {
+      "name": "Belarus-3 HD (1080p)",
+      "group": "Documentary",
+      "stream": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+      "logo": "https://i.imgur.com/JkcDycn.png",
+      "tvg_id": "Belarus3.by@HD",
+      "satellites": []
+    },
+    {
       "name": "Better Life Nature Channel (480p)",
       "group": "Documentary",
       "stream": "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8",
@@ -78842,6 +78922,14 @@
       "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
       "logo": "https://i.imgur.com/jOKA735.png",
       "tvg_id": "CourtTV.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "Crime 360 (720p)",
+      "group": "Documentary",
+      "stream": "https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8",
+      "logo": "https://i.imgur.com/IjtaG1m.png",
+      "tvg_id": "Crime360.us@SD",
       "satellites": []
     },
     {
@@ -79461,6 +79549,14 @@
       "satellites": []
     },
     {
+      "name": "Imai TV (1080p)",
+      "group": "Documentary",
+      "stream": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
+      "logo": "https://i.imgur.com/9tODclu.png",
+      "tvg_id": "ImaiTV.lk@SD",
+      "satellites": []
+    },
+    {
       "name": "IN_Discovery Science",
       "group": "Documentary",
       "stream": "http://best4u.biz:8080/26842788/26842788/8820",
@@ -79957,6 +80053,14 @@
       "satellites": []
     },
     {
+      "name": "MRTV Farmer",
+      "group": "Documentary",
+      "stream": "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8",
+      "logo": "https://i.imgur.com/f4PWvrW.jpg",
+      "tvg_id": "MRTVFarmer.mm@SD",
+      "satellites": []
+    },
+    {
       "name": "MWD Documentary",
       "group": "Documentary",
       "stream": "http://203.81.84.130/hls/mwd_document/index.m3u8",
@@ -80277,6 +80381,14 @@
       "satellites": []
     },
     {
+      "name": "On The Case",
+      "group": "Documentary",
+      "stream": "https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8",
+      "logo": "https://i.imgur.com/TAmVjUL.png",
+      "tvg_id": "OnTheCase.us@UK",
+      "satellites": []
+    },
+    {
       "name": "or Sitting Bull's History Lesson (1976)",
       "group": "Documentary",
       "stream": "http://best4u.biz:8080/movie/26842788/26842788/45632.mkv",
@@ -80493,6 +80605,14 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV Alien Invasion (Sweden)",
+      "group": "Documentary",
+      "stream": "https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8",
+      "logo": "https://images.pluto.tv/channels/650999b86a841400083bd1ab/colorLogoPNG.png",
+      "tvg_id": "PlutoTVAlienInvasion.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV Animais",
       "group": "Documentary",
       "stream": "https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8",
@@ -80570,6 +80690,14 @@
       "stream": "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8",
       "logo": "https://images.pluto.tv/channels/62b30b0060a9ca0007d628b4/colorLogoPNG.png",
       "tvg_id": "PlutoTVDokumentar.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Pluto TV Dokumentar DK",
+      "group": "Documentary",
+      "stream": "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8",
+      "logo": "https://images.pluto.tv/channels/62b30b0060a9ca0007d628b4/colorLogoPNG.png",
+      "tvg_id": "PlutoTVDokumentar.se@DK",
       "satellites": []
     },
     {
@@ -80749,6 +80877,14 @@
       "satellites": []
     },
     {
+      "name": "Pluto TV Space (Sweden)",
+      "group": "Documentary",
+      "stream": "https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8",
+      "logo": "https://images.pluto.tv/channels/61b86c6ef30f5d0007e4c6d1/colorLogoPNG.png",
+      "tvg_id": "PlutoTVSpace.se@DK",
+      "satellites": []
+    },
+    {
       "name": "Pluto TV Storia",
       "group": "Documentary",
       "stream": "https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8",
@@ -80770,6 +80906,14 @@
       "stream": "https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8",
       "logo": "https://images.pluto.tv/channels/677d3ad04bd63600082f7c54/colorLogoPNG_1759445391825.png",
       "tvg_id": "PlutoTVVarldskrigen.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Pluto TV Verdenskrigene",
+      "group": "Documentary",
+      "stream": "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8",
+      "logo": "https://images.pluto.tv/channels/677d397b60fbeb00084b0bff/colorLogoPNG_1759437735629.png",
+      "tvg_id": "PlutoTVVerdenskrigene.se@DK",
       "satellites": []
     },
     {
@@ -81034,6 +81178,14 @@
       "stream": "https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8",
       "logo": "https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png",
       "tvg_id": "SmithsonianChannelSelects.se@SE",
+      "satellites": []
+    },
+    {
+      "name": "Smithsonian Channel Selects (Sweden) DK",
+      "group": "Documentary",
+      "stream": "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
+      "logo": "https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png",
+      "tvg_id": "SmithsonianChannelSelects.se@DK",
       "satellites": []
     },
     {
