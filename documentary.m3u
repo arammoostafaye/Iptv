@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Documentary - 455 channels
+#   Documentary - 446 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-25 11:14 UTC
-#   Channels: 455
+#   Updated: 2026-09-25 16:36 UTC
+#   Channels: 446
 # +======================================+
 #EXTINF:-1 tvg-id="13C.cl@SD" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="Documentary",13C (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
@@ -128,6 +128,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ChileChannel.cl@SD" tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="Documentary",Chile Channel (720p)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-id="ChiloeRed25.cl@SD" tvg-logo="https://i.imgur.com/3tqrImm.png" group-title="Documentary",Chiloe Red 25 (720p)
+https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn@SD" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="Documentary",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr@SD" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="Documentary",Ciftci TV (720p)
@@ -136,8 +138,6 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us@SD" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Documentary",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="ClickTVChile.cl@SD" tvg-logo="https://i.imgur.com/H0XNbMS.png" group-title="Documentary",ClickTV Chile (720p)
-https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="Documentary",CNA Originals (1080p)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTV.py@SD" tvg-logo="https://i.imgur.com/dAMyExY.jpg" group-title="Documentary",Cosmos TV (720p)
@@ -146,8 +146,6 @@ https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us@SD" tvg-logo="https://i.imgur.com/jOKA735.png" group-title="Documentary",Court TV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="Crime360.us@SD" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="Documentary",Crime 360 (720p)
-https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
 #EXTINF:-1 tvg-id="CrimenHistoria.es@SD" tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" group-title="Documentary",Crimen & Historia (720p)
 https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
 #EXTINF:-1 tvg-id="CT2.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" group-title="Documentary",CT2
@@ -426,10 +424,6 @@ http://stream.mcquack.net/141/index.m3u8
 https://vod-c57.interspace.com:443/channel_abr/46/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NTE6MDkgUE0maGFzaF92YWx1ZT05S1hVR3ExVVVPUnU5Zk9sTGpDY2dRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3N2RkZGIxYTU=
 #EXTINF:-1 tvg-id="MRT2.mk" tvg-name="MRT2" tvg-logo="https://i.imgur.com/YvOrUnN.png" group-title="Documentary",MRT2 Ⓖ
 https://vod-c57.interspace.com:443/channel_abr/43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MjM6NTQgUE0maGFzaF92YWx1ZT1ZT2dHa29qd09TbDcvVFpqQU1udVh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MTdhN2ZmY2Q=
-#EXTINF:-1 tvg-id="MRTVFarmer.mm@SD" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Documentary",MRTV Farmer
-https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
-#EXTINF:-1 tvg-id="MRTVNRC.mm@SD" tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="Documentary",MRTV NRC
-https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 #EXTINF:-1 tvg-id="MWDDocumentary.mm@SD" tvg-logo="https://i.imgur.com/4XV7cjU.png" group-title="Documentary",MWD Documentary
 http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 tvg-id="N24Doku.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png" group-title="Documentary",N24 Doku
@@ -510,8 +504,6 @@ https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8
 #EXTINF:-1 tvg-id="OmanTVCultural.om@SD" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="Documentary",Oman TV Cultural (1080p)
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="OnTheCase.us@UK" tvg-logo="https://i.imgur.com/TAmVjUL.png" group-title="Documentary",On The Case
-https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
 #EXTINF:-1 tvg-name="Buffalo Bill and the Indians, or Sitting Bull's History Lesson (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBhqMJybJgvnUoBBfj7vApAukvL.jpg" group-title="Documentary",or Sitting Bull's History Lesson (1976)
 http://best4u.biz:8080/movie/26842788/26842788/45632.mkv
 #EXTINF:-1 tvg-id="ORFIII.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png" group-title="Documentary",ORF III HD (720p)
@@ -566,8 +558,6 @@ http://best4u.biz:8080/26842788/26842788/8429
 http://best4u.biz:8080/movie/26842788/26842788/17515.mp4
 #EXTINF:-1 tvg-id="PlutoTVAlienInvasion.de@GB" tvg-logo="https://images.pluto.tv/channels/6462190b7cb4b1000862dd60/colorLogoPNG.png" group-title="Documentary",Pluto TV Alien Invasion (Germany)
 https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAlienInvasion.se@DK" tvg-logo="https://images.pluto.tv/channels/650999b86a841400083bd1ab/colorLogoPNG.png" group-title="Documentary",Pluto TV Alien Invasion (Sweden)
-https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimais.us@BR" tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="Documentary",Pluto TV Animais
 https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimales.de@ES" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="Documentary",Pluto TV Animales
@@ -588,8 +578,6 @@ https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
 https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDokumentar.se@SE" tvg-logo="https://images.pluto.tv/channels/62b30b0060a9ca0007d628b4/colorLogoPNG.png" group-title="Documentary",Pluto TV Dokumentar
 https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
-#EXTINF:-1 tvg-id="PlutoTVDokumentar.se@DK" tvg-logo="https://images.pluto.tv/channels/62b30b0060a9ca0007d628b4/colorLogoPNG.png" group-title="Documentary",Pluto TV Dokumentar DK
-https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8
 #EXTINF:-1 tvg-id="PlutoTVExplore.de@DACH" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png" group-title="Documentary",Pluto TV Explore
 https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFood.de@DACH" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png" group-title="Documentary",Pluto TV Food
@@ -634,16 +622,12 @@ https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSpace.de@GB" tvg-logo="https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png" group-title="Documentary",Pluto TV Space (Germany) GB
 https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSpace.se@DK" tvg-logo="https://images.pluto.tv/channels/61b86c6ef30f5d0007e4c6d1/colorLogoPNG.png" group-title="Documentary",Pluto TV Space (Sweden)
-https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStoria.de@IT" tvg-logo="https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG_1773147329671.png" group-title="Documentary",Pluto TV Storia
 https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTurbo.us@BR" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Documentary",Pluto TV Turbo
 https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVarldskrigen.se@SE" tvg-logo="https://images.pluto.tv/channels/677d3ad04bd63600082f7c54/colorLogoPNG_1759445391825.png" group-title="Documentary",Pluto TV Varldskrigen
 https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
-#EXTINF:-1 tvg-id="PlutoTVVerdenskrigene.se@DK" tvg-logo="https://images.pluto.tv/channels/677d397b60fbeb00084b0bff/colorLogoPNG_1759437735629.png" group-title="Documentary",Pluto TV Verdenskrigene
-https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVerdenskrigene.se@NO" tvg-logo="https://images.pluto.tv/channels/677d397b60fbeb00084b0bff/colorLogoPNG_1759437735629.png" group-title="Documentary",Pluto TV Verdenskrigene NO
 https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
 #EXTINF:-1 tvg-id="PoconoTelevisionNetwork.us@HD" tvg-logo="https://i.imgur.com/et6giFo.png" group-title="Documentary",Pocono Television Network (1080p)
@@ -710,8 +694,6 @@ https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.se@SE" tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png" group-title="Documentary",Smithsonian Channel Selects (Sweden)
 https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.se@DK" tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png" group-title="Documentary",Smithsonian Channel Selects (Sweden) DK
-https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.us@SD" tvg-logo="https://i.imgur.com/Kt5j8Vr.png" group-title="Documentary",Smithsonian Channel Selects (United States)
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru@SD" tvg-logo="https://i.imgur.com/dB3cJzO.png" group-title="Documentary",Smotrim 100% Fakty (720p)

@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Music - 758 channels
+#   Music - 750 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-25 11:14 UTC
-#   Channels: 758
+#   Updated: 2026-09-25 16:36 UTC
+#   Channels: 750
 # +======================================+
 #EXTINF:-1 tvg-id="13Festival.cl@SD" tvg-logo="https://i.imgur.com/Ymk6j5o.png" group-title="Music",13 Festival (1080p)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
@@ -120,6 +120,8 @@ http://best4u.biz:8080/26842788/26842788/291
 http://best4u.biz:8080/26842788/26842788/209
 #EXTINF:-1 tvg-id="ArabicaTV.lb@SD" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681" group-title="Music",ATN Music (360p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AtomicAcademyTV.ro@SD" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="Music",Atomic Academy TV (480p)
 https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 tvg-id="AtomicTV.ro@SD" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="Music",Atomic TV (360p)
@@ -150,8 +152,6 @@ https://tv.beatfm.nl/live.m3u8
 https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-id="BestofMTV.se@SE" tvg-logo="https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG_1767773210944.png" group-title="Music",Best of MTV
 https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8
-#EXTINF:-1 tvg-id="BestofMTV.se@DK" tvg-logo="https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG_1767773210944.png" group-title="Music",Best of MTV DK
-https://jmp2.uk/plu-632aff5e44111b00076ad9b1.m3u8
 #EXTINF:-1 tvg-id="BestofMTV.se@NO" tvg-logo="https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG_1767773210944.png" group-title="Music",Best of MTV NO
 https://jmp2.uk/plu-632afc466699570007ed1106.m3u8
 #EXTINF:-1 tvg-id="BibelTVMusik.de@SD" tvg-logo="https://i.imgur.com/yIqOcP5.png" group-title="Music",Bibel TV Musik (720p)
@@ -370,6 +370,8 @@ https://v1.tustreaming.cl/genialtv/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 tvg-id="GigantFM.nl@SD" tvg-logo="https://i.imgur.com/LwEHfjD.png" group-title="Music",Gigant FM (720p)
 https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
+#EXTINF:-1 tvg-id="GOTV.py@SD" tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" group-title="Music",GO TV (720p)
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="GugakTV.kr@SD" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Music",Gugak TV (1080p)
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HappyRadioTV.ua@HD" tvg-logo="https://i.imgur.com/PAw36qJ.png" group-title="Music",Happy Radio TV (1080p)
@@ -468,8 +470,6 @@ https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.ism
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KoolTV.ph@SD" tvg-logo="https://yt3.googleusercontent.com/opqPJfc0Ptd9ohl4R-2hPjaquIAdWuqvRb0T_LBCmfyGznIvfGN0HOlcWZk6Lj2jk11s2Zlk=s1200-c-k-c0x00ffffff-no-rj" group-title="Music",Kool TV (720p)
 https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8
-#EXTINF:-1 tvg-id="KpopTVPlay.br@SD" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Music",KpopTV Play (576p)
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-id="KralPopTV.tr@SD" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="Music",Kral Pop TV (720p)
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kronehit.at@SD" tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="Music",Kronehit (1080p)
@@ -570,8 +570,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d
 http://46.32.176.50/mcmtop/index.m3u8
 #EXTINF:-1 tvg-id="MessatidaTV.gr@SD" tvg-logo="https://i.imgur.com/WEYrIrC.png" group-title="Music",Messatida TV (720p)
 https://rtmp.streams.ovh:8081/mtv/index.m3u8
-#EXTINF:-1 tvg-id="MetaleitorTV.us@SD" tvg-logo="https://new.opencaster.com/uploads/logos/logo_14_1752798826.png" group-title="Music",Metaleitor TV
-https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
 #EXTINF:-1 tvg-id="MetropoliMediosTV.ec@SD" tvg-logo="https://i.imgur.com/yID5T2S.jpg" group-title="Music",Metropoli Medios TV (720p)
 https://eu1.servers10.com:8081/8214/index.m3u8
 #EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe@SD" tvg-logo="https://i.imgur.com/0B04qgM.png" group-title="Music",Metropolitana del Cuzco
@@ -614,8 +612,6 @@ https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
 https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
 #EXTINF:-1 tvg-id="MTVCatfish.se@SE" tvg-logo="https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png" group-title="Music",MTV Catfish (Sweden) (720p)
 https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8
-#EXTINF:-1 tvg-id="MTVCatfish.se@DK" tvg-logo="https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png" group-title="Music",MTV Catfish (Sweden) DK (720p)
-https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8
 #EXTINF:-1 tvg-id="MTVCatfish.se@NO" tvg-logo="https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png" group-title="Music",MTV Catfish (Sweden) NO
 https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8
 #EXTINF:-1 tvg-id="MTVCatfish.us@CA" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="Music",MTV Catfish (United States)
@@ -636,8 +632,6 @@ https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 https://jmp2.uk/plu-638693db857364000781b471.m3u8
 #EXTINF:-1 tvg-id="MTVDating.se@SE" tvg-logo="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png" group-title="Music",MTV Dating (Sweden) (720p)
 https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8
-#EXTINF:-1 tvg-id="MTVDating.se@DK" tvg-logo="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png" group-title="Music",MTV Dating (Sweden) DK (720p)
-https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8
 #EXTINF:-1 tvg-id="MTVDating.se@NO" tvg-logo="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png" group-title="Music",MTV Dating (Sweden) NO (720p)
 https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8
 #EXTINF:-1 tvg-id="MTVDrag.us@BR" tvg-logo="https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="Music",MTV Drag
@@ -650,8 +644,6 @@ https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 #EXTINF:-1 tvg-id="MTVExOnTheBeach.se@SE" tvg-logo="https://images.pluto.tv/channels/61c0909b872c650008ed42e4/colorLogoPNG.png" group-title="Music",MTV Ex On The Beach
 https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8
-#EXTINF:-1 tvg-id="MTVExOnTheBeach.se@DK" tvg-logo="https://images.pluto.tv/channels/61c0909b872c650008ed42e4/colorLogoPNG.png" group-title="Music",MTV Ex On The Beach DK
-https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8
 #EXTINF:-1 tvg-id="MTVExOnTheBeach.se@NO" tvg-logo="https://images.pluto.tv/channels/61c0909b872c650008ed42e4/colorLogoPNG.png" group-title="Music",MTV Ex On The Beach NO
 https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8
 #EXTINF:-1 tvg-id="MTVFlowLatino.us@SD" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="Music",MTV Flow Latino (720p)
@@ -686,8 +678,6 @@ https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 #EXTINF:-1 tvg-id="MTVReality.se@SE" tvg-logo="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png" group-title="Music",MTV Reality (Sweden) (720p)
 https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
-#EXTINF:-1 tvg-id="MTVReality.se@DK" tvg-logo="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png" group-title="Music",MTV Reality (Sweden) DK (720p)
-https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8
 #EXTINF:-1 tvg-id="MTVReality.se@NO" tvg-logo="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png" group-title="Music",MTV Reality (Sweden) NO
 https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8
 #EXTINF:-1 tvg-id="MTVReality.us@BR" tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" group-title="Music",MTV Reality (United States) (720p)
@@ -698,8 +688,6 @@ https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
 https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
 #EXTINF:-1 tvg-id="MTVRidiculousness.se@SE" tvg-logo="https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png" group-title="Music",MTV Ridiculousness (Sweden) (720p)
 https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8
-#EXTINF:-1 tvg-id="MTVRidiculousness.se@DK" tvg-logo="https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png" group-title="Music",MTV Ridiculousness (Sweden) DK (720p)
-https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8
 #EXTINF:-1 tvg-id="MTVRidiculousness.se@NO" tvg-logo="https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png" group-title="Music",MTV Ridiculousness (Sweden) NO (720p)
 https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8
 #EXTINF:-1 tvg-id="MTVRidiculousness.us@CA" tvg-logo="https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png" group-title="Music",MTV Ridiculousness (United States) CA
@@ -716,18 +704,12 @@ https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 #EXTINF:-1 tvg-id="MTVSpankinNew.us@CA" tvg-logo="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png" group-title="Music",MTV Spankin' New CA (1080p)
 https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
-#EXTINF:-1 tvg-id="Sub.fi" tvg-name="MTV Sub" tvg-logo="https://i.imgur.com/VRCuxQt.png" group-title="Music",MTV Sub
-https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="MTVTeenMom.se@SE" tvg-logo="https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png" group-title="Music",MTV Teen Mom (Sweden) (720p)
 https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8
-#EXTINF:-1 tvg-id="MTVTeenMom.se@DK" tvg-logo="https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png" group-title="Music",MTV Teen Mom (Sweden) DK (720p)
-https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8
 #EXTINF:-1 tvg-id="MTVTeenMom.se@NO" tvg-logo="https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png" group-title="Music",MTV Teen Mom (Sweden) NO (720p)
 https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8
 #EXTINF:-1 tvg-id="MTVTheHills.se@SE" tvg-logo="https://images.pluto.tv/channels/61c09039ebd75200072587f9/colorLogoPNG.png" group-title="Music",MTV The Hills
 https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8
-#EXTINF:-1 tvg-id="MTVTheHills.se@DK" tvg-logo="https://images.pluto.tv/channels/61c09039ebd75200072587f9/colorLogoPNG.png" group-title="Music",MTV The Hills DK
-https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8
 #EXTINF:-1 tvg-id="MTVTheHills.se@NO" tvg-logo="https://images.pluto.tv/channels/61c09039ebd75200072587f9/colorLogoPNG.png" group-title="Music",MTV The Hills NO
 https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8
 #EXTINF:-1 tvg-id="MTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Music",MTV (United States) (1080p)
@@ -1504,6 +1486,8 @@ https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="ZBMusic.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png" group-title="Music",ZB Music (720p)
+https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="ZFMZoetermeerTV.nl@SD" tvg-logo="https://i.imgur.com/vrjACvy.png" group-title="Music",ZFM Zoetermeer TV (720p)
 https://zfmzoetermeer.nl/live/master.m3u8
 #EXTINF:-1 tvg-id="ZICOTV.rs@SD" tvg-logo="https://i.imgur.com/8wbTnNW.png" group-title="Music",ZICO TV (720p)
