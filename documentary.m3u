@@ -3,7 +3,7 @@
 #   Anon TV V2 — by Aram Moostafaye
 #   Documentary - 456 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-09-25 21:15 UTC
+#   Updated: 2026-09-26 03:25 UTC
 #   Channels: 456
 # +======================================+
 #EXTINF:-1 tvg-id="13C.cl@SD" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="Documentary",13C (1080p)
@@ -140,6 +140,8 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us@SD" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Documentary",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="ClickTVChile.cl@SD" tvg-logo="https://i.imgur.com/H0XNbMS.png" group-title="Documentary",ClickTV Chile (720p)
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="Documentary",CNA Originals (1080p)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTV.py@SD" tvg-logo="https://i.imgur.com/dAMyExY.jpg" group-title="Documentary",Cosmos TV (720p)
@@ -430,8 +432,6 @@ http://stream.mcquack.net/141/index.m3u8
 https://vod-c57.interspace.com:443/channel_abr/46/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NTE6MDkgUE0maGFzaF92YWx1ZT05S1hVR3ExVVVPUnU5Zk9sTGpDY2dRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3N2RkZGIxYTU=
 #EXTINF:-1 tvg-id="MRT2.mk" tvg-name="MRT2" tvg-logo="https://i.imgur.com/YvOrUnN.png" group-title="Documentary",MRT2 Ⓖ
 https://vod-c57.interspace.com:443/channel_abr/43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MjM6NTQgUE0maGFzaF92YWx1ZT1ZT2dHa29qd09TbDcvVFpqQU1udVh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MTdhN2ZmY2Q=
-#EXTINF:-1 tvg-id="MRTVFarmer.mm@SD" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Documentary",MRTV Farmer
-https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 #EXTINF:-1 tvg-id="MWDDocumentary.mm@SD" tvg-logo="https://i.imgur.com/4XV7cjU.png" group-title="Documentary",MWD Documentary
 http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 tvg-id="N24Doku.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png" group-title="Documentary",N24 Doku
