@@ -3,8 +3,8 @@
 #   Anon TV V2 — by Aram Moostafaye
 #   Sports
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-10-03 11:02 UTC
-#   Channels: 321
+#   Updated: 2026-10-03 15:39 UTC
+#   Channels: 325
 # +======================================+
 #EXTINF:-1 tvg-id="30AGolfKingdom.us@SD" tvg-logo="https://i.imgur.com/Lv53nh4.png" group-title="Sports",30A Golf Kingdom (720p)
 https://30a-tv.com/feeds/vidaa/golf.m3u8
@@ -300,6 +300,8 @@ https://h.jcp.live.opencaster.com/play_src/index.m3u8
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="MRT3.mk" tvg-name="MRT3" tvg-logo="https://i.imgur.com/3VZrG4T.png" group-title="Sports",MRT3 Ⓖ
 https://vod-c57.interspace.com:443/channel_abr/658323455489957/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzU6NTkgUE0maGFzaF92YWx1ZT1Xb0JsUWRMN1JKLytjbnMyQjVuMUFRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NDRmM2M5MDI=
+#EXTINF:-1 tvg-id="MRTVSports.mm@SD" tvg-logo="https://i.imgur.com/cFTR4kC.png" group-title="Sports",MRTV Sports
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 tvg-id="MSG.us@SD" tvg-logo="https://i.imgur.com/SEQFh0P.png" group-title="Sports",MSG (720p)
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports",MUTV (720p)
@@ -344,8 +346,6 @@ https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 #EXTINF:-1 tvg-id="PGATour.us@SD" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",PGA Tour (1080p)
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="PKSports.pk@SD" tvg-logo="https://i.imgur.com/qtbSnrY.png" group-title="Sports",PK Sports (720p)
-https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCompetition.us@SD" tvg-logo="https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png" group-title="Sports",Pluto TV Competition
 https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDeportes.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png" group-title="Sports",Pluto TV Deportes
@@ -464,6 +464,8 @@ https://cloudplay-sonyliv.pages.dev/ten1.m3u8
 https://cloudplay-sonyliv.pages.dev/ten2.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sports",Sony Sports Ten 3 Hindi (1080p)
 https://cloudplay-sonyliv.pages.dev/ten3.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen4.in@Tamil" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025T4PV.png?lock=720x540" group-title="Sports",Sony Sports Ten 4 (1080p)
+https://cloudplay-sonyliv.pages.dev/ten4.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen4.in@Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540" group-title="Sports",Sony Sports Ten 4 Telugu (1080p)
 https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 5 (1080p)
@@ -488,6 +490,12 @@ http://178.124.179.122:8080/SportTV/mpegts
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it@SD" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sports",Sportitalia (1080p)
 https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Sportitalia24.it@SD" tvg-logo="https://i.imgur.com/RSwnoLn.png" group-title="Sports",Sportitalia 24 (720p)
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sportitalia24.it" tvg-name="Sportitalia LIVE24" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia LIVE24
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SportitaliaMotori.it@SD" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia Motori (720p)
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia Plus" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia Plus
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia Solocalcio (1080p)
@@ -516,8 +524,6 @@ https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadi
 http://51.75.127.199:3141/starsports1/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2 (576p)
 http://51.75.127.199:3141/starsports2/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-logo="https://i.imgur.com/m7DvvqF.png" group-title="Sports",Star Sports 2 Telugu HD (576p)
-https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsKhel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL/images/LOGO_HD/LOGO_HD_image.png" group-title="Sports",Star Sports Khel (576p)
 http://51.75.127.199:3141/starsportskhel/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports",Star Sports Select 2 HD (720p)
@@ -618,6 +624,8 @@ http://str2.iptvhd.ru:8080/Viasat_Sport/index.m3u8
 https://dethich.pw/thvl4/index.m3u8
 #EXTINF:-1 tvg-id="VitalDrive.ru@HD" tvg-logo="https://i.imgur.com/XoR9zLh.png" group-title="Sports",Vital Drive
 https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 tvg-id="VSBetHD.vn@HD" tvg-logo="https://i.imgur.com/sMhL2Nl.png" group-title="Sports",VSBet HD (1080p)
+https://live05.meung.app/live/16226575.m3u8
 #EXTINF:-1 tvg-id="VTV6.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png" group-title="Sports",VTV6 (1080p)
 https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="WeSportTV.md@SD" tvg-logo="https://i.imgur.com/vJZgpOb.png" group-title="Sports",We Sport TV

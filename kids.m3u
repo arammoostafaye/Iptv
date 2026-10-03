@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Kids - 426 channels
+#   Kids - 423 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-10-03 11:02 UTC
-#   Channels: 426
+#   Updated: 2026-10-03 15:39 UTC
+#   Channels: 423
 # +======================================+
 #EXTINF:-1 tvg-id="10Shake.au" tvg-name="10 Shake" tvg-logo="https://i.imgur.com/OXtIkOn.png" group-title="Kids",10 Shake
 https://i.mjh.nz/.r/10shake-nsw.m3u8
@@ -56,6 +56,8 @@ http://168.196.127.137:6001/play/a06j/index.m3u8
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="Balapan.kz@HD" tvg-logo="https://vote.rtrk.kz/img/balapan-logo.png" group-title="Kids",Balapan HD (1080p)
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-id="BalapanInternational.kz@SD" tvg-logo="https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png" group-title="Kids",Balapan International (1080p)
+https://live-3.otcnet.ru/Balapan/index.m3u8
 #EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" tvg-logo="https://i.imgur.com/aH0PCPy.png" group-title="Kids",BBC Four/CBeebies (720p)
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-logo="https://i.imgur.com/CGXC5fp.png" group-title="Kids",BBC Three/CBBC (720p)
@@ -232,14 +234,6 @@ https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="GikTVMX.mx@SD" tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Kids",GikTVMX (720p)
 https://pistream.ddns.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@English" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids",God Stands Kids Club TV
-https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Arabic" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids",God Stands Kids Club TV Arabic
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Chinese" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Urdu" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids",God Stands Kids Club TV Urdu
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
 #EXTINF:-1 tvg-id="Gong.fr@SD" tvg-logo="https://i.imgur.com/lA9UFMG.png" group-title="Kids",Gong (1080p)
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="GospelCartoon.br@SD" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Kids",Gospel Cartoon (360p)
@@ -270,8 +264,6 @@ https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
 https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8
 #EXTINF:-1 tvg-id="IuniorTV.it@SD" tvg-logo="https://i.imgur.com/FBOJnfT.png" group-title="Kids",Iunior TV (1080p)
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
-#EXTINF:-1 tvg-id="JapanimTV.be@SD" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" group-title="Kids",JapanimTV (1080p)
-https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-id="JiangxiChildrensChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv6.jpg" group-title="Kids",Jiangxi Children's Channel
 https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk@SD" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="Kids",JimJam Europe (720p)
@@ -284,6 +276,8 @@ https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
 http://stream.mcquack.net/144/index.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Kids",Kartoon Channel! (1080p)
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KidOO.us@SD" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/11/Logo-KidOO.png" group-title="Kids",KidOO (1080p)
+http://15.204.246.24:8080/KidooHD/index.m3u8
 #EXTINF:-1 tvg-id="KidoodleTV.ca@SD" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",Kidoodle.TV (1080p)
 https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KidsTV.id@SD" tvg-logo="https://i.imgur.com/B5YiUIP.png" group-title="Kids",Kids TV

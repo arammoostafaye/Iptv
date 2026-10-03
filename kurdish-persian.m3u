@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Kurdish + Persian - 215 channels
+#   Kurdish + Persian - 216 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-10-03 11:02 UTC
-#   Channels: 215
+#   Updated: 2026-10-03 15:39 UTC
+#   Channels: 216
 # +======================================+
 #EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title="Kurdish",Afarin Baxcha (1080p)
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
@@ -118,8 +118,6 @@ https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 https://iko-streamline-live1.akamaized.net/RonahiTV/master.m3u8
 #EXTINF:-1 tvg-id="RudawTV.iq@SD" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="Kurdish",Rudaw TV (1080p)
 https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
-#EXTINF:-1 tvg-id="SavaneTV.bf@SD" tvg-logo="https://i.imgur.com/mv3S1Zc.png" group-title="Kurdish",Savane TV
-https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Speda TV
 https://spedanet.store/upload/images/spedahd.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="Kurdish",Star Pravah HD (720p)
@@ -128,6 +126,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b19
 https://muzkurd.com/sterktv/sterk/playlist.m3u8
 #EXTINF:-1 tvg-id="SubhavaarthaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUBHAVAARTHA/images/LOGO_HD/image.png" group-title="Kurdish",Subhavaartha TV (720p)
 https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Swarnavahini.lk@SD" tvg-logo="https://i.imgur.com/0hnpeq9.png" group-title="Kurdish",Swarnavahini (480p)
+https://teledrama.ebc.lk/TTT/proxy.php
 #EXTINF:-1 tvg-id="ThrakiNetTV.gr@SD" tvg-logo="https://i.imgur.com/3ITSnqT.png" group-title="Kurdish",Thraki Net TV (1080p)
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="Kurdish",TRT 1 (1440p)
@@ -164,6 +164,8 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" group-title="Kurdish",TRT Turk (720p)
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TuljaBhavani.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tulja_Bhavani.png" group-title="Kurdish",Tulja Bhavani (576p)
+http://51.75.127.199:3141/tuljabhavani/index.m3u8
 #EXTINF:-1 tvg-id="TVANava.ir@SD" tvg-logo="https://i.imgur.com/JRxrsrw.png" group-title="Kurdish",TVA Nava
 https://ncdn.telewebion.ir/nava/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlusSuceava.ro@SD" tvg-logo="https://i.imgur.com/f4fzoLe.png" group-title="Kurdish",TVPlus Suceava (576p)
