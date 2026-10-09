@@ -3,7 +3,7 @@
 #   Anon TV V2 — by Aram Moostafaye
 #   Kurdish - 116 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-10-09 12:50 UTC
+#   Updated: 2026-10-09 22:28 UTC
 #   Channels: 116
 # +======================================+
 #EXTINF:-1 tvg-name="AF:AVA TV (SN)" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",AF:AVA TV (SN)
@@ -54,8 +54,6 @@ http://best4u.biz:8080/movie/26842788/26842788/52068.mp4
 http://best4u.biz:8080/movie/26842788/26842788/51981.mp4
 #EXTINF:-1 tvg-name="Badnaam Gali - 2019" tvg-logo="http://ultimeiptv.net:8000/images/1ee6209c269ec2bf2d60e82a599e9e91.jpg" group-title="Kurdish",Badnaam Gali - 2019
 http://best4u.biz:8080/movie/26842788/26842788/36138.mkv
-#EXTINF:-1 tvg-name="BG: FOLKLOR" tvg-logo="https://docdog.top/logo/countries/bulgaria/folklortv.png" group-title="Kurdish",BG: FOLKLOR
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3355
 #EXTINF:-1 tvg-id="Channel8.gr@HD" tvg-logo="https://www.channel8.gr/img/channel8.png" group-title="Kurdish",Channel 8 (Greece) (1080p)
 https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://i.imgur.com/nUSx1jF.png" group-title="Kurdish",Channel 8 (Russia) (576p)
@@ -146,7 +144,7 @@ https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f079
 https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-name="Ravage 2025" tvg-logo="http://117.55.202.58:8080/images/29a33f07184154bd402e3219917b509a.jpg" group-title="Kurdish",Ravage 2025
 http://best4u.biz:8080/movie/26842788/26842788/72151.mp4
-#EXTINF:-1 tvg-name="RO: MOLDAVA 2" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",RO: MOLDAVA 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",RO: MOLDAVA 2
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3253
 #EXTINF:-1 tvg-id="RojavaTV.sy@SD" tvg-logo="https://i.imgur.com/42noysO.png" group-title="Kurdish",Rojava TV (1080p)
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
@@ -162,8 +160,6 @@ http://best4u.biz:8080/movie/26842788/26842788/52067.mkv
 https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Speda TV
 https://spedanet.store/upload/images/spedahd.m3u8
-#EXTINF:-1 tvg-name="SRB: RTV MLAVA" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",SRB: RTV MLAVA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3977
 #EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="Kurdish",Star Pravah HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Sterk TV
@@ -218,8 +214,12 @@ https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@WestJava" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Kurdish",TVRI West Java (480p)
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-#EXTINF:-1 tvg-name="USA: NBA CLEVELAND CAVALIERS" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",USA: NBA CLEVELAND CAVALIERS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155941
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",USA: ABC SAVANNAH WJCL
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154592
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",USA: NBA 01: CLEVELAND CAVALIERS @ MIAMI HEAT // UK SAT 26 APR 5:45PM // ET SAT 26 APR 12:45PM
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155860
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",USA: NBA 01: HEAT (MIA) X CAVALIERS (CLE) START:2025-04-26 17:50:00 STOP:2025-04-26 21:50:00
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155861
 #EXTINF:-1 tvg-id="VidusdaugavasTelevizija.lv@SD" tvg-logo="https://i.imgur.com/L5U3PQR.png" group-title="Kurdish",Vidusdaugavas Televizija (576p)
 https://straume.vdtv.lv/vdtv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Waar TV
