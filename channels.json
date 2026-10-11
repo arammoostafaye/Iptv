@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-10T21:06:42.597244",
-  "total": 4283,
+  "updated": "2026-10-11T03:39:40.114938",
+  "total": 4311,
   "groups": {
-    "Kurdish": 98,
-    "Persian": 125,
-    "Sports": 349,
-    "Movies": 1172,
-    "Music": 706,
-    "News": 1001,
-    "Kids": 442,
-    "Documentary": 390
+    "Kurdish": 95,
+    "Persian": 126,
+    "Sports": 372,
+    "Movies": 1175,
+    "Music": 694,
+    "News": 1002,
+    "Kids": 445,
+    "Documentary": 402
   },
   "channels": [
     {
@@ -37,19 +37,19 @@
       "satellites": []
     },
     {
-      "name": "Atravankado Radio live",
-      "group": "Kurdish",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124090",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "AVA Family",
       "group": "Kurdish",
       "stream": "https://familyhls.avatv.live/hls/stream.m3u8",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "AVAFamily.ir@SD",
+      "satellites": []
+    },
+    {
+      "name": "AVA Media (1080p)",
+      "group": "Kurdish",
+      "stream": "https://ava002.xyz/upload/images/1080.m3u8",
+      "logo": "https://github.com/user-attachments/assets/a9259f18-b9f2-4aa0-86f0-8fba1f343e69",
+      "tvg_id": "AVAMedia.iq@HD",
       "satellites": []
     },
     {
@@ -130,14 +130,6 @@
       "stream": "https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8",
       "logo": "https://images.pluto.tv/channels/61c09b48d6d97900076e91c5/colorLogoPNG.png",
       "tvg_id": "Avatar.se@DK",
-      "satellites": []
-    },
-    {
-      "name": "Caravan of Courage - An Ewok Adventure (1984)",
-      "group": "Kurdish",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/183097.avi",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -365,14 +357,6 @@
       "satellites": []
     },
     {
-      "name": "Mora-Net TV (576p)",
-      "group": "Kurdish",
-      "stream": "https://stream.moranettv.hu/live/index.m3u8",
-      "logo": "https://i.imgur.com/yT0RmKi.png",
-      "tvg_id": "MoraNetTV.hu@SD",
-      "satellites": []
-    },
-    {
       "name": "Mtavari Arkhi",
       "group": "Kurdish",
       "stream": "https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8",
@@ -538,14 +522,6 @@
       "stream": "https://teledrama.ebc.lk/TTT/proxy.php",
       "logo": "https://i.imgur.com/0hnpeq9.png",
       "tvg_id": "Swarnavahini.lk@SD",
-      "satellites": []
-    },
-    {
-      "name": "The Guns of Navarone (1961)",
-      "group": "Kurdish",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/197658.mp4",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -866,6 +842,14 @@
       "stream": "https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/500px-Amouzesh_TV_logo_%282023%29.svg.png",
       "tvg_id": "AmouzeshTV.ir@SD",
+      "satellites": []
+    },
+    {
+      "name": "Anger Management (2003)",
+      "group": "Persian",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198483.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
       "satellites": []
     },
     {
@@ -1285,6 +1269,14 @@
       "satellites": []
     },
     {
+      "name": "KIRN Radio Iran 670 AM live",
+      "group": "Persian",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/122952",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "Lemar TV (720p)",
       "group": "Persian",
       "stream": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
@@ -1615,7 +1607,7 @@
     {
       "name": "Press TV",
       "group": "Persian",
-      "stream": "https://live.presstv.ir/hls/presstv.m3u8",
+      "stream": "https://live.presstv.co.uk/hls/presstv.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png",
       "tvg_id": "PressTV.ir@SD",
       "satellites": []
@@ -1642,14 +1634,6 @@
       "stream": "https://ncdn.telewebion.ir/iribu/live/playlist.m3u8",
       "logo": "https://static.telewebion.com/channelsLogo/0e3d7425-1a1b-47c4-b020-2e09a5fc2598/default",
       "tvg_id": "RoyaTV.ir@SD",
-      "satellites": []
-    },
-    {
-      "name": "Rules of Engagement (2000)",
-      "group": "Persian",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/189280.mp4",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -1765,6 +1749,14 @@
       "satellites": []
     },
     {
+      "name": "US Asian Gemini Movies (Telugu) (S)",
+      "group": "Persian",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/125824",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "Varzesh TV",
       "group": "Persian",
       "stream": "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8",
@@ -1786,14 +1778,6 @@
       "stream": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
       "logo": "https://i.imgur.com/pZyKaUH.png",
       "tvg_id": "WatanTV.eg@SD",
-      "satellites": []
-    },
-    {
-      "name": "WGEM-FM News/Talk 105 live",
-      "group": "Persian",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124733",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -1901,14 +1885,6 @@
       "satellites": []
     },
     {
-      "name": "Al Iraqia Sport (720p)",
-      "group": "Sports",
-      "stream": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
-      "logo": "https://i.imgur.com/DrrlxTO.png",
-      "tvg_id": "AlIraqiaSport.iq@SD",
-      "satellites": []
-    },
-    {
       "name": "Alfa Sport (1080p)",
       "group": "Sports",
       "stream": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
@@ -1954,6 +1930,14 @@
       "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123059",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Arena4",
+      "group": "Sports",
+      "stream": "http://88.212.15.17/live/arena4/index.m3u8",
+      "logo": "https://i.imgur.com/uAaQDr6.png",
+      "tvg_id": "Arena4.hu@SD",
       "satellites": []
     },
     {
@@ -2109,6 +2093,14 @@
       "satellites": []
     },
     {
+      "name": "CA (FR) TVA Sports 2",
+      "group": "Sports",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57337",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "Canal Showsport (720p)",
       "group": "Sports",
       "stream": "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8",
@@ -2186,6 +2178,22 @@
       "stream": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Canal%2B_Sport_2023.svg/revision/latest?cb=20230901182304",
       "tvg_id": "CanalPlusSportSK.sk@SD",
+      "satellites": []
+    },
+    {
+      "name": "CAR: RUSH SPORT",
+      "group": "Sports",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/53709",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Carib Flow Sports (D)",
+      "group": "Sports",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/79544",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
       "satellites": []
     },
     {
@@ -2381,6 +2389,14 @@
       "satellites": []
     },
     {
+      "name": "Eleven Sports 1",
+      "group": "Sports",
+      "stream": "http://92.114.85.87:8002/play/a00e/index.m3u8",
+      "logo": "https://i.imgur.com/AOu4FXH.png",
+      "tvg_id": "ElevenSports1.pl@SD",
+      "satellites": []
+    },
+    {
       "name": "Equidia (1080p)",
       "group": "Sports",
       "stream": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8",
@@ -2421,15 +2437,31 @@
       "satellites": []
     },
     {
-      "name": "ESPN (1080p)",
+      "name": "ESPN 2 Latin America (1080p)",
       "group": "Sports",
-      "stream": "http://181.78.197.59:8000/play/a07z/index.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
-      "tvg_id": "ESPN.br@SD",
+      "stream": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",
+      "tvg_id": "ESPN2LatinAmerica.us@South",
       "satellites": []
     },
     {
-      "name": "ESPN 4 (1080p)",
+      "name": "ESPN 2 (United States) (720p)",
+      "group": "Sports",
+      "stream": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
+      "logo": "https://i.imgur.com/00tsvjE.png",
+      "tvg_id": "ESPN2.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "ESPN 3 Latin America (1080p)",
+      "group": "Sports",
+      "stream": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
+      "tvg_id": "ESPN3LatinAmerica.us@South",
+      "satellites": []
+    },
+    {
+      "name": "ESPN 4 (Brazil) (1080p)",
       "group": "Sports",
       "stream": "http://181.78.197.59:8000/play/a07n/index.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
@@ -2437,11 +2469,67 @@
       "satellites": []
     },
     {
-      "name": "ESPN Premium HD (1080p)",
+      "name": "ESPN 4 Latin America (1080p)",
+      "group": "Sports",
+      "stream": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
+      "tvg_id": "ESPN4LatinAmerica.us@South",
+      "satellites": []
+    },
+    {
+      "name": "ESPN 5 Latin America (1080p)",
+      "group": "Sports",
+      "stream": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "tvg_id": "ESPN5LatinAmerica.us@South",
+      "satellites": []
+    },
+    {
+      "name": "ESPN 6 Latin America (1080p)",
+      "group": "Sports",
+      "stream": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "tvg_id": "ESPN6LatinAmerica.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "ESPN 7 Latin America (1080p)",
+      "group": "Sports",
+      "stream": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "tvg_id": "ESPN7LatinAmerica.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "ESPN (Brazil) (1080p)",
+      "group": "Sports",
+      "stream": "http://181.78.197.59:8000/play/a07z/index.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "tvg_id": "ESPN.br@SD",
+      "satellites": []
+    },
+    {
+      "name": "ESPN Latin America (1080p)",
+      "group": "Sports",
+      "stream": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "tvg_id": "ESPNLatinAmerica.us@South",
+      "satellites": []
+    },
+    {
+      "name": "ESPN Premium (Argentina) HD (1080p)",
       "group": "Sports",
       "stream": "http://190.128.214.97:64333/play/a02i/index.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png",
       "tvg_id": "ESPNPremium.ar@HD",
+      "satellites": []
+    },
+    {
+      "name": "ESPN (United States) (720p)",
+      "group": "Sports",
+      "stream": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "tvg_id": "ESPN.us@SD",
       "satellites": []
     },
     {
@@ -2493,11 +2581,75 @@
       "satellites": []
     },
     {
-      "name": "Extreme Sports Channel HD (1080p)",
+      "name": "Eurosport 1 Hungary",
       "group": "Sports",
-      "stream": "http://str2.iptvhd.ru:8080/Extreme_Sports/index.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png",
-      "tvg_id": "ExtremeSportsChannel.ru@HD",
+      "stream": "http://88.212.15.17/live/esp1_hun/index.m3u8",
+      "logo": "https://i.imgur.com/olQJgm7.png",
+      "tvg_id": "Eurosport1.fr@Hungary",
+      "satellites": []
+    },
+    {
+      "name": "Eurosport 1 Polska (1080p)",
+      "group": "Sports",
+      "stream": "http://57.128.210.196:8080/264/index.m3u8",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e7/Eurosport_1_2022.svg/revision/latest?cb=20220806090310",
+      "tvg_id": "Eurosport1Polska.pl@SD",
+      "satellites": []
+    },
+    {
+      "name": "Eurosport 1 Russia (1080p)",
+      "group": "Sports",
+      "stream": "http://stream.mcquack.net/176/index.m3u8",
+      "logo": "https://i.imgur.com/olQJgm7.png",
+      "tvg_id": "Eurosport1.fr@Russia",
+      "satellites": []
+    },
+    {
+      "name": "Eurosport 1 Turkiye",
+      "group": "Sports",
+      "stream": "https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8",
+      "logo": "https://i.imgur.com/olQJgm7.png",
+      "tvg_id": "Eurosport1.fr@Turkiye",
+      "satellites": []
+    },
+    {
+      "name": "Eurosport 2 Hungary",
+      "group": "Sports",
+      "stream": "http://88.212.15.17/live/esp2_hun/index.m3u8",
+      "logo": "https://i.imgur.com/f56dHgR.png",
+      "tvg_id": "Eurosport2.fr@Hungary",
+      "satellites": []
+    },
+    {
+      "name": "Eurosport 2 Polska (1080p)",
+      "group": "Sports",
+      "stream": "http://57.128.210.196:8080/263/index.m3u8",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/1/16/Eurosport_2_2022.svg/revision/latest?cb=20220417183127",
+      "tvg_id": "Eurosport2Polska.pl@SD",
+      "satellites": []
+    },
+    {
+      "name": "Eurosport 2 Russia (1080p)",
+      "group": "Sports",
+      "stream": "http://stream.mcquack.net/192/index.m3u8",
+      "logo": "https://i.imgur.com/f56dHgR.png",
+      "tvg_id": "Eurosport2.fr@Russia",
+      "satellites": []
+    },
+    {
+      "name": "Eurosport 2 Turkiye",
+      "group": "Sports",
+      "stream": "https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8",
+      "logo": "https://i.imgur.com/f56dHgR.png",
+      "tvg_id": "Eurosport2.fr@Turkiye",
+      "satellites": []
+    },
+    {
+      "name": "Eurosport 4 Polska (1080p)",
+      "group": "Sports",
+      "stream": "http://57.128.231.171:8080/291/index.m3u8",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ae/Eurosport_4_2022.svg/revision/latest?cb=20220418053934",
+      "tvg_id": "Eurosport4Polska.pl@SD",
       "satellites": []
     },
     {
@@ -2517,7 +2669,7 @@
       "satellites": []
     },
     {
-      "name": "Fast&FunBox (Netherlands)",
+      "name": "Fast&FunBox",
       "group": "Sports",
       "stream": "https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8",
       "logo": "https://i.imgur.com/a9ZtP17.png",
@@ -2650,6 +2802,14 @@
       "stream": "http://145.239.5.177/556a/index.m3u8",
       "logo": "https://i.imgur.com/qsLLyn4.png",
       "tvg_id": "FootPlus.fr@SD",
+      "satellites": []
+    },
+    {
+      "name": "Formula 1 AntenaPlay (576p)",
+      "group": "Sports",
+      "stream": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8",
+      "logo": "https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png",
+      "tvg_id": "Formula1AntenaPlay.ro@SD",
       "satellites": []
     },
     {
@@ -2877,35 +3037,27 @@
       "satellites": []
     },
     {
-      "name": "KBEU Fox Sports Camden 92.7 FM live",
+      "name": "KHTK Sports 1140 AM (US Only) live",
       "group": "Sports",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/139067",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123823",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "KCBF Sports live",
+      "name": "KKTK Fox Sports 1400 AM live",
       "group": "Sports",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124123",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124433",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "KGNC News talk Sports live",
+      "name": "KNBB Sports Talk 97.7 live",
       "group": "Sports",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124125",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124939",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "KHL Prime (1080p)",
-      "group": "Sports",
-      "stream": "http://str2.iptvhd.ru:8080/KHL_TV_HD/index.m3u8",
-      "logo": "https://i.imgur.com/pwxT0ON.png",
-      "tvg_id": "KHLPrime.ru@HD",
       "satellites": []
     },
     {
@@ -2914,6 +3066,14 @@
       "stream": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8",
       "logo": "https://i.imgur.com/M1Ee79b.png",
       "tvg_id": "KozoomTV.fr@SD",
+      "satellites": []
+    },
+    {
+      "name": "KRLV Fox Sports Radio 1340 AM live",
+      "group": "Sports",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/122890",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
       "satellites": []
     },
     {
@@ -3013,14 +3173,6 @@
       "satellites": []
     },
     {
-      "name": "Match! Igra HD (1080p)",
-      "group": "Sports",
-      "stream": "http://str2.iptvhd.ru:8080/Match_Igra_HD/index.m3u8",
-      "logo": "https://i.imgur.com/5XWpF19.png",
-      "tvg_id": "MatchIgra.ru@HD",
-      "satellites": []
-    },
-    {
       "name": "Match! Planeta (576p)",
       "group": "Sports",
       "stream": "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv",
@@ -3029,9 +3181,17 @@
       "satellites": []
     },
     {
+      "name": "Match! Premier (480p)",
+      "group": "Sports",
+      "stream": "http://192.162.64.99:5000/play/a02b/index.m3u8",
+      "logo": "https://i.imgur.com/GQPyHYK.png",
+      "tvg_id": "MatchPremier.ru@SD",
+      "satellites": []
+    },
+    {
       "name": "Match! Ultra (1080p)",
       "group": "Sports",
-      "stream": "http://str2.iptvhd.ru:8080/Match_TV_HD/index.m3u8",
+      "stream": "http://31.148.5.241/kanal_3/index.m3u8",
       "logo": "https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg",
       "tvg_id": "MatchUltra.ru@4K",
       "satellites": []
@@ -3495,9 +3655,33 @@
     {
       "name": "Polsat Sport 1 (1080p)",
       "group": "Sports",
-      "stream": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd",
+      "stream": "http://57.128.210.196:8080/193/index.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png",
       "tvg_id": "PolsatSport1.pl@SD",
+      "satellites": []
+    },
+    {
+      "name": "Polsat Sport 2 (1080p)",
+      "group": "Sports",
+      "stream": "http://57.128.210.196:8080/195/index.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/500px-Polsat_Sport_2_2024.svg.png",
+      "tvg_id": "PolsatSport2.pl@SD",
+      "satellites": []
+    },
+    {
+      "name": "Polsat Sport 3 (1080p)",
+      "group": "Sports",
+      "stream": "http://57.128.210.196:8080/192/index.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/500px-Polsat_Sport_3_2024.svg.png",
+      "tvg_id": "PolsatSport3.pl@SD",
+      "satellites": []
+    },
+    {
+      "name": "Polsat Sport Fight (1080p)",
+      "group": "Sports",
+      "stream": "http://57.128.210.196:8080/194/index.m3u8",
+      "logo": "https://i.imgur.com/8x1FV3o.png",
+      "tvg_id": "PolsatSportFight.pl@SD",
       "satellites": []
     },
     {
@@ -3685,14 +3869,6 @@
       "satellites": []
     },
     {
-      "name": "Russian Extreme (576p)",
-      "group": "Sports",
-      "stream": "http://str2.iptvhd.ru:8080/Russkiy_ekstrim/index.m3u8",
-      "logo": "https://i.imgur.com/hJK7mOW.png",
-      "tvg_id": "RussianExtreme.ru@SD",
-      "satellites": []
-    },
-    {
       "name": "Russian Extreme Ultra (1440p)",
       "group": "Sports",
       "stream": "http://46.53.200.153:7777/play/test_krask1/index.m3u8",
@@ -3754,6 +3930,14 @@
       "stream": "https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8",
       "logo": "https://i.imgur.com/TxQvFnQ.png",
       "tvg_id": "SkyRacing2.au@SD",
+      "satellites": []
+    },
+    {
+      "name": "Sony Sports Ten 1 HD (1080p)",
+      "group": "Sports",
+      "stream": "http://103.185.24.134:3001/SonyTenSports1/index.m3u8",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
+      "tvg_id": "SonySportsTen1.in@HD",
       "satellites": []
     },
     {
@@ -3885,14 +4069,6 @@
       "satellites": []
     },
     {
-      "name": "Sports Radio 850 AM & 96.5 AM live",
-      "group": "Sports",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124091",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Sports Television (720p)",
       "group": "Sports",
       "stream": "https://live.koryocdn.org/sports/index.m3u8",
@@ -3954,6 +4130,14 @@
       "stream": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png",
       "tvg_id": "Stadium.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "Star Sports 2 (576p)",
+      "group": "Sports",
+      "stream": "http://103.151.60.162:2122/play/a00v/index.m3u8?hls",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
+      "tvg_id": "StarSports2.in@SD",
       "satellites": []
     },
     {
@@ -4237,6 +4421,14 @@
       "satellites": []
     },
     {
+      "name": "TVP Sport (1080p)",
+      "group": "Sports",
+      "stream": "http://57.128.210.196:8080/134/index.m3u8",
+      "logo": "https://i.imgur.com/JUZDOCO.png",
+      "tvg_id": "TVPSport.pl@SD",
+      "satellites": []
+    },
+    {
       "name": "TVR Sport",
       "group": "Sports",
       "stream": "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8",
@@ -4317,25 +4509,25 @@
       "satellites": []
     },
     {
-      "name": "TyC Sports USA",
+      "name": "UK-Sky Sports Action",
       "group": "Sports",
-      "stream": "http://45.170.130.224:8000/play/a020/index.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
-      "tvg_id": "TyCSportsUSA.ar@SD",
-      "satellites": []
-    },
-    {
-      "name": "UK: SKY SPORTS MAIN EVENT HD",
-      "group": "Sports",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/137720",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/53705",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "UK-Sky Sports News",
+      "name": "UK Sky Sports F1 FHD (D)",
       "group": "Sports",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/35241",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/53704",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "UK-Sky Sports Main Event",
+      "group": "Sports",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/35243",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -4360,14 +4552,6 @@
       "name": "US FOX Sports 1",
       "group": "Sports",
       "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/46792",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "US NBC Sports California (A)",
-      "group": "Sports",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/20940",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -4399,7 +4583,7 @@
     {
       "name": "viju+ Sport HD (1080p)",
       "group": "Sports",
-      "stream": "http://str2.iptvhd.ru:8080/Viasat_Sport/index.m3u8",
+      "stream": "http://46.53.200.153:7777/play/a01l/index.m3u8",
       "logo": "https://i.imgur.com/fXESG0l.png",
       "tvg_id": "vijuPlusSport.ru@HD",
       "satellites": []
@@ -4421,14 +4605,6 @@
       "satellites": []
     },
     {
-      "name": "VSBet HD (1080p)",
-      "group": "Sports",
-      "stream": "https://live05.meung.app/live/16226575.m3u8",
-      "logo": "https://i.imgur.com/sMhL2Nl.png",
-      "tvg_id": "VSBetHD.vn@HD",
-      "satellites": []
-    },
-    {
       "name": "VTV6 (1080p)",
       "group": "Sports",
       "stream": "https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
@@ -4437,9 +4613,9 @@
       "satellites": []
     },
     {
-      "name": "WAIN CBS Sports Radio 1270 AM live",
+      "name": "WBSS AM 1490 Sports Betting Radio live",
       "group": "Sports",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123035",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/125036",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -4448,14 +4624,6 @@
       "name": "WFMB Sports Radio 1450 live",
       "group": "Sports",
       "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124789",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "WGR 550 Sports Radio live",
-      "group": "Sports",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/122728",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -4493,9 +4661,9 @@
       "satellites": []
     },
     {
-      "name": "WISE Sports Radio live",
+      "name": "WLZR Sports Radio 1560 live",
       "group": "Sports",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/138787",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/139099",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -4549,6 +4717,14 @@
       "satellites": []
     },
     {
+      "name": "WSBM Fox Sports 1340 live",
+      "group": "Sports",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123571",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "WWE Network (1080p)",
       "group": "Sports",
       "stream": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls",
@@ -4562,14 +4738,6 @@
       "stream": "http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8",
       "logo": "https://i.imgur.com/CHDcfrT.png",
       "tvg_id": "XSport.ua",
-      "satellites": []
-    },
-    {
-      "name": "Ziggo Sport 5 (1080p)",
-      "group": "Sports",
-      "stream": "http://145.239.5.177/349/index.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png",
-      "tvg_id": "ZiggoSport5.nl@HD",
       "satellites": []
     },
     {
@@ -4765,22 +4933,6 @@
       "satellites": []
     },
     {
-      "name": "A Shaun the Sheep Movie: Farmageddon (2019)",
-      "group": "Movies",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/197950.mp4",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "A2 (576p)",
-      "group": "Movies",
-      "stream": "http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8",
-      "logo": "https://i.imgur.com/NqHla2V.png",
-      "tvg_id": "A2.ru@SD",
-      "satellites": []
-    },
-    {
       "name": "ABN Bible Movies Channel (720p)",
       "group": "Movies",
       "stream": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8",
@@ -4922,14 +5074,6 @@
       "stream": "https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8",
       "logo": "https://i.imgur.com/HZTz5HJ.png",
       "tvg_id": "AllRealitybyWEtv.us@SD",
-      "satellites": []
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "group": "Movies",
-      "stream": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "logo": "https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj",
-      "tvg_id": "AllTimeMovies.in@SD",
       "satellites": []
     },
     {
@@ -5341,6 +5485,14 @@
       "satellites": []
     },
     {
+      "name": "Bee Movie (2007)",
+      "group": "Movies",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/197978.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "BET",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8",
@@ -5469,9 +5621,9 @@
       "satellites": []
     },
     {
-      "name": "Bollywood HD (1080p)",
+      "name": "Bollywood HD (576p)",
       "group": "Movies",
-      "stream": "http://str2.iptvhd.ru:8080/Bollywood_HD/index.m3u8",
+      "stream": "http://176.118.197.101/Bollywood_HD/index.m3u8",
       "logo": "https://i.imgur.com/YLQRnXt.png",
       "tvg_id": "Bollywood.ru@HD",
       "satellites": []
@@ -5608,6 +5760,22 @@
       "name": "CA: AMC",
       "group": "Movies",
       "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57376",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "CA CTV Drama Channel (R)",
+      "group": "Movies",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57254",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "CA: Lifetime Movie Network",
+      "group": "Movies",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57444",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -6213,14 +6381,6 @@
       "satellites": []
     },
     {
-      "name": "City Eden KinoKomediya",
-      "group": "Movies",
-      "stream": "https://cityeden.catcast.tv/content/41331/index.m3u8",
-      "logo": "https://i.imgur.com/Aga2XVA.png",
-      "tvg_id": "CityEdenKinoKomediya.ru@HD",
-      "satellites": []
-    },
-    {
       "name": "City Eden KinoMistika",
       "group": "Movies",
       "stream": "https://cityeden.catcast.tv/content/40783/index.m3u8",
@@ -6370,6 +6530,14 @@
       "stream": "https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8",
       "logo": "https://i.imgur.com/mowSfj6.png",
       "tvg_id": "ColdCaseFiles.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "Colors Bangla Cinema (576p)",
+      "group": "Movies",
+      "stream": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png",
+      "tvg_id": "ColorsBanglaCinema.in@SD",
       "satellites": []
     },
     {
@@ -6781,14 +6949,6 @@
       "satellites": []
     },
     {
-      "name": "DuckTales: The Movie - Treasure of the Lost Lamp (1990)",
-      "group": "Movies",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198046.mp4",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Due Fantagenitori – Pluto TV",
       "group": "Movies",
       "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
@@ -7197,14 +7357,6 @@
       "satellites": []
     },
     {
-      "name": "FX Life (576p)",
-      "group": "Movies",
-      "stream": "http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8",
-      "logo": "https://i.imgur.com/VLv4r50.png",
-      "tvg_id": "FXLife.ru@SD",
-      "satellites": []
-    },
-    {
       "name": "Geordie Shore – Pluto TV",
       "group": "Movies",
       "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20d60/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
@@ -7250,14 +7402,6 @@
       "stream": "https://moviethls.wns.live/hls/stream.m3u8",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "GoldStar.ir@SD",
-      "satellites": []
-    },
-    {
-      "name": "Golden Hollywood Old Time Radio live",
-      "group": "Movies",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123015",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -7946,6 +8090,14 @@
       "stream": "https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8",
       "logo": "https://i.imgur.com/S4r98AB.png",
       "tvg_id": "JudgeNosey.us@US",
+      "satellites": []
+    },
+    {
+      "name": "Jungle Beat: The Movie (2020)",
+      "group": "Movies",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198111.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
       "satellites": []
     },
     {
@@ -8797,14 +8949,6 @@
       "satellites": []
     },
     {
-      "name": "Movie Ticket Radio - Classic live",
-      "group": "Movies",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123099",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "MovieBox",
       "group": "Movies",
       "stream": "https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8",
@@ -9029,14 +9173,6 @@
       "satellites": []
     },
     {
-      "name": "Muzhskoy (1080p)",
-      "group": "Movies",
-      "stream": "http://str2.iptvhd.ru:8080/Muzhskoy/index.m3u8",
-      "logo": "https://i.imgur.com/xyztpBf.png",
-      "tvg_id": "Muzhskoy.ru@SD",
-      "satellites": []
-    },
-    {
       "name": "MWD Movies",
       "group": "Movies",
       "stream": "http://203.81.84.130/hls/mwd_movie/index.m3u8",
@@ -9101,14 +9237,6 @@
       "satellites": []
     },
     {
-      "name": "Namaste Bollywood live",
-      "group": "Movies",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123111",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Nash Bridges (720p)",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-666021cccb3ea10008406866.m3u8",
@@ -9125,9 +9253,9 @@
       "satellites": []
     },
     {
-      "name": "Nashe HD (1080p)",
+      "name": "Nashe HD (576p)",
       "group": "Movies",
-      "stream": "http://str2.iptvhd.ru:8080/Nashe_HD/index.m3u8",
+      "stream": "http://stream.mcquack.net/217/index.m3u8",
       "logo": "https://i.imgur.com/KO8dhi9.png",
       "tvg_id": "Nashe.ru@HD",
       "satellites": []
@@ -9242,14 +9370,6 @@
       "stream": "https://newfhls.wns.live/hls/stream.m3u8",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "NewFlix.ir@SD",
-      "satellites": []
-    },
-    {
-      "name": "Next HD (480p)",
-      "group": "Movies",
-      "stream": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
-      "logo": "https://i.imgur.com/c2rF3SS.png",
-      "tvg_id": "NextHD.py@SD",
       "satellites": []
     },
     {
@@ -9429,6 +9549,14 @@
       "satellites": []
     },
     {
+      "name": "Once Upon a Time… in Hollywood (2019)",
+      "group": "Movies",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198817.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "Oscar Movies Bhojpuri (720p)",
       "group": "Movies",
       "stream": "https://cdn.pishow.tv/ott/live/233/master.m3u8",
@@ -9482,6 +9610,14 @@
       "stream": "https://stream.smotrim.ru/hls2/static/playlist_4.m3u8",
       "logo": "https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",
       "tvg_id": "Patriot.ru@SD",
+      "satellites": []
+    },
+    {
+      "name": "PAW Patrol: The Movie (2021)",
+      "group": "Movies",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/189522.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
       "satellites": []
     },
     {
@@ -9553,14 +9689,6 @@
       "group": "Movies",
       "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/654a299cab05240008a12639/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
       "logo": "https://i.imgur.com/zScgLTv.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Piglet's Big Movie (2003)",
-      "group": "Movies",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198216.mp4",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
     },
@@ -11453,6 +11581,14 @@
       "satellites": []
     },
     {
+      "name": "Polsat Seriale (1080p)",
+      "group": "Movies",
+      "stream": "http://57.128.210.196:8080/196/index.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png",
+      "tvg_id": "PolsatSeriale.pl@SD",
+      "satellites": []
+    },
+    {
       "name": "Popcorn Central (1080p)",
       "group": "Movies",
       "stream": "https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8",
@@ -11773,14 +11909,6 @@
       "satellites": []
     },
     {
-      "name": "Ray Donovan: The Movie (2022)",
-      "group": "Movies",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/189391.mp4",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "RCTV3 (480p)",
       "group": "Movies",
       "stream": "https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8",
@@ -11845,6 +11973,14 @@
       "satellites": []
     },
     {
+      "name": "Rise of the Teenage Mutant Ninja Turtles: The Movie (2022)",
+      "group": "Movies",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/169153.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "Robot Wars by MECH+ – Pluto TV",
       "group": "Movies",
       "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/651581ba6a84140008593586/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
@@ -11890,6 +12026,14 @@
       "stream": "https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8",
       "logo": "https://i.imgur.com/btnhPjZ.png",
       "tvg_id": "RotanaDrama.sa",
+      "satellites": []
+    },
+    {
+      "name": "Rudolph the Red-Nosed Reindeer: The Movie (1998)",
+      "group": "Movies",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198237.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
       "satellites": []
     },
     {
@@ -11946,6 +12090,14 @@
       "stream": "https://i.mjh.nz/.r/sbs-4syd.m3u8",
       "logo": "https://i.imgur.com/V6hhtCx.png",
       "tvg_id": "SBSWorldMovies.au",
+      "satellites": []
+    },
+    {
+      "name": "Scary Movie 2 (2001)",
+      "group": "Movies",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/183013.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
       "satellites": []
     },
     {
@@ -12165,14 +12317,6 @@
       "satellites": []
     },
     {
-      "name": "Smotrim Chestnyy Detektiv (1080p)",
-      "group": "Movies",
-      "stream": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8",
-      "logo": "https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg",
-      "tvg_id": "SmotrimChestnyyDetektiv.ru@SD",
-      "satellites": []
-    },
-    {
       "name": "Sony Max HD (1080p)",
       "group": "Movies",
       "stream": "http://103.185.24.134:3001/SonyMAX/index.m3u8",
@@ -12341,6 +12485,22 @@
       "satellites": []
     },
     {
+      "name": "Star Movies (India) HD (1080p)",
+      "group": "Movies",
+      "stream": "http://103.185.24.134:3001/Star-Movies/index.m3u8",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
+      "tvg_id": "StarMovies.in@HD",
+      "satellites": []
+    },
+    {
+      "name": "Star Movies Select HD (1080p)",
+      "group": "Movies",
+      "stream": "http://103.151.60.162:2122/play/a02l/index.m3u8?hls",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
+      "tvg_id": "StarMoviesSelect.in@HD",
+      "satellites": []
+    },
+    {
       "name": "Star Trek",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8",
@@ -12477,11 +12637,11 @@
       "satellites": []
     },
     {
-      "name": "START World HD (1080p)",
+      "name": "START World (576p)",
       "group": "Movies",
-      "stream": "http://str2.iptvhd.ru:8080/START_World_HD/index.m3u8",
+      "stream": "https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv",
       "logo": "https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png",
-      "tvg_id": "STARTWorld.ru@HD",
+      "tvg_id": "STARTWorld.ru@SD",
       "satellites": []
     },
     {
@@ -12674,6 +12834,22 @@
       "stream": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8",
       "logo": "https://i.imgur.com/JyJNiXy.png",
       "tvg_id": "TaivasTV7.fi@SD",
+      "satellites": []
+    },
+    {
+      "name": "TCM (720p)",
+      "group": "Movies",
+      "stream": "https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png",
+      "tvg_id": "TCM.us@East",
+      "satellites": []
+    },
+    {
+      "name": "TCM West (720p)",
+      "group": "Movies",
+      "stream": "https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png",
+      "tvg_id": "TCM.us@West",
       "satellites": []
     },
     {
@@ -13093,6 +13269,14 @@
       "satellites": []
     },
     {
+      "name": "Thomas & Friends: Tale of the Brave: The Movie (2014)",
+      "group": "Movies",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198387.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "Three's Company",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8",
@@ -13461,17 +13645,25 @@
       "satellites": []
     },
     {
-      "name": "UK MOVIES: SKY COMEDY",
+      "name": "UK MOVIES: SKY CINEMA DRAMA",
       "group": "Movies",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/35253",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/35251",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "UK Sky Cinema Comedy",
+      "name": "UK-Sky Cinema Family",
       "group": "Movies",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/53661",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/53699",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Ultimate Avengers: The Movie (2006)",
+      "group": "Movies",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/182973.mkv",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -13525,17 +13717,17 @@
       "satellites": []
     },
     {
-      "name": "US AMC",
+      "name": "US HDNET MOVIES",
       "group": "Movies",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/18925",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/16265",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "US HDNET MOVIES",
+      "name": "US Paramount Network",
       "group": "Movies",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/16265",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/16201",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -13549,18 +13741,18 @@
       "satellites": []
     },
     {
-      "name": "USA: AMC Thrillers",
-      "group": "Movies",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/66243",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Vevo Pop",
       "group": "Movies",
       "stream": "https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8",
       "logo": "https://i.imgur.com/DPqMpQC.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "VGHS: The Movie (2012)",
+      "group": "Movies",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198998.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
     },
@@ -13765,14 +13957,6 @@
       "satellites": []
     },
     {
-      "name": "We Bare Bears: The Movie (2020)",
-      "group": "Movies",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198415.mp4",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "We TV (1080p)",
       "group": "Movies",
       "stream": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8",
@@ -13877,6 +14061,14 @@
       "satellites": []
     },
     {
+      "name": "&xplor HD (1080p)",
+      "group": "Movies",
+      "stream": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
+      "tvg_id": "AndxplorHD.in@HD",
+      "satellites": []
+    },
+    {
       "name": "XPTV US (720p)",
       "group": "Movies",
       "stream": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
@@ -13962,14 +14154,6 @@
       "stream": "http://107.167.16.138/zeetalkies/index.m3u8?token=test",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
       "tvg_id": "ZeeTalkies.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "1000 HITS Classical Music live",
-      "group": "Music",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123005",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -14061,19 +14245,19 @@
       "satellites": []
     },
     {
+      "name": "70's Music Authority live",
+      "group": "Music",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/138834",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "7S Music (576p)",
       "group": "Music",
       "stream": "https://cdn.pishow.tv/ott/live/1257/master.m3u8",
       "logo": "https://i.imgur.com/zDiIhdN.png",
       "tvg_id": "7SMusic.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "80s Funk Dance Music live",
-      "group": "Music",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124513",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -14229,14 +14413,6 @@
       "satellites": []
     },
     {
-      "name": "American Music Radio live",
-      "group": "Music",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124042",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Andy Haryana (576p)",
       "group": "Music",
       "stream": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
@@ -14314,14 +14490,6 @@
       "stream": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8",
       "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
       "tvg_id": "B4UMusic.in@India",
-      "satellites": []
-    },
-    {
-      "name": "Bailiwick Radio - 70's music live",
-      "group": "Music",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123411",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -14437,14 +14605,6 @@
       "satellites": []
     },
     {
-      "name": "Blues Music Fan Radio live",
-      "group": "Music",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123011",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "BOKTV (720p)",
       "group": "Music",
       "stream": "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8",
@@ -14490,14 +14650,6 @@
       "stream": "http://stream.mcquack.net/92/index.m3u8",
       "logo": "https://i.imgur.com/EazL8w7.png",
       "tvg_id": "BRIDGEDeluxe.ru@HD",
-      "satellites": []
-    },
-    {
-      "name": "BRIDGE Fresh (1080p)",
-      "group": "Music",
-      "stream": "http://str2.iptvhd.ru:8080/Bridge_TV_HD/index.m3u8",
-      "logo": "https://i.imgur.com/IkUhaiG.png",
-      "tvg_id": "BRIDGEFresh.ru@SD",
       "satellites": []
     },
     {
@@ -14941,14 +15093,6 @@
       "satellites": []
     },
     {
-      "name": "Dismar Radio TV (720p)",
-      "group": "Music",
-      "stream": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
-      "logo": "https://i.imgur.com/KOuxdMD.png",
-      "tvg_id": "DismarRadioTV.py@SD",
-      "satellites": []
-    },
-    {
       "name": "DMF (1080p)",
       "group": "Music",
       "stream": "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8",
@@ -15229,14 +15373,6 @@
       "satellites": []
     },
     {
-      "name": "Galactica TV",
-      "group": "Music",
-      "stream": "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8",
-      "logo": "https://i.imgur.com/byL1zCV.jpeg",
-      "tvg_id": "GalacticaTV.pe@SD",
-      "satellites": []
-    },
-    {
       "name": "Genial TV (720p)",
       "group": "Music",
       "stream": "https://v1.tustreaming.cl/genialtv/index.m3u8",
@@ -15269,14 +15405,6 @@
       "satellites": []
     },
     {
-      "name": "Gospel Music Explosion live",
-      "group": "Music",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123294",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Gugak TV (1080p)",
       "group": "Music",
       "stream": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
@@ -15293,9 +15421,9 @@
       "satellites": []
     },
     {
-      "name": "Happy Music - Bachata live",
+      "name": "Happy Music - Variada live",
       "group": "Music",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/122943",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124707",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -15445,14 +15573,6 @@
       "satellites": []
     },
     {
-      "name": "IQ Channel (720p)",
-      "group": "Music",
-      "stream": "https://rtmp.info/iqtv/envivo/playlist.m3u8",
-      "logo": "https://i.imgur.com/hwuaomt.png",
-      "tvg_id": "IQChannel.cr@SD",
-      "satellites": []
-    },
-    {
       "name": "Isai Aruvi (396p)",
       "group": "Music",
       "stream": "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
@@ -15541,14 +15661,6 @@
       "satellites": []
     },
     {
-      "name": "KGRA Real Local News and Real Country Music live",
-      "group": "Music",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/138843",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Kino Polska Muzyka (1080p)",
       "group": "Music",
       "stream": "http://57.128.231.171:8080/237/index.m3u8",
@@ -15602,14 +15714,6 @@
       "stream": "https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8",
       "logo": "https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png",
       "tvg_id": "KNMusicTV.az@SD",
-      "satellites": []
-    },
-    {
-      "name": "Kool TV (720p)",
-      "group": "Music",
-      "stream": "https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8",
-      "logo": "https://yt3.googleusercontent.com/opqPJfc0Ptd9ohl4R-2hPjaquIAdWuqvRb0T_LBCmfyGznIvfGN0HOlcWZk6Lj2jk11s2Zlk=s1200-c-k-c0x00ffffff-no-rj",
-      "tvg_id": "KoolTV.ph@SD",
       "satellites": []
     },
     {
@@ -15677,14 +15781,6 @@
       "satellites": []
     },
     {
-      "name": "La Hermandad Salsera (1080p)",
-      "group": "Music",
-      "stream": "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8",
-      "logo": "https://i.imgur.com/7Wlt6bc.png",
-      "tvg_id": "LaHermandadSalsera.co@SD",
-      "satellites": []
-    },
-    {
       "name": "La Kalle (1080p)",
       "group": "Music",
       "stream": "http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8",
@@ -15730,6 +15826,14 @@
       "stream": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8",
       "logo": "https://www.lamorerockshowwebtv.com.br/wp-content/uploads/2024/11/logo_rockshow.avif",
       "tvg_id": "LamoreRockShowWebTV.br@SD",
+      "satellites": []
+    },
+    {
+      "name": "LaPuraCrema Television",
+      "group": "Music",
+      "stream": "https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8",
+      "logo": "https://i.imgur.com/EJf1eRt.png",
+      "tvg_id": "LaPuraCremaTelevision.ve@SD",
       "satellites": []
     },
     {
@@ -15925,14 +16029,6 @@
       "satellites": []
     },
     {
-      "name": "Maimon TV Canal 3 (720p)",
-      "group": "Music",
-      "stream": "https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8",
-      "logo": "https://i.imgur.com/twldaaC.png",
-      "tvg_id": "MaimonTVCanal3.do@SD",
-      "satellites": []
-    },
-    {
       "name": "Majid Al Mohandis (1080p)",
       "group": "Music",
       "stream": "https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8",
@@ -16050,14 +16146,6 @@
       "stream": "https://eu1.servers10.com:8081/8214/index.m3u8",
       "logo": "https://i.imgur.com/yID5T2S.jpg",
       "tvg_id": "MetropoliMediosTV.ec@SD",
-      "satellites": []
-    },
-    {
-      "name": "Metropolitana del Cuzco",
-      "group": "Music",
-      "stream": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
-      "logo": "https://i.imgur.com/0B04qgM.png",
-      "tvg_id": "MetropolitanadelCuzco.pe@SD",
       "satellites": []
     },
     {
@@ -16837,14 +16925,6 @@
       "satellites": []
     },
     {
-      "name": "MusicBox Gold (576p)",
-      "group": "Music",
-      "stream": "http://str2.iptvhd.ru:8080/360TuneBox/index.m3u8",
-      "logo": "https://i.imgur.com/3arWh0k.png",
-      "tvg_id": "MusicBoxGold.ru@SD",
-      "satellites": []
-    },
-    {
       "name": "Muz Soyuz (576p)",
       "group": "Music",
       "stream": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
@@ -16914,14 +16994,6 @@
       "stream": "http://stream.mcquack.net/153/index.m3u8",
       "logo": "https://i.imgur.com/U0vKj3P.png",
       "tvg_id": "MuzykaPervogo.ru@SD",
-      "satellites": []
-    },
-    {
-      "name": "Nande Portetepe TV",
-      "group": "Music",
-      "stream": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
-      "logo": "https://i.imgur.com/3taT6JK.jpeg",
-      "tvg_id": "NandePortetepeTV.py@SD",
       "satellites": []
     },
     {
@@ -17021,6 +17093,14 @@
       "satellites": []
     },
     {
+      "name": "NPR & Classical Music live",
+      "group": "Music",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123309",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "NRG 91 (720p)",
       "group": "Music",
       "stream": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
@@ -17074,14 +17154,6 @@
       "stream": "http://92.114.85.87:8010/play/a00j/index.m3u8",
       "logo": "https://i.imgur.com/JHFUxDu.png",
       "tvg_id": "NutaTV.pl@SD",
-      "satellites": []
-    },
-    {
-      "name": "NWPR Classical Music 89.1 live",
-      "group": "Music",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124659",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -17330,6 +17402,14 @@
       "stream": "https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8",
       "logo": "https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png",
       "tvg_id": "PlutoTVShowsporStingray.us@BR",
+      "satellites": []
+    },
+    {
+      "name": "Polsat Music (1080p)",
+      "group": "Music",
+      "stream": "http://92.114.85.87:8001/play/a00z/index.m3u8",
+      "logo": "https://i.imgur.com/uXygf1l.png",
+      "tvg_id": "PolsatMusic.pl@SD",
       "satellites": []
     },
     {
@@ -17733,6 +17813,14 @@
       "satellites": []
     },
     {
+      "name": "Radio Romania Antena Satelor (720p)",
+      "group": "Music",
+      "stream": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
+      "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+      "tvg_id": "RadioRomaniaAntenaSatelor.ro@720p",
+      "satellites": []
+    },
+    {
       "name": "Radio Romania Oltenia-Craiova (576p)",
       "group": "Music",
       "stream": "https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8",
@@ -17893,6 +17981,22 @@
       "satellites": []
     },
     {
+      "name": "Rap & Trap Music",
+      "group": "Music",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/17593",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Rap & Trap Music live",
+      "group": "Music",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/17808",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "Rararadio (720p)",
       "group": "Music",
       "stream": "https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8",
@@ -17906,6 +18010,14 @@
       "stream": "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8",
       "logo": "https://assets.mbcmood.com/channels/1720177618Rashid%20AlMajed.webp",
       "tvg_id": "RashidAlMajed.sa@SD",
+      "satellites": []
+    },
+    {
+      "name": "RCS. New York Stereo live",
+      "group": "Music",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/138806",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
       "satellites": []
     },
     {
@@ -18173,14 +18285,6 @@
       "satellites": []
     },
     {
-      "name": "Seeburg 1000 Background Music live",
-      "group": "Music",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124989",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Sensacion Costa",
       "group": "Music",
       "stream": "https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8",
@@ -18242,6 +18346,14 @@
       "stream": "https://stream-13.mazana.tv/slagroriginal.m3u8s",
       "logo": "https://i.imgur.com/0YjeWcq.png",
       "tvg_id": "SlagerOriginal.cz@SD",
+      "satellites": []
+    },
+    {
+      "name": "Snoop Dogg's Cadillacc Music live",
+      "group": "Music",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/122727",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
       "satellites": []
     },
     {
@@ -18693,27 +18805,11 @@
       "satellites": []
     },
     {
-      "name": "The Cabbin FM",
-      "group": "Music",
-      "stream": "https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8",
-      "logo": "https://files.catbox.moe/2vlskg.png",
-      "tvg_id": "TheCabbinFM.ar@SD",
-      "satellites": []
-    },
-    {
       "name": "The Country Network (1080p)",
       "group": "Music",
       "stream": "https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",
       "tvg_id": "TheCountryNetwork.us@SD",
-      "satellites": []
-    },
-    {
-      "name": "The Swan Princess: Kingdom of Music (2019)",
-      "group": "Music",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198376.mp4",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -18770,6 +18866,14 @@
       "stream": "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8",
       "logo": "https://i.imgur.com/O1c6wpt.png",
       "tvg_id": "TodayRadio.lu@SD",
+      "satellites": []
+    },
+    {
+      "name": "TopEstrada TV (720p)",
+      "group": "Music",
+      "stream": "http://live.topestrada.com/live/topestrada/playlist.m3u8",
+      "logo": "https://i.imgur.com/0Dh1FJZ.png",
+      "tvg_id": "TopEstradaTV.mk@SD",
       "satellites": []
     },
     {
@@ -19117,14 +19221,6 @@
       "satellites": []
     },
     {
-      "name": "UK-MTV UK",
-      "group": "Music",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/53737",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Ultimate TV (1080p)",
       "group": "Music",
       "stream": "https://stream.ottlive.co.in/utvtamil/index.m3u8",
@@ -19141,9 +19237,9 @@
       "satellites": []
     },
     {
-      "name": "US VH1 (East)",
+      "name": "US VH1",
       "group": "Music",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/46705",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/7404",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -19162,6 +19258,14 @@
       "stream": "https://abr.de1se01.v2beat.live/playlist.m3u8",
       "logo": "https://i.imgur.com/PXGqyLn.png",
       "tvg_id": "V2BEATTV.uk@SD",
+      "satellites": []
+    },
+    {
+      "name": "V90 (1080p)",
+      "group": "Music",
+      "stream": "http://57.128.231.171:8080/228/index.m3u8",
+      "logo": "https://static.wikia.nocookie.net/logaekranowe/images/e/eb/V90_%282026-.n.v.%29.png/revision/latest?cb=20260129212848&path-prefix=pl",
+      "tvg_id": "V90.pl@SD",
       "satellites": []
     },
     {
@@ -19352,14 +19456,6 @@
       "name": "WGRT Your Great Music Station 102.3 FM live",
       "group": "Music",
       "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/125192",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "WTCM Today's Country Music 103.5 FM live",
-      "group": "Music",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123103",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -19829,6 +19925,14 @@
       "satellites": []
     },
     {
+      "name": "4TV News (576p)",
+      "group": "News",
+      "stream": "https://cdn.pishow.tv/ott/live/1007/master.m3u8",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png",
+      "tvg_id": "4TVNews.in@SD",
+      "satellites": []
+    },
+    {
       "name": "6 TV Telugu (576p)",
       "group": "News",
       "stream": "https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
@@ -19941,11 +20045,11 @@
       "satellites": []
     },
     {
-      "name": "ABC News",
+      "name": "ABC News (720p)",
       "group": "News",
-      "stream": "https://c.mjh.nz/abc-news.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/500px-ABC_News_Channel.svg.png",
-      "tvg_id": "ABCNews.au",
+      "stream": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
+      "logo": "https://i.imgur.com/BrW7gk8.png",
+      "tvg_id": "ABCNews.au@Sydney",
       "satellites": []
     },
     {
@@ -19962,14 +20066,6 @@
       "stream": "https://www.youtube.com/@abcnewsaustralia/live",
       "logo": "https://i.imgur.com/BrW7gk8.png",
       "tvg_id": "ABCNews.au",
-      "satellites": []
-    },
-    {
-      "name": "ABC News (Australia) (720p)",
-      "group": "News",
-      "stream": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
-      "logo": "https://i.imgur.com/BrW7gk8.png",
-      "tvg_id": "ABCNews.au@Sydney",
       "satellites": []
     },
     {
@@ -20533,14 +20629,6 @@
       "satellites": []
     },
     {
-      "name": "Alghadeer TV (1080p)",
-      "group": "News",
-      "stream": "https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8",
-      "logo": "https://i.imgur.com/YPj6kXq.png",
-      "tvg_id": "AlghadeerTV.iq@SD",
-      "satellites": []
-    },
-    {
       "name": "Alhaqeqa Aldawlia (1080p)",
       "group": "News",
       "stream": "https://ghaasiflu.online/alhqeqa/index.m3u8",
@@ -20829,14 +20917,6 @@
       "satellites": []
     },
     {
-      "name": "Asom Live 24 (576p)",
-      "group": "News",
-      "stream": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
-      "logo": "https://papaji.freetvindia.com/media/channels/asom_live_24x7.png",
-      "tvg_id": "AsomLive24.in@SD",
-      "satellites": []
-    },
-    {
       "name": "Assam Talks (576p)",
       "group": "News",
       "stream": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
@@ -20938,14 +21018,6 @@
       "stream": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BANSAL_NEWS/images/LOGO_HD/image.png",
       "tvg_id": "BansalNews.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "Baraka Television (720p)",
-      "group": "News",
-      "stream": "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8",
-      "logo": "https://i.imgur.com/IKXddHN.png",
-      "tvg_id": "BarakaTelevision.cd@SD",
       "satellites": []
     },
     {
@@ -21669,14 +21741,6 @@
       "satellites": []
     },
     {
-      "name": "BR8 TV",
-      "group": "News",
-      "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8",
-      "logo": "https://i.ibb.co/1QZv2q1/Br8-fb-graph.png",
-      "tvg_id": "BR8TV.br@SD",
-      "satellites": []
-    },
-    {
       "name": "Brian TV (720p)",
       "group": "News",
       "stream": "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8",
@@ -21733,6 +21797,30 @@
       "satellites": []
     },
     {
+      "name": "CA | BBC EARTH",
+      "group": "News",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/99621",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "CA: BBC World News",
+      "group": "News",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/139752",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "CA CBC NEWS NETWORK (E)",
+      "group": "News",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57304",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "CA: CNN",
       "group": "News",
       "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57398",
@@ -21749,6 +21837,14 @@
       "satellites": []
     },
     {
+      "name": "CA CP24 News HD (E)",
+      "group": "News",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57401",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "CA: CTV NEWS CHANNEL HD",
       "group": "News",
       "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57350",
@@ -21757,9 +21853,33 @@
       "satellites": []
     },
     {
+      "name": "CA FOX NEWS",
+      "group": "News",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/47281",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "CA Global Edmonton News (E)",
+      "group": "News",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/58724",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "CA: Global Halifax News",
       "group": "News",
       "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57434",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "CA Global News Kingston (D)",
+      "group": "News",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57432",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -22421,6 +22541,14 @@
       "satellites": []
     },
     {
+      "name": "CNN Brasil (1080p)",
+      "group": "News",
+      "stream": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png",
+      "tvg_id": "CNNBrasil.br@SD",
+      "satellites": []
+    },
+    {
       "name": "CNN Chile (1080p)",
       "group": "News",
       "stream": "http://190.110.96.238:8000/play/a0f5/index.m3u8",
@@ -22437,6 +22565,14 @@
       "satellites": []
     },
     {
+      "name": "CNN International",
+      "group": "News",
+      "stream": "http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png",
+      "tvg_id": "CNNInternational.us@Europe",
+      "satellites": []
+    },
+    {
       "name": "CNN-News18",
       "group": "News",
       "stream": "https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8",
@@ -22447,9 +22583,9 @@
     {
       "name": "CNN Portugal",
       "group": "News",
-      "stream": "https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8",
-      "logo": "https://i.imgur.com/NYH39xs.png",
-      "tvg_id": "CNNPortugal.pt",
+      "stream": "https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8",
+      "logo": "https://i.imgur.com/bc6tYVZ.png",
+      "tvg_id": "CNNPortugal.pt@SD",
       "satellites": []
     },
     {
@@ -22602,14 +22738,6 @@
       "stream": "https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8",
       "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png",
       "tvg_id": "DDNews.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "De Ultimo Minuto TV",
-      "group": "News",
-      "stream": "https://soportedvb.click:3620/live/deultimominutomedialive.m3u8",
-      "logo": "https://i.imgur.com/6ML2z17.png",
-      "tvg_id": "DeUltimoMinutoTV.do@SD",
       "satellites": []
     },
     {
@@ -22901,14 +23029,6 @@
       "satellites": []
     },
     {
-      "name": "Erbol (720p)",
-      "group": "News",
-      "stream": "https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8",
-      "logo": "https://i.imgur.com/hn1KI7t.png",
-      "tvg_id": "Erbol.bo@SD",
-      "satellites": []
-    },
-    {
       "name": "ERT News HD (1080p)",
       "group": "News",
       "stream": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
@@ -23173,6 +23293,14 @@
       "satellites": []
     },
     {
+      "name": "Falestinona Channel",
+      "group": "News",
+      "stream": "https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8",
+      "logo": "https://i.imgur.com/Z3QeQHk.png",
+      "tvg_id": "FalestinonaChannel.lb",
+      "satellites": []
+    },
+    {
       "name": "Filinfo TV (1080p)",
       "group": "News",
       "stream": "https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8",
@@ -23245,17 +23373,9 @@
       "satellites": []
     },
     {
-      "name": "FOX News",
+      "name": "Fox News Channel (1080p)",
       "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/125115",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Fox News Channel (720p)",
-      "group": "News",
-      "stream": "http://138.121.15.230:9002/FOX-NEWS/index.m3u8",
+      "stream": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
       "tvg_id": "FoxNewsChannel.us@SD",
       "satellites": []
@@ -23458,6 +23578,14 @@
       "stream": "http://200.115.120.1:8000/play/ca066/index.m3u8",
       "logo": "https://i.imgur.com/mbmHPnO.png",
       "tvg_id": "Guatevision.gt@SD",
+      "satellites": []
+    },
+    {
+      "name": "Gugbang TV (1080p)",
+      "group": "News",
+      "stream": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8",
+      "logo": "https://i.imgur.com/f1tz5fg.png",
+      "tvg_id": "GugbangTV.kr@SD",
       "satellites": []
     },
     {
@@ -23797,11 +23925,11 @@
       "satellites": []
     },
     {
-      "name": "IP Noticias (720p)",
+      "name": "INH 24x7 (396p)",
       "group": "News",
-      "stream": "https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8",
-      "logo": "https://i.imgur.com/dbu9nx4.png",
-      "tvg_id": "IPNoticias.ar@SD",
+      "stream": "https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png",
+      "tvg_id": "INH24x7.in@SD",
       "satellites": []
     },
     {
@@ -23917,6 +24045,14 @@
       "satellites": []
     },
     {
+      "name": "Kalaignar Seithigal (576p)",
+      "group": "News",
+      "stream": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8",
+      "logo": "https://dtil.tmsimg.com/assets/s143769_ld_h15_aa.png?lock=720x540",
+      "tvg_id": "KalaignarSeithigal.in@SD",
+      "satellites": []
+    },
+    {
       "name": "Kalinga TV (720p)",
       "group": "News",
       "stream": "https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8",
@@ -23965,14 +24101,6 @@
       "satellites": []
     },
     {
-      "name": "KENN News Talk 1390 AM live",
-      "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123881",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Khabar (576p)",
       "group": "News",
       "stream": "https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv",
@@ -23997,6 +24125,14 @@
       "satellites": []
     },
     {
+      "name": "KIVA Fox News ABQ 1600 AM live",
+      "group": "News",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123616",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "KKOH News Talk 780 AM live",
       "group": "News",
       "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123007",
@@ -24007,7 +24143,7 @@
     {
       "name": "KNUS News Talk 710 AM live",
       "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123319",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123326",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -24018,6 +24154,14 @@
       "stream": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8",
       "logo": "https://i.imgur.com/LOi9yma.png",
       "tvg_id": "Kohavision.xk@SD",
+      "satellites": []
+    },
+    {
+      "name": "KOKC News Talk 1520 AM live",
+      "group": "News",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123774",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
       "satellites": []
     },
     {
@@ -24034,14 +24178,6 @@
       "stream": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
       "logo": "https://dtil.tmsimg.com/assets/s143271_ld_h15_aa.png?lock=720x540",
       "tvg_id": "KolkataTV.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "KRDO News Radio 1240 AM & 105.5 FM live",
-      "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124220",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -24066,6 +24202,14 @@
       "stream": "https://www.standardmedia.co.ke/ktnnews/live",
       "logo": "https://i.imgur.com/7yzunBK.png",
       "tvg_id": "KTNNews.ke",
+      "satellites": []
+    },
+    {
+      "name": "KTOO News 104.3 FM live",
+      "group": "News",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/138319",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
       "satellites": []
     },
     {
@@ -24098,22 +24242,6 @@
       "stream": "https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8",
       "logo": "https://i.imgur.com/HBPnUD5.png",
       "tvg_id": "KurirTV.rs",
-      "satellites": []
-    },
-    {
-      "name": "KXYL News Talk 102.3 FM live",
-      "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/138178",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "KYCA The News 1490 AM live",
-      "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124103",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -24597,6 +24725,14 @@
       "satellites": []
     },
     {
+      "name": "MRTV News",
+      "group": "News",
+      "stream": "https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8",
+      "logo": "https://i.imgur.com/5eK8Bc4.png",
+      "tvg_id": "MRTVNews.mm@SD",
+      "satellites": []
+    },
+    {
       "name": "MTV Uutiset (720p)",
       "group": "News",
       "stream": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
@@ -24618,14 +24754,6 @@
       "stream": "https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8",
       "logo": "https://i.imgur.com/wMse6cT.png",
       "tvg_id": "Musavision.do@SD",
-      "satellites": []
-    },
-    {
-      "name": "MX | CNN",
-      "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57619",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -24765,6 +24893,14 @@
       "satellites": []
     },
     {
+      "name": "News 1150 WNDB live",
+      "group": "News",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123288",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "News 1st (576p)",
       "group": "News",
       "stream": "https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8",
@@ -24842,6 +24978,14 @@
       "stream": "https://cdn.pishow.tv/ott/live/273/master.m3u8",
       "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002N1TXH.png?lock=720x540",
       "tvg_id": "NewsIndia24x7.in@SD",
+      "satellites": []
+    },
+    {
+      "name": "News J (720p)",
+      "group": "News",
+      "stream": "https://cdn.pishow.tv/ott/live/1279/master.m3u8",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_J.png",
+      "tvg_id": "NewsJ.in@SD",
       "satellites": []
     },
     {
@@ -24949,33 +25093,17 @@
       "satellites": []
     },
     {
-      "name": "News Talk 107.1 KTFS live",
+      "name": "News Talk 760 WJR live",
       "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123042",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123417",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "News Talk 1590 KVTA live",
+      "name": "News-Talk AM 1480 WHBC live",
       "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123149",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "News Talk 940 WMAC live",
-      "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124207",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "News / Talk WLNI 105.9 FM live",
-      "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124092",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124596",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -25018,14 +25146,6 @@
       "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8",
       "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
       "tvg_id": "News12PlusConnecticut.us@HD",
-      "satellites": []
-    },
-    {
-      "name": "News12 Conneticut",
-      "group": "News",
-      "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-      "tvg_id": "News12Conneticut.us@SD",
       "satellites": []
     },
     {
@@ -25826,14 +25946,6 @@
       "stream": "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8",
       "logo": "https://i.imgur.com/xum8PNe.jpg",
       "tvg_id": "RadioAncon.pa@SD",
-      "satellites": []
-    },
-    {
-      "name": "Radio Uno Tacna (720p)",
-      "group": "News",
-      "stream": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
-      "logo": "https://i.imgur.com/PswowQP.png",
-      "tvg_id": "RadioUnoTacna.pe@SD",
       "satellites": []
     },
     {
@@ -26757,14 +26869,6 @@
       "satellites": []
     },
     {
-      "name": "TSN Tele Sondrio News",
-      "group": "News",
-      "stream": "https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/tracks-v1a1/rewind-3600.m3u8",
-      "logo": "https://i.imgur.com/24Anl5o.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "TTV News (台視新聞台) Ⓨ",
       "group": "News",
       "stream": "https://www.youtube.com/@TTV_NEWS/live",
@@ -26845,6 +26949,14 @@
       "satellites": []
     },
     {
+      "name": "TV Punjab (720p)",
+      "group": "News",
+      "stream": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
+      "logo": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
+      "tvg_id": "TVPunjab.ca@SD",
+      "satellites": []
+    },
+    {
       "name": "TV Sim Cachoeiro (720p)",
       "group": "News",
       "stream": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
@@ -26882,6 +26994,14 @@
       "stream": "https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8",
       "logo": "https://www.tv13gujarati.com/assets/front/img/footer-logo.jpg",
       "tvg_id": "TV13Gujarati.in@SD",
+      "satellites": []
+    },
+    {
+      "name": "TV27 News (360p)",
+      "group": "News",
+      "stream": "https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV27_News.png",
+      "tvg_id": "TV27News.in@SD",
       "satellites": []
     },
     {
@@ -27021,14 +27141,6 @@
       "satellites": []
     },
     {
-      "name": "TVM El Salvador (720p)",
-      "group": "News",
-      "stream": "https://twitch-m3u8.bastypro112.workers.dev/tvm_esa/index.m3u8",
-      "logo": "https://i.imgur.com/fyCC8R6.png",
-      "tvg_id": "TVMElSalvador.sv@SD",
-      "satellites": []
-    },
-    {
       "name": "TVMnews+",
       "group": "News",
       "stream": "http://80.79.6.221:25461/smash/public/20",
@@ -27042,6 +27154,14 @@
       "stream": "https://edge.essastream.com/vozzmedia/index.m3u8",
       "logo": "https://i.imgur.com/bu6bQMa.png",
       "tvg_id": "TVN24.do@SD",
+      "satellites": []
+    },
+    {
+      "name": "TVP Wilno",
+      "group": "News",
+      "stream": "http://78.62.9.23:55555/TVP%20Wilno%20HD",
+      "logo": "https://i.imgur.com/8oORLGF.png",
+      "tvg_id": "TVPWilno.pl@SD",
       "satellites": []
     },
     {
@@ -27061,9 +27181,9 @@
       "satellites": []
     },
     {
-      "name": "UK-BBC One",
+      "name": "UK: BBC NEWS",
       "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/53649",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/53757",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -27101,11 +27221,11 @@
       "satellites": []
     },
     {
-      "name": "Unicanal",
+      "name": "Unicanal Ⓨ",
       "group": "News",
-      "stream": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
-      "logo": "https://i.imgur.com/cgTD2TW.png",
-      "tvg_id": "Unicanal.py@SD",
+      "stream": "https://www.youtube.com/@unicanalpy/live",
+      "logo": "https://i.imgur.com/brlepuX.png",
+      "tvg_id": "Unicanal.py",
       "satellites": []
     },
     {
@@ -27125,25 +27245,25 @@
       "satellites": []
     },
     {
-      "name": "US CNN",
+      "name": "US BBC America",
       "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/1817",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/20194",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "US NBC South Florida News (PC)",
+      "name": "US CNBC",
       "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/121142",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/9815",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "US One America News",
+      "name": "US ESPN NEWS",
       "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/21752",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/17707",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -27309,30 +27429,6 @@
       "satellites": []
     },
     {
-      "name": "WACV News Talk 93.1 live",
-      "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123776",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "WCOA News/Talk live",
-      "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123730",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "WDBO Orlando's News & Talk 107.3 FM live",
-      "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123637",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "WELT",
       "group": "News",
       "stream": "https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8",
@@ -27349,17 +27445,9 @@
       "satellites": []
     },
     {
-      "name": "WFNC News Talk Radio 640 AM live",
+      "name": "WICA IPR News Radio live",
       "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123603",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "WGRV News Radio 1340 AM live",
-      "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/138311",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123974",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -27373,6 +27461,22 @@
       "satellites": []
     },
     {
+      "name": "WKSU News live",
+      "group": "News",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123872",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "WLMN IPR News Radio live",
+      "group": "News",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/138085",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "WMXI News Radio 98.1 FM live",
       "group": "News",
       "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123030",
@@ -27381,9 +27485,9 @@
       "satellites": []
     },
     {
-      "name": "WNIS News Talk 790 AM(US Only) live",
+      "name": "WOKI News Talk 98.7 FM live",
       "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123049",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123127",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -27405,9 +27509,9 @@
       "satellites": []
     },
     {
-      "name": "WPLN / WHRS / WTML Nashville News 90.3 / 91.7 / 91.5 FM live",
+      "name": "WRCN LI News Radio live",
       "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124111",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124156",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -27421,9 +27525,9 @@
       "satellites": []
     },
     {
-      "name": "WTAW News / Talk 1620 AM live",
+      "name": "WSUI Iowa Public Radio News 910 live",
       "group": "News",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/123835",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/124725",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -27717,14 +27821,6 @@
       "satellites": []
     },
     {
-      "name": "All Anime Radio live",
-      "group": "Kids",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/122969",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "AMG TV (1080p)",
       "group": "Kids",
       "stream": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8",
@@ -27789,9 +27885,17 @@
       "satellites": []
     },
     {
-      "name": "Baby's Day Out (1994)",
+      "name": "Baby Driver (2017)",
       "group": "Kids",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198499.mp4",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/196474.mkv",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "Baby Ruby (2023)",
+      "group": "Kids",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/176784.mp4",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -27925,14 +28029,6 @@
       "satellites": []
     },
     {
-      "name": "Bridget Jones's Baby (2016)",
-      "group": "Kids",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198553.mp4",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "CA Cartoon Network",
       "group": "Kids",
       "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57380",
@@ -27944,6 +28040,30 @@
       "name": "CA Cartoon Network (E)",
       "group": "Kids",
       "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57356",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "CA Disney Junior",
+      "group": "Kids",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57349",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "CA Disney XD (R)",
+      "group": "Kids",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57420",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "CA Nickelodeon (R)",
+      "group": "Kids",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/47349",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -28077,14 +28197,6 @@
       "satellites": []
     },
     {
-      "name": "Children of the Corn (2023)",
-      "group": "Kids",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/179886.mp4",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Chinola TV (480p)",
       "group": "Kids",
       "stream": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8",
@@ -28189,14 +28301,6 @@
       "satellites": []
     },
     {
-      "name": "Detski mir (576p)",
-      "group": "Kids",
-      "stream": "http://str2.iptvhd.ru:8080/Teleklub/index.m3u8",
-      "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png",
-      "tvg_id": "Detskimir.ru@SD",
-      "satellites": []
-    },
-    {
       "name": "Detskiy (576p)",
       "group": "Kids",
       "stream": "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8",
@@ -28210,6 +28314,14 @@
       "stream": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
       "logo": "https://i.imgur.com/GnZicVH.png",
       "tvg_id": "DiosTeVeKids.hn@SD",
+      "satellites": []
+    },
+    {
+      "name": "Discovery Family (720p)",
+      "group": "Kids",
+      "stream": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Discovery_Family_Channel_%28DFC%29.png",
+      "tvg_id": "DiscoveryFamily.us@East",
       "satellites": []
     },
     {
@@ -28370,6 +28482,14 @@
       "stream": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
       "logo": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png",
       "tvg_id": "DisneyJr.tr@SD",
+      "satellites": []
+    },
+    {
+      "name": "Disney Junior (India) (576p)",
+      "group": "Kids",
+      "stream": "http://103.151.60.162:2122/play/a016/index.m3u8?hls",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
+      "tvg_id": "DisneyJunior.in@SD",
       "satellites": []
     },
     {
@@ -28629,6 +28749,14 @@
       "satellites": []
     },
     {
+      "name": "GikTVMX (720p)",
+      "group": "Kids",
+      "stream": "https://pistream.ddns.net/hls/stream.m3u8",
+      "logo": "https://i.imgur.com/Gwz78jZ.png",
+      "tvg_id": "GikTVMX.mx@SD",
+      "satellites": []
+    },
+    {
       "name": "God Stands Kids Club TV",
       "group": "Kids",
       "stream": "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8",
@@ -28781,6 +28909,14 @@
       "satellites": []
     },
     {
+      "name": "JapanimTV (1080p)",
+      "group": "Kids",
+      "stream": "https://foxkidstv.be:3369/stream/play.m3u8",
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png",
+      "tvg_id": "JapanimTV.be@SD",
+      "satellites": []
+    },
+    {
       "name": "Jiangxi Children's Channel",
       "group": "Kids",
       "stream": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8",
@@ -28813,6 +28949,14 @@
       "satellites": []
     },
     {
+      "name": "KANW / KNLK / KIDS - 89.1 / 91.9 / 88.1 FM live",
+      "group": "Kids",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/122801",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "Kapitan Fantastika (1080p)",
       "group": "Kids",
       "stream": "http://stream.mcquack.net/144/index.m3u8",
@@ -28834,14 +28978,6 @@
       "stream": "https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8",
       "logo": "https://i.imgur.com/MaFtbM5.png",
       "tvg_id": "KidoodleTV.ca@SD",
-      "satellites": []
-    },
-    {
-      "name": "Kids TV",
-      "group": "Kids",
-      "stream": "http://origin5.mediacdn.ru/live/kidstv/index.m3u8",
-      "logo": "https://i.imgur.com/B5YiUIP.png",
-      "tvg_id": "KidsTV.id@SD",
       "satellites": []
     },
     {
@@ -29597,6 +29733,14 @@
       "satellites": []
     },
     {
+      "name": "Pinkfong 50 Best Hits: Baby Shark and More (2019)",
+      "group": "Kids",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198217.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "Pixel TV (1080p)",
       "group": "Kids",
       "stream": "http://stream.mcquack.net/323/index.m3u8",
@@ -29981,6 +30125,14 @@
       "satellites": []
     },
     {
+      "name": "Rosemary's Baby (1968)",
+      "group": "Kids",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/183282.avi",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "RU.TV Kids (720p)",
       "group": "Kids",
       "stream": "https://rutvkids.ru/live/efir/index.m3u8",
@@ -30050,14 +30202,6 @@
       "stream": "http://livealone302.iqilu.com/iqilu/sepd.m3u8",
       "logo": "https://i.imgur.com/ph7YKNa.png",
       "tvg_id": "ShandongTVChildrensChannel.cn@SD",
-      "satellites": []
-    },
-    {
-      "name": "Shiva Baby (2020)",
-      "group": "Kids",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198855.mp4",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -30517,14 +30661,6 @@
       "satellites": []
     },
     {
-      "name": "Spacetoon Arabic (576p)",
-      "group": "Kids",
-      "stream": "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
-      "tvg_id": "SpacetoonArabic.ae@SD",
-      "satellites": []
-    },
-    {
       "name": "SpongeBob Schwammkopf (720p)",
       "group": "Kids",
       "stream": "https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8",
@@ -30717,6 +30853,14 @@
       "satellites": []
     },
     {
+      "name": "The Boss Baby: Family Business (2021)",
+      "group": "Kids",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/189301.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "The Jungle Book (1080p)",
       "group": "Kids",
       "stream": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
@@ -30802,6 +30946,14 @@
       "stream": "https://the-pet-collective-international-gb.samsung.wurl.tv/playlist.m3u8",
       "logo": "https://i.imgur.com/yH7n2dF.png",
       "tvg_id": "ThePetCollective.us@UK",
+      "satellites": []
+    },
+    {
+      "name": "The Shaolin Kids (1977)",
+      "group": "Kids",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/197771.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
       "satellites": []
     },
     {
@@ -31045,43 +31197,11 @@
       "satellites": []
     },
     {
-      "name": "UK-Cartoon Network",
-      "group": "Kids",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/53719",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Unique TV (576p)",
       "group": "Kids",
       "stream": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
       "tvg_id": "UniqueTV.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "Untrapped: The Story of Lil Baby (2022)",
-      "group": "Kids",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/169204.mp4",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "US Cartoon Network",
-      "group": "Kids",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/46708",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA-Disney Jr",
-      "group": "Kids",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/41960",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -31149,6 +31269,14 @@
       "satellites": []
     },
     {
+      "name": "ČT :D",
+      "group": "Kids",
+      "stream": "https://sktv.mxnticek.eu/new/stream.php?ch=CT_D",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-d-cz.png",
+      "tvg_id": "CTDecko.cz",
+      "satellites": []
+    },
+    {
       "name": "Піксель TV",
       "group": "Kids",
       "stream": "https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8",
@@ -31162,6 +31290,14 @@
       "stream": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
       "logo": "https://i.imgur.com/Zfe2f5j.png",
       "tvg_id": "13C.cl@SD",
+      "satellites": []
+    },
+    {
+      "name": "24/7 Nature Radio live",
+      "group": "Documentary",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/138067",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
       "satellites": []
     },
     {
@@ -31237,14 +31373,6 @@
       "satellites": []
     },
     {
-      "name": "American History X (1998)",
-      "group": "Documentary",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/199121.mp4",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "AMP 2 (720p)",
       "group": "Documentary",
       "stream": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8",
@@ -31253,7 +31381,23 @@
       "satellites": []
     },
     {
-      "name": "Animal Planet (720p)",
+      "name": "Animal Planet Latin America (1080p)",
+      "group": "Documentary",
+      "stream": "http://190.128.214.97:64333/play/a01n/index.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+      "tvg_id": "AnimalPlanetLatinAmerica.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "Animal Planet (Russia) (1080p)",
+      "group": "Documentary",
+      "stream": "http://stream.mcquack.net/114/index.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+      "tvg_id": "AnimalPlanet.ru@SD",
+      "satellites": []
+    },
+    {
+      "name": "Animal Planet (United States) (720p)",
       "group": "Documentary",
       "stream": "http://23.239.31.26:8989/animalplanet/index.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
@@ -31261,19 +31405,11 @@
       "satellites": []
     },
     {
-      "name": "Animal Planet East HD (720p)",
+      "name": "Animal Planet (United States) East HD (720p)",
       "group": "Documentary",
       "stream": "http://193.254.245.162/ANIMAL-PLANET/index.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
       "tvg_id": "AnimalPlanet.us@EastHD",
-      "satellites": []
-    },
-    {
-      "name": "Animal Planet Latin America (1080p)",
-      "group": "Documentary",
-      "stream": "http://190.128.214.97:64333/play/a01n/index.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
-      "tvg_id": "AnimalPlanetLatinAmerica.us@SD",
       "satellites": []
     },
     {
@@ -31477,6 +31613,14 @@
       "satellites": []
     },
     {
+      "name": "Belarus-3 HD (1080p)",
+      "group": "Documentary",
+      "stream": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+      "logo": "https://i.imgur.com/JkcDycn.png",
+      "tvg_id": "Belarus3.by@HD",
+      "satellites": []
+    },
+    {
       "name": "Better Life Nature Channel (480p)",
       "group": "Documentary",
       "stream": "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8",
@@ -31533,6 +31677,14 @@
       "satellites": []
     },
     {
+      "name": "CA: Animal Planet",
+      "group": "Documentary",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57377",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "CA Discovery Channel",
       "group": "Documentary",
       "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57252",
@@ -31541,9 +31693,49 @@
       "satellites": []
     },
     {
-      "name": "CA Discovery Velocity HD",
+      "name": "CA: Discovery Science",
       "group": "Documentary",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/46212",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57418",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "CA HISTORY",
+      "group": "Documentary",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/47302",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "CA HISTORY (E)",
+      "group": "Documentary",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57272",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "CA Love Nature HD",
+      "group": "Documentary",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/47324",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "CA National Geographic Wild",
+      "group": "Documentary",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57280",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "CA Smithsonian Channel (B)",
+      "group": "Documentary",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/47369",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -31813,6 +32005,14 @@
       "satellites": []
     },
     {
+      "name": "Da Vinci (Russia) (576p)",
+      "group": "Documentary",
+      "stream": "http://stream.mcquack.net/238/index.m3u8",
+      "logo": "https://i.imgur.com/V8AUJP6.png",
+      "tvg_id": "DaVinci.ru@SD",
+      "satellites": []
+    },
+    {
       "name": "Danger TV (720p)",
       "group": "Documentary",
       "stream": "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8",
@@ -31893,11 +32093,11 @@
       "satellites": []
     },
     {
-      "name": "Discovery Channel (1080p)",
+      "name": "Discovery Channel",
       "group": "Documentary",
-      "stream": "http://212.5.144.156:8080/discovery/index.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
-      "tvg_id": "DiscoveryChannel.us@East",
+      "stream": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8",
+      "logo": "https://i.imgur.com/5IxIFJ0.png",
+      "tvg_id": "Discovery.Channel.it",
       "satellites": []
     },
     {
@@ -31906,6 +32106,22 @@
       "stream": "http://45.171.64.30:6060/play/a032/index.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
       "tvg_id": "DiscoveryChannelLatinAmerica.us@Panregional",
+      "satellites": []
+    },
+    {
+      "name": "Discovery Channel (Russia) (1080p)",
+      "group": "Documentary",
+      "stream": "http://stream.mcquack.net/177/index.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+      "tvg_id": "DiscoveryChannel.ru@SD",
+      "satellites": []
+    },
+    {
+      "name": "Discovery Channel (United States) (1080p)",
+      "group": "Documentary",
+      "stream": "http://212.5.144.156:8080/discovery/index.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+      "tvg_id": "DiscoveryChannel.us@East",
       "satellites": []
     },
     {
@@ -32117,14 +32333,6 @@
       "satellites": []
     },
     {
-      "name": "Escape from Planet Earth (2012)",
-      "group": "Documentary",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198058.mp4",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Ev-tele (720p)",
       "group": "Documentary",
       "stream": "https://playtv4k.live/live/EVTELE/index.m3u8",
@@ -32154,6 +32362,14 @@
       "stream": "https://fnx.lls.pbs.org/index.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/FNX_Web_Logo.png",
       "tvg_id": "FNX.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "Forces of Nature (1999)",
+      "group": "Documentary",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198639.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
       "satellites": []
     },
     {
@@ -32189,9 +32405,9 @@
       "satellites": []
     },
     {
-      "name": "Glazami Turista (1080p)",
+      "name": "Glazami Turista (576i)",
       "group": "Documentary",
-      "stream": "http://str2.iptvhd.ru:8080/Glazami_turista_HD/index.m3u8",
+      "stream": "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8",
       "logo": "https://i.imgur.com/GXJKWdy.png",
       "tvg_id": "GlazamiTurista.ru@SD",
       "satellites": []
@@ -32234,14 +32450,6 @@
       "stream": "https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8",
       "logo": "https://i.imgur.com/56ZtCA1.png",
       "tvg_id": "HistoriaYVida.es@SD",
-      "satellites": []
-    },
-    {
-      "name": "History 2 (1080p)",
-      "group": "Documentary",
-      "stream": "http://str2.iptvhd.ru:8080/H2_HD/index.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
-      "tvg_id": "History2.ru@SD",
       "satellites": []
     },
     {
@@ -32293,6 +32501,22 @@
       "satellites": []
     },
     {
+      "name": "History of the World: Part I (1981)",
+      "group": "Documentary",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198687.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "History TV18 (576p)",
+      "group": "Documentary",
+      "stream": "http://103.151.60.162:2122/play/a00y/index.m3u8?hls",
+      "logo": "https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540",
+      "tvg_id": "HistoryTV18.in@SD",
+      "satellites": []
+    },
+    {
       "name": "History (United States) (720p)",
       "group": "Documentary",
       "stream": "http://212.5.144.156:8080/history/index.m3u8",
@@ -32330,6 +32554,14 @@
       "stream": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8",
       "logo": "https://i.imgur.com/reHjjRZ.png",
       "tvg_id": "HyderTV.ca@SD",
+      "satellites": []
+    },
+    {
+      "name": "Imai TV (1080p)",
+      "group": "Documentary",
+      "stream": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
+      "logo": "https://i.imgur.com/9tODclu.png",
+      "tvg_id": "ImaiTV.lk@SD",
       "satellites": []
     },
     {
@@ -32373,19 +32605,27 @@
       "satellites": []
     },
     {
-      "name": "Investigation Discovery (1080p)",
-      "group": "Documentary",
-      "stream": "http://212.5.144.156:8080/id/index.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
-      "tvg_id": "InvestigationDiscovery.us@East",
-      "satellites": []
-    },
-    {
       "name": "Investigation Discovery Latin America South (1080p)",
       "group": "Documentary",
       "stream": "http://38.65.175.84:8000/play/a0ch/index.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
       "tvg_id": "InvestigationDiscoveryLatinAmerica.us@South",
+      "satellites": []
+    },
+    {
+      "name": "Investigation Discovery (Russia) (1080p)",
+      "group": "Documentary",
+      "stream": "http://stream.mcquack.net/205/index.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "tvg_id": "InvestigationDiscovery.ru@SD",
+      "satellites": []
+    },
+    {
+      "name": "Investigation Discovery (United States) (1080p)",
+      "group": "Documentary",
+      "stream": "http://212.5.144.156:8080/id/index.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+      "tvg_id": "InvestigationDiscovery.us@East",
       "satellites": []
     },
     {
@@ -32514,6 +32754,14 @@
       "stream": "https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8",
       "logo": "https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj",
       "tvg_id": "LawCrime.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "Leo Da Vinci: Mission Mona Lisa (2018)",
+      "group": "Documentary",
+      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/198127.mp4",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
       "satellites": []
     },
     {
@@ -32733,6 +32981,22 @@
       "satellites": []
     },
     {
+      "name": "MRTV Farmer",
+      "group": "Documentary",
+      "stream": "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8",
+      "logo": "https://i.imgur.com/f4PWvrW.jpg",
+      "tvg_id": "MRTVFarmer.mm@SD",
+      "satellites": []
+    },
+    {
+      "name": "MRTV NRC",
+      "group": "Documentary",
+      "stream": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8",
+      "logo": "https://i.imgur.com/5aLFslk.jpg",
+      "tvg_id": "MRTVNRC.mm@SD",
+      "satellites": []
+    },
+    {
       "name": "MWD Documentary",
       "group": "Documentary",
       "stream": "http://203.81.84.130/hls/mwd_document/index.m3u8",
@@ -32781,6 +33045,14 @@
       "satellites": []
     },
     {
+      "name": "National Geographic (India) HD (1080p)",
+      "group": "Documentary",
+      "stream": "http://103.185.24.134:3001/NATGEO-HD/index.m3u8",
+      "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+      "tvg_id": "NationalGeographic.in@HD",
+      "satellites": []
+    },
+    {
       "name": "National Geographic Latin America (1080p)",
       "group": "Documentary",
       "stream": "http://15.204.246.24:8080/NatGeoHD/index.m3u8",
@@ -32794,14 +33066,6 @@
       "stream": "http://138.121.15.230:9002/NAT-GEO/index.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
       "tvg_id": "NationalGeographic.mx@SD",
-      "satellites": []
-    },
-    {
-      "name": "National Geographic (Russia) HD (1080p)",
-      "group": "Documentary",
-      "stream": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-      "tvg_id": "NationalGeographic.ru@HD",
       "satellites": []
     },
     {
@@ -32834,14 +33098,6 @@
       "stream": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
       "tvg_id": "NationalGeographicWild.in@HD",
-      "satellites": []
-    },
-    {
-      "name": "National Geographic Wild (Russia) HD (1080p)",
-      "group": "Documentary",
-      "stream": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-      "tvg_id": "NationalGeographicWild.ru@HD",
       "satellites": []
     },
     {
@@ -33061,33 +33317,9 @@
       "satellites": []
     },
     {
-      "name": "Pervyy Kosmicheskiy HD (1080p)",
+      "name": "Planet Hip Hop",
       "group": "Documentary",
-      "stream": "http://str2.iptvhd.ru:8080/Eureka_HD/index.m3u8",
-      "logo": "https://i.imgur.com/N1Ze5IE.png",
-      "tvg_id": "PervyyKosmicheskiy.ru@HD",
-      "satellites": []
-    },
-    {
-      "name": "Planet 80s Radio live",
-      "group": "Documentary",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/122898",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Planet Hip Hop (MRG.fm) live",
-      "group": "Documentary",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/122966",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "Planet of the Apes (1968)",
-      "group": "Documentary",
-      "stream": "http://tv14s.xyz:8080/movie/philadam@rogers.com/eIMpyjb5R6/182985.mp4",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/17589",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -33781,27 +34013,11 @@
       "satellites": []
     },
     {
-      "name": "Teleputeshestviya (576p)",
-      "group": "Documentary",
-      "stream": "http://str2.iptvhd.ru:8080/Teleputeshestviya/index.m3u8",
-      "logo": "https://i.imgur.com/eXJm1n3.png",
-      "tvg_id": "Teleputeshestviya.ru@SD",
-      "satellites": []
-    },
-    {
       "name": "Teletur (720p)",
       "group": "Documentary",
       "stream": "https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8",
       "logo": "https://i.imgur.com/Ig4gR93.png",
       "tvg_id": "Teletur.do@SD",
-      "satellites": []
-    },
-    {
-      "name": "TERRA (1080p)",
-      "group": "Documentary",
-      "stream": "http://str2.iptvhd.ru:8080/TERRA_HD/index.m3u8",
-      "logo": "https://i.imgur.com/ZxUjCpF.png",
-      "tvg_id": "TERRA.ru@SD",
       "satellites": []
     },
     {
@@ -33829,14 +34045,6 @@
       "satellites": []
     },
     {
-      "name": "The Disco Planet live",
-      "group": "Documentary",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/122961",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "The Indonesia Channel (1080p)",
       "group": "Documentary",
       "stream": "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8",
@@ -33858,14 +34066,6 @@
       "stream": "https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv",
       "logo": "https://i.imgur.com/ijA1zDw.png",
       "tvg_id": "TNVPlanet.ru@SD",
-      "satellites": []
-    },
-    {
-      "name": "Tochka.rf (576p)",
-      "group": "Documentary",
-      "stream": "http://str2.iptvhd.ru:8080/HD_Life/index.m3u8",
-      "logo": "https://i.imgur.com/tKgmhxh.png",
-      "tvg_id": "Tochkarf.ru@HD",
       "satellites": []
     },
     {
@@ -34077,6 +34277,14 @@
       "satellites": []
     },
     {
+      "name": "UK-Discovery Channel",
+      "group": "Documentary",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/53684",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "UK-Investigation Discovery",
       "group": "Documentary",
       "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/53687",
@@ -34101,6 +34309,14 @@
       "satellites": []
     },
     {
+      "name": "US Discovery Channel (East)",
+      "group": "Documentary",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/46720",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
       "name": "US Discovery Family",
       "group": "Documentary",
       "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/57347",
@@ -34109,17 +34325,25 @@
       "satellites": []
     },
     {
-      "name": "US (FD) Military History",
+      "name": "US Nat Geo Wild East (A)",
       "group": "Documentary",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/134832",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/11664",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
     },
     {
-      "name": "US Nat Geo Wild East (A)",
+      "name": "US Smithsonian Channel (East)",
       "group": "Documentary",
-      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/11664",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/31150",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "USA: Discovery Life HD",
+      "group": "Documentary",
+      "stream": "http://tv14s.xyz:8080/philadam@rogers.com/eIMpyjb5R6/9861",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
@@ -34181,11 +34405,11 @@
       "satellites": []
     },
     {
-      "name": "viju Nature HD (1080p)",
+      "name": "viju Nature (576p)",
       "group": "Documentary",
-      "stream": "http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8",
+      "stream": "https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv",
       "logo": "https://i.imgur.com/8BPZ18l.png",
-      "tvg_id": "vijuNature.ru@HD",
+      "tvg_id": "vijuNature.ru@SD",
       "satellites": []
     },
     {
