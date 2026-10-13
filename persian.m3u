@@ -3,7 +3,7 @@
 #   Anon TV V2 — by Aram Moostafaye
 #   Persian - 130 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-10-12 14:34 UTC
+#   Updated: 2026-10-13 00:24 UTC
 #   Channels: 130
 # +======================================+
 #EXTINF:-1 tvg-id="1TV.ge@SD" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="Persian",1TV (720p)
@@ -238,6 +238,8 @@ https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 https://sh7hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SimayeAzadi.uk@SD" tvg-logo="https://i.imgur.com/yXcczMq.png" group-title="Persian",Simaye Azadi (1080p)
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
+#EXTINF:-1 tvg-id="SunGemini.in@SD" tvg-logo="https://sund-images.sunnxt.com/194396/300x300_SunGemini_194396_22c18c1e-7eb9-4855-9c4e-12e109911559.png" group-title="Persian",Sun Gemini (576p)
+http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
 #EXTINF:-1 tvg-id="TamadonTV.af@SD" tvg-logo="https://i.imgur.com/edGyj5H.png" group-title="Persian",Tamadon TV (720p)
 https://hls.tamadon.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Tamasha.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png" group-title="Persian",Tamasha
@@ -258,8 +260,6 @@ https://itnhls.wns.live/hls/stream.m3u8
 http://best4u.biz:8080/26842788/26842788/51674
 #EXTINF:-1 tvg-name="US: Press TV" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",US: Press TV
 http://best4u.biz:8080/26842788/26842788/51664
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",USA: ALLBLK GEMS
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154630
 #EXTINF:-1 tvg-id="VarzeshTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="Persian",Varzesh TV
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="VoATVPersian.us@SD" tvg-logo="https://i.imgur.com/TmqComb.png" group-title="Persian",VoA TV Persian (1080p)
