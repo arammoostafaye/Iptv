@@ -3,7 +3,7 @@
 #   Anon TV V2 — by Aram Moostafaye
 #   Persian - 128 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-10-15 03:21 UTC
+#   Updated: 2026-10-15 11:10 UTC
 #   Channels: 128
 # +======================================+
 #EXTINF:-1 tvg-id="1TV.ge@SD" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="Persian",1TV (720p)
@@ -28,8 +28,6 @@ https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="AR-SAT7-ARABIC" tvg-logo="http://149.202.206.141:7070/logo/AR-SAT7-ARABIC.png" group-title="Persian",AR-SAT7-ARABIC
 http://best4u.tn:8080/26842788/26842788/1608
-#EXTINF:-1 tvg-name="Avengement - 2019" tvg-logo="http://best4u.biz:8000/images/43a90a4d2e9f8e84bfebd4313ff9f0d0.jpg" group-title="Persian",Avengement - 2019
-http://best4u.tn:8080/movie/26842788/26842788/44517.mp4
 #EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="Persian",BBC Persian (1080p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BravoFarsiTV.ir@SD" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Persian",Bravo Farsi TV (360p)
@@ -254,7 +252,9 @@ https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
 #EXTINF:-1 tvg-id="TVITN.ir@SD" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Persian",TV ITN
 https://itnhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="USA: AFN SPORT" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",USA: AFN SPORT
+#EXTINF:-1 tvg-name="US: Afn Prime Pacific HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",US: Afn Prime Pacific HD
+http://best4u.tn:8080/26842788/26842788/51674
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",USA: AFN SPORT
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154617
 #EXTINF:-1 tvg-id="VarzeshTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="Persian",Varzesh TV
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
