@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Persian - 127 channels
+#   Persian - 124 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-10-18 10:42 UTC
-#   Channels: 127
+#   Updated: 2026-10-18 15:27 UTC
+#   Channels: 124
 # +======================================+
 #EXTINF:-1 tvg-id="1TV.ge@SD" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="Persian",1TV (720p)
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
@@ -26,8 +26,6 @@ https://df1zke3zj042m.cloudfront.net/playlist.m3u8
 https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="Persian",Anger Management Channel (1080p)
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-name="AR-SAT7-ARABIC" tvg-logo="http://149.202.206.141:7070/logo/AR-SAT7-ARABIC.png" group-title="Persian",AR-SAT7-ARABIC
-http://best4u.tn:8080/26842788/26842788/1608
 #EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="Persian",BBC Persian (1080p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BravoFarsiTV.ir@SD" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Persian",Bravo Farsi TV (360p)
@@ -216,8 +214,6 @@ https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
 https://live.presstv.co.uk/hls/presstv.m3u8
 #EXTINF:-1 tvg-id="PressTVFrench.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" group-title="Persian",Press TV French (1080p)
 https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Project Gemini - 2022" tvg-logo="http://best4u.biz:8000/images/97e5bffe8fe77e08e02c0ba0d9f23356.jpg" group-title="Persian",Project Gemini - 2022
-http://best4u.tn:8080/movie/26842788/26842788/42860.mkv
 #EXTINF:-1 tvg-id="QuranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png" group-title="Persian",Quran TV (Iran)
 https://ncdn.telewebion.ir/quran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RoyaTV.ir@SD" tvg-logo="https://static.telewebion.com/channelsLogo/0e3d7425-1a1b-47c4-b020-2e09a5fc2598/default" group-title="Persian",Roya TV (Iran)
@@ -250,10 +246,8 @@ https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
 #EXTINF:-1 tvg-id="TVITN.ir@SD" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Persian",TV ITN
 https://itnhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="US: Afn Prime Pacific HD" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",US: Afn Prime Pacific HD
-http://best4u.tn:8080/26842788/26842788/51674
-#EXTINF:-1 tvg-name="US: Press TV" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",US: Press TV
-http://best4u.tn:8080/26842788/26842788/51664
+#EXTINF:-1 tvg-name="USA: AFN SPORT" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Persian",USA: AFN SPORT
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154617
 #EXTINF:-1 tvg-id="VarzeshTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="Persian",Varzesh TV
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="VoATVPersian.us@SD" tvg-logo="https://i.imgur.com/TmqComb.png" group-title="Persian",VoA TV Persian (1080p)
