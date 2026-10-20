@@ -1,10 +1,10 @@
 #EXTM3U
 # +======================================+
 #   Anon TV V2 — by Aram Moostafaye
-#   Kurdish - 99 channels
+#   Kurdish - 96 channels
 #   https://github.com/arammoostafaye/Iptv
-#   Updated: 2026-10-20 03:20 UTC
-#   Channels: 99
+#   Updated: 2026-10-20 11:02 UTC
+#   Channels: 96
 # +======================================+
 #EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title="Kurdish",Afarin Baxcha (1080p)
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
@@ -34,7 +34,7 @@ https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624da1cd2af90c0007c13205/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="Avatar.se@DK" tvg-logo="https://images.pluto.tv/channels/61c09b48d6d97900076e91c5/colorLogoPNG.png" group-title="Kurdish",Avatar (Sweden)
 https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
-#EXTINF:-1 tvg-name="BG: FOLKLOR" tvg-logo="https://docdog.top/logo/countries/bulgaria/folklortv.png" group-title="Kurdish",BG: FOLKLOR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",BG: FOLKLOR
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3355
 #EXTINF:-1 tvg-id="Channel8.gr@HD" tvg-logo="https://www.channel8.gr/img/channel8.png" group-title="Kurdish",Channel 8 (Greece) (1080p)
 https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
@@ -48,6 +48,8 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
 https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
 #EXTINF:-1 tvg-id="DivyavaniTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="Kurdish",Divyavani TV (576p)
 https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",EXYU: TESLAVISION USPAVANKE 24/7
+http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144281
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Gali Kurdistan
 https://live.host247.net/gk/gksat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Khak TV
@@ -70,16 +72,14 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 https://stream.kurdmax.tv/app/kurdmax-kurmanji2/ts:playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Kurdmax Music
 http://31.14.40.139:1935/music/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Kurdmax Show
-https://stream.kurdmaxshow.tv/app/kurdmaxshow-sorani/llhls.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Kurdmax Show Kurmanci
 http://31.14.40.139:1935/liveTrans/SHOW2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Kurdmax Sorani
 https://stream.kurdmax.tv/app/kurdmax-sorani1/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="Kurdsat.iq@SD" tvg-logo="https://i.imgur.com/UAbSwYA.png" group-title="Kurdish",Kurdsat (1080p)
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-#EXTINF:-1 tvg-id="KurdsatNews.iq@SD" tvg-logo="https://i.imgur.com/F3XRwkt.png" group-title="Kurdish",Kurdsat News (1080p)
-https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Kurdsat News
+https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
 #EXTINF:-1 tvg-id="LakeHavasuCity4.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lQ_vy6By43AoSdSQbFUzQePU0NWWIM-uzsAqnbbQXAql4=s512" group-title="Kurdish",Lake Havasu City 4
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoNetTV.la@SD" tvg-logo="https://i.imgur.com/ohbRT05.png" group-title="Kurdish",Lao Net TV (720p)
@@ -98,8 +98,6 @@ https://hls.navahang.live/hls/stream.m3u8
 https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar@SD" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Kurdish",NET TV (720p)
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
-#EXTINF:-1 tvg-name="NL: BRAVA" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",NL: BRAVA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/135627
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HI5GOfF.png" tvg-language="Kurdish" group-title="Kurdish",NRT
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 #EXTINF:-1 tvg-id="OmroepHoekscheWaard.nl@SD" tvg-logo="https://i.imgur.com/pgMwNGV.png" group-title="Kurdish",Omroep Hoeksche Waard (480p)
@@ -114,8 +112,6 @@ https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioCarnavalTV.es@SD" tvg-logo="https://i.imgur.com/cdpbkSo.png" group-title="Kurdish",Radio Carnaval TV (720p)
 https://eu1.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 tvg-name="RO: MOLDAVA 2" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",RO: MOLDAVA 2
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3253
 #EXTINF:-1 tvg-id="RojavaTV.sy@SD" tvg-logo="https://i.imgur.com/42noysO.png" group-title="Kurdish",Rojava TV (1080p)
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Ronahi TV
@@ -128,8 +124,6 @@ https://rpn.bozztv.com/slrclive/slrc/slrclive/index.m3u8
 https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Speda TV
 https://spedanet.store/upload/images/spedahd.m3u8
-#EXTINF:-1 tvg-name="SRB: RTV MLAVA" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",SRB: RTV MLAVA
-http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3977
 #EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="Kurdish",Star Pravah HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" tvg-language="Kurdish" group-title="Kurdish",Sterk TV
@@ -184,9 +178,9 @@ https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@WestJava" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Kurdish",TVRI West Java (480p)
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-#EXTINF:-1 tvg-name="UA: CHANNEL 8" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",UA: CHANNEL 8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",UA: CHANNEL 8
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157617
-#EXTINF:-1 tvg-name="UA: KARAVAN TV" tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",UA: KARAVAN TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png" group-title="Kurdish",UA: KARAVAN TV
 http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157768
 #EXTINF:-1 tvg-id="VidusdaugavasTelevizija.lv@SD" tvg-logo="https://i.imgur.com/L5U3PQR.png" group-title="Kurdish",Vidusdaugavas Televizija (576p)
 https://straume.vdtv.lv/vdtv2/index.m3u8
