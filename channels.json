@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-23T11:07:28.093116",
-  "total": 4691,
+  "updated": "2026-10-23T16:26:25.566182",
+  "total": 4180,
   "groups": {
-    "Kurdish": 95,
-    "Persian": 124,
-    "Sports": 529,
-    "Movies": 1277,
-    "Music": 712,
-    "News": 1017,
-    "Kids": 500,
-    "Documentary": 437
+    "Kurdish": 92,
+    "Persian": 118,
+    "Sports": 340,
+    "Movies": 1144,
+    "Music": 685,
+    "News": 974,
+    "Kids": 449,
+    "Documentary": 378
   },
   "channels": [
     {
@@ -66,14 +66,6 @@
       "stream": "https://avaserieshls.wns.live/hls/stream.m3u8",
       "logo": "https://i.imgur.com/8AfAfZE.png",
       "tvg_id": "AVASeries.ir@SD",
-      "satellites": []
-    },
-    {
-      "name": "Ava TV",
-      "group": "Kurdish",
-      "stream": "https://ava2.store/upload/ava.m3u8",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -170,14 +162,6 @@
       "stream": "https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8",
       "logo": "https://i.imgur.com/YFnmSLW.png",
       "tvg_id": "CiraTV.de@SD",
-      "satellites": []
-    },
-    {
-      "name": "CZ: BRAVA",
-      "group": "Kurdish",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2179",
-      "logo": "https://docdog.top/logo/countries/cz/brava.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -701,14 +685,6 @@
       "satellites": []
     },
     {
-      "name": "USA: FOX SAVANNAH WTGS",
-      "group": "Kurdish",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155475",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Vidusdaugavas Televizija (576p)",
       "group": "Kurdish",
       "stream": "https://straume.vdtv.lv/vdtv2/index.m3u8",
@@ -1109,38 +1085,6 @@
       "satellites": []
     },
     {
-      "name": "iFilm 2",
-      "group": "Persian",
-      "stream": "https://live.presstv.co.uk/hls/ifilm2.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png",
-      "tvg_id": "iFilm2.ir@SD",
-      "satellites": []
-    },
-    {
-      "name": "iFilm Arabic",
-      "group": "Persian",
-      "stream": "https://live.presstv.co.uk/hls/ifilmar.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
-      "tvg_id": "iFilmArabic.ir@SD",
-      "satellites": []
-    },
-    {
-      "name": "iFilm English",
-      "group": "Persian",
-      "stream": "https://live.presstv.co.uk/hls/ifilmen.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
-      "tvg_id": "iFilmEnglish.ir@SD",
-      "satellites": []
-    },
-    {
-      "name": "iFilm Persian",
-      "group": "Persian",
-      "stream": "https://live.presstv.co.uk/hls/ifilmfa.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
-      "tvg_id": "iFilmPersian.ir@SD",
-      "satellites": []
-    },
-    {
       "name": "Iran International (1080p)",
       "group": "Persian",
       "stream": "https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8",
@@ -1170,14 +1114,6 @@
       "stream": "https://hls.irannrtv.live/hls/stream.m3u8",
       "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "IranNationalRevolutionTV.us@HD",
-      "satellites": []
-    },
-    {
-      "name": "Iran Press",
-      "group": "Persian",
-      "stream": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg/960px-%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg",
-      "tvg_id": "IranPress.ir@SD",
       "satellites": []
     },
     {
@@ -1597,14 +1533,6 @@
       "satellites": []
     },
     {
-      "name": "Press TV",
-      "group": "Persian",
-      "stream": "https://live.presstv.co.uk/hls/presstv.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png",
-      "tvg_id": "PressTV.ir@SD",
-      "satellites": []
-    },
-    {
       "name": "Press TV French (1080p)",
       "group": "Persian",
       "stream": "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8",
@@ -1837,22 +1765,6 @@
       "satellites": []
     },
     {
-      "name": "AF: CANAL+ SPORT",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157797",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AF: CANAL+ SPORT 4",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157799",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Africa 24 Sport (1080p)",
       "group": "Sports",
       "stream": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
@@ -1866,22 +1778,6 @@
       "stream": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
       "logo": "https://i.imgur.com/DrrlxTO.png",
       "tvg_id": "AlIraqiaSport.iq@SD",
-      "satellites": []
-    },
-    {
-      "name": "ALB: ART SPORT 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158021",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "ALB: SUPER SPORT KOSOVA 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158043",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -1933,190 +1829,6 @@
       "satellites": []
     },
     {
-      "name": "AR: BEIN SPORTS 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/841",
-      "logo": "https://docdog.top/logo/countries/bein/beinsports1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/842",
-      "logo": "https://docdog.top/logo/countries/bein/beinsports2.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS 3",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/843",
-      "logo": "https://docdog.top/logo/countries/bein/beinsports3.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS 4",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/844",
-      "logo": "https://docdog.top/logo/countries/bein/beinsports4.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS 5",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/845",
-      "logo": "https://docdog.top/logo/countries/bein/beinsports5.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS 6",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/846",
-      "logo": "https://docdog.top/logo/countries/bein/beinsports6.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS 7",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/847",
-      "logo": "https://docdog.top/logo/countries/bein/beinsports7.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS 8",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/132370",
-      "logo": "https://docdog.top/logo/countries/bein/beinsports8.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS 9",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/132371",
-      "logo": "https://docdog.top/logo/countries/bein/beinsports9.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS ENG 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/848",
-      "logo": "https://docdog.top/logo/countries/bein/beinsports1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS ENG 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/849",
-      "logo": "https://docdog.top/logo/countries/bein/beinsports2.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS ENG 3",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/850",
-      "logo": "https://docdog.top/logo/countries/bein/beinsports3.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS MAX 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/835",
-      "logo": "https://docdog.top/logo/countries/bein/bein-sports-1-max-mea.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS MAX 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/836",
-      "logo": "https://docdog.top/logo/countries/bein/bein-sports-2-max-mea.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS MAX 3",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/837",
-      "logo": "https://docdog.top/logo/countries/bein/bein-sports-3-max-mea.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS MAX 4",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/838",
-      "logo": "https://docdog.top/logo/countries/bein/bein-sports-4-max-mea.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS MAX 6",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/840",
-      "logo": "https://docdog.top/logo/countries/bein/bein-sports-6-max-mea.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS NBA",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/851",
-      "logo": "https://docdog.top/logo/countries/bein/beinsports-nba.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS NEWS",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/852",
-      "logo": "https://docdog.top/logo/countries/bein/BEINSPORTSNEWS.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS PREMIUM 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/853",
-      "logo": "https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS PREMIUM 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/854",
-      "logo": "https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM2.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS PREMIUM 3",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/855",
-      "logo": "https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM3.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SPORTS XTRA 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/856",
-      "logo": "https://docdog.top/logo/countries/bein/beinsportsxtra.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Arena Sport 1 Premium (Serbia) (360p)",
       "group": "Sports",
       "stream": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD",
@@ -2162,38 +1874,6 @@
       "stream": "http://88.212.15.17/live/arena4/index.m3u8",
       "logo": "https://i.imgur.com/uAaQDr6.png",
       "tvg_id": "Arena4.hu@SD",
-      "satellites": []
-    },
-    {
-      "name": "ARG: DIRECTV SPORTS",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4748",
-      "logo": "https://docdog.top/logo/countries/argentina/directvsports.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "ARG: FOX SPORTS PREMIUM",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4767",
-      "logo": "https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "ARG: PX SPORTS",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4796",
-      "logo": "https://asiagrandiptv.us/logo/pxsports.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "ARG: TNT SPORTS",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4815",
-      "logo": "https://docdog.top/logo/countries//argentina/tnt-sports-ar.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -2309,30 +1989,6 @@
       "satellites": []
     },
     {
-      "name": "BG: DIEMA SPORT",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3336",
-      "logo": "https://docdog.top/logo/countries/bulgaria/diemasport.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "BG: DIEMA SPORT 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3337",
-      "logo": "https://docdog.top/logo/countries/bulgaria/diemasport2.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "BG: MAX SPORT 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2988",
-      "logo": "https://docdog.top/logo/countries/croatia/maxsport2.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Billiard TV (1080p)",
       "group": "Sports",
       "stream": "https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8",
@@ -2354,14 +2010,6 @@
       "stream": "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8",
       "logo": "https://i.imgur.com/CqqWtzo.png",
       "tvg_id": "BudapestEuropaTelevizio.hu@SD",
-      "satellites": []
-    },
-    {
-      "name": "CA: TVA SPORTS",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5516",
-      "logo": "https://docdog.top/logo/countries/canada/tvasports.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -2509,14 +2157,6 @@
       "satellites": []
     },
     {
-      "name": "CL: DirecTV Sports 2 VIP [Live During Events Only]",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134049",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Claro Sports (1080p)",
       "group": "Sports",
       "stream": "http://168.196.127.137:6001/play/a08r/index.m3u8",
@@ -2541,86 +2181,6 @@
       "satellites": []
     },
     {
-      "name": "CRO: ARENA SPORT 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2991",
-      "logo": "https://docdog.top/logo/countries/croatia/arenasport1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CRO: ARENA SPORT 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2992",
-      "logo": "https://docdog.top/logo/countries/croatia/arenasport2.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CRO: ARENA SPORT 3",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2993",
-      "logo": "https://docdog.top/logo/countries/croatia/arenasport3.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CRO: ARENA SPORT 5",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2995",
-      "logo": "https://docdog.top/logo/countries/croatia/arenasport5.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CRO: SPORT KLUB 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2998",
-      "logo": "https://docdog.top/logo/countries/croatia/sportklub-2-hr.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CRO: SPORT KLUB 3",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2999",
-      "logo": "https://docdog.top/logo/countries/croatia/sportklub-3-hr.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CRO: SPORT KLUB 4",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3000",
-      "logo": "https://docdog.top/logo/countries/croatia/sportklub-5-hr.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CRO: SPORT KLUB 5",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3001",
-      "logo": "https://docdog.top/logo/countries/croatia/sportklub-5-hr.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CRO: SPORT KLUB 6",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3002",
-      "logo": "https://docdog.top/logo/countries/croatia/sportklub-6-hr.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CRO: VIP MAX SPORT 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/34146",
-      "logo": "https://docdog.top/logo/countries/croatia/maxsport1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "CRTV (Chile) (720p)",
       "group": "Sports",
       "stream": "https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8",
@@ -2634,30 +2194,6 @@
       "stream": "http://88.212.15.17/live/test_ctsport_25p/playlist.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png",
       "tvg_id": "CTSport.cz@SD",
-      "satellites": []
-    },
-    {
-      "name": "CZ: Arena Sport 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2258",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CZ: NOVA SPORT 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2243",
-      "logo": "https://docdog.top/logo/countries/cz/novasport1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CZ: SPORT 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2246",
-      "logo": "https://docdog.top/logo/countries/cz/sport2.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -2690,62 +2226,6 @@
       "stream": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
       "logo": "https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",
       "tvg_id": "DDSports.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "DE: MS SPORT",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/142260",
-      "logo": "https://docdog.top/logo/countries/germany/new/MS_SPORT.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "DE: SKY SPORT 5 720P",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/135353",
-      "logo": "https://docdog.top/logo/countries/germany/new/SKY_SPORT_5_720P.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "DE: SKY SPORT 9 720P",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/135357",
-      "logo": "https://docdog.top/logo/countries/germany/new/SKY_SPORT_9_720P.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "DE: SKY SPORT BUNDESLIGA 1 720P",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134774",
-      "logo": "https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_1_720P.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "DE: SKY SPORT BUNDESLIGA 6 720P",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134779",
-      "logo": "https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_6_720P.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "DE: SKY SPORT BUNDESLIGA 9",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134794",
-      "logo": "https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_9_HD.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "DE: SPORTDIGITAL FUSSBALL 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/135462",
-      "logo": "https://docdog.top/logo/countries/germany/new/SPORTDIGITAL_FUSSBALL_2_HD.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -2858,94 +2338,6 @@
       "stream": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports4/default/index.mpd",
       "logo": "https://i.imgur.com/gebWmAB.png",
       "tvg_id": "ERTSports4.gr",
-      "satellites": []
-    },
-    {
-      "name": "ES: (FHD) DAZN LALIGA",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/97138",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png",
-      "tvg_id": "daznli.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: DAZN LALIGA 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/128942",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png",
-      "tvg_id": "daznl2.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: ESPORT 3 CAT",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/784",
-      "logo": "https://docdog.top/logo/countries/spain/Esport_3.png",
-      "tvg_id": "Esport3.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: LALIGA TV HYPERMOTION",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/246",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png",
-      "tvg_id": "LALIGA TV HYPERMOTION",
-      "satellites": []
-    },
-    {
-      "name": "ES: LALIGA TV HYPERMOTION 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/634",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png",
-      "tvg_id": "LALIGA TV HYPERMOTION 2",
-      "satellites": []
-    },
-    {
-      "name": "ES: M+ COPA DEL REY",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/130169",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png",
-      "tvg_id": "mlaliga3.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: (FHD) M+ LALIGA",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/254",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png",
-      "tvg_id": "mliga.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: (FHD) M+ LALIGA TV BAR",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/283",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/laligabares.png",
-      "tvg_id": "IberaliaTV.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: (HD REPUESTO) DAZN LALIGA",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/244",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png",
-      "tvg_id": "daznlaliga.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: (FHD REPUESTO) M+ LALIGA",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/97192",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png",
-      "tvg_id": "mlaliga.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: (HD REPUESTO2) DAZN LALIGA",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/147167",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png",
-      "tvg_id": "daznlaliga.es",
       "satellites": []
     },
     {
@@ -3333,174 +2725,6 @@
       "satellites": []
     },
     {
-      "name": "FR: AUTOMOTO",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/621",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/AUTOMOTO.png",
-      "tvg_id": "AUTOMOTO",
-      "satellites": []
-    },
-    {
-      "name": "FR: BEIN SPORT MAX 4",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/376",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png",
-      "tvg_id": "BEIN SPORTS MAX 4",
-      "satellites": []
-    },
-    {
-      "name": "FR: BEIN SPORT MAX 7",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/379",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png",
-      "tvg_id": "BEIN SPORTS MAX 7",
-      "satellites": []
-    },
-    {
-      "name": "FR: BEIN SPORT MAX 9",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/381",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png",
-      "tvg_id": "BEIN SPORTS MAX 9",
-      "satellites": []
-    },
-    {
-      "name": "FR: BEIN SPORTS 1 HD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/128979",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: BEIN SPORTS 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/374",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png",
-      "tvg_id": "beIN SPORTS 2",
-      "satellites": []
-    },
-    {
-      "name": "FR: BEIN SPORTS 3",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/375",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png",
-      "tvg_id": "beIN SPORTS 3",
-      "satellites": []
-    },
-    {
-      "name": "FR: CANAL+ FOOT",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/369",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png",
-      "tvg_id": "TF1",
-      "satellites": []
-    },
-    {
-      "name": "FR: CANAL+ SPORT",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/371",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png",
-      "tvg_id": "IberaliaTV.es",
-      "satellites": []
-    },
-    {
-      "name": "FR: CANAL+ SPORT 360",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/370",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png",
-      "tvg_id": "CanalPlusSport360.fr",
-      "satellites": []
-    },
-    {
-      "name": "FR: DISNEY EVENTS 03 [EVENT ONLY]",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158693",
-      "logo": "https://lo1.in/us/displus.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: EUROSPORT 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/383",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_1.png",
-      "tvg_id": "Eurosport 1",
-      "satellites": []
-    },
-    {
-      "name": "FR: EUROSPORT 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/384",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_2.png",
-      "tvg_id": "Eurosport 2",
-      "satellites": []
-    },
-    {
-      "name": "FR: EUROSPORT 360 16",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/132331",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: GOLF+",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/624",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/GOLF.png",
-      "tvg_id": "GOLP",
-      "satellites": []
-    },
-    {
-      "name": "FR: INFOSPORT+",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/626",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/INFOSPORT.png",
-      "tvg_id": "Infosport+",
-      "satellites": []
-    },
-    {
-      "name": "FR: MY SPORTS 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154448",
-      "logo": "https://docdog.top/logo/countries/fr/MY_SPORTS_2.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: MY SPORTS 3",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154449",
-      "logo": "https://docdog.top/logo/countries/fr/MY_SPORTS_3.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: MY SPORTS 4",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154450",
-      "logo": "https://docdog.top/logo/countries/fr/MY_SPORTS_4.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: RMC SPORT 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/388",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/rmcsport1.png",
-      "tvg_id": "TF1",
-      "satellites": []
-    },
-    {
-      "name": "FR: SPORT EN FRANCE",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/132342",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/SPORT_EN_FRANCE.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "FTF Sports (720p)",
       "group": "Sports",
       "stream": "https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8",
@@ -3621,46 +2845,6 @@
       "satellites": []
     },
     {
-      "name": "GR: ERT SPORTS 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157447",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "GR: NOVA SPORTS 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157413",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "GR: NOVA SPORTS 4",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157416",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "GR: NOVA SPORTS NEWS",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157423",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "GR: NOVA SPORTS PRIME",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157425",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Horse TV (720p)",
       "group": "Sports",
       "stream": "https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8",
@@ -3685,14 +2869,6 @@
       "satellites": []
     },
     {
-      "name": "HU: DIGI SPORT 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3854",
-      "logo": "https://docdog.top/logo/countries/hungary/digisport1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Inter TV (Italy) (1080p)",
       "group": "Sports",
       "stream": "https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8",
@@ -3706,126 +2882,6 @@
       "stream": "https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8",
       "logo": "https://i.imgur.com/a40chFI.png",
       "tvg_id": "InTrouble.nl@SD",
-      "satellites": []
-    },
-    {
-      "name": "IT: EUROSPORT 1 HD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136457",
-      "logo": "https://docdog.top/logo/countries/italy/Eurosport_1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: EUROSPORT 2 FHD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136459",
-      "logo": "https://docdog.top/logo/countries/italy/Eurosport_2.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: MILAN TV HD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136469",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY SPORT 24 HD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136476",
-      "logo": "https://docdog.top/logo/countries/italy/sky-sport-24-it.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY SPORT 251 HD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136518",
-      "logo": "https://docdog.top/logo/countries/italy/sky-sport-it.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY SPORT 252 FHD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136520",
-      "logo": "https://docdog.top/logo/countries/italy/sky-sport-it.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY SPORT 258 FHD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136538",
-      "logo": "https://docdog.top/logo/countries/italy/sky-sport-it.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY SPORT ARENA HD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136479",
-      "logo": "https://docdog.top/logo/countries/italy/sky-sport-arena-it.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY SPORT CALCIO FHD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136481",
-      "logo": "https://docdog.top/logo/countries/italy/sky-sport-calcio-it.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY SPORT F1 FHD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136484",
-      "logo": "https://docdog.top/logo/countries/italy/sky-sport-f1-it.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY SPORT GOLF HD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136487",
-      "logo": "https://docdog.top/logo/countries/italy/Sky_Sport_Golf.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY SPORT MOTOGP HD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136489",
-      "logo": "https://docdog.top/logo/countries/italy/sky-sport-motogp-it.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY SPORT TENNIS FHD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136494",
-      "logo": "https://docdog.top/logo/countries/italy/Sky_Sport_Tennis.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY SPORT UNO HD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136498",
-      "logo": "https://docdog.top/logo/countries/italy/sky-sport-uno-it.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SUPER TENNIS HD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136511",
-      "logo": "https://docdog.top/logo/countries/italy/super-tennis-it.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -4013,14 +3069,6 @@
       "satellites": []
     },
     {
-      "name": "MEX: AYM SPORTS",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5111",
-      "logo": "https://docdog.top/logo/countries/mexico/aymsports.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Milan TV (720p)",
       "group": "Sports",
       "stream": "http://team-tv.co:81/milan/index.m3u8",
@@ -4181,102 +3229,6 @@
       "satellites": []
     },
     {
-      "name": "NL: ESPN 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1308",
-      "logo": "https://docdog.top/logo/countries/netherlands/espn1.png",
-      "tvg_id": "ESPN 1 [TV]",
-      "satellites": []
-    },
-    {
-      "name": "NL: ESPN 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1309",
-      "logo": "https://docdog.top/logo/countries/netherlands/espn2.png",
-      "tvg_id": "ESPN 2 [TV]",
-      "satellites": []
-    },
-    {
-      "name": "NL: EUROSPORT 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1269",
-      "logo": "https://docdog.top/logo/countries/netherlands/eurosport1.png",
-      "tvg_id": "Eurosport 1 [TV]",
-      "satellites": []
-    },
-    {
-      "name": "NL: EUROSPORT 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1270",
-      "logo": "https://docdog.top/logo/countries/netherlands/eurosport2.png",
-      "tvg_id": "Eurosport 2 [TV]",
-      "satellites": []
-    },
-    {
-      "name": "NL: EXTREME SPORT",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1312",
-      "logo": "https://docdog.top/logo/countries/netherlands/extreme-sports-channel-nl.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "NL: ZIGGO SPORT",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/128986",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "NL: ZIGGO SPORT 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/128987",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "NL: ZIGGO SPORT 4",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/128994",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "NL: ZIGGO SPORT 5",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/128995",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "NL: ZIGGO SPORT 6",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/128996",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "NO: TV2 SPORT 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3655",
-      "logo": "https://docdog.top/logo/countries/norway/tv2sport2.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "NZ: SKY SPORT 5 VIP [Live During Events Only]",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146817",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Okko Futbol (576p)",
       "group": "Sports",
       "stream": "http://178.124.179.122:8080/Setanta1/index.m3u8",
@@ -4362,182 +3314,6 @@
       "stream": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
       "logo": "https://i.imgur.com/qtbSnrY.png",
       "tvg_id": "PKSports.pk@SD",
-      "satellites": []
-    },
-    {
-      "name": "PL: CANAL+ 360",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/132374",
-      "logo": "https://docdog.top/logo/countries/poland/canal+360.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PL: CANAL+ SPORT",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/876",
-      "logo": "https://docdog.top/logo/countries/poland/CANAL_SPORT.png",
-      "tvg_id": "Canal+ Sport",
-      "satellites": []
-    },
-    {
-      "name": "PL: CANAL+ SPORT 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/877",
-      "logo": "https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png",
-      "tvg_id": "Canal+ Sport 2",
-      "satellites": []
-    },
-    {
-      "name": "PL: CANAL+ SPORT 3",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/878",
-      "logo": "https://docdog.top/logo/countries/poland/CANAL_SPORT_3.png",
-      "tvg_id": "Canal+ Sport 3",
-      "satellites": []
-    },
-    {
-      "name": "PL: CANAL+ SPORT 4",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/879",
-      "logo": "https://docdog.top/logo/countries/poland/CANAL_SPORT_4.png",
-      "tvg_id": "Canal+ Sport 4",
-      "satellites": []
-    },
-    {
-      "name": "PL: CANAL+ SPORT 5",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/889",
-      "logo": "https://docdog.top/logo/countries/poland/CANAL_SPORT_5.png",
-      "tvg_id": "Canal+ Sport 5",
-      "satellites": []
-    },
-    {
-      "name": "PL: CANAL+ SPORT 6",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158703",
-      "logo": "https://docdog.top/logo/countries/pl/CANAL_SPORT_6.png",
-      "tvg_id": "Canal+ Sport 6",
-      "satellites": []
-    },
-    {
-      "name": "PL: ELEVEN SPORTS 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/880",
-      "logo": "https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_1.png",
-      "tvg_id": "Eleven Sports 1",
-      "satellites": []
-    },
-    {
-      "name": "PL: ELEVEN SPORTS 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/881",
-      "logo": "https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_2.png",
-      "tvg_id": "Eleven Sports 2",
-      "satellites": []
-    },
-    {
-      "name": "PL: ELEVEN SPORTS 4",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/883",
-      "logo": "https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_4.png",
-      "tvg_id": "Eleven Sports 4",
-      "satellites": []
-    },
-    {
-      "name": "PL: EUROSPORT 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/884",
-      "logo": "https://docdog.top/logo/countries/poland/eurosport1.png",
-      "tvg_id": "Eurosport",
-      "satellites": []
-    },
-    {
-      "name": "PL: EUROSPORT 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/885",
-      "logo": "https://docdog.top/logo/countries/poland/eurosport2.png",
-      "tvg_id": "Eurosport 2",
-      "satellites": []
-    },
-    {
-      "name": "PL: EXTREME SPORTS",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/128952",
-      "logo": "https://docdog.top/logo/countries/poland/EXTREME_SPORTS_HD.png",
-      "tvg_id": "Extreme Sports Channel",
-      "satellites": []
-    },
-    {
-      "name": "PL: FIGHTBOX",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/942",
-      "logo": "https://docdog.top/logo/countries/poland/fightbox.png",
-      "tvg_id": "FightBox",
-      "satellites": []
-    },
-    {
-      "name": "PL: POLSAT SPORT 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/34309",
-      "logo": "https://docdog.top/logo/countries/poland/polsatsport.png",
-      "tvg_id": "Polsat Sport",
-      "satellites": []
-    },
-    {
-      "name": "PL: POLSAT SPORT 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/886",
-      "logo": "https://docdog.top/logo/countries/poland/polsatsportextra.png",
-      "tvg_id": "Polsat Sport Extra",
-      "satellites": []
-    },
-    {
-      "name": "PL: POLSAT SPORT 3",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/887",
-      "logo": "https://docdog.top/logo/countries/poland/polsatsportnews.png",
-      "tvg_id": "Polsat Sport News",
-      "satellites": []
-    },
-    {
-      "name": "PL: POLSAT SPORT EXTRA 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/874",
-      "logo": "https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_1.png",
-      "tvg_id": "Polsat Sport Premium 5",
-      "satellites": []
-    },
-    {
-      "name": "PL: POLSAT SPORT EXTRA 3",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/872",
-      "logo": "https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_3.png",
-      "tvg_id": "Polsat Sport Premium 3",
-      "satellites": []
-    },
-    {
-      "name": "PL: POLSAT SPORT PEXTRA 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/875",
-      "logo": "https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_2.png",
-      "tvg_id": "Polsat Sport Premium 6",
-      "satellites": []
-    },
-    {
-      "name": "PL: POLSAT SPORT PREMIUM 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/870",
-      "logo": "https://docdog.top/logo/countries/poland/polsatsportpremium1.png",
-      "tvg_id": "Polsat Sport Premium 1",
-      "satellites": []
-    },
-    {
-      "name": "PL: TVP SPORT",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1030",
-      "logo": "https://docdog.top/logo/countries/poland/tvpsport.png",
-      "tvg_id": "TVP Sport",
       "satellites": []
     },
     {
@@ -4717,110 +3493,6 @@
       "satellites": []
     },
     {
-      "name": "PT: ELEVEN SPORT 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99475",
-      "logo": "https://docdog.top/logo/countries/portugal/elevensport1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: ELEVEN SPORT 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99476",
-      "logo": "https://docdog.top/logo/countries/portugal/elevensport2.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: ELEVEN SPORT 4",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99478",
-      "logo": "https://docdog.top/logo/countries/portugal/elevensport4.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: ELEVEN SPORT 5",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99479",
-      "logo": "https://docdog.top/logo/countries/portugal/Eleven_Sports_5.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: ELEVEN SPORT 6",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99480",
-      "logo": "https://docdog.top/logo/countries/portugal/elevensports6vip.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: SPORT TV +",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99483",
-      "logo": "https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: SPORT TV 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99484",
-      "logo": "https://docdog.top/logo/countries/portugal/sporttv1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: SPORT TV 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99485",
-      "logo": "https://docdog.top/logo/countries/portugal/sporttv2.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: SPORT TV 3",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99486",
-      "logo": "https://docdog.top/logo/countries/portugal/sporttv3.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: SPORT TV 4",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99487",
-      "logo": "https://docdog.top/logo/countries/portugal/sporttv4.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: SPORT TV 5",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99488",
-      "logo": "https://docdog.top/logo/countries/portugal/sporttv5.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: SPORT TV 6",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99489",
-      "logo": "https://docdog.top/logo/countries/portugal/sporttv6.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: SPORT TV 7",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/129327",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "QazSport (1080p)",
       "group": "Sports",
       "stream": "http://stream.mcquack.net/72/index.m3u8",
@@ -4978,14 +3650,6 @@
       "stream": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
       "logo": "https://i.imgur.com/u8zXUOg.png",
       "tvg_id": "RightNowTV.us@SD",
-      "satellites": []
-    },
-    {
-      "name": "RO: DIGI SPORT 3",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3176",
-      "logo": "https://docdog.top/logo/countries/romania/digisport3.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -5157,30 +3821,6 @@
       "satellites": []
     },
     {
-      "name": "Sportitalia 24 (720p)",
-      "group": "Sports",
-      "stream": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8",
-      "logo": "https://i.imgur.com/RSwnoLn.png",
-      "tvg_id": "Sportitalia24.it@SD",
-      "satellites": []
-    },
-    {
-      "name": "Sportitalia LIVE24",
-      "group": "Sports",
-      "stream": "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8",
-      "logo": "https://i.imgur.com/hu56Ya5.png",
-      "tvg_id": "Sportitalia24.it",
-      "satellites": []
-    },
-    {
-      "name": "Sportitalia Motori (720p)",
-      "group": "Sports",
-      "stream": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "logo": "https://i.imgur.com/hu56Ya5.png",
-      "tvg_id": "SportitaliaMotori.it@SD",
-      "satellites": []
-    },
-    {
       "name": "Sportitalia Plus",
       "group": "Sports",
       "stream": "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8",
@@ -5349,22 +3989,6 @@
       "satellites": []
     },
     {
-      "name": "SWE: TV 3 SPORT",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2319",
-      "logo": "https://docdog.top/logo/countries/sweden/tv3sport.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "SWE: VIASAT SPORT PREMIUM",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2267",
-      "logo": "https://docdog.top/logo/countries/sweden/viasatsportpremium.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Swerve Combat (1080p)",
       "group": "Sports",
       "stream": "https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8",
@@ -5378,22 +4002,6 @@
       "stream": "https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8",
       "logo": "https://i.imgur.com/GT0Yi2T.png",
       "tvg_id": "SwerveSports.us@SD",
-      "satellites": []
-    },
-    {
-      "name": "SWS: BLUE SPORT 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1939",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "SWS: TELE CLUB SPORT 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1950",
-      "logo": "https://docdog.top/logo/countries/switzerland/teleclubsport2.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -5498,30 +4106,6 @@
       "stream": "https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8",
       "logo": "https://i.imgur.com/3zHdkYG.png",
       "tvg_id": "TJKTV2.tr@SD",
-      "satellites": []
-    },
-    {
-      "name": "TR: BEIN SPORTS 1 HD*",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141359",
-      "logo": "https://docdog.top/logo/countries/turkey/beinsports1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "TR: BEIN SPORTS HABER FHD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141370",
-      "logo": "https://docdog.top/logo/countries/turkey/bein-sports-haber-tr.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "TR: HT SPOR HD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141397",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -5669,158 +4253,6 @@
       "satellites": []
     },
     {
-      "name": "UK: Bein Sports 3",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146819",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: HUB SPORTS 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146826",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: Sky Sports Tennis FHD",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146469",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: Super Sport Cricket",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/147071",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: SuperSport Premier League",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/147074",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: TNT Sport 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/147077",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: TNT Sport 4",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/147078",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: TNT SPORTS 5",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146591",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP EIR SPORT 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1685",
-      "logo": "https://docdog.top/logo/countries/uk/eir-sport-1-uk.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP EIR SPORT 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1686",
-      "logo": "https://docdog.top/logo/countries/uk/eir-sport-2-uk.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP LALIGA TV",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1711",
-      "logo": "https://docdog.top/logo/countries/uk/laligatv.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP PREMIERE SPORTS 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1694",
-      "logo": "https://docdog.top/logo/countries/uk/premiersports.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP SKY SPORTS FOOTBALL",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1671",
-      "logo": "https://docdog.top/logo/countries/uk/skysportsfootball.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP SKY SPORTS GOLF",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1669",
-      "logo": "https://docdog.top/logo/countries/uk/skysportsgolf.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP SKY SPORTS MAIN EVENT",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1677",
-      "logo": "https://docdog.top/logo/countries/uk/skysportsmainevent.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP SKY SPORTS MIX",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1670",
-      "logo": "https://docdog.top/logo/countries/uk/skysportsmix.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP TNT SPORT 1",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1687",
-      "logo": "https://docdog.top/logo/countries/uk/btsport1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP TNT SPORT 2",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1688",
-      "logo": "https://docdog.top/logo/countries/uk/btsports2vip.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP TNT SPORT 3",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1689",
-      "logo": "https://docdog.top/logo/countries/uk/btsport3.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Unbeaten (1080p)",
       "group": "Sports",
       "stream": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
@@ -5833,22 +4265,6 @@
       "group": "Sports",
       "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c3b106dac71b00080a26d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
       "logo": "https://i.imgur.com/UAiv612.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: BEIN SPORTS CONNECT",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154702",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: BEIN SPORTS LA LIGA",
-      "group": "Sports",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154705",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
       "tvg_id": "",
       "satellites": []
     },
@@ -6317,14 +4733,6 @@
       "satellites": []
     },
     {
-      "name": "All Time Movies (576p)",
-      "group": "Movies",
-      "stream": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "logo": "https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj",
-      "tvg_id": "AllTimeMovies.in@SD",
-      "satellites": []
-    },
-    {
       "name": "All Weddings WE tv",
       "group": "Movies",
       "stream": "https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8",
@@ -6461,75 +4869,11 @@
       "satellites": []
     },
     {
-      "name": "AR: BEIN DRAMA",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/859",
-      "logo": "https://docdog.top/logo/countries/bein/beindrama.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN MOVIES 1 PREMIERE",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/863",
-      "logo": "https://docdog.top/logo/countries/bein/beinmovies1premiere.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN MOVIES 2 ACTION",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/864",
-      "logo": "https://docdog.top/logo/countries/bein/beinmovies2action.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN MOVIES 3 DRAMA",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/865",
-      "logo": "https://docdog.top/logo/countries/bein/beinmovies3drama.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN MOVIES 4 FAMILY",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/866",
-      "logo": "https://docdog.top/logo/countries/bein/beinmovies4family.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SERIES 1",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/867",
-      "logo": "https://docdog.top/logo/countries/bein/beinseries1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN SERIES 2",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/868",
-      "logo": "https://docdog.top/logo/countries/bein/beinseries2.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Are We There Yet? (1080p)",
       "group": "Movies",
       "stream": "https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8",
       "logo": "https://i.imgur.com/3BJQiHP.png",
       "tvg_id": "AreWeThereYet.us@SD",
-      "satellites": []
-    },
-    {
-      "name": "ARG: AMC",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4721",
-      "logo": "https://docdog.top/logo/countries/argentina/amctv.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -6741,6 +5085,14 @@
       "satellites": []
     },
     {
+      "name": "B4U Movies (576p)",
+      "group": "Movies",
+      "stream": "https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8",
+      "logo": "https://i.imgur.com/M9kMFJl.png",
+      "tvg_id": "B4UMovies.in@India",
+      "satellites": []
+    },
+    {
       "name": "Bab Al Hara (1080p)",
       "group": "Movies",
       "stream": "https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8",
@@ -6882,22 +5234,6 @@
       "stream": "https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8",
       "logo": "https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png",
       "tvg_id": "BeverlyHills90210.us@SD",
-      "satellites": []
-    },
-    {
-      "name": "BG: CINEMA PLUS",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3328",
-      "logo": "https://docdog.top/logo/countries/bulgaria/cinemaplus.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "BG: MOVIE STAR",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3374",
-      "logo": "https://docdog.top/logo/countries/bulgaria/MOVIESTAR.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -7109,6 +5445,14 @@
       "satellites": []
     },
     {
+      "name": "Canal+ Action Europe Czechia",
+      "group": "Movies",
+      "stream": "http://46.149.191.219:9106/play/a01g",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png",
+      "tvg_id": "CanalPlusActionEurope.nl@Czechia",
+      "satellites": []
+    },
+    {
       "name": "Canal Cine Dios",
       "group": "Movies",
       "stream": "https://canal.mediaserver.com.co/live/cinedios.m3u8",
@@ -7170,6 +5514,14 @@
       "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
       "logo": "https://i.imgur.com/ApsK6Eq.png",
       "tvg_id": "",
+      "satellites": []
+    },
+    {
+      "name": "CCTV-6 HD (1080p)",
+      "group": "Movies",
+      "stream": "http://69.30.245.50/live/cctv6.m3u8",
+      "logo": "https://i.imgur.com/rFiaef7.png",
+      "tvg_id": "CCTV6.cn@HD",
       "satellites": []
     },
     {
@@ -7861,14 +6213,6 @@
       "satellites": []
     },
     {
-      "name": "CRO: AMC",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3003",
-      "logo": "https://docdog.top/logo/countries/croatia/amcro.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "CSI: Crime Scene Investigation",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8",
@@ -7941,38 +6285,6 @@
       "satellites": []
     },
     {
-      "name": "CZ: AMC",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2175",
-      "logo": "https://docdog.top/logo/countries/cz/amc.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CZ: CS FILM",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2180",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CZ: Epic Drama",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2252",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CZ: NOVA CINEMA",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2213",
-      "logo": "https://docdog.top/logo/countries/cz/novacinema.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Dallas Cowboys Cheerleaders",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-64e7715c4c5ed800081230e4.m3u8",
@@ -8029,22 +6341,6 @@
       "satellites": []
     },
     {
-      "name": "DE: KABEL EINS CLASSICS",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134802",
-      "logo": "https://docdog.top/logo/countries/germany/new/KABEL_EINS_CLASSICS.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "DE: KINOWELTTV",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134803",
-      "logo": "https://docdog.top/logo/countries/germany/new/KINOWELTTV_HD.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "De Pelicula Latin America (1080p)",
       "group": "Movies",
       "stream": "http://38.19.41.46:8081/DEPELICULA/index.m3u8",
@@ -8066,38 +6362,6 @@
       "stream": "http://138.121.15.230:9002/DEPELICULA/index.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/960px-DPel%C3%ADcula_2021.svg.png",
       "tvg_id": "DePeliculaUS.us@SD",
-      "satellites": []
-    },
-    {
-      "name": "DE: ROMANCE TV",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134806",
-      "logo": "https://docdog.top/logo/countries/germany/new/ROMANCE_TV_HD.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "DE: SKY ATLANTIC",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134809",
-      "logo": "https://docdog.top/logo/countries/germany/new/SKY_ATLANTIC_HD.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "DE: SKY REPLAY",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134818",
-      "logo": "https://docdog.top/logo/countries/germany/new/SKY_REPLAY.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "DE: Sky Select 1",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/148911",
-      "logo": "https://docdog.top/logo/countries/germany/Sky_Select.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -8202,22 +6466,6 @@
       "stream": "https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8",
       "logo": "https://i.imgur.com/jkmouY3.png",
       "tvg_id": "DiffrentStrokesArnold.us@Brazil",
-      "satellites": []
-    },
-    {
-      "name": "DK: VIASAT FILM ACTION",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3747",
-      "logo": "https://docdog.top/logo/countries/denmark/viasatfilmaction.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "DK: VIASAT SERIES",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3756",
-      "logo": "https://docdog.top/logo/countries/denmark/vox.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -8469,174 +6717,6 @@
       "satellites": []
     },
     {
-      "name": "ES: AMC",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/732",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/AMC.png",
-      "tvg_id": "AMC",
-      "satellites": []
-    },
-    {
-      "name": "ES: AMC BREAK",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/778",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/AMC_BREAK.png",
-      "tvg_id": "AMC BREAK",
-      "satellites": []
-    },
-    {
-      "name": "ES: AMC CRIME",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/707",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png",
-      "tvg_id": "AMC CRIME",
-      "satellites": []
-    },
-    {
-      "name": "ES: ATRESERIES",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/800",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/Atreseries.png",
-      "tvg_id": "atress.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: AXN MOVIES",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/736",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png",
-      "tvg_id": "set.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: BE MAD",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/737",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/BE_MAD.png",
-      "tvg_id": "bemad.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: CALLE 13",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/740",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/Calle_13.png",
-      "tvg_id": "cl13.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: DARK",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/782",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/DARK.png",
-      "tvg_id": "DARKSPA",
-      "satellites": []
-    },
-    {
-      "name": "ES: HOLLYWOOD",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/665",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/Hollywood.png",
-      "tvg_id": "HOLLYWOOD",
-      "satellites": []
-    },
-    {
-      "name": "ES: M+ ACCIÓN",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/656",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/M_Accion.png",
-      "tvg_id": "cpacci.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: M+ CINE ESPAÑOL",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/658",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png",
-      "tvg_id": "dcesp.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: M+ CLÁSICOS",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/659",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png",
-      "tvg_id": "mclas.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: M+ COMEDIA",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/657",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/M_Comedia.png",
-      "tvg_id": "cpcome.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: M+ DRAMA",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/660",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/M_Drama.png",
-      "tvg_id": "cpcole.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: M+ ESTRENOS",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/87110",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png",
-      "tvg_id": "mv1.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: M+ HITS",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/663",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/M_HITS.png",
-      "tvg_id": "mhits.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: M+ ORIGINALES",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/87107",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/M_Originales.png",
-      "tvg_id": "morig.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: SOMOS",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/667",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/Somos.png",
-      "tvg_id": "SOMO",
-      "satellites": []
-    },
-    {
-      "name": "ES: TCM",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/669",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/TCM.png",
-      "tvg_id": "tcm.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: WARNER TV",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/668",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/Warner_TV.png",
-      "tvg_id": "tnt.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: XTRM",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/767",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/XTRM.png",
-      "tvg_id": "EXTTEUV",
-      "satellites": []
-    },
-    {
       "name": "ETV Cinema (396p)",
       "group": "Movies",
       "stream": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
@@ -8714,6 +6794,14 @@
       "stream": "https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8",
       "logo": "https://images.pluto.tv/channels/65775af3b3801200084a3aa4/colorLogoPNG.png",
       "tvg_id": "FeelGoodDrama.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "Film+",
+      "group": "Movies",
+      "stream": "http://141.94.193.53:80/Film+_HD/index.m3u8",
+      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
+      "tvg_id": "Film+.hu",
       "satellites": []
     },
     {
@@ -8869,6 +6957,14 @@
       "satellites": []
     },
     {
+      "name": "FILMBOX+ One Nederland",
+      "group": "Movies",
+      "stream": "http://46.149.191.219:9100/play/a015",
+      "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+      "tvg_id": "FILMBOXPlusOne.pl@Nederland",
+      "satellites": []
+    },
+    {
       "name": "FILMBOX+ One Ukraine & Baltics (450p)",
       "group": "Movies",
       "stream": "https://s70378.cdn.ngenix.net/filmbox/index.m3u8",
@@ -8946,222 +7042,6 @@
       "stream": "http://stream.mcquack.net/129/index.m3u8",
       "logo": "https://i.imgur.com/O2miSLA.png",
       "tvg_id": "FoxLife.ru@SD",
-      "satellites": []
-    },
-    {
-      "name": "FR: A LA CARTE 2",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/485",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/alacarte2.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: A LA CARTE 3",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/486",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/alacarte3.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: A LA CARTE 8",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/491",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/alacarte8.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: A LA CARTE 9",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/492",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/alacarte9.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: ACTION",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/482",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/ACTION.png",
-      "tvg_id": "Action",
-      "satellites": []
-    },
-    {
-      "name": "FR: CANAL+ CINEMA",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/437",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/CANAL_CINEMA.png",
-      "tvg_id": "CanalPlusCinema.fr",
-      "satellites": []
-    },
-    {
-      "name": "FR: CANAL PLAY 1",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/446",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: CANAL PLAY 10",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/455",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: CANAL PLAY 11",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/456",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: CANAL PLAY 2",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/447",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: CANAL PLAY 3",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/448",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: CANAL PLAY 4",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/449",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: CANAL PLAY 5",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/450",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: CANAL PLAY 7",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/452",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: CANAL PLAY 9",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/454",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: CINE+ CLASSIC",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/464",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/CINE_CLASSIC.png",
-      "tvg_id": "Cine+ Classic",
-      "satellites": []
-    },
-    {
-      "name": "FR: CINE+ EMOTION",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/466",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/CINE_EMOTION.png",
-      "tvg_id": "Cine+ Emotion",
-      "satellites": []
-    },
-    {
-      "name": "FR: CINE+ FAMILY",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/467",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/CINE_FAMILY.png",
-      "tvg_id": "Cine+ Famiz",
-      "satellites": []
-    },
-    {
-      "name": "FR: CINE+ FESTIVAL",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/132320",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/CINE_FESTIVAL.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: CINE+ FRISSON",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/468",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/CINE_FRISSON.png",
-      "tvg_id": "Cinr+ Frisson",
-      "satellites": []
-    },
-    {
-      "name": "FR: NOVELAS TV",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/478",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/NOVELAS_TV.png",
-      "tvg_id": "NOVEL",
-      "satellites": []
-    },
-    {
-      "name": "FR: OCS",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/132340",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/OCS.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: PARAMOUNT CHANNEL",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/481",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/PARAMOUNT_CHANNEL.png",
-      "tvg_id": "Paramount Channel",
-      "satellites": []
-    },
-    {
-      "name": "FR: POLAR+",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/479",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/POLAR.png",
-      "tvg_id": "Polar",
-      "satellites": []
-    },
-    {
-      "name": "FR: TCM CINEMA",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/483",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/TCM_CINEMA.png",
-      "tvg_id": "TCM Cinema",
-      "satellites": []
-    },
-    {
-      "name": "FR: TF1 SERIES AND FILM",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/420",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/TF1_SERIES_AND_FILM.png",
-      "tvg_id": "TF1 SERIES FILMS",
-      "satellites": []
-    },
-    {
-      "name": "FR: WARNER TV",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/477",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/WARNER_TV.png",
-      "tvg_id": "WARN",
       "satellites": []
     },
     {
@@ -9282,30 +7162,6 @@
       "stream": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
       "logo": "https://i.imgur.com/cQN3nWt.png",
       "tvg_id": "GospelMovieTV.br@SD",
-      "satellites": []
-    },
-    {
-      "name": "GR: NOVA CINEMA 1",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157499",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "GR: NOVA CINEMA 3",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157501",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "GR: VILLAGE CINEMA",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157532",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -9645,46 +7501,6 @@
       "satellites": []
     },
     {
-      "name": "HU: AMC",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3757",
-      "logo": "https://docdog.top/logo/countries/hungary/amc.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "HU: FILM 4",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3788",
-      "logo": "https://docdog.top/logo/countries/hungary/film4.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "HU: FILM CAFE",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3789",
-      "logo": "https://docdog.top/logo/countries/hungary/filmcafe.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "HU: FILM MANIA",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3790",
-      "logo": "https://docdog.top/logo/countries/hungary/filmmania.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "HU: FILM NOW",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3791",
-      "logo": "https://docdog.top/logo/countries/hungary/filmnow.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "I Love Lucy",
       "group": "Movies",
       "stream": "https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8",
@@ -9842,70 +7658,6 @@
       "stream": "https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8",
       "logo": "https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png",
       "tvg_id": "InvestigationbyPlutoTV.de@FR",
-      "satellites": []
-    },
-    {
-      "name": "IT: EAGLE ALDO GIOVANNI E GIACOMO CHANNEL",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136120",
-      "logo": "https://docdog.top/logo/countries/italy/eagle_film.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY CINEMA COMEDY FHD",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136285",
-      "logo": "https://docdog.top/logo/countries/italy/sky-cinema-comedy-hz-it.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY CINEMA DRAMA FHD",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136288",
-      "logo": "https://docdog.top/logo/countries/italy/Sky_Cinema_Drama.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY CINEMA DUE HD",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136295",
-      "logo": "https://docdog.top/logo/countries/italy/Sky_Cinema_Due.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY CINEMA FAMILY HD",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136298",
-      "logo": "https://docdog.top/logo/countries/italy/Sky_Cinema_Family.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY CINEMA ROMANCE FHD",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136300",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY CINEMA UNO +24 FHD",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136308",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "IT: SKY PRIMAFILA 10 FHD",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136329",
-      "logo": "https://docdog.top/logo/countries/italy/sky-primafila-it.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -10733,14 +8485,6 @@
       "satellites": []
     },
     {
-      "name": "MEX: AMC",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5107",
-      "logo": "https://docdog.top/logo/countries/mexico/amc.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "MH One Movies (576p)",
       "group": "Movies",
       "stream": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
@@ -11365,14 +9109,6 @@
       "satellites": []
     },
     {
-      "name": "NL: FILM 1 FAMILY",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1317",
-      "logo": "https://docdog.top/logo/countries/netherlands/film1family.png",
-      "tvg_id": "Film1 Family [TV]",
-      "satellites": []
-    },
-    {
       "name": "Nolly Africa (1080p)",
       "group": "Movies",
       "stream": "https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8",
@@ -11650,166 +9386,6 @@
       "stream": "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png",
       "tvg_id": "Pitaara.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "PL: AMC",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/898",
-      "logo": "https://docdog.top/logo/countries/poland/amc.png",
-      "tvg_id": "AMC",
-      "satellites": []
-    },
-    {
-      "name": "PL: AXN",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/900",
-      "logo": "https://docdog.top/logo/countries/poland/axn.png",
-      "tvg_id": "AXN",
-      "satellites": []
-    },
-    {
-      "name": "PL: AXN BLACK",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/901",
-      "logo": "https://docdog.top/logo/countries/poland/axnblack.png",
-      "tvg_id": "AXN Black",
-      "satellites": []
-    },
-    {
-      "name": "PL: AXN SPIN",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/902",
-      "logo": "https://docdog.top/logo/countries/poland/axnspin.png",
-      "tvg_id": "AXN Spin",
-      "satellites": []
-    },
-    {
-      "name": "PL: CANAL+ DOKUMENT",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/912",
-      "logo": "https://docdog.top/logo/countries/poland/discoverychannel.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PL: CANAL+ FILM",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/915",
-      "logo": "https://docdog.top/logo/countries/poland/canalfilm.png",
-      "tvg_id": "Canal+ Film",
-      "satellites": []
-    },
-    {
-      "name": "PL: CANAL+ PREMIUM",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/917",
-      "logo": "https://docdog.top/logo/countries/poland/canalpremier.png",
-      "tvg_id": "Canal+ Premium",
-      "satellites": []
-    },
-    {
-      "name": "PL: CANAL+ SERIALE",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/918",
-      "logo": "https://docdog.top/logo/countries/poland/canalseriale.png",
-      "tvg_id": "Canal+ Seriale",
-      "satellites": []
-    },
-    {
-      "name": "PL: CINEMAX 2",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/923",
-      "logo": "https://docdog.top/logo/countries/poland/cinemax2.png",
-      "tvg_id": "Cinemax 2",
-      "satellites": []
-    },
-    {
-      "name": "PL: COMEDY CENTRAL",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/924",
-      "logo": "https://docdog.top/logo/countries/poland/comedycentral.png",
-      "tvg_id": "Comedy Central",
-      "satellites": []
-    },
-    {
-      "name": "PL: EPIC DRAMA",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/938",
-      "logo": "https://docdog.top/logo/countries/poland/epicdrama.png",
-      "tvg_id": "Epic Drama",
-      "satellites": []
-    },
-    {
-      "name": "PL: FOX",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/951",
-      "logo": "https://docdog.top/logo/countries/poland/fox.png",
-      "tvg_id": "FOX",
-      "satellites": []
-    },
-    {
-      "name": "PL: HBO",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/955",
-      "logo": "https://docdog.top/logo/countries/poland/hbo.png",
-      "tvg_id": "HBO",
-      "satellites": []
-    },
-    {
-      "name": "PL: HBO 2",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/956",
-      "logo": "https://docdog.top/logo/countries/poland/hbo2.png",
-      "tvg_id": "HBO 2",
-      "satellites": []
-    },
-    {
-      "name": "PL: HBO 3",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/957",
-      "logo": "https://docdog.top/logo/countries/poland/hbo3.png",
-      "tvg_id": "HBO 3",
-      "satellites": []
-    },
-    {
-      "name": "PL: NOVELAS+",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/115036",
-      "logo": "https://docdog.top/logo/countries/poland/NOVELAS.png",
-      "tvg_id": "Novelas+",
-      "satellites": []
-    },
-    {
-      "name": "PL: PARAMOUNT NETWORK",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/980",
-      "logo": "https://docdog.top/logo/countries/poland/paramountchannel.png",
-      "tvg_id": "Paramount Channel",
-      "satellites": []
-    },
-    {
-      "name": "PL: POLSAT FILM",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/987",
-      "logo": "https://docdog.top/logo/countries/poland/polsatfilm.png",
-      "tvg_id": "Polsat Film",
-      "satellites": []
-    },
-    {
-      "name": "PL: SCIFI",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1002",
-      "logo": "https://docdog.top/logo/countries/poland/scifiuniversal.png",
-      "tvg_id": "SCI FI",
-      "satellites": []
-    },
-    {
-      "name": "PL: TVP SERIALE",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1036",
-      "logo": "https://docdog.top/logo/countries/poland/tvpseriale.png",
-      "tvg_id": "TVP Seriale",
       "satellites": []
     },
     {
@@ -13573,102 +11149,6 @@
       "satellites": []
     },
     {
-      "name": "PT: AMC",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99534",
-      "logo": "https://docdog.top/logo/countries/portugal/amc.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: AXN",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99510",
-      "logo": "https://docdog.top/logo/countries/portugal/axn.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: AXN MOVIES",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99511",
-      "logo": "https://docdog.top/logo/countries/portugal/axnmovies.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: AXN WHITE",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99512",
-      "logo": "https://docdog.top/logo/countries/portugal/axnwhite.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: CINE MUNDO",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99561",
-      "logo": "https://docdog.top/logo/countries/portugal/cinemundo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: FOX COMEDY",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99521",
-      "logo": "https://docdog.top/logo/countries/portugal/foxcomedy.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: FOX CRIME",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99518",
-      "logo": "https://docdog.top/logo/countries/portugal/foxcrime.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: FOX LIFE",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99519",
-      "logo": "https://docdog.top/logo/countries/portugal/foxlife.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: FOX MOVIES",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99520",
-      "logo": "https://docdog.top/logo/countries/portugal/foxmovies.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: HOLLYWOOD",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99522",
-      "logo": "https://docdog.top/logo/countries/portugal/hollywood.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: TV CINE ACTION",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99513",
-      "logo": "https://docdog.top/logo/countries/portugal/TVCine-ACTION.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: TV CINE EMOTION",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99515",
-      "logo": "https://docdog.top/logo/countries/portugal/TVCine-Emotion.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Public Movies (576p)",
       "group": "Movies",
       "stream": "https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8",
@@ -14058,22 +11538,6 @@
       "stream": "https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8",
       "logo": "https://i.imgur.com/OMQq19N.png",
       "tvg_id": "RuntimeEspanol.us@SD",
-      "satellites": []
-    },
-    {
-      "name": "RUS: BOLLYWOOD",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4186",
-      "logo": "https://docdog.top/logo/countries/russian/bollywood.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "RUS: CINEMA",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4192",
-      "logo": "https://docdog.top/logo/countries/russian/cinema.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -14810,30 +12274,6 @@
       "stream": "https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8",
       "logo": "https://i.imgur.com/Zz9SgY8.png",
       "tvg_id": "Survivor.us@SD",
-      "satellites": []
-    },
-    {
-      "name": "SWE: TV 4 FILM",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2322",
-      "logo": "https://docdog.top/logo/countries/sweden/tv4filmsw.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "SWE: VIASAT FILM PREMIERE",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2332",
-      "logo": "https://docdog.top/logo/countries/sweden/viasatfilmpremiere.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "SWE: VIASAT SERIES",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2337",
-      "logo": "https://docdog.top/logo/countries/sweden/viasatseries.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -15685,30 +13125,6 @@
       "satellites": []
     },
     {
-      "name": "UK: Drama",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146952",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP AMC",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1797",
-      "logo": "https://docdog.top/logo/countries/uk/amc.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP DRAMA",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1809",
-      "logo": "https://docdog.top/logo/countries/uk/drama.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Ultimate Classic Wrestling – Pluto TV",
       "group": "Movies",
       "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/652516fb7971630008a58e74/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
@@ -15754,78 +13170,6 @@
       "stream": "https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8",
       "logo": "https://i.imgur.com/De3khrX.png",
       "tvg_id": "UnsolvedMysteries.us@UK",
-      "satellites": []
-    },
-    {
-      "name": "USA: AMC+",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154642",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: AMC NETWORK",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154637",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: APPLE TV+ SERIES INFO",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154667",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: NETFLIX PREMIERE 3",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156291",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: NETFLIX PREMIERE 6",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156294",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: NETFLIX PREMIERE 7",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156295",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: NETFLIX SERIES 4",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156303",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: NETFLIX SERIES 8",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156307",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: NETFLIX SERIES 9",
-      "group": "Movies",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156308",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -16146,6 +13490,14 @@
       "stream": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745",
       "logo": "https://i.imgur.com/sz55sBl.png",
       "tvg_id": "WuTangCollection.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "&xplor HD (1080p)",
+      "group": "Movies",
+      "stream": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
+      "tvg_id": "AndxplorHD.in@HD",
       "satellites": []
     },
     {
@@ -16645,30 +13997,6 @@
       "satellites": []
     },
     {
-      "name": "BG: BG MUSIC",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3309",
-      "logo": "https://docdog.top/logo/countries/bulgaria/BGMUSIC.jpg",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "BG: MTV",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3375",
-      "logo": "https://docdog.top/logo/countries/bulgaria/mtv.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "BG: RETRO MUSIC",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3383",
-      "logo": "https://docdog.top/logo/countries/bulgaria/retromusic.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Bibel TV Musik (720p)",
       "group": "Music",
       "stream": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8",
@@ -17109,14 +14437,6 @@
       "satellites": []
     },
     {
-      "name": "Deluxe Dance (1080p)",
-      "group": "Music",
-      "stream": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
-      "logo": "https://i.imgur.com/Qu7t15Y.png",
-      "tvg_id": "DeluxeDance.de@SD",
-      "satellites": []
-    },
-    {
       "name": "Deluxe Lounge (720p)",
       "group": "Music",
       "stream": "https://jmp2.uk/stvp-CHAJ0500413A",
@@ -17221,14 +14541,6 @@
       "satellites": []
     },
     {
-      "name": "Ellinikos FM (720p)",
-      "group": "Music",
-      "stream": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
-      "logo": "https://i.ibb.co/y0ydCNB/unnamed-4.png",
-      "tvg_id": "EllinikosFM.gr@SD",
-      "satellites": []
-    },
-    {
       "name": "EMI TV",
       "group": "Music",
       "stream": "https://astra.emitv.ro/hls/emi/index.m3u8",
@@ -17258,14 +14570,6 @@
       "stream": "https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png",
       "tvg_id": "EpicMusic.in@Digital",
-      "satellites": []
-    },
-    {
-      "name": "ES: MTV",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/719",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/MTV.png",
-      "tvg_id": "MTV ESPAÑA",
       "satellites": []
     },
     {
@@ -17477,6 +14781,14 @@
       "satellites": []
     },
     {
+      "name": "Galactica TV",
+      "group": "Music",
+      "stream": "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8",
+      "logo": "https://i.imgur.com/byL1zCV.jpeg",
+      "tvg_id": "GalacticaTV.pe@SD",
+      "satellites": []
+    },
+    {
       "name": "Genial TV (720p)",
       "group": "Music",
       "stream": "https://v1.tustreaming.cl/genialtv/index.m3u8",
@@ -17498,6 +14810,14 @@
       "stream": "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8",
       "logo": "https://i.imgur.com/LwEHfjD.png",
       "tvg_id": "GigantFM.nl@SD",
+      "satellites": []
+    },
+    {
+      "name": "GO TV (720p)",
+      "group": "Music",
+      "stream": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+      "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
+      "tvg_id": "GOTV.py@SD",
       "satellites": []
     },
     {
@@ -17562,6 +14882,14 @@
       "stream": "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8",
       "logo": "https://i.imgur.com/gwPaw3v.png",
       "tvg_id": "HMIPROMZNEWS.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "HMTV (Nigeria) (720p)",
+      "group": "Music",
+      "stream": "https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f409951e98/manifest/video.m3u8",
+      "logo": "https://watchhmtv.com/hmtv_logo.svg",
+      "tvg_id": "HMTV.ng@SD",
       "satellites": []
     },
     {
@@ -17685,14 +15013,6 @@
       "satellites": []
     },
     {
-      "name": "IT: MTV FHD",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136234",
-      "logo": "https://docdog.top/logo/countries/italy/mtv-it.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Ivoire Channel (720p)",
       "group": "Music",
       "stream": "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8",
@@ -17746,14 +15066,6 @@
       "stream": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
       "logo": "https://i.imgur.com/XWXFoJA.png",
       "tvg_id": "KalikaTV.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "KandelaTV (480p)",
-      "group": "Music",
-      "stream": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
-      "logo": "https://i.imgur.com/cCFxyIp.jpg",
-      "tvg_id": "KandelaTV.ve@SD",
       "satellites": []
     },
     {
@@ -17930,6 +15242,14 @@
       "stream": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8",
       "logo": "https://www.lamorerockshowwebtv.com.br/wp-content/uploads/2024/11/logo_rockshow.avif",
       "tvg_id": "LamoreRockShowWebTV.br@SD",
+      "satellites": []
+    },
+    {
+      "name": "LaPuraCrema Television",
+      "group": "Music",
+      "stream": "https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8",
+      "logo": "https://i.imgur.com/EJf1eRt.png",
+      "tvg_id": "LaPuraCremaTelevision.ve@SD",
       "satellites": []
     },
     {
@@ -18117,6 +15437,14 @@
       "satellites": []
     },
     {
+      "name": "Maimon TV Canal 3 (720p)",
+      "group": "Music",
+      "stream": "https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8",
+      "logo": "https://i.imgur.com/twldaaC.png",
+      "tvg_id": "MaimonTVCanal3.do@SD",
+      "satellites": []
+    },
+    {
       "name": "Majid Al Mohandis (1080p)",
       "group": "Music",
       "stream": "https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8",
@@ -18242,22 +15570,6 @@
       "stream": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
       "logo": "https://i.imgur.com/0B04qgM.png",
       "tvg_id": "MetropolitanadelCuzco.pe@SD",
-      "satellites": []
-    },
-    {
-      "name": "MEX: MTV HITS",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5185",
-      "logo": "https://docdog.top/logo/countries/mexico/mtvhits.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "MEX: MTV LIVE",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5186",
-      "logo": "https://docdog.top/logo/countries/mexico/mtvlive.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -18493,14 +15805,6 @@
       "satellites": []
     },
     {
-      "name": "MTV Classic BR (720p)",
-      "group": "Music",
-      "stream": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8",
-      "logo": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
-      "tvg_id": "MTVClassic.us@BR",
-      "satellites": []
-    },
-    {
       "name": "MTV Classic CA (720p)",
       "group": "Music",
       "stream": "https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8",
@@ -18642,14 +15946,6 @@
       "stream": "http://dvr2.kablova.tv/MTV/index.m3u8",
       "logo": "https://i.imgur.com/n2BoU7Q.png",
       "tvg_id": "MTVGlobal.uk@SD",
-      "satellites": []
-    },
-    {
-      "name": "MTV Guyana (1080p)",
-      "group": "Music",
-      "stream": "https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8",
-      "logo": "https://i.imgur.com/Ky70brA.png",
-      "tvg_id": "MTVGuyana.gy@SD",
       "satellites": []
     },
     {
@@ -18826,14 +16122,6 @@
       "stream": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8",
       "logo": "https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png",
       "tvg_id": "MTVRocks.us@BR",
-      "satellites": []
-    },
-    {
-      "name": "MTV Rocks LatAm",
-      "group": "Music",
-      "stream": "https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8",
-      "logo": "https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png",
-      "tvg_id": "MTVRocks.us@LatAm",
       "satellites": []
     },
     {
@@ -19114,14 +16402,6 @@
       "stream": "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8",
       "logo": "https://aloula.faulio.com/storage/mediagallery/0f/c5/fullhd_5da380cdfc304fd7d4672a83aeb6c62bc1d3d3e8.png",
       "tvg_id": "NidaeAlIslamRadio.sa@SD",
-      "satellites": []
-    },
-    {
-      "name": "NL: NICK MUSIC",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1380",
-      "logo": "https://docdog.top/logo/countries/netherlands/nickmusic.png",
-      "tvg_id": "Nick Music",
       "satellites": []
     },
     {
@@ -19442,22 +16722,6 @@
       "stream": "https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8",
       "logo": "https://i.imgur.com/UaQC0l8.jpeg",
       "tvg_id": "PindinTV.pa@SD",
-      "satellites": []
-    },
-    {
-      "name": "PL: MTV POLSKA",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/971",
-      "logo": "https://docdog.top/logo/countries/poland/mtvpolska.png",
-      "tvg_id": "MTV Polska",
-      "satellites": []
-    },
-    {
-      "name": "PL: POLSAT MUSIC",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/993",
-      "logo": "https://docdog.top/logo/countries/poland/polsatmusic.png",
-      "tvg_id": "Polsat Music",
       "satellites": []
     },
     {
@@ -20157,14 +17421,6 @@
       "satellites": []
     },
     {
-      "name": "RO: MTV 00",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3292",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Rock & Pop (1080p)",
       "group": "Music",
       "stream": "http://190.128.214.97:64333/play/a032/index.m3u8",
@@ -20773,14 +18029,6 @@
       "satellites": []
     },
     {
-      "name": "SWE: MTV",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2300",
-      "logo": "https://docdog.top/logo/countries/sweden/mtv.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "T2 TV",
       "group": "Music",
       "stream": "https://t2hls.wns.live/hls/stream.m3u8",
@@ -21034,14 +18282,6 @@
       "stream": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8",
       "logo": "https://static.elektamedia.com/ch/tmc_dance.png",
       "tvg_id": "TotalmusicDance.uk@HD",
-      "satellites": []
-    },
-    {
-      "name": "TR: POWERTURK TV HD",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141159",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -21357,46 +18597,6 @@
       "satellites": []
     },
     {
-      "name": "UK: VIP B4U MUSIC",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1916",
-      "logo": "https://docdog.top/logo/countries/uk/b4umusic.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP MTV HITS",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1924",
-      "logo": "https://docdog.top/logo/countries/uk/mtvhits.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP MTV LIVE",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1743",
-      "logo": "https://docdog.top/logo/countries/uk/mtvlive.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP MTV MUSIC",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1925",
-      "logo": "https://docdog.top/logo/countries/uk/mtvmusic.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP VH1",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1742",
-      "logo": "https://docdog.top/logo/countries/uk/vh1.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Ultimate TV (1080p)",
       "group": "Music",
       "stream": "https://stream.ottlive.co.in/utvtamil/index.m3u8",
@@ -21410,70 +18610,6 @@
       "stream": "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8",
       "logo": "https://i.imgur.com/KVVU9PI.png",
       "tvg_id": "UrbanoTV.cr@SD",
-      "satellites": []
-    },
-    {
-      "name": "USA: MTV LIVE",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155817",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: MTV PLUTO TV HD [Sᴛᴠ+]",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155818",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: MTV ROCKS",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155819",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: MTV (WEST)",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155809",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: MUSIC CHOICE MAX",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155833",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: MUSIC CHOICE POP & COUNTRY",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155836",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: MUSIC CHOICE SMOOTH JAZZ",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155843",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: MUSIC CHOICE TODAYS COUNTRY",
-      "group": "Music",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/155846",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -23709,14 +20845,6 @@
       "satellites": []
     },
     {
-      "name": "BE: EURONEWS",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/158415",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "BEK News (720p)",
       "group": "News",
       "stream": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8",
@@ -23946,14 +21074,6 @@
       "stream": "https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png",
       "tvg_id": "BTV.id@SD",
-      "satellites": []
-    },
-    {
-      "name": "BTV News (720p)",
-      "group": "News",
-      "stream": "https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8",
-      "logo": "https://i.imgur.com/sUHiRj3.png",
-      "tvg_id": "BTVNews.kh@SD",
       "satellites": []
     },
     {
@@ -24757,6 +21877,14 @@
       "satellites": []
     },
     {
+      "name": "Crimea 24",
+      "group": "News",
+      "stream": "https://cdn.1tvcrimea.ru/24tvcrimea.m3u8",
+      "logo": "https://i.imgur.com/k4C0uvp.png",
+      "tvg_id": "Crimea24.ru@SD",
+      "satellites": []
+    },
+    {
       "name": "CRTV News",
       "group": "News",
       "stream": "https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8",
@@ -25165,22 +22293,6 @@
       "satellites": []
     },
     {
-      "name": "ES: 24 HORAS",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/730",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/24_Horas.png",
-      "tvg_id": "24h.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: EL TORO TV",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/783",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png",
-      "tvg_id": "inteco.movistarplus.es",
-      "satellites": []
-    },
-    {
       "name": "Espace TV (1080p)",
       "group": "News",
       "stream": "https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8",
@@ -25202,6 +22314,14 @@
       "stream": "https://estrella-news-oando.amagi.tv/playlist.m3u8",
       "logo": "https://i.imgur.com/HRrkhLq.png",
       "tvg_id": "EstrellaNews.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "Etna Espresso Channel (720p)",
+      "group": "News",
+      "stream": "https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8",
+      "logo": "https://i.imgur.com/lSI5QgV.png",
+      "tvg_id": "EtnaEspressoChannel.it@SD",
       "satellites": []
     },
     {
@@ -25429,11 +22549,11 @@
       "satellites": []
     },
     {
-      "name": "EXYU: BBC EARTH",
+      "name": "Falestinona Channel",
       "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144289",
-      "logo": "https://docdog.top/logo/countries/EXYUNEW/BBC_EARTH.png",
-      "tvg_id": "",
+      "stream": "https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8",
+      "logo": "https://i.imgur.com/Z3QeQHk.png",
+      "tvg_id": "FalestinonaChannel.lb",
       "satellites": []
     },
     {
@@ -25514,30 +22634,6 @@
       "stream": "https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8",
       "logo": "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png",
       "tvg_id": "FoxNewsRadio.us@SD",
-      "satellites": []
-    },
-    {
-      "name": "FR: AL JAZEERA ARABIC",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/132313",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/AL_JAZEERA_ARABIC.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "FR: C NEWS",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/573",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/C_NEWS.png",
-      "tvg_id": "CNEWS",
-      "satellites": []
-    },
-    {
-      "name": "FR: FRANCE 24",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/579",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/FRANCE_24.png",
-      "tvg_id": "France 24",
       "satellites": []
     },
     {
@@ -25690,14 +22786,6 @@
       "stream": "https://video.govoritmoskva.ru/rufm/index.m3u8",
       "logo": "https://i.imgur.com/z2mxf3E.png",
       "tvg_id": "GovoritMoskva.ru@SD",
-      "satellites": []
-    },
-    {
-      "name": "GR: ERT NEWS",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157562",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -25933,14 +23021,6 @@
       "satellites": []
     },
     {
-      "name": "HU: BBC EARTH",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3764",
-      "logo": "https://docdog.top/logo/countries/hungary/bbcearth.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Hunan News Channel",
       "group": "News",
       "stream": "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8",
@@ -26106,14 +23186,6 @@
       "stream": "https://iranefardalive.com/stream/live.m3u8",
       "logo": "https://i.imgur.com/ixgcgZY.png",
       "tvg_id": "IraneFardaTV.uk@SD",
-      "satellites": []
-    },
-    {
-      "name": "IT: RAI NEWS 24 FHD",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136249",
-      "logo": "https://docdog.top/logo/countries/italy/rai-news-24-it.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -26493,14 +23565,6 @@
       "satellites": []
     },
     {
-      "name": "Linieros TV (480p)",
-      "group": "News",
-      "stream": "https://soportedvb.click:3017/live/linierostvlive.m3u8",
-      "logo": "https://i.imgur.com/bLutjkf.png",
-      "tvg_id": "LinierosTV.do@SD",
-      "satellites": []
-    },
-    {
       "name": "Lira TV",
       "group": "News",
       "stream": "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8",
@@ -26562,14 +23626,6 @@
       "stream": "https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/M_Nadu.png",
       "tvg_id": "MNaduTV.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "M-Net Info",
-      "group": "News",
-      "stream": "https://live.mnet.mk/hls/mnet-info.m3u8",
-      "logo": "https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg",
-      "tvg_id": "MNetInfo.mk@SD",
       "satellites": []
     },
     {
@@ -26650,6 +23706,14 @@
       "stream": "https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8",
       "logo": "https://i.imgur.com/diQftzP.png",
       "tvg_id": "MathrubhumiNews.in@SD",
+      "satellites": []
+    },
+    {
+      "name": "Maya TV",
+      "group": "News",
+      "stream": "https://media.streambrothers.com:19360/8036/8036.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/960px-Maya_TV_logo.png",
+      "tvg_id": "MayaTV.hn@SD",
       "satellites": []
     },
     {
@@ -26858,14 +23922,6 @@
       "stream": "https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8",
       "logo": "https://i.imgur.com/3l25EZI.png",
       "tvg_id": "MoonTV.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "MRTV News",
-      "group": "News",
-      "stream": "https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8",
-      "logo": "https://i.imgur.com/5eK8Bc4.png",
-      "tvg_id": "MRTVNews.mm@SD",
       "satellites": []
     },
     {
@@ -27277,14 +24333,6 @@
       "satellites": []
     },
     {
-      "name": "News12 Brooklyn",
-      "group": "News",
-      "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https",
-      "logo": "https://i.imgur.com/fvcOzzK.png",
-      "tvg_id": "News12Brooklyn.us@SD",
-      "satellites": []
-    },
-    {
       "name": "News12+ Connecticut (1080p)",
       "group": "News",
       "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8",
@@ -27301,19 +24349,19 @@
       "satellites": []
     },
     {
-      "name": "News12+ Hudson Valley (1080p)",
+      "name": "News12 Hudson Valley",
       "group": "News",
-      "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8",
-      "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
-      "tvg_id": "News12PlusHudsonValley.us@HD",
+      "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+      "tvg_id": "News12HudsonValley.us@SD",
       "satellites": []
     },
     {
-      "name": "News12+ Long Island (1080p)",
+      "name": "News12 Long Island (1080p)",
       "group": "News",
-      "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8",
-      "logo": "https://i.ibb.co/p6FPNcCk/news12plus-LI.jpg",
-      "tvg_id": "News12PlusLongIsland.us@HD",
+      "stream": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+      "tvg_id": "News12LongIsland.us@SD",
       "satellites": []
     },
     {
@@ -27570,30 +24618,6 @@
       "stream": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "logo": "https://www.nktvbangla.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-2.59.18-PM.jpg",
       "tvg_id": "NKTVBangla.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "NL: BBC ONE",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/135625",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "NO: BBC BIRT",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3630",
-      "logo": "https://docdog.top/logo/countries/norway/bbcbrit.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "NO: BBC EARTH",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3631",
-      "logo": "https://docdog.top/logo/countries/norway/bbcearth.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -27893,54 +24917,6 @@
       "satellites": []
     },
     {
-      "name": "PL: BBC BRIT",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/905",
-      "logo": "https://docdog.top/logo/countries/poland/bbcbrit.png",
-      "tvg_id": "BBC Brit",
-      "satellites": []
-    },
-    {
-      "name": "PL: BBC EARTH",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/907",
-      "logo": "https://docdog.top/logo/countries/poland/BBC_EARTH.png",
-      "tvg_id": "BBC Earth",
-      "satellites": []
-    },
-    {
-      "name": "PL: BBC FIRST",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/908",
-      "logo": "https://docdog.top/logo/countries/poland/bbcfirst.png",
-      "tvg_id": "BBC First",
-      "satellites": []
-    },
-    {
-      "name": "PL: BBC LIFESTYLE",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/909",
-      "logo": "https://docdog.top/logo/countries/poland/bbclifestyle.png",
-      "tvg_id": "BBC Lifestyle",
-      "satellites": []
-    },
-    {
-      "name": "PL: POLSAT NEWS",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/990",
-      "logo": "https://docdog.top/logo/countries/poland/polsatnews.png",
-      "tvg_id": "Polsat News",
-      "satellites": []
-    },
-    {
-      "name": "PL: POLSAT NEWS 2",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/991",
-      "logo": "https://docdog.top/logo/countries/poland/polsat_news_2.png",
-      "tvg_id": "POLSAT NEWS 2",
-      "satellites": []
-    },
-    {
       "name": "Plena TV (720p)",
       "group": "News",
       "stream": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
@@ -27986,6 +24962,14 @@
       "stream": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/960px-Polsat_News_Polityka_2024_gradient.svg.png",
       "tvg_id": "PolsatNewsPolityka.pl@SD",
+      "satellites": []
+    },
+    {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "group": "News",
+      "stream": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pradesh24_Gujarati.png",
+      "tvg_id": "Pradesh24Gujarati.in@SD",
       "satellites": []
     },
     {
@@ -28093,14 +25077,6 @@
       "satellites": []
     },
     {
-      "name": "PT: CNN PORTUGAL",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99564",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "PTC News (576p)",
       "group": "News",
       "stream": "https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8",
@@ -28194,14 +25170,6 @@
       "stream": "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8",
       "logo": "https://i.imgur.com/xum8PNe.jpg",
       "tvg_id": "RadioAncon.pa@SD",
-      "satellites": []
-    },
-    {
-      "name": "Radio Uno Tacna (720p)",
-      "group": "News",
-      "stream": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
-      "logo": "https://i.imgur.com/PswowQP.png",
-      "tvg_id": "RadioUnoTacna.pe@SD",
       "satellites": []
     },
     {
@@ -28362,14 +25330,6 @@
       "stream": "https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8",
       "logo": "https://i.imgur.com/12Z9qPw.png",
       "tvg_id": "RNN.do@DOS",
-      "satellites": []
-    },
-    {
-      "name": "RO: PRO TV NEWS",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3273",
-      "logo": "https://docdog.top/logo/countries/romania/protvnews.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -28538,14 +25498,6 @@
       "stream": "https://sbnews.nexcdn.online/sbnews/live/index.m3u8",
       "logo": "https://dtil.tmsimg.com/assets/s158864_ld_h15_aa.png?lock=720x540",
       "tvg_id": "SachBedhadak.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "Sadhna News Madhya Pradesh/Chhattisgarh (576p)",
-      "group": "News",
-      "stream": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8",
-      "logo": "https://i.imgur.com/799WMit.png",
-      "tvg_id": "SadhnaNewsMadhyaPradeshChhattisgarh.in@SD",
       "satellites": []
     },
     {
@@ -28741,6 +25693,14 @@
       "satellites": []
     },
     {
+      "name": "Sky News Urdu (720p)",
+      "group": "News",
+      "stream": "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png",
+      "tvg_id": "SkyNewsUrdu.pk@SD",
+      "satellites": []
+    },
+    {
       "name": "Sky News Weather (720p)",
       "group": "News",
       "stream": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8",
@@ -28834,14 +25794,6 @@
       "stream": "https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swatantra_News.png",
       "tvg_id": "SwatantraTV.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "SWE: BBC BRIT",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2272",
-      "logo": "https://docdog.top/logo/countries/sweden/bbcbrit.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -28954,6 +25906,14 @@
       "stream": "https://cnn.hostlagarto.com/televida/playlist.m3u8",
       "logo": "https://i.imgur.com/S8Zdn41.png",
       "tvg_id": "Televida.do@SD",
+      "satellites": []
+    },
+    {
+      "name": "Television del Este (1080p)",
+      "group": "News",
+      "stream": "https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8",
+      "logo": "https://i.imgur.com/mmjbcGr.png",
+      "tvg_id": "TelevisiondelEste.do@SD",
       "satellites": []
     },
     {
@@ -29106,38 +26066,6 @@
       "stream": "https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8",
       "logo": "https://i.imgur.com/UfN6aAi.png",
       "tvg_id": "TopStoriesbyNewsy.us@SD",
-      "satellites": []
-    },
-    {
-      "name": "TR: A HABER FHD",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/140813",
-      "logo": "https://docdog.top/logo/countries/turkey/a-haber-tr.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "TR: A NEWS HD",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/140816",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "TR: BBC EARTH",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/140853",
-      "logo": "https://docdog.top/logo/countries/turkey/bbcearth.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "TR: CNN TURK FHD",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/140894",
-      "logo": "https://docdog.top/logo/countries/turkey/cnn-turk-tr.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -29445,14 +26373,6 @@
       "satellites": []
     },
     {
-      "name": "TVN24 (720p)",
-      "group": "News",
-      "stream": "https://edge.essastream.com/vozzmedia/index.m3u8",
-      "logo": "https://i.imgur.com/bu6bQMa.png",
-      "tvg_id": "TVN24.do@SD",
-      "satellites": []
-    },
-    {
       "name": "TVP Wilno",
       "group": "News",
       "stream": "http://78.62.9.23:55555/TVP%20Wilno%20HD",
@@ -29474,110 +26394,6 @@
       "stream": "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8",
       "logo": "https://i.imgur.com/7oE7ThR.png",
       "tvg_id": "TVRInfo.ro@SD",
-      "satellites": []
-    },
-    {
-      "name": "UK: 92 News",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146925",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: BBC One NI HD",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146932",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: BBC Three",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146934",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: Bloomberg News HD",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146936",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: CNBC News",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146939",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: Sky News HD",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/147013",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP ALJAZEERA NEWS ENGLISH",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1905",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP BBC NEWS",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1864",
-      "logo": "https://docdog.top/logo/countries/uk/bbcnews.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP BBC PARLIAMENT",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1893",
-      "logo": "https://docdog.top/logo/countries/uk/bbcparliament.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP BBC TWO NORTHERN IRELAND",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1868",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP GB NEWS",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1917",
-      "logo": "https://docdog.top/logo/countries/uk/UnitedKingsom.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP RTE NEWS",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1899",
-      "logo": "https://docdog.top/logo/countries/uk/rtenews.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: VIP SKY NEWS",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1885",
-      "logo": "https://docdog.top/logo/countries/uk/skynews.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -29634,22 +26450,6 @@
       "stream": "http://45.122.122.61:8080/UPNOW/video.m3u8",
       "logo": "https://papaji.freetvindia.com/media/channels/Upnow.png",
       "tvg_id": "UPNOW.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "USA: BBC AMERICA",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154693",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "USA: CNBC WORLD",
-      "group": "News",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/154945",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -29730,14 +26530,6 @@
       "stream": "https://live.visir.is/hls-live/visir.smil/playlist.m3u8",
       "logo": "https://i.imgur.com/07Vlt6i.jpg",
       "tvg_id": "Visir.is@SD",
-      "satellites": []
-    },
-    {
-      "name": "Vistaar News (1080p)",
-      "group": "News",
-      "stream": "https://stream.ottlive.co.in/vistaartv/index.m3u8",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISTAAR_NEWS/images/LOGO_HD/image.png",
-      "tvg_id": "VistaarNews.in@SD",
       "satellites": []
     },
     {
@@ -30213,30 +27005,6 @@
       "satellites": []
     },
     {
-      "name": "AR: BEIN BARAEM",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/858",
-      "logo": "https://docdog.top/logo/countries/bein/beinbaraem.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "AR: BEIN JUNIOR",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/862",
-      "logo": "https://docdog.top/logo/countries/bein/beinjunior.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "ARG: BOOMERANG",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4727",
-      "logo": "https://docdog.top/logo/countries/argentina/boomeranglow.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Atfal & Mawaheb TV (1080p)",
       "group": "Kids",
       "stream": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
@@ -30285,14 +27053,6 @@
       "satellites": []
     },
     {
-      "name": "Balapan International (1080p)",
-      "group": "Kids",
-      "stream": "https://live-3.otcnet.ru/Balapan/index.m3u8",
-      "logo": "https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png",
-      "tvg_id": "BalapanInternational.kz@SD",
-      "satellites": []
-    },
-    {
       "name": "BBC Four/CBeebies (720p)",
       "group": "Kids",
       "stream": "http://193.46.58.239:8080/CbeebiesHD/index.m3u8",
@@ -30314,38 +27074,6 @@
       "stream": "https://stream.paroledivita.org/bejoy.m3u8",
       "logo": "https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png",
       "tvg_id": "BeJoykids.it@HD",
-      "satellites": []
-    },
-    {
-      "name": "BG: BABY TV",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3306",
-      "logo": "https://docdog.top/logo/countries/bulgaria/babytv.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "BG: CARTOON NETWORK",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3326",
-      "logo": "https://docdog.top/logo/countries/bulgaria/cartoonnetwork.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "BG: NICK JR",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3378",
-      "logo": "https://docdog.top/logo/countries/bulgaria/nickjr.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "BG: NICKELODEON",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3379",
-      "logo": "https://docdog.top/logo/countries/bulgaria/nickelodeon.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -30394,14 +27122,6 @@
       "stream": "https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8",
       "logo": "https://i.imgur.com/rabKj9i.png",
       "tvg_id": "Boing.it@SD",
-      "satellites": []
-    },
-    {
-      "name": "Boing (Spain)",
-      "group": "Kids",
-      "stream": "http://digisat.ddns.net:4022/udp/239.0.5.177:8208",
-      "logo": "https://i.imgur.com/nUYuCAP.png",
-      "tvg_id": "Boing.es@SD",
       "satellites": []
     },
     {
@@ -30741,38 +27461,6 @@
       "satellites": []
     },
     {
-      "name": "CZ: BOOMERANG",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2178",
-      "logo": "https://docdog.top/logo/countries/cz/boomerang.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CZ: DISNEY CHANNEL",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2185",
-      "logo": "https://docdog.top/logo/countries/cz/disneychannel.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CZ: DUCK TV",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2186",
-      "logo": "https://docdog.top/logo/countries/cz/ducktv.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "DE: DISNEY CHANNEL",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/147089",
-      "logo": "https://docdog.top/logo/countries/germany/new/DISNEY_CHANNEL_HD.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "DeParinti.ro (576p)",
       "group": "Kids",
       "stream": "https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8",
@@ -30997,22 +27685,6 @@
       "satellites": []
     },
     {
-      "name": "DK: NICK JR",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3721",
-      "logo": "https://docdog.top/logo/countries/denmark/nickjr.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "DK: NICKELODEON",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3722",
-      "logo": "https://docdog.top/logo/countries/denmark/nickelodeon.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Dora TV",
       "group": "Kids",
       "stream": "https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8",
@@ -31149,30 +27821,6 @@
       "satellites": []
     },
     {
-      "name": "ES: BABY TV",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/636",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/Baby_TV.png",
-      "tvg_id": "baby.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: DISNEY JUNIOR",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/641",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png",
-      "tvg_id": "DISNEY JR",
-      "satellites": []
-    },
-    {
-      "name": "ES: NICKELODEON",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/645",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png",
-      "tvg_id": "nick.movistarplus.es",
-      "satellites": []
-    },
-    {
       "name": "eSports Max TV",
       "group": "Kids",
       "stream": "https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8",
@@ -31226,30 +27874,6 @@
       "stream": "https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8",
       "logo": "https://i.imgur.com/deeQqYZ.png",
       "tvg_id": "ForeverKids.us@SD",
-      "satellites": []
-    },
-    {
-      "name": "FR: BOOMERANG",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/537",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/BOOMERANG.png",
-      "tvg_id": "Boomerang",
-      "satellites": []
-    },
-    {
-      "name": "FR: DISNEY JUNIOR",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/543",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/DISNEY_JUNIOR.png",
-      "tvg_id": "Disney Junior",
-      "satellites": []
-    },
-    {
-      "name": "FR: NICKELODEON",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/550",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/NICKELODEON.png",
-      "tvg_id": "Nickelodeon",
       "satellites": []
     },
     {
@@ -31437,38 +28061,6 @@
       "satellites": []
     },
     {
-      "name": "HU: BOOMERANG",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3766",
-      "logo": "https://docdog.top/logo/countries/hungary/boomerang.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "HU: CARTOON NETWORK HU",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3767",
-      "logo": "https://docdog.top/logo/countries/hungary/cartoonnetwork.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "HU: DISNEY CHANNEL",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3778",
-      "logo": "https://docdog.top/logo/countries/hungary/disneychannel.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "HU: NICKELODEON",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3817",
-      "logo": "https://docdog.top/logo/countries/hungary/nickelodeon.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "iCarly (Sweden)",
       "group": "Kids",
       "stream": "https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8",
@@ -31490,14 +28082,6 @@
       "stream": "https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8",
       "logo": "https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png",
       "tvg_id": "iCarly.se@NO",
-      "satellites": []
-    },
-    {
-      "name": "IT: CARTOON NETWORK HD",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/135882",
-      "logo": "https://docdog.top/logo/countries/italy/cartoon-network-it.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -31573,14 +28157,6 @@
       "satellites": []
     },
     {
-      "name": "Kids TV",
-      "group": "Kids",
-      "stream": "http://origin5.mediacdn.ru/live/kidstv/index.m3u8",
-      "logo": "https://i.imgur.com/B5YiUIP.png",
-      "tvg_id": "KidsTV.id@SD",
-      "satellites": []
-    },
-    {
       "name": "KiKA (1080p)",
       "group": "Kids",
       "stream": "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
@@ -31610,22 +28186,6 @@
       "stream": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
       "logo": "https://i.imgur.com/SRX6EPY.png",
       "tvg_id": "KuriakosKids.pt@SD",
-      "satellites": []
-    },
-    {
-      "name": "LA: DISNEY JR",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5080",
-      "logo": "https://docdog.top/logo/countries/latino/disneyjr.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "LA: DISNEY XD",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5079",
-      "logo": "https://docdog.top/logo/countries/latino/disneyxd.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -32189,54 +28749,6 @@
       "satellites": []
     },
     {
-      "name": "NL: BOOMERANG",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1293",
-      "logo": "https://docdog.top/logo/countries/netherlands/boomerang.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "NL: CARTOON NETWORK",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1381",
-      "logo": "https://docdog.top/logo/countries/netherlands/cartoonnetwork.png",
-      "tvg_id": "Cartoon Network [TV]",
-      "satellites": []
-    },
-    {
-      "name": "NL: NICK JR",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1333",
-      "logo": "https://docdog.top/logo/countries/netherlands/nickjr.png",
-      "tvg_id": "Nick Jr. [TV]",
-      "satellites": []
-    },
-    {
-      "name": "NL: VERONICA / DISNEY XD",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/56466",
-      "logo": "https://docdog.top/logo/countries/netherlands/veronica.png",
-      "tvg_id": "Veronica / DisneyXD [TV]",
-      "satellites": []
-    },
-    {
-      "name": "NO: CARTOON NETWORK",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3632",
-      "logo": "https://docdog.top/logo/countries/norway/cartoonnetwork.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "NO: DISNEY CHANNEL",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3633",
-      "logo": "https://docdog.top/logo/countries/norway/disneychannel.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "NRK Super (1080i)",
       "group": "Kids",
       "stream": "https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8",
@@ -32410,54 +28922,6 @@
       "stream": "http://stream.mcquack.net/323/index.m3u8",
       "logo": "https://i.imgur.com/ECro8Ah.png",
       "tvg_id": "PixelTV.ua@SD",
-      "satellites": []
-    },
-    {
-      "name": "PL: BABY TV",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/904",
-      "logo": "https://docdog.top/logo/countries/poland/babytv.png",
-      "tvg_id": "Baby TV",
-      "satellites": []
-    },
-    {
-      "name": "PL: CARTOON NETWORK",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1043",
-      "logo": "https://docdog.top/logo/countries/poland/cartoonnetwork.png",
-      "tvg_id": "Cartoon Network",
-      "satellites": []
-    },
-    {
-      "name": "PL: DISNEY CHANNEL",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/934",
-      "logo": "https://docdog.top/logo/countries/poland/disneychannel.png",
-      "tvg_id": "Disney Channel",
-      "satellites": []
-    },
-    {
-      "name": "PL: DISNEY JUNIOR",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/935",
-      "logo": "https://docdog.top/logo/countries/poland/disneyjr.png",
-      "tvg_id": "Disney Junior",
-      "satellites": []
-    },
-    {
-      "name": "PL: DISNEY XD",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/936",
-      "logo": "https://docdog.top/logo/countries/poland/disneyxd.png",
-      "tvg_id": "Disney XD",
-      "satellites": []
-    },
-    {
-      "name": "PL: NICK JR",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/975",
-      "logo": "https://docdog.top/logo/countries/poland/nickjr.png",
-      "tvg_id": "Nick Jr.",
       "satellites": []
     },
     {
@@ -32805,22 +29269,6 @@
       "satellites": []
     },
     {
-      "name": "PT: CARTOON NETWORK",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99544",
-      "logo": "https://docdog.top/logo/countries/portugal/cartoonnetwork.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PT: NICKELODEON",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/99550",
-      "logo": "https://docdog.top/logo/countries/portugal/nickelodeon.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "QTV-6",
       "group": "Kids",
       "stream": "http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8",
@@ -32850,14 +29298,6 @@
       "stream": "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
       "logo": "https://i.imgur.com/4wMZ8Em.png",
       "tvg_id": "RiC.de@SD",
-      "satellites": []
-    },
-    {
-      "name": "RO: DISNEY CHANNEL",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3217",
-      "logo": "https://docdog.top/Logotv/countries/disneychannel.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -33477,30 +29917,6 @@
       "satellites": []
     },
     {
-      "name": "SWE: DISNEY CHANNEL",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2291",
-      "logo": "https://docdog.top/logo/countries/sweden/disneychannel.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "SWE: DISNEY JR",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2292",
-      "logo": "https://docdog.top/logo/countries/sweden/disneyjr.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "SWE: NICK JR",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2303",
-      "logo": "https://docdog.top/logo/countries/sweden/nickjr.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "SX3 (1080p)",
       "group": "Kids",
       "stream": "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
@@ -33845,22 +30261,6 @@
       "satellites": []
     },
     {
-      "name": "TR: BOOMERANG HD",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/140873",
-      "logo": "https://docdog.top/logo/countries/turkey/boomerang.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "TR: TRT COCUK FHD",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/141250",
-      "logo": "https://docdog.top/logo/countries/turkey/trt-cocuk-tr.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "TraLaLa TV",
       "group": "Kids",
       "stream": "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8",
@@ -33941,27 +30341,11 @@
       "satellites": []
     },
     {
-      "name": "UK: DISNEY+",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146742",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Unique TV (576p)",
       "group": "Kids",
       "stream": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
       "tvg_id": "UniqueTV.in@SD",
-      "satellites": []
-    },
-    {
-      "name": "USA: NICK JR",
-      "group": "Kids",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/156376",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -34365,30 +30749,6 @@
       "satellites": []
     },
     {
-      "name": "BG: DISCOVERY SCIENCE",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3340",
-      "logo": "https://docdog.top/logo/countries/bulgaria/discoveryscience.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "BG: NAT GEO",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3376",
-      "logo": "https://docdog.top/logo/countries/bulgaria/natgeo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "BG: NAT GEO WILD",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3377",
-      "logo": "https://docdog.top/logo/countries/bulgaria/natgeowild.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Big Planet (576p)",
       "group": "Documentary",
       "stream": "https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv",
@@ -34410,14 +30770,6 @@
       "stream": "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8",
       "logo": "https://i.ibb.co/rG8pHh9/bonaire-tv-logo-596x150.png",
       "tvg_id": "Bonairetv.bq@SD",
-      "satellites": []
-    },
-    {
-      "name": "BR: ANIMAL PLANET",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4831",
-      "logo": "https://docdog.top/logo/countries/brazil/animalplanet.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -34589,19 +30941,19 @@
       "satellites": []
     },
     {
-      "name": "Ciracu TV (720p)",
-      "group": "Documentary",
-      "stream": "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8",
-      "logo": "https://i.imgur.com/mkf2TJ6.png",
-      "tvg_id": "CiracuTV.ec@SD",
-      "satellites": []
-    },
-    {
       "name": "Classic Arts Showcase (720p)",
       "group": "Documentary",
       "stream": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8",
       "logo": "https://i.imgur.com/M6FFkc3.png",
       "tvg_id": "ClassicArtsShowcase.us@SD",
+      "satellites": []
+    },
+    {
+      "name": "ClickTV Chile (720p)",
+      "group": "Documentary",
+      "stream": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+      "logo": "https://i.imgur.com/H0XNbMS.png",
+      "tvg_id": "ClickTVChile.cl@SD",
       "satellites": []
     },
     {
@@ -34653,38 +31005,6 @@
       "satellites": []
     },
     {
-      "name": "CRO: DISCOVERY ID",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3020",
-      "logo": "https://docdog.top/logo/countries/croatia/discoveryidx.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CRO: NAT GEO WILD",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3068",
-      "logo": "https://docdog.top/logo/countries/croatia/natgeowild.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CRO: VIASAT EXPLORER",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3089",
-      "logo": "https://docdog.top/logo/countries/croatia/viasat-explore-hr.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CRO: VIASAT HISTORY",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3090",
-      "logo": "https://docdog.top/logo/countries/croatia/viasat-history-hr.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "CT2",
       "group": "Documentary",
       "stream": "http://88.212.15.17/live/test_ct2_25p/playlist.m3u8",
@@ -34714,38 +31034,6 @@
       "stream": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
       "logo": "https://i.imgur.com/gJ9eMaG.png",
       "tvg_id": "CuriosityNOW.de@EN",
-      "satellites": []
-    },
-    {
-      "name": "CZ: Docubox",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2257",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CZ: NAT GEO",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2207",
-      "logo": "https://docdog.top/logo/countries/cz/natgeo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CZ: NAT GEO WILD",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2208",
-      "logo": "https://docdog.top/logo/countries/cz/natgeowild.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "CZ: VIASAT HISTORY",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2240",
-      "logo": "https://docdog.top/logo/countries/cz/viasathistory.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -34981,14 +31269,6 @@
       "satellites": []
     },
     {
-      "name": "DK: VIASAT NATURE",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3755",
-      "logo": "https://docdog.top/logo/countries/denmark/viasatnature.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "DocuBay TV (1080p)",
       "group": "Documentary",
       "stream": "https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8",
@@ -35117,14 +31397,6 @@
       "satellites": []
     },
     {
-      "name": "El Sonorense (1080p)",
-      "group": "Documentary",
-      "stream": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
-      "logo": "https://i.imgur.com/aKvPd4g.jpg",
-      "tvg_id": "ElSonorense.mx@SD",
-      "satellites": []
-    },
-    {
       "name": "Encuentro (720p)",
       "group": "Documentary",
       "stream": "http://138.59.227.20:8000/play/a05s/index.m3u8",
@@ -35149,59 +31421,11 @@
       "satellites": []
     },
     {
-      "name": "ES: DISCOVERY",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/708",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/Discovery.png",
-      "tvg_id": "dcr.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: NAT GEO WILD",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/712",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png",
-      "tvg_id": "natgw.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "ES: NATIONAL GEOGRAPHIC",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/711",
-      "logo": "https://docdog.top/logo/countries/spain/movistar/National_Geographic.png",
-      "tvg_id": "natgeo.movistarplus.es",
-      "satellites": []
-    },
-    {
-      "name": "EXYU: DA VINCI LEARNING",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144292",
-      "logo": "https://docdog.top/logo/countries/EXYUNEW/DA_VINCI_LEARNING.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "EXYU: DISCOVERY CHANNEL",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/144293",
-      "logo": "https://docdog.top/logo/countries/EXYUNEW/DISCOVERY_CHANNEL.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "FBI Files",
       "group": "Documentary",
       "stream": "https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8",
       "logo": "https://i.imgur.com/vzYDSLo.png",
       "tvg_id": "FBIFiles.us@UK",
-      "satellites": []
-    },
-    {
-      "name": "FI: HISTORY [MULTI-SUB]",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3676",
-      "logo": "https://docdog.top/logo/countries/finland/historychannel.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -35237,22 +31461,6 @@
       "satellites": []
     },
     {
-      "name": "FR: DISCOVERY CHANNEL",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/502",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/DISCOVERY_CHANNEL.png",
-      "tvg_id": "DiscoveryChannel.fr",
-      "satellites": []
-    },
-    {
-      "name": "FR: DISCOVERY INVESTIGATION",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/503",
-      "logo": "https://docdog.top/logo/countries/france/canal_plus/DISCOVERY_INVESTIGATION.png",
-      "tvg_id": "Discovery Investigation",
-      "satellites": []
-    },
-    {
       "name": "Francophonie24 (1080p)",
       "group": "Documentary",
       "stream": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8",
@@ -35282,14 +31490,6 @@
       "stream": "https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8",
       "logo": "https://i.imgur.com/IaRcN1G.png",
       "tvg_id": "GoTraveler.us@SD",
-      "satellites": []
-    },
-    {
-      "name": "GR: VIASAT NATURE",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/157491",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -35413,30 +31613,6 @@
       "satellites": []
     },
     {
-      "name": "HU: HISTORY",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3802",
-      "logo": "https://docdog.top/logo/countries/hungary/historychannel.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "HU: NAT GEO",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3814",
-      "logo": "https://docdog.top/logo/countries/hungary/natgeo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "HU: NAT GEO WILD",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3815",
-      "logo": "https://docdog.top/logo/countries/hungary/natgeowild.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Hyder TV (720p)",
       "group": "Documentary",
       "stream": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8",
@@ -35554,14 +31730,6 @@
       "stream": "https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8",
       "logo": "https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png",
       "tvg_id": "InWonder.nl@SD",
-      "satellites": []
-    },
-    {
-      "name": "IT: HISTORY FHD",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/136077",
-      "logo": "https://docdog.top/logo/countries/italy/history-channel-it.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -35829,22 +31997,6 @@
       "satellites": []
     },
     {
-      "name": "MEX: DISCOVERY CHANNEL",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5139",
-      "logo": "https://docdog.top/logo/countries/mexico/discoverychannel.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "MEX: DISCOVERY SCIENCE",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/5143",
-      "logo": "https://docdog.top/logo/countries/mexico/discoveryscience.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "Midpen Media Center Channel 30 (720p)",
       "group": "Documentary",
       "stream": "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8",
@@ -35906,14 +32058,6 @@
       "stream": "https://vod-c57.interspace.com:443/channel_abr/43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MjM6NTQgUE0maGFzaF92YWx1ZT1ZT2dHa29qd09TbDcvVFpqQU1udVh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MTdhN2ZmY2Q=",
       "logo": "https://i.imgur.com/YvOrUnN.png",
       "tvg_id": "MRT2.mk",
-      "satellites": []
-    },
-    {
-      "name": "MRTV Farmer",
-      "group": "Documentary",
-      "stream": "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8",
-      "logo": "https://i.imgur.com/f4PWvrW.jpg",
-      "tvg_id": "MRTVFarmer.mm@SD",
       "satellites": []
     },
     {
@@ -36117,62 +32261,6 @@
       "satellites": []
     },
     {
-      "name": "NL: ANIMAL PLANET",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1289",
-      "logo": "https://docdog.top/logo/countries/netherlands/animalplanet.png",
-      "tvg_id": "Animal Planet [TV]",
-      "satellites": []
-    },
-    {
-      "name": "NL: DISCOVERY CHANNEL",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1299",
-      "logo": "https://docdog.top/logo/countries/netherlands/discoverychannel.png",
-      "tvg_id": "Discovery [TV]",
-      "satellites": []
-    },
-    {
-      "name": "NL: DISCOVERY WORLD",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1302",
-      "logo": "https://docdog.top/logo/countries/netherlands/discoveryworld.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "NL: HISTORY CHANNEL",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1320",
-      "logo": "https://docdog.top/logo/countries/netherlands/historychannel.png",
-      "tvg_id": "HISTORY [TV]",
-      "satellites": []
-    },
-    {
-      "name": "NL: NAT GEO",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1330",
-      "logo": "https://docdog.top/logo/countries/netherlands/National_Geographic_Channel.png",
-      "tvg_id": "National Geographic [TV]",
-      "satellites": []
-    },
-    {
-      "name": "NL: NAT GEO WILD",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/1331",
-      "logo": "https://docdog.top/logo/countries/netherlands/natgeowild.png",
-      "tvg_id": "Nat Geo Wild [TV]",
-      "satellites": []
-    },
-    {
-      "name": "NO: HISTORY",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3636",
-      "logo": "https://docdog.top/logo/countries/norway/history.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "NTV Mir (576p)",
       "group": "Documentary",
       "stream": "http://5.188.159.128:8070/ntvmir_TV/index.m3u8",
@@ -36274,94 +32362,6 @@
       "stream": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
       "logo": "https://i.imgur.com/CwAdPpZ.jpg",
       "tvg_id": "PardesiTV.ca@SD",
-      "satellites": []
-    },
-    {
-      "name": "Peer TV Alto Adige (1280p)",
-      "group": "Documentary",
-      "stream": "https://iptv.peer.biz/live/peertv-it.m3u8",
-      "logo": "https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png",
-      "tvg_id": "PeerTVAltoAdige.it@SD",
-      "satellites": []
-    },
-    {
-      "name": "Peer TV South Tyrol (1280p)",
-      "group": "Documentary",
-      "stream": "https://iptv.peer.biz/live/peertv-en.m3u8",
-      "logo": "https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png",
-      "tvg_id": "PeerTVSouthTyrol.it@SD",
-      "satellites": []
-    },
-    {
-      "name": "Peer TV Sudtirol (1080p)",
-      "group": "Documentary",
-      "stream": "https://iptv.peer.biz/live/peertv.m3u8",
-      "logo": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png",
-      "tvg_id": "PeerTVSudtirol.it@SD",
-      "satellites": []
-    },
-    {
-      "name": "PL: DISCOVERY CHANNEL",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/928",
-      "logo": "https://docdog.top/logo/countries/poland/discoverychannel.png",
-      "tvg_id": "Discovery Channel",
-      "satellites": []
-    },
-    {
-      "name": "PL: DISCOVERY HISTORIA",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/929",
-      "logo": "https://docdog.top/logo/countries/poland/discoveryhistoria.png",
-      "tvg_id": "Discovery Historia",
-      "satellites": []
-    },
-    {
-      "name": "PL: DISCOVERY LIFE",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/931",
-      "logo": "https://docdog.top/logo/countries/poland/discoverylife.png",
-      "tvg_id": "Discovery Life",
-      "satellites": []
-    },
-    {
-      "name": "PL: DISCOVERY SCIENCE",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/932",
-      "logo": "https://docdog.top/logo/countries/poland/discoveryscience.png",
-      "tvg_id": "Discovery Science",
-      "satellites": []
-    },
-    {
-      "name": "PL: HISTORY",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/959",
-      "logo": "https://docdog.top/logo/countries/poland/historychannel.png",
-      "tvg_id": "HISTORY",
-      "satellites": []
-    },
-    {
-      "name": "PL: HISTORY 2",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/954",
-      "logo": "https://docdog.top/logo/countries/poland/h2.png",
-      "tvg_id": "History 2",
-      "satellites": []
-    },
-    {
-      "name": "PL: NAT GEO PEOPLE",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/134699",
-      "logo": "https://docdog.top/logo/countries/poland/natgeopeople.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "PL: NATIONAL GEOGRAPHIC WILD",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/974",
-      "logo": "https://docdog.top/logo/countries/poland/natgeowild.png",
-      "tvg_id": "National Geographic Wild",
       "satellites": []
     },
     {
@@ -36765,30 +32765,6 @@
       "satellites": []
     },
     {
-      "name": "RO: DISCOVERY INVESTIGATION",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3215",
-      "logo": "https://docdog.top/logo/countries/latino/discoveryinvestigation.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "RO: VIASAT HISTORY",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3294",
-      "logo": "https://docdog.top/logo/countries/romania/viasathistory.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "RO: VIASAT NATURE",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/3295",
-      "logo": "https://docdog.top/logo/countries/romania/viasatnature.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
       "name": "RT Documentary (1080p)",
       "group": "Documentary",
       "stream": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
@@ -36818,14 +32794,6 @@
       "stream": "http://stream.mcquack.net/164/index.m3u8",
       "logo": "https://i.imgur.com/ZMKPAho.png",
       "tvg_id": "RTGTV.ru@HD",
-      "satellites": []
-    },
-    {
-      "name": "RUS: ANIMAL PLANET",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/4182",
-      "logo": "https://docdog.top/logo/countries/russian/animalplanet.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -36989,6 +32957,14 @@
       "satellites": []
     },
     {
+      "name": "Spektrum Ⓖ",
+      "group": "Documentary",
+      "stream": "http://141.94.193.53:80/Spektrum_HD/index.m3u8",
+      "logo": "https://i.imgur.com/GmFRQ82.png",
+      "tvg_id": "Spektrum.hu",
+      "satellites": []
+    },
+    {
       "name": "Spektrum (Czech Republic)",
       "group": "Documentary",
       "stream": "http://88.212.15.17/live/test_spektrum/playlist.m3u8",
@@ -37042,38 +33018,6 @@
       "stream": "https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8",
       "logo": "https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png",
       "tvg_id": "SuyaiTV.cl@HD",
-      "satellites": []
-    },
-    {
-      "name": "SWE: ANIMAL PLANET",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2271",
-      "logo": "https://docdog.top/logo/countries/sweden/animalplanet.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "SWE: DISCOVERY SCIENCE",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2289",
-      "logo": "https://docdog.top/logo/countries/sweden/discoveryscience.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "SWE: DISCOVERY WORLD",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2290",
-      "logo": "https://docdog.top/logo/countries/sweden/discoveryworld.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "SWE: NATIONAL GEOGRAPHIC WILD",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/2302",
-      "logo": "https://docdog.top/logo/countries/sweden/nationalgeographicwild.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -37146,22 +33090,6 @@
       "stream": "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8",
       "logo": "https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png",
       "tvg_id": "TotalCrime.ca@CA",
-      "satellites": []
-    },
-    {
-      "name": "TR: BELGESEL 2",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/140860",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "TR: DISCOVERY IDX HD",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/140916",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
@@ -37370,22 +33298,6 @@
       "stream": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
       "logo": "https://i.postimg.cc/jjGpZf4T/UCV-Logo.png",
       "tvg_id": "UCVTV.cl@SD",
-      "satellites": []
-    },
-    {
-      "name": "UK: DOCUMENTARY 3",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146781",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
-      "satellites": []
-    },
-    {
-      "name": "UK: DOCUMENTARY 5",
-      "group": "Documentary",
-      "stream": "http://31.43.191.125:8080/vip6001770656088/c394e34a0504/146779",
-      "logo": "https://raw.githubusercontent.com/arammoostafaye/Iptv/main/assets/logo.png",
-      "tvg_id": "",
       "satellites": []
     },
     {
